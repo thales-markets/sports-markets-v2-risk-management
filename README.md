@@ -1,3 +1,3 @@
-# Sports Markets Risk Management V2
+# Sports Markets V2 - Risk Management
 
-Data used for risk management of Sports Markets V2
+Data used for Risk Management of Sports Markets V2
