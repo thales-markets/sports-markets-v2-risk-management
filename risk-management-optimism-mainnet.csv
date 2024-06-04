@@ -1,1 +1,48 @@
-
+sportName,sportId,sportCap,childCap,10001,10002,10003,riskMultiplier,dynamicLiquidityCutoffTime,dynamicLiquidityCutoffDivider
+NCAAF,9001,2000,0,0,0,0,0,0,0
+NFL,9002,10000,0,0,0,0,0,0,0
+MLB,9003,5000,0,0,0,0,0,0,0
+NBA,9004,3000,0,0,0,0,0,0,0
+NCAAB,9005,3000,0,0,0,0,0,0,0
+WNBA,9008,0,0,0,0,0,0,0,0
+EuroLeague,9399,1500,0,0,0,0,0,0,0
+FIBA World Cup,9409,1000,0,0,0,0,0,0,0
+NHL,9006,3000,0,0,0,0,0,0,0
+Hockey World Championship,9033,1000,0,0,0,0,0,0,0
+UFC,9007,3000,0,0,0,0,0,0,0
+Boxing,18196,1000,0,0,0,0,0,0,0
+Non-Title Boxing,19595,1000,0,0,0,0,0,0,0
+MLS,9010,2500,0,0,0,0,0,0,0
+EPL,9011,3000,0,0,0,0,0,0,0
+France League 1,9012,3000,0,0,0,0,0,0,0
+Bundesliga,9013,3000,0,0,0,0,0,0,0
+La Liga,9014,3000,0,0,0,0,0,0,0
+Seria A,9015,3000,0,0,0,0,0,0,0
+Champions League,9016,3000,0,0,0,0,0,0,0
+Europa League,9017,2000,0,0,0,0,0,0,0
+FIFA WC,9018,1000,0,0,0,0,0,0,0
+J1,9019,2000,0,0,0,0,0,0,0
+Champions League Qualification,9042,2000,0,0,0,0,0,0,0
+Copa Libertadores,9045,2000,0,0,0,0,0,0,0
+EURO Qualification,9050,2500,0,0,0,0,0,0,0
+Netherlands League 1,9057,1500,0,0,0,0,0,0,0
+Portugal League 1,9061,2000,0,0,0,0,0,0,0
+Europa League Qualification,9073,2000,0,0,0,0,0,0,0
+World Cup Woman,9076,2000,0,0,0,0,0,0,0
+Brazil Football League,9268,1500,0,0,0,0,0,0,0
+EURO U21,9288,4000,0,0,0,0,0,0,0
+FIFA WC U20,9296,1000,0,0,0,0,0,0,0
+Saudi Arabia Football League,9536,1500,0,0,0,0,0,0,0
+UEFA League of Nations,18806,2000,0,0,0,0,0,0,0
+CONCACAF League of Nations,18821,2000,0,0,0,0,0,0,0
+World Cup Qualifications CONMBOL,19199,2500,0,0,0,0,0,0,0
+Europa Conference League,19216,1500,0,0,0,0,0,0,0
+Tennis GS,9153,2000,0,0,0,0,0,0,0
+Tennis Masters 1000,9156,1000,0,0,0,0,0,0,0
+F1,9445,3000,0,0,0,0,0,0,0
+Moto GP,9497,3000,0,0,0,0,0,0,0
+CsGo,18977,1000,0,0,0,0,0,0,0
+Dota,18983,1000,0,0,0,0,0,0,0
+LOL,19138,1000,0,0,0,0,0,0,0
+GOLF H2H,109021,1000,0,0,0,0,0,0,0
+GOLF Winners,109121,5000,0,0,0,0,0,0,0
