@@ -1,6 +1,6 @@
 sportName,sportId,sportCap,childCap,10001,10002,10003,riskMultiplier,dynamicLiquidityCutoffTime,dynamicLiquidityCutoffDivider
 MLB,3,1500,1000,0,0,0,5,0,0
-EURO 2024,50,1000,0,0,0,0,0,0,0
+EURO 2024,50,2000,0,0,0,0,0,0,0
 Tennis GS 1st round,15312,1000,0,0,0,0,0,0,0
 Tennis GS 2nd round,15313,1200,0,0,0,0,0,0,0
 Tennis GS 3rt round,15314,1300,0,0,0,0,0,0,0
@@ -8,4 +8,4 @@ Tennis GS 4th round,15315,1500,0,0,0,0,0,0,0
 Tennis GS quarterfinals,15316,2000,0,0,0,0,0,0,0
 Tennis GS semifinals,15317,2500,0,0,0,0,0,0,0
 Tennis GS finals,15318,3000,0,0,0,0,0,0,0
-Copa Libertadores,45,1201,700,600,500,0,0,0,0
+Copa Libertadores,45,1200,0,0,0,0,0,0,0
