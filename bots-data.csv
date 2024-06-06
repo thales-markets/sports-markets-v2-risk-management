@@ -1,7 +1,7 @@
-botName,sportIds,daysInFront,frequency,wallet
-overtime-puller-enetpulse-football,45 50 268,5,15s,0xe5fCBb61EcD215152A38dB309CCddDBF1c7E5A37
-overtime-puller-rundown-mlb,3,1,15s,0x13a680721c56038C81B1aa39f4d1D79ca22B12b3
-overtime-puller-rundown-nba,4,2,15s,0x05249Ab941CFa4690851c237A467E1e724019394
-overtime-puller-rundown-nhl,6,2,15s,0xA635170ceA886BD548117e662D42Eb28d78F0d83
-overtime-puller-rundown-football,10 19,5,15s,0xECD83Cf92F4977A6a0926da965b0028040531190
-overtime-puller-rundown-cricket,21,3,15s,0x7138ae438D12B3272a4825D73AF3eE8cA7F1f82c
+botName,sportIds,ppOptionsId,daysInFront,frequency,wallet
+overtime-puller-enetpulse-football,45 50 268,,5,15s,0xe5fCBb61EcD215152A38dB309CCddDBF1c7E5A37
+overtime-puller-rundown-mlb,3,12 19 47,1,15s,0x13a680721c56038C81B1aa39f4d1D79ca22B12b3
+overtime-puller-rundown-nba,4,29 35 38 39 87 88 98,2,15s,0x05249Ab941CFa4690851c237A467E1e724019394
+overtime-puller-rundown-nhl,6,29 86 97,2,15s,0xA635170ceA886BD548117e662D42Eb28d78F0d83
+overtime-puller-rundown-football,10 19,,5,15s,0xECD83Cf92F4977A6a0926da965b0028040531190
+overtime-puller-rundown-cricket,21,,3,15s,0x7138ae438D12B3272a4825D73AF3eE8cA7F1f82c
