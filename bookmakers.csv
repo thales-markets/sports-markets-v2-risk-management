@@ -1,4 +1,4 @@
-sportName,sportId,primaryBookmaker,secondaryBookmaker(rundown only if needed)
+sportName,sportId,primaryBookmaker,secondaryBookmaker
 MLB,3,22,
 NCAAB,5,14,
 NHL,6,22,
