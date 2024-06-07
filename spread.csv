@@ -1,4 +1,4 @@
-sportName,sportId,typeId,spreadPercentage
-DUMMY,0,0,10
-Tennis-Grand Slam,153,100000,5
-MLB,3,100000,6
+sportName,sportId,typeId,minSpread,targetSpread
+DUMMY,0,0,3,3
+Tennis-Grand Slam,153,100000,3,10
+MLB,3,100000,3,10
