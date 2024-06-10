@@ -1,5 +1,5 @@
 botName,sportIds,ppOptionsId,daysInFront,frequency,wallet
-overtime-puller-enetpulse-football,45 50 268,,5,15s,0xe5fCBb61EcD215152A38dB309CCddDBF1c7E5A37
+overtime-puller-enetpulse-football,44 45 50 268,,5,15s,0xe5fCBb61EcD215152A38dB309CCddDBF1c7E5A37
 overtime-puller-rundown-mlb,3,12 19 47,1,15s,0x13a680721c56038C81B1aa39f4d1D79ca22B12b3
 overtime-puller-rundown-nba,4,29 35 38 39 87 88 98,2,15s,0x05249Ab941CFa4690851c237A467E1e724019394
 overtime-puller-rundown-nhl,6,29 86 97,2,15s,0xA635170ceA886BD548117e662D42Eb28d78F0d83
