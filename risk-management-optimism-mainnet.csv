@@ -1,7 +1,7 @@
 sportName,sportId,sportCap,childCap,10001,10002,10003,riskMultiplier,dynamicLiquidityCutoffTime,dynamicLiquidityCutoffDivider
-MLB,3,500,0,0,0,0,5,0,0
-NBA,4,500,0,0,0,0,5,0,0
-NHL,6,500,0,0,0,0,5,0,0
+MLB,3,500,0,0,0,0,0,0,0
+NBA,4,500,0,0,0,0,0,0,0
+NHL,6,500,0,0,0,0,0,0,0
 EURO 2024,50,500,0,0,0,0,0,0,0
 Copa Libertadores,45,300,0,0,0,0,0,0,0
 Copa America,44,300,0,0,0,0,0,0,0
