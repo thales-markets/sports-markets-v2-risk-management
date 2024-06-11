@@ -1,19 +1,19 @@
-sportName,sportId,sportCap,childCap,10001,10002,10003,riskMultiplier,dynamicLiquidityCutoffTime,dynamicLiquidityCutoffDivider
-MLB,3,150,100,0,0,0,5,0,0
-NBA,4,150,100,0,0,0,5,0,0
-NHL,6,150,100,0,0,0,5,0,0
-EURO 2024,50,200,0,0,0,0,0,0,0
-Copa Libertadores,45,120,0,0,0,0,0,0,0
-MLS,10,120,0,0,0,0,0,0,0
-J1,19,120,0,0,0,0,0,0,0
-Brazil,268,120,0,0,0,0,0,0,0
-Tennis GS 1st round,15312,100,0,0,0,0,0,0,0
-Tennis GS 2nd round,15313,120,0,0,0,0,0,0,0
-Tennis GS 3rt round,15314,130,0,0,0,0,0,0,0
-Tennis GS 4th round,15315,150,0,0,0,0,0,0,0
-Tennis GS quarterfinals,15316,200,0,0,0,0,0,0,0
-Tennis GS semifinals,15317,250,0,0,0,0,0,0,0
-Tennis GS finals,15318,300,0,0,0,0,0,0,0
-UFC,7,100,0,0,0,0,0,0,0
-Cricket1,20,100,0,0,0,0,0,0,0
-Cricket2,21,100,0,0,0,0,0,0,0
+sportName,sportId,sportCap,childCap,30001,30002,30003,riskMultiplier,dynamicLiquidityCutoffTime,dynamicLiquidityCutoffDivider
+MLB,3,500,0,0,0,0,5,0,0
+NBA,4,500,0,0,0,0,5,0,0
+NHL,6,500,0,0,0,0,5,0,0
+EURO 2024,50,500,0,0,0,0,0,0,0
+Copa Libertadores,45,300,0,0,0,0,0,0,0
+MLS,10,300,0,0,0,0,0,0,0
+J1,19,300,0,0,0,0,0,0,0
+Brazil,268,300,0,0,0,0,0,0,0
+Tennis GS 1st round,15312,300,0,0,0,0,0,0,0
+Tennis GS 2nd round,15313,300,0,0,0,0,0,0,0
+Tennis GS 3rt round,15314,300,0,0,0,0,0,0,0
+Tennis GS 4th round,15315,500,0,0,0,0,0,0,0
+Tennis GS quarterfinals,15316,500,0,0,0,0,0,0,0
+Tennis GS semifinals,15317,500,0,0,0,0,0,0,0
+Tennis GS finals,15318,500,0,0,0,0,0,0,0
+UFC,7,300,0,0,0,0,0,0,0
+Cricket1,20,300,0,0,0,0,0,0,0
+Cricket2,21,300,0,0,0,0,0,0,0
