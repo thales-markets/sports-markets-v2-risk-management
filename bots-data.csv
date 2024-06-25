@@ -1,5 +1,7 @@
 botName,sportIds,ppOptionsId,daysInFront,frequency,wallet,comment
 overtime-puller-enetpulse-football,44 45 50 268,,5,15s,0xe5fCBb61EcD215152A38dB309CCddDBF1c7E5A37,
+overtime-puller-enetpulse-copa-america,44,,12,15s,0xA635170ceA886BD548117e662D42Eb28d78F0d83,used wallet from NHL bot
+overtime-puller-enetpulse-euro-2024,50,,5,15s,0x05249Ab941CFa4690851c237A467E1e724019394,used wallet from NBA bot
 overtime-puller-enetpulse-tennis,153 156,,2,15s,0x0dB6b60db480B7E9db4d0d2ac90608bebD4Da822,
 overtime-puller-rundown-mlb,3,12 19 47,1,15s,0x13a680721c56038C81B1aa39f4d1D79ca22B12b3,
 overtime-puller-rundown-ufc,7,,5,15s,0x8B408EfA4A738a749EEfF612778a419B41167f48,
