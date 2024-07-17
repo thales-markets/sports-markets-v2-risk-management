@@ -1,13 +1,15 @@
 botName,sportIds,ppOptionsId,daysInFront,frequency,wallet,comment
-overtime-puller-enetpulse-football,45 230 268,,5,15s,0xe5fCBb61EcD215152A38dB309CCddDBF1c7E5A37,
-overtime-puller-enetpulse-football-ucl-el,10611 10613,,3,15s,0x05249Ab941CFa4690851c237A467E1e724019394,used wallet from NBA bot
-overtime-puller-enetpulse-football-conference-league,10615,,3,15s,0x05249Ab941CFa4690851c237A467E1e724019394,used wallet from NHL bot
 overtime-puller-enetpulse-tennis,153 156,,1,15s,0x0dB6b60db480B7E9db4d0d2ac90608bebD4Da822,
+overtime-puller-enetpulse-basketball,10502,,1,15s,0xC3b6d636C12A8eB8Fc55F654dB6e5305f9c5C12A,
+overtime-puller-enetpulse-football-copa-libertadores,45,,5,15s,0x1EfF259E0d1a75F798BEF4Ba2E3e0F48a3A67eD1,
+overtime-puller-enetpulse-football-mx,230,,5,15s,0x0Ce2051f2EE19610941Cca6A45A7c6662F9f0108,
+overtime-puller-enetpulse-football-bra,268,,5,15s,0xe5fCBb61EcD215152A38dB309CCddDBF1c7E5A37,
+overtime-puller-enetpulse-football-ucl,10611,,5,15s,0x2B5eab064F8B4dB23aAab03365D120c839124413,
+overtime-puller-enetpulse-football-el,10613,,4,15s,0x05249Ab941CFa4690851c237A467E1e724019394,
+overtime-puller-enetpulse-football-conference-league,10615,,3,15s,0xA635170ceA886BD548117e662D42Eb28d78F0d83,
 overtime-puller-rundown-mlb,3,12 19 47,1,15s,0x13a680721c56038C81B1aa39f4d1D79ca22B12b3,
 overtime-puller-rundown-ufc,7,,5,15s,0x8B408EfA4A738a749EEfF612778a419B41167f48,
-overtime-puller-rundown-nba,4,29 35 38 39 87 88 98,2,15s,0x05249Ab941CFa4690851c237A467E1e724019394,inactive season over 
 overtime-puller-rundown-wnba,8,,3,15s,0xDe877F209fE2945AB48f058395749AD443f6B43C,
-overtime-puller-rundown-nhl,6,29 86 97,2,15s,0xA635170ceA886BD548117e662D42Eb28d78F0d83,inactive season over 
 overtime-puller-rundown-football,10 19,,5,15s,0xECD83Cf92F4977A6a0926da965b0028040531190,
 overtime-puller-rundown-cricket,21,,3,15s,0x7138ae438D12B3272a4825D73AF3eE8cA7F1f82c,
 overtime-resolver-enetpulse-v2,11 42 45 47 53 54 55 57 61 73 87 132 141 268 153 536 10216,,-2,1hr,0xcC97993365989c6Cb15503d088A9270Eb39d2FfE,
