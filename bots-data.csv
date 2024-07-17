@@ -1,4 +1,5 @@
 botName,sportIds,ppOptionsId,daysInFront,frequency,wallet,comment
+overtime-puller-enetpulse-football-olympic-games,65 66,,5,15s,0xD667eD25A7b3f8629Fece1A1cCE2FD591A6731D1,
 overtime-puller-enetpulse-tennis,153 156,,1,15s,0x0dB6b60db480B7E9db4d0d2ac90608bebD4Da822,
 overtime-puller-enetpulse-basketball,10502,,1,15s,0xC3b6d636C12A8eB8Fc55F654dB6e5305f9c5C12A,
 overtime-puller-enetpulse-football-copa-libertadores,45,,5,15s,0x1EfF259E0d1a75F798BEF4Ba2E3e0F48a3A67eD1,
