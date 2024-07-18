@@ -1,7 +1,7 @@
 botName,sportIds,ppOptionsId,daysInFront,frequency,wallet,comment
 overtime-puller-enetpulse-football-olympic-games,65 66,,5,15s,0xD667eD25A7b3f8629Fece1A1cCE2FD591A6731D1, Olympic Games
 overtime-puller-enetpulse-tennis,153 156,,1,15s,0x0dB6b60db480B7E9db4d0d2ac90608bebD4Da822,
-overtime-puller-enetpulse-basketball,406 407,,3,15s,0xC3b6d636C12A8eB8Fc55F654dB6e5305f9c5C12A,
+overtime-puller-enetpulse-basketball,406 407,,3,15s,0xC3b6d636C12A8eB8Fc55F654dB6e5305f9c5C12A, Olympic Games
 overtime-puller-enetpulse-basketball-3x3,10071 10072,,3,15s,0x5FcA00fdaaD9E4B8c6Ae8a4264C61dF54e022833, Olympic Games
 overtime-puller-enetpulse-handball,380 381,,3,15s,0x42Fa56307C5d939a482317c49339f535fF5797Cf, Olympic Games
 overtime-puller-enetpulse-water-polo,8881,,3,15s,0x1932BEd29Ee58C26072F8Ac3456A11CD39c8Cab8, Olympic Games
