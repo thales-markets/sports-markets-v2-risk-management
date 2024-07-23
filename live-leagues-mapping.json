@@ -26,5 +26,11 @@
   "cs go": "cs2",
   "copa america": "conmebol - copa america",
   "uefa euro 2024": "uefa - european championship",
-  "liga mx": "mexico - liga mx"
+  "liga mx": "mexico - liga mx",
+  "olympic games soccer": "olympics soccer men",
+  "olympic games soccer women": "olympics soccer women",
+  "olympic games basketball": "olympics basketball men",
+  "olympic games basketball women": "olympics basketball women",
+  "olympic games volleyball": "olympics volleyball men",
+  "olympic games volleyball women": "olympics volleyball women"
 }
