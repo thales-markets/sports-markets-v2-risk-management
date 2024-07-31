@@ -51,7 +51,7 @@ Olympics Basketball Male,406,5000,0,0,0,0,0,0,0
 Olympics Basketball Female,407,2000,0,0,0,0,0,0,0
 Olympics Soccer Male,66,5000,0,0,0,0,0,0,0
 Olympics Soccer Female,65,2000,0,0,0,0,0,0,0
-Olympics Basketball 3x3 Male,10071,1000,0,0,0,0,0,0,0
+Olympics Basketball 3x3 Male,10071,700,0,0,0,0,0,0,0
 Olympics Basketball 3x3 Female,10072,500,0,0,0,0,0,0,0
 Olympics Tennis Mixed,158,2000,0,0,0,0,0,0,0
 Olympics Waterpolo Mixed,8881,1000,0,0,0,0,0,0,0
@@ -61,4 +61,5 @@ Olympics Rugby Male,9578,1500,0,0,0,0,0,0,0
 Olympics Rugby Female,9588,800,0,0,0,0,0,0,0
 Olympics Handball Male,381,2000,0,0,0,0,0,0,0
 Olympics Handball Female,380,1000,0,0,0,0,0,0,0
+Olympics Table Tennis Mixed,8910,400,0,0,0,0,0,0,0
 US presidential elections,20000,2500,0,0,0,0,0,0,0
