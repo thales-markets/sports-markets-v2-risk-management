@@ -16,6 +16,7 @@ overtime-puller-opticodds-ufc,UFC (7),,5,15s,0x8B408EfA4A738a749EEfF612778a419B4
 overtime-puller-opticodds-wnba,WNBA (8),,3,15s,0xDe877F209fE2945AB48f058395749AD443f6B43C, inactive
 overtime-puller-opticodds-epl,England - Premier League (11),,11,15s,0x6640Ec4b1d139AfDE7b7AD22582DAAe30E8A3e01, 
 overtime-puller-opticodds-esp,Spain - La Liga (14),,11,15s,0x5FcA00fdaaD9E4B8c6Ae8a4264C61dF54e022833,
+overtime-puller-opticodds-ita,Italy - Serie A (15),,11,15s,0xD667eD25A7b3f8629Fece1A1cCE2FD591A6731D1,
 overtime-puller-opticodds-en-championship,England - Championship (20011),,5,15s,0x1932BEd29Ee58C26072F8Ac3456A11CD39c8Cab8,
 overtime-puller-opticodds-copa-brasil,Brazil - Copa do Brasil (20002),,5,15s,0xECD83Cf92F4977A6a0926da965b0028040531190,
 overtime-puller-opticodds-us-elections,US Elections (20000),,X,15s,0x1932BEd29Ee58C26072F8Ac3456A11CD39c8Cab8,
