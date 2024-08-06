@@ -4,7 +4,6 @@ overtime-puller-enetpulse-tennis,153 156,,1,15s,0x0dB6b60db480B7E9db4d0d2ac90608
 overtime-puller-enetpulse-basketball,406 407,,3,15s,0xC3b6d636C12A8eB8Fc55F654dB6e5305f9c5C12A, Olympic Games
 overtime-puller-enetpulse-basketball-3x3,10071 10072,,3,15s,0x5FcA00fdaaD9E4B8c6Ae8a4264C61dF54e022833, Olympic Games
 overtime-puller-enetpulse-handball,380 381,,3,15s,0x42Fa56307C5d939a482317c49339f535fF5797Cf, Olympic Games
-overtime-puller-enetpulse-ragby,9578 9588,,3,15s,0x6640Ec4b1d139AfDE7b7AD22582DAAe30E8A3e01, inactive
 overtime-puller-enetpulse-voleyball,8894 8893,,3,15s,0x44a8fcfC43b6c82263d4117E33172613DAe0229a, Olympic Games
 overtime-puller-enetpulse-football-copa-libertadores,45,,5,15s,0x1EfF259E0d1a75F798BEF4Ba2E3e0F48a3A67eD1,
 overtime-puller-enetpulse-football-mx,230,,5,15s,0x0Ce2051f2EE19610941Cca6A45A7c6662F9f0108,
@@ -16,6 +15,7 @@ overtime-puller-opticodds-nfl,NFL (2),,5,15s,0xfF238Ff05A383449ceECf4Bce525B71B7
 overtime-puller-opticodds-mlb,MLB (3),12 19 47,1,15s,0x13a680721c56038C81B1aa39f4d1D79ca22B12b3,working on ARBI as well
 overtime-puller-opticodds-ufc,UFC (7),,5,15s,0x8B408EfA4A738a749EEfF612778a419B41167f48,
 overtime-puller-opticodds-wnba,WNBA (8),,3,15s,0xDe877F209fE2945AB48f058395749AD443f6B43C, inactive
+overtime-puller-opticodds-epl,England - Premier League (11),,10,15s,0x6640Ec4b1d139AfDE7b7AD22582DAAe30E8A3e01, 
 overtime-puller-opticodds-en-championship,England - Championship (20011),,5,15s,0x1932BEd29Ee58C26072F8Ac3456A11CD39c8Cab8,
 overtime-puller-opticodds-copa-brasil,Brazil - Copa do Brasil (20002),,5,15s,0xECD83Cf92F4977A6a0926da965b0028040531190,
 overtime-puller-opticodds-us-elections,US Elections (20000),,X,15s,0x1932BEd29Ee58C26072F8Ac3456A11CD39c8Cab8,
