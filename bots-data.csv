@@ -3,7 +3,7 @@ overtime-puller-enetpulse-football-olympic-games,65 66,,5,15s,0xD667eD25A7b3f862
 overtime-puller-enetpulse-tennis,153 156,,1,15s,0x0dB6b60db480B7E9db4d0d2ac90608bebD4Da822,
 overtime-puller-enetpulse-basketball,406 407,,3,15s,0xC3b6d636C12A8eB8Fc55F654dB6e5305f9c5C12A, Olympic Games
 overtime-puller-enetpulse-handball,380 381,,3,15s,0x42Fa56307C5d939a482317c49339f535fF5797Cf, Olympic Games reused in France
-overtime-puller-enetpulse-voleyball,8894 8893,,3,15s,0x44a8fcfC43b6c82263d4117E33172613DAe0229a, Olympic Games
+overtime-puller-enetpulse-voleyball,8894 8893,,3,15s,0x44a8fcfC43b6c82263d4117E33172613DAe0229a, Olympic Games reused in J1
 overtime-puller-enetpulse-football-copa-libertadores,45,,5,15s,0x1EfF259E0d1a75F798BEF4Ba2E3e0F48a3A67eD1,
 overtime-puller-enetpulse-football-mx,230,,5,15s,0x0Ce2051f2EE19610941Cca6A45A7c6662F9f0108,
 overtime-puller-enetpulse-football-bra,268,,5,15s,0xe5fCBb61EcD215152A38dB309CCddDBF1c7E5A37,
@@ -18,6 +18,7 @@ overtime-puller-opticodds-epl,England - Premier League (11),,11,15s,0x6640Ec4b1d
 overtime-puller-opticodds-fra,France - Ligue 1 (12),,10,15s,0x42Fa56307C5d939a482317c49339f535fF5797Cf,
 overtime-puller-opticodds-esp,Spain - La Liga (14),,11,15s,0x5FcA00fdaaD9E4B8c6Ae8a4264C61dF54e022833,
 overtime-puller-opticodds-ita,Italy - Serie A (15),,11,15s,0xD667eD25A7b3f8629Fece1A1cCE2FD591A6731D1,
+overtime-puller-opticodds-j1,Japan - J1 League (19),,3,15s,0x44a8fcfC43b6c82263d4117E33172613DAe0229a, 
 overtime-puller-opticodds-en-championship,England - Championship (20011),,5,15s,0x1932BEd29Ee58C26072F8Ac3456A11CD39c8Cab8,
 overtime-puller-opticodds-copa-brasil,Brazil - Copa do Brasil (20002),,5,15s,0xECD83Cf92F4977A6a0926da965b0028040531190,
 overtime-puller-opticodds-us-elections,US Elections (20000),,X,15s,0x1932BEd29Ee58C26072F8Ac3456A11CD39c8Cab8,
