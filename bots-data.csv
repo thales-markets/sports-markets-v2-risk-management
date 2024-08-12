@@ -7,6 +7,9 @@ overtime-puller-enetpulse-football-bra,268,,5,15s,0xe5fCBb61EcD215152A38dB309CCd
 overtime-puller-enetpulse-football-ucl,10611,,5,15s,0x2B5eab064F8B4dB23aAab03365D120c839124413,
 overtime-puller-enetpulse-football-el,10613,,4,15s,0x05249Ab941CFa4690851c237A467E1e724019394,
 overtime-puller-enetpulse-football-conference-league,10615,,3,15s,0xA635170ceA886BD548117e662D42Eb28d78F0d83,
+overtime-puller-enetpulse-esports-cs,9977,,4,15s,0x8561Dc58DaD01D19Fa68966f8006C672de1814Fa, same wallet for all esportd
+overtime-puller-enetpulse-esports-dota,9983,,4,15s,0x8561Dc58DaD01D19Fa68966f8006C672de1814Fa, same wallet for all esportd
+overtime-puller-enetpulse-esports-lol,10138,,4,15s,0x8561Dc58DaD01D19Fa68966f8006C672de1814Fa, same wallet for all esportd
 overtime-puller-opticodds-nfl,NFL (2),,5,15s,0xfF238Ff05A383449ceECf4Bce525B71B7bc09e4a,
 overtime-puller-opticodds-mlb,MLB (3),12 19 47,1,15s,0x13a680721c56038C81B1aa39f4d1D79ca22B12b3,working on ARBI as well
 overtime-puller-opticodds-ufc,UFC (7),,5,15s,0x8B408EfA4A738a749EEfF612778a419B41167f48,
