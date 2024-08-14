@@ -15,18 +15,18 @@ NET1,57,1000,500,700,700,700,0,0,0
 POR1,61,1000,500,700,700,700,0,0,0
 Brazil,268,1500,700,700,700,700,0,0,0
 Liga MX,230,1000,0,0,0,0,0,0,0
-Copa Libertadores,45,2000,0,0,0,0,0,0,0
-Brazil - Copa do Brasil,20002,1500,0,0,0,0,0,0,0
-England - Championship,20011,1500,0,0,0,0,0,0,0
+Copa Libertadores,45,2000,500,1000,1000,1000,0,0,0
+Brazil - Copa do Brasil,20002,1500,500,1000,1000,1000,0,0,0
+England - Championship,20011,1500,500,1000,1000,1000,0,0,0
 EURO 2024,50,1000,0,0,0,0,0,0,0
 Copa America,44,1000,0,0,0,0,5,0,0
 UCL Qualification,10611,2000,0,0,0,0,0,0,0
 Europe League Qualification,10613,1300,0,0,0,0,0,0,0
 COnference League Qualification,10615,1000,0,0,0,0,0,0,0
 UEFA Nations League,9806,4000,1000,3000,3000,3000,0,0,0
-UFC PPV,701,2000,0,0,0,0,0,0,0
-UFC Non-Main,702,1000,0,0,0,0,0,0,0
-UFC APEX,703,600,0,0,0,0,0,0,0
+UFC PPV,701,2000,500,500,1000,0,0,0,0
+UFC Non-Main,702,1000,300,0,0,0,0,0,0
+UFC APEX,703,600,200,0,0,0,0,0,0
 Cricket1,20,1000,0,0,0,0,0,0,0
 Cricket2,21,1000,0,0,0,0,0,0,0
 US presidential elections,20000,2500,0,0,0,0,0,0,0
