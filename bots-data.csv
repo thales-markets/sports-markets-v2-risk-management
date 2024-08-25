@@ -15,6 +15,7 @@ overtime-puller-opticodds-nfl,NFL (2),,5,15s,0xfF238Ff05A383449ceECf4Bce525B71B7
 overtime-puller-opticodds-mlb,MLB (3),12 19 47,1,15s,0x13a680721c56038C81B1aa39f4d1D79ca22B12b3,
 overtime-puller-opticodds-ufc,UFC (7),,5,15s,0x8B408EfA4A738a749EEfF612778a419B41167f48,
 overtime-puller-opticodds-wnba,WNBA (8),,3,15s,0xDe877F209fE2945AB48f058395749AD443f6B43C,
+overtime-puller-opticodds-mls,USA - Major League Soccer (10),,5,15s,0xFA8D284734aB97cf02d7bFC2174E6450e1e73e99, 
 overtime-puller-opticodds-epl,England - Premier League (11),,5,15s,0x6640Ec4b1d139AfDE7b7AD22582DAAe30E8A3e01, 
 overtime-puller-opticodds-fra,France - Ligue 1 (12),,5,15s,0x42Fa56307C5d939a482317c49339f535fF5797Cf,
 overtime-puller-opticodds-germany,Germany - Bundesliga (13),,8,15s,0x18bEa3f2391ff4E3b6c4Ad9ff11f30f16d8A34d6,
