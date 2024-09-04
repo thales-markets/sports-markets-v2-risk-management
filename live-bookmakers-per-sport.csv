@@ -2,7 +2,7 @@ sportName,sportId,primaryBookmaker,secondaryBookmaker,tertiaryBookmaker
 MLB,3,draftkings,bovada,
 EURO 2024,50,draftkings,bovada,
 Tennis Masters,156,draftkings,espn bet,
-Tennis Grand Slam,153,bovada,espn bet,
+Tennis Grand Slam,153,draftkings,espn bet,
 Brazil cup,20002,bovada,,
 Primeira Liga,61,bovada,,
 UEFA CL qualifier,10611,bovada,,
