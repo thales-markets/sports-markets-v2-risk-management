@@ -4,9 +4,9 @@ overtime-puller-enetpulse-basketball,406 407,,3,15s,0xC3b6d636C12A8eB8Fc55F654dB
 overtime-puller-enetpulse-football-copa-libertadores,45,,5,15s,0x1EfF259E0d1a75F798BEF4Ba2E3e0F48a3A67eD1,inactive
 overtime-puller-enetpulse-football-mx,230,,5,15s,0x0Ce2051f2EE19610941Cca6A45A7c6662F9f0108,
 overtime-puller-enetpulse-football-bra,268,,5,15s,0xe5fCBb61EcD215152A38dB309CCddDBF1c7E5A37,
-overtime-puller-enetpulse-football-ucl,10611,,5,15s,0x2B5eab064F8B4dB23aAab03365D120c839124413,
-overtime-puller-enetpulse-football-el,10613,,4,15s,0x05249Ab941CFa4690851c237A467E1e724019394,
-overtime-puller-enetpulse-football-conference-league,10615,,3,15s,0xA635170ceA886BD548117e662D42Eb28d78F0d83,
+overtime-puller-enetpulse-football-ucl,10611,,5,15s,0x2B5eab064F8B4dB23aAab03365D120c839124413,inactive
+overtime-puller-enetpulse-football-el,10613,,4,15s,0x05249Ab941CFa4690851c237A467E1e724019394,inactive
+overtime-puller-enetpulse-football-conference-league,10615,,3,15s,0xA635170ceA886BD548117e662D42Eb28d78F0d83,inactive
 overtime-puller-enetpulse-esports-cs,9977,,4,15s,0x8561Dc58DaD01D19Fa68966f8006C672de1814Fa, same wallet for all esportd
 overtime-puller-enetpulse-esports-dota,9983,,4,15s,0x8561Dc58DaD01D19Fa68966f8006C672de1814Fa, same wallet for all esportd
 overtime-puller-enetpulse-esports-lol,10138,,4,15s,0x8561Dc58DaD01D19Fa68966f8006C672de1814Fa, same wallet for all esportd
