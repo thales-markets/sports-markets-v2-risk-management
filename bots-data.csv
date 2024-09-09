@@ -1,7 +1,7 @@
 botName,sportIds,ppOptionsId,daysInFront,frequency,wallet,comment
 overtime-puller-enetpulse-tennis,153 156,,1,15s,0x0dB6b60db480B7E9db4d0d2ac90608bebD4Da822,
 overtime-puller-enetpulse-basketball,406 407,,3,15s,0xC3b6d636C12A8eB8Fc55F654dB6e5305f9c5C12A, inactive
-overtime-puller-enetpulse-football-copa-libertadores,45,,5,15s,0x1EfF259E0d1a75F798BEF4Ba2E3e0F48a3A67eD1,
+overtime-puller-enetpulse-football-copa-libertadores,45,,5,15s,0x1EfF259E0d1a75F798BEF4Ba2E3e0F48a3A67eD1,inactive
 overtime-puller-enetpulse-football-mx,230,,5,15s,0x0Ce2051f2EE19610941Cca6A45A7c6662F9f0108,
 overtime-puller-enetpulse-football-bra,268,,5,15s,0xe5fCBb61EcD215152A38dB309CCddDBF1c7E5A37,
 overtime-puller-enetpulse-football-ucl,10611,,5,15s,0x2B5eab064F8B4dB23aAab03365D120c839124413,
