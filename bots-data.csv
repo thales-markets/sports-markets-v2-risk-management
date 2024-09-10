@@ -4,8 +4,6 @@ overtime-puller-enetpulse-basketball,406 407,,3,15s,0xC3b6d636C12A8eB8Fc55F654dB
 overtime-puller-enetpulse-football-copa-libertadores,45,,5,15s,0x1EfF259E0d1a75F798BEF4Ba2E3e0F48a3A67eD1,inactive
 overtime-puller-enetpulse-football-mx,230,,5,15s,0x0Ce2051f2EE19610941Cca6A45A7c6662F9f0108,
 overtime-puller-enetpulse-football-bra,268,,5,15s,0xe5fCBb61EcD215152A38dB309CCddDBF1c7E5A37,
-overtime-puller-enetpulse-football-el,10613,,4,15s,0x05249Ab941CFa4690851c237A467E1e724019394,inactive
-overtime-puller-enetpulse-football-conference-league,10615,,3,15s,0xA635170ceA886BD548117e662D42Eb28d78F0d83,inactive
 overtime-puller-enetpulse-esports-cs,9977,,4,15s,0x8561Dc58DaD01D19Fa68966f8006C672de1814Fa, same wallet for all esportd
 overtime-puller-enetpulse-esports-dota,9983,,4,15s,0x8561Dc58DaD01D19Fa68966f8006C672de1814Fa, same wallet for all esportd
 overtime-puller-enetpulse-esports-lol,10138,,4,15s,0x8561Dc58DaD01D19Fa68966f8006C672de1814Fa, same wallet for all esportd
@@ -21,9 +19,11 @@ overtime-puller-opticodds-germany,Germany - Bundesliga (13),,5,15s,0x18bEa3f2391
 overtime-puller-opticodds-esp,Spain - La Liga (14),,5,15s,0x5FcA00fdaaD9E4B8c6Ae8a4264C61dF54e022833,
 overtime-puller-opticodds-ita,Italy - Serie A (15),,5,15s,0xD667eD25A7b3f8629Fece1A1cCE2FD591A6731D1,
 overtime-puller-opticodds-ucl,UEFA - Champions League (16),,7,15s,0x2B5eab064F8B4dB23aAab03365D120c839124413,
+overtime-puller-opticodds-europa-league,UEFA - Europa League (17),,4,15s,0x05249Ab941CFa4690851c237A467E1e724019394,inactive
 overtime-puller-opticodds-fifa-wc,FIFA - World Cup Qualifiers (18),,5,15s,0xECD83Cf92F4977A6a0926da965b0028040531190,
 overtime-puller-opticodds-j1,Japan - J1 League (19),,3,15s,0x44a8fcfC43b6c82263d4117E33172613DAe0229a, 
 overtime-puller-opticodds-uefa-nations,UEFA - Nations League (9806),,5,15s,0x4ef22b2132eF6b497e8Da56EFc1e440FbA6B24e9, 
+overtime-puller-opticodds-conference-league,UEFA - Europa Conference League (10216),,5,15s,0xA635170ceA886BD548117e662D42Eb28d78F0d83,inactive
 overtime-puller-opticodds-en-championship,England - Championship (20011),,5,15s,0x1932BEd29Ee58C26072F8Ac3456A11CD39c8Cab8,
 overtime-puller-opticodds-copa-brasil,Brazil - Copa do Brasil (20002),,5,15s,0xECD83Cf92F4977A6a0926da965b0028040531190,
 overtime-puller-opticodds-us-elections,US Elections (20000),,X,15s,0x1932BEd29Ee58C26072F8Ac3456A11CD39c8Cab8,
