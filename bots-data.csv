@@ -1,7 +1,6 @@
 botName,sportIds,ppOptionsId,daysInFront,frequency,wallet,comment
 overtime-puller-enetpulse-tennis,153 156,,1,15s,0x0dB6b60db480B7E9db4d0d2ac90608bebD4Da822,
 overtime-puller-enetpulse-basketball,406 407,,3,15s,0xC3b6d636C12A8eB8Fc55F654dB6e5305f9c5C12A, inactive
-overtime-puller-enetpulse-football-bra,268,,1,15s,0xe5fCBb61EcD215152A38dB309CCddDBF1c7E5A37, switch to optic odds
 overtime-puller-enetpulse-esports-cs,9977,,4,15s,0x8561Dc58DaD01D19Fa68966f8006C672de1814Fa, same wallet for all esports
 overtime-puller-enetpulse-esports-dota,9983,,4,15s,0x8561Dc58DaD01D19Fa68966f8006C672de1814Fa, same wallet for all esports
 overtime-puller-enetpulse-esports-lol,10138,,4,15s,0x8561Dc58DaD01D19Fa68966f8006C672de1814Fa, same wallet for all esports
@@ -22,6 +21,7 @@ overtime-puller-opticodds-fifa-wc,FIFA - World Cup Qualifiers (18),,5,15s,0xECD8
 overtime-puller-opticodds-j1,Japan - J1 League (19),,3,15s,0x44a8fcfC43b6c82263d4117E33172613DAe0229a, 
 overtime-puller-opticodds-copa-libertadores,CONMEBOL - Copa Libertadores (45),,5,15s,0x1EfF259E0d1a75F798BEF4Ba2E3e0F48a3A67eD1,
 overtime-puller-opticodds-mx,Mexico - Liga MX (230),,5,15s,0x0Ce2051f2EE19610941Cca6A45A7c6662F9f0108,
+overtime-puller-opticodds-bra,Brazil - Serie A (268),,5,15s,0xe5fCBb61EcD215152A38dB309CCddDBF1c7E5A37,
 overtime-puller-opticodds-scottland,Scotland - Premiership (20101),,5,15s,0x6782c82de4d258575621accfa244dec5144ac4ec,
 overtime-puller-opticodds-turkey,Turkey - Super Lig (20108),,5,15s,0x8222b4cb28a14743f13f825b1788bd74f24b5a97,
 overtime-puller-opticodds-belgium,Belgium - Jupiler Pro League (20102),,5,15s,0x6ec7dc7121c0eb671704c96a049189e5de2a0307,
