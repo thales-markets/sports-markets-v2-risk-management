@@ -1,2 +1,2 @@
-sportName,sportId,typeId,minSpread,targetSpread
-MLB,3,10051,6,0
+sportName,sportId,typeId,minSpread,targetSpread,addedSpread
+MLB,3,10051,6,0,0
