@@ -1,4 +1,4 @@
-sportName,sportId,typeId,minSpread,targetSpread
-DUMMY,0,0,3,3
-Tennis-Grand Slam,153,100000,3,0
+sportName,sportId,typeId,minSpread,targetSpread,addedSpread
+DUMMY,0,0,3,3,0
+Tennis-Grand Slam,153,100000,3,0,0
 
