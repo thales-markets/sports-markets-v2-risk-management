@@ -1,6 +1,6 @@
 sportName,sportId,typeId,minSpread,targetSpread,addedSpread
 MLB,3,10002,5,0,0
-MLB,3,11012,9,0,0
-MLB,3,11019,9,0,0
-MLB,3,11222,9,0,0
-MLB,3,11047,9,0,0
+MLB,3,11012,8,0,0
+MLB,3,11019,8,0,0
+MLB,3,11222,8,0,0
+MLB,3,11047,8,0,0
