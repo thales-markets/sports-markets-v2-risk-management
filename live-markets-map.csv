@@ -1,0 +1,62 @@
+sportId,typeId,marketName,type
+2,0,Moneyline,Moneyline
+3,0,Moneyline,Moneyline
+3,10001,Run Line,Spread
+3,10002,Total Runs,Total
+4,0,Moneyline,Moneyline
+6,0,Moneyline,Moneyline
+6,10001,Puck Line,Spread
+6,10002,Total Goals,Total
+8,0,Moneyline,Moneyline
+10,0,Moneyline,Moneyline
+11,0,Moneyline,Moneyline
+12,0,Moneyline,Moneyline
+13,0,Moneyline,Moneyline
+14,0,Moneyline,Moneyline
+15,0,Moneyline,Moneyline
+16,0,Moneyline,Moneyline
+17,0,Moneyline,Moneyline
+18,0,Moneyline,Moneyline
+19,0,Moneyline,Moneyline
+44,0,Moneyline,Moneyline
+45,0,Moneyline,Moneyline
+50,0,Moneyline,Moneyline
+57,0,Moneyline,Moneyline
+61,0,Moneyline,Moneyline
+65,0,Moneyline,Moneyline
+66,0,Moneyline,Moneyline
+152,0,Moneyline,Moneyline
+152,10001,Game Spread,Spread
+152,10002,Total Games,Total
+153,0,Moneyline,Moneyline
+153,10001,Game Spread,Spread
+153,10002,Total Games,Total
+156,0,Moneyline,Moneyline
+156,10001,Game Spread,Spread
+156,10002,Total Games,Total
+158,0,Moneyline,Moneyline
+230,0,Moneyline,Moneyline
+268,0,Moneyline,Moneyline
+288,0,Moneyline,Moneyline
+380,0,Moneyline,Moneyline
+381,0,Moneyline,Moneyline
+399,0,Moneyline,Moneyline
+399,10001,Point Spread,Spread
+399,10002,Total Points,Total
+406,0,Moneyline,Moneyline
+407,0,Moneyline,Moneyline
+536,0,Moneyline,Moneyline
+8881,0,Moneyline,Moneyline
+8893,0,Moneyline,Moneyline
+8894,0,Moneyline,Moneyline
+9806,0,Moneyline,Moneyline
+10071,0,Moneyline,Moneyline
+10072,0,Moneyline,Moneyline
+10216,0,Moneyline,Moneyline
+10611,0,Moneyline,Moneyline
+10613,0,Moneyline,Moneyline
+10615,0,Moneyline,Moneyline
+20001,0,Moneyline,Moneyline
+20002,0,Moneyline,Moneyline
+20011,0,Moneyline,Moneyline
+20125,0,Moneyline,Moneyline
