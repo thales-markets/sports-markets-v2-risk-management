@@ -1,7 +1,7 @@
 sportName,sportId,primaryBookmaker,secondaryBookmaker,tertiaryBookmaker
-Tennis Masters,156,draftkings,bovada,
-Tennis Grand Slam,153,draftkings,bovada,
-Tennis WTA,152,draftkings,bovada,
+Tennis Masters,156,bovada,,
+Tennis Grand Slam,153,bovada,,
+Tennis WTA,152,bovada,,
 Brazil cup,20002,bovada,,
 MLS,10,draftkings,espn bet,
 EPL,11,draftkings,espn bet,
