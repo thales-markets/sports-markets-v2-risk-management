@@ -1,0 +1,134 @@
+name,sportId,typeId,marketName,type
+NFL,2,0,Moneyline,Moneyline
+NFL,2,10001,Point Spread,Spread
+NFL,2,10002,Total Points,Total
+MLB,3,0,Moneyline,Moneyline
+MLB,3,10001,Run Line,Spread
+MLB,3,10002,Total Runs,Total
+NBA,4,0,Moneyline,Moneyline
+NBA,4,10001,Point Spread,Spread
+NBA,4,10002,Total Points,Total
+NHL,6,0,Moneyline,Moneyline
+NHL,6,10001,Puck Line,Spread
+NHL,6,10002,Total Goals,Total
+WNBA,8,0,Moneyline,Moneyline
+WNBA,8,10001,Point Spread,Spread
+WNBA,8,10002,Total Points,Total
+MLS,10,0,Moneyline,Moneyline
+MLS,10,10001,Asian Handicap,Spread
+MLS,10,10002,Total Goals,Total
+EPL,11,0,Moneyline,Moneyline
+EPL,11,10001,Asian Handicap,Spread
+EPL,11,10002,Total Goals,Total
+Ligue 1,12,0,Moneyline,Moneyline
+Ligue 1,12,10001,Asian Handicap,Spread
+Ligue 1,12,10002,Total Goals,Total
+Bundesliga,13,0,Moneyline,Moneyline
+Bundesliga,13,10001,Asian Handicap,Spread
+Bundesliga,13,10002,Total Goals,Total
+La Liga,14,0,Moneyline,Moneyline
+La Liga,14,10001,Asian Handicap,Spread
+La Liga,14,10002,Total Goals,Total
+Serie A,15,0,Moneyline,Moneyline
+Serie A,15,10001,Asian Handicap,Spread
+Serie A,15,10002,Total Goals,Total
+UEFA Champions League,16,0,Moneyline,Moneyline
+UEFA Champions League,16,10001,Asian Handicap,Spread
+UEFA Champions League,16,10002,Total Goals,Total
+UEFA Europa League,17,0,Moneyline,Moneyline
+UEFA Europa League,17,10001,Asian Handicap,Spread
+UEFA Europa League,17,10002,Total Goals,Total
+FIFA World Cup Qualifiers,18,0,Moneyline,Moneyline
+FIFA World Cup Qualifiers,18,10001,Asian Handicap,Spread
+FIFA World Cup Qualifiers,18,10002,Total Goals,Total
+J1 League,19,0,Moneyline,Moneyline
+J1 League,19,10001,Asian Handicap,Spread
+J1 League,19,10002,Total Goals,Total
+Copa America,44,0,Moneyline,Moneyline
+Copa America,44,10001,Asian Handicap,Spread
+Copa America,44,10002,Total Goals,Total
+Copa Libertadores,45,0,Moneyline,Moneyline
+Copa Libertadores,45,10001,Asian Handicap,Spread
+Copa Libertadores,45,10002,Total Goals,Total
+UEFA EURO 2024,50,0,Moneyline,Moneyline
+UEFA EURO 2024,50,10001,Asian Handicap,Spread
+UEFA EURO 2024,50,10002,Total Goals,Total
+Eredivisie,57,0,Moneyline,Moneyline
+Eredivisie,57,10001,Asian Handicap,Spread
+Eredivisie,57,10002,Total Goals,Total
+Primeira Liga,61,0,Moneyline,Moneyline
+Primeira Liga,61,10001,Asian Handicap,Spread
+Primeira Liga,61,10002,Total Goals,Total
+Olympics Soccer Women,65,0,Moneyline,Moneyline
+Olympics Soccer Women,65,10001,Asian Handicap,Spread
+Olympics Soccer Women,65,10002,Total Goals,Total
+Olympics Soccer Men,66,0,Moneyline,Moneyline
+Olympics Soccer Men,66,10001,Asian Handicap,Spread
+Olympics Soccer Men,66,10002,Total Goals,Total
+WTA Events,152,0,Moneyline,Moneyline
+WTA Events,152,10001,Game Spread,Spread
+WTA Events,152,10002,Total Games,Total
+Grand Slam,153,0,Moneyline,Moneyline
+Grand Slam,153,10001,Game Spread,Spread
+Grand Slam,153,10002,Total Games,Total
+ATP Events,156,0,Moneyline,Moneyline
+ATP Events,156,10001,Game Spread,Spread
+ATP Events,156,10002,Total Games,Total
+Olympic Games Tennis,158,0,Moneyline,Moneyline
+Olympic Games Tennis,158,10001,Game Spread,Spread
+Olympic Games Tennis,158,10002,Total Games,Total
+Liga MX,230,0,Moneyline,Moneyline
+Liga MX,230,10001,Asian Handicap,Spread
+Liga MX,230,10002,Total Goals,Total
+Brazil - Serie A,268,0,Moneyline,Moneyline
+Brazil - Serie A,268,10001,Asian Handicap,Spread
+Brazil - Serie A,268,10002,Total Goals,Total
+UEFA EURO U21,288,0,Moneyline,Moneyline
+UEFA EURO U21,288,10001,Asian Handicap,Spread
+UEFA EURO U21,288,10002,Total Goals,Total
+Olympics Handball Women,380,0,Moneyline,Moneyline
+Olympics Handball Men,381,0,Moneyline,Moneyline
+Euroleague,399,0,Moneyline,Moneyline
+Euroleague,399,10001,Point Spread,Spread
+Euroleague,399,10002,Total Points,Total
+Olympics Basketball Men,406,0,Moneyline,Moneyline
+Olympics Basketball Men,406,10001,Point Spread,Spread
+Olympics Basketball Men,406,10002,Total Points,Total
+Olympics Basketball Women,407,0,Moneyline,Moneyline
+Olympics Basketball Women,407,10001,Point Spread,Spread
+Olympics Basketball Women,407,10002,Total Points,Total
+Saudi Professional League,536,0,Moneyline,Moneyline
+Saudi Professional League,536,10001,Asian Handicap,Spread
+Saudi Professional League,536,10002,Total Goals,Total
+Olympics Water Polo,8881,0,Moneyline,Moneyline
+Olympics Volleyball Women,8893,0,Moneyline,Moneyline
+Olympics Volleyball Men,8894,0,Moneyline,Moneyline
+UEFA Nations League,9806,0,Moneyline,Moneyline
+UEFA Nations League,9806,10001,Asian Handicap,Spread
+UEFA Nations League,9806,10002,Total Goals,Total
+Olympics Basketball 3x3 Men,10071,0,Moneyline,Moneyline
+Olympics Basketball 3x3 Women,10072,0,Moneyline,Moneyline
+UEFA Conference League,10216,0,Moneyline,Moneyline
+UEFA Conference League,10216,10001,Asian Handicap,Spread
+UEFA Conference League,10216,10002,Total Goals,Total
+UEFA Champions League Qualification,10611,0,Moneyline,Moneyline
+UEFA Champions League Qualification,10611,10001,Asian Handicap,Spread
+UEFA Champions League Qualification,10611,10002,Total Goals,Total
+UEFA Europa League Qualification,10613,0,Moneyline,Moneyline
+UEFA Europa League Qualification,10613,10001,Asian Handicap,Spread
+UEFA Europa League Qualification,10613,10002,Total Goals,Total
+UEFA Conference League Qualification,10615,0,Moneyline,Moneyline
+UEFA Conference League Qualification,10615,10001,Asian Handicap,Spread
+UEFA Conference League Qualification,10615,10002,Total Goals,Total
+UEFA Super Cup,20001,0,Moneyline,Moneyline
+UEFA Super Cup,20001,10001,Asian Handicap,Spread
+UEFA Super Cup,20001,10002,Total Goals,Total
+Copa do Brasil,20002,0,Moneyline,Moneyline
+Copa do Brasil,20002,10001,Asian Handicap,Spread
+Copa do Brasil,20002,10002,Total Goals,Total
+EFL Championship,20011,0,Moneyline,Moneyline
+EFL Championship,20011,10001,Asian Handicap,Spread
+EFL Championship,20011,10002,Total Goals,Total
+England - EFL Cup,20125,0,Moneyline,Moneyline
+England - EFL Cup,20125,10001,Asian Handicap,Spread
+England - EFL Cup,20125,10002,Total Goals,Total
