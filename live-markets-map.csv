@@ -104,8 +104,8 @@ Olympics Water Polo,8881,0,Moneyline,Moneyline,true
 Olympics Volleyball Women,8893,0,Moneyline,Moneyline,true
 Olympics Volleyball Men,8894,0,Moneyline,Moneyline,true
 UEFA Nations League,9806,0,Moneyline,Moneyline,true
-UEFA Nations League,9806,10001,Asian Handicap,Spread,false
-UEFA Nations League,9806,10002,Total Goals,Total,false
+UEFA Nations League,9806,10001,Asian Handicap,Spread,true
+UEFA Nations League,9806,10002,Total Goals,Total,true
 Olympics Basketball 3x3 Men,10071,0,Moneyline,Moneyline,true
 Olympics Basketball 3x3 Women,10072,0,Moneyline,Moneyline,true
 UEFA Conference League,10216,0,Moneyline,Moneyline,true
