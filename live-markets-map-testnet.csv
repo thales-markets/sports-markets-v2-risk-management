@@ -73,7 +73,7 @@ Grand Slam,153,10001,Game Spread,Spread,true
 Grand Slam,153,10002,Total Games,Total,true
 ATP Events,156,0,Moneyline,Moneyline,true
 ATP Events,156,10001,Game Spread,Spread,false
-ATP Events,156,10002,Total Games,Total,true
+ATP Events,156,10002,Total Games,Total,false
 Olympic Games Tennis,158,0,Moneyline,Moneyline,true
 Olympic Games Tennis,158,10001,Game Spread,Spread,true
 Olympic Games Tennis,158,10002,Total Games,Total,true
