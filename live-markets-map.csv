@@ -91,6 +91,8 @@ Olympics Handball Men,381,0,Moneyline,Moneyline,false
 Euroleague,399,0,Moneyline,Moneyline,true
 Euroleague,399,10001,Point Spread,Spread,true
 Euroleague,399,10002,Total Points,Total,true
+Euroleague,399,10017,Team Total,Total,true
+Euroleague,399,10018,Team Total,Total,true
 Olympics Basketball Men,406,0,Moneyline,Moneyline,false
 Olympics Basketball Men,406,10001,Point Spread,Spread,false
 Olympics Basketball Men,406,10002,Total Points,Total,false
