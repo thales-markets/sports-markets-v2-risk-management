@@ -71,7 +71,7 @@ WTA Events,152,10002,Total Games,Total,true
 Grand Slam,153,0,Moneyline,Moneyline,true
 Grand Slam,153,10001,Game Spread,Spread,true
 Grand Slam,153,10002,Total Games,Total,true
-ATP Events,156,0,Moneyline,Moneyline,true
+ATP Events,156,0,Moneyline,Moneyline,false
 ATP Events,156,10001,Game Spread,Spread,true
 ATP Events,156,10002,Total Games,Total,true
 Olympic Games Tennis,158,0,Moneyline,Moneyline,true
