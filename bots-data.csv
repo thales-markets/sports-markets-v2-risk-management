@@ -1,4 +1,4 @@
- botName,sportIds,ppOptionsId,daysInFront,frequency,wallet,comment
+botName,sportIds,ppOptionsId,daysInFront,frequency,wallet,comment
 overtime-puller-enetpulse-tennis,152 153 156,,1,15s,0x0dB6b60db480B7E9db4d0d2ac90608bebD4Da822,
 overtime-puller-enetpulse-esports-cs,9977,,4,15s,0x8561Dc58DaD01D19Fa68966f8006C672de1814Fa, same wallet for all esports
 overtime-puller-enetpulse-esports-dota,9983,,4,15s,0x8561Dc58DaD01D19Fa68966f8006C672de1814Fa, same wallet for all esports
