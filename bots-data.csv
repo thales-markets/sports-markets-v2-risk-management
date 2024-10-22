@@ -35,7 +35,7 @@ overtime-puller-opticodds-swiss,Switzerland - Super League,,5,30s,0x79b78bcae8c3
 overtime-puller-opticodds-argentina,Argentina - Primera Division,,5,30s,0xaa9c97daa593e4171adac3ef960f99b96ff59ed6,
 overtime-puller-opticodds-uefa-nations,UEFA - Nations League,,5,30s,0x4ef22b2132eF6b497e8Da56EFc1e440FbA6B24e9, 
 overtime-puller-opticodds-conference-league,UEFA - Europa Conference League,,5,30s,0xA635170ceA886BD548117e662D42Eb28d78F0d83,
-overtime-puller-opticodds-en-championship,England - Championship,,5,30s,0x1932BEd29Ee58C26072F8Ac3456A11CD39c8Cab8,
+overtime-puller-opticodds-en-championship,England - Championship;England - EFL Cup,,5,30s,0x1932BEd29Ee58C26072F8Ac3456A11CD39c8Cab8,
 overtime-puller-opticodds-copa-brasil,Brazil - Copa do Brasil,,5,30s,0xECD83Cf92F4977A6a0926da965b0028040531190,
 overtime-puller-opticodds-us-elections,US Elections,,0,30s,0x1932BEd29Ee58C26072F8Ac3456A11CD39c8Cab8,
 overtime-puller-opticodds-supercup,UEFA - Super Cup,,8,30s,0x18bEa3f2391ff4E3b6c4Ad9ff11f30f16d8A34d6, inactive
