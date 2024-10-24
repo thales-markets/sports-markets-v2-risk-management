@@ -36,8 +36,8 @@ UEFA Champions League,16,0,Moneyline,Moneyline,tru,0.75,0.25
 UEFA Champions League,16,10001,Goal Spread,Spread,false,0.75,0.25
 UEFA Champions League,16,10002,Total Goals,Total,false,0.75,0.25
 UEFA Europa League,17,0,Moneyline,Moneyline,true,0.75,0.25
-UEFA Europa League,17,10001,Goal Spread,Spread,false,0.75,0.25
-UEFA Europa League,17,10002,Total Goals,Total,false,0.75,0.25
+UEFA Europa League,17,10001,Goal Spread,Spread,true,0.75,0.25
+UEFA Europa League,17,10002,Total Goals,Total,true,0.75,0.25
 FIFA World Cup Qualifiers,18,0,Moneyline,Moneyline,true,0.75,0.25
 FIFA World Cup Qualifiers,18,10001,Goal Spread,Spread,true,0.75,0.25
 FIFA World Cup Qualifiers,18,10002,Total Goals,Total,true,0.75,0.25
@@ -111,8 +111,8 @@ UEFA Nations League,9806,10002,Total Goals,Total,true,0.75,0.25
 Olympics Basketball 3x3 Men,10071,0,Moneyline,Moneyline,false,0.75,0.25
 Olympics Basketball 3x3 Women,10072,0,Moneyline,Moneyline,false,0.75,0.25
 UEFA Conference League,10216,0,Moneyline,Moneyline,true,0.75,0.25
-UEFA Conference League,10216,10001,Goal Spread,Spread,false,0.75,0.25
-UEFA Conference League,10216,10002,Total Goals,Total,false,0.75,0.25
+UEFA Conference League,10216,10001,Goal Spread,Spread,true,0.75,0.25
+UEFA Conference League,10216,10002,Total Goals,Total,true,0.75,0.25
 UEFA Champions League Qualification,10611,0,Moneyline,Moneyline,true,0.75,0.25
 UEFA Champions League Qualification,10611,10001,Goal Spread,Spread,false,0.75,0.25
 UEFA Champions League Qualification,10611,10002,Total Goals,Total,false,0.75,0.25
