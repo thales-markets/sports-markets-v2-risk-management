@@ -79,9 +79,6 @@ ATP Events,156,10014,Total Sets,Total,true,0.75,0.25
 ATP Events,156,10031,1st Set Total Games,Total,true,0.8,0.2
 ATP Events,156,10032,2nd Set Total Games,Total,true,0.8,0.2
 ATP Events,156,10033,3rd Set Total Games,Total,true,0.8,0.2
-ATP Events,156,10021,1st Set Moneyline,Spread,true,0.99,0.01
-ATP Events,156,10022,2nd Set Moneyline,Spread,true,0.99,0.01
-ATP Events,156,10023,3rd Set Moneyline,Spread,true,0.99,0.01
 Olympic Games Tennis,158,0,Moneyline,Moneyline,false,0.75,0.25
 Olympic Games Tennis,158,10001,Game Spread,Spread,false,0.75,0.25
 Olympic Games Tennis,158,10002,Total Games,Total,false,0.75,0.25
