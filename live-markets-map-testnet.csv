@@ -1,0 +1,141 @@
+name,sportId,typeId,marketName,type,enabled,minOdds,maxOdds
+NFL,2,0,Moneyline,Moneyline,true,0.75,0.25
+NFL,2,10001,Point Spread,Spread,false,0.75,0.25
+NFL,2,10002,Total Points,Total,false,0.75,0.25
+MLB,3,0,Moneyline,Moneyline,true,0.75,0.25
+MLB,3,10001,Run Line,Spread,true,0.75,0.25
+MLB,3,10002,Total Runs,Total,true,0.75,0.25
+NBA,4,0,Moneyline,Moneyline,true,0.75,0.25
+NBA,4,10001,Point Spread,Spread,false,0.75,0.25
+NBA,4,10002,Total Points,Total,false,0.75,0.25
+NHL,6,0,Moneyline,Moneyline,true,0.75,0.25
+NHL,6,10001,Puck Line,Spread,true,0.75,0.25
+NHL,6,10002,Total Goals,Total,true,0.75,0.25
+WNBA,8,0,Moneyline,Moneyline,true,0.75,0.25
+WNBA,8,10001,Point Spread,Spread,false,0.75,0.25
+WNBA,8,10002,Total Points,Total,false,0.75,0.25
+MLS,10,0,Moneyline,Moneyline,true,0.75,0.25
+MLS,10,10001,Goal Spread,Spread,false,0.75,0.25
+MLS,10,10002,Total Goals,Total,false,0.75,0.25
+EPL,11,0,Moneyline,Moneyline,true,0.75,0.25
+EPL,11,10001,Goal Spread,Spread,false,0.75,0.25
+EPL,11,10002,Total Goals,Total,false,0.75,0.25
+Ligue 1,12,0,Moneyline,Moneyline,true,0.75,0.25
+Ligue 1,12,10001,Goal Spread,Spread,false,0.75,0.25
+Ligue 1,12,10002,Total Goals,Total,false,0.75,0.25
+Bundesliga,13,0,Moneyline,Moneyline,true,0.75,0.25
+Bundesliga,13,10001,Goal Spread,Spread,false,0.75,0.25
+Bundesliga,13,10002,Total Goals,Total,false,0.75,0.25
+La Liga,14,0,Moneyline,Moneyline,true,0.75,0.25
+La Liga,14,10001,Goal Spread,Spread,false,0.75,0.25
+La Liga,14,10002,Total Goals,Total,false,0.75,0.25
+Serie A,15,0,Moneyline,Moneyline,true,0.75,0.25
+Serie A,15,10001,Goal Spread,Spread,false,0.75,0.25
+Serie A,15,10002,Total Goals,Total,false,0.75,0.25
+UEFA Champions League,16,0,Moneyline,Moneyline,tru,0.75,0.25
+UEFA Champions League,16,10001,Goal Spread,Spread,false,0.75,0.25
+UEFA Champions League,16,10002,Total Goals,Total,false,0.75,0.25
+UEFA Europa League,17,0,Moneyline,Moneyline,true,0.75,0.25
+UEFA Europa League,17,10001,Goal Spread,Spread,true,0.75,0.25
+UEFA Europa League,17,10002,Total Goals,Total,true,0.75,0.25
+FIFA World Cup Qualifiers,18,0,Moneyline,Moneyline,true,0.75,0.25
+FIFA World Cup Qualifiers,18,10001,Goal Spread,Spread,true,0.75,0.25
+FIFA World Cup Qualifiers,18,10002,Total Goals,Total,true,0.75,0.25
+J1 League,19,0,Moneyline,Moneyline,true,0.75,0.25
+J1 League,19,10001,Goal Spread,Spread,false,0.75,0.25
+J1 League,19,10002,Total Goals,Total,false,0.75,0.25
+Copa America,44,0,Moneyline,Moneyline,true,0.75,0.25
+Copa America,44,10001,Goal Spread,Spread,false,0.75,0.25
+Copa America,44,10002,Total Goals,Total,false,0.75,0.25
+Copa Libertadores,45,0,Moneyline,Moneyline,true,0.75,0.25
+Copa Libertadores,45,10001,Goal Spread,Spread,false,0.75,0.25
+Copa Libertadores,45,10002,Total Goals,Total,false,0.75,0.25
+UEFA EURO 2024,50,0,Moneyline,Moneyline,false,0.75,0.25
+UEFA EURO 2024,50,10001,Goal Spread,Spread,false,0.75,0.25
+UEFA EURO 2024,50,10002,Total Goals,Total,false,0.75,0.25
+Eredivisie,57,0,Moneyline,Moneyline,true,0.75,0.25
+Eredivisie,57,10001,Goal Spread,Spread,false,0.75,0.25
+Eredivisie,57,10002,Total Goals,Total,false,0.75,0.25
+Primeira Liga,61,0,Moneyline,Moneyline,true,0.75,0.25
+Primeira Liga,61,10001,Goal Spread,Spread,false,0.75,0.25
+Primeira Liga,61,10002,Total Goals,Total,false,0.75,0.25
+Olympics Soccer Women,65,0,Moneyline,Moneyline,false,0.75,0.25
+Olympics Soccer Women,65,10001,Goal Spread,Spread,false,0.75,0.25
+Olympics Soccer Women,65,10002,Total Goals,Total,false,0.75,0.25
+Olympics Soccer Men,66,0,Moneyline,Moneyline,false,0.75,0.25
+Olympics Soccer Men,66,10001,Goal Spread,Spread,false,0.75,0.25
+Olympics Soccer Men,66,10002,Total Goals,Total,false,0.75,0.25
+WTA Events,152,0,Moneyline,Moneyline,true,0.75,0.25
+WTA Events,152,10001,Game Spread,Spread,true,0.75,0.25
+WTA Events,152,10002,Total Games,Total,true,0.75,0.25
+Grand Slam,153,0,Moneyline,Moneyline,true,0.75,0.25
+Grand Slam,153,10001,Game Spread,Spread,true,0.75,0.25
+Grand Slam,153,10002,Total Games,Total,true,0.75,0.25
+ATP Events,156,0,Moneyline,Moneyline,true,0.75,0.25
+ATP Events,156,10001,Game Spread,Spread,true,0.75,0.25
+ATP Events,156,10002,Total Games,Total,true,0.75,0.25
+ATP Events,156,10013,Sets Handicap,Spread,true,0.9,0.1
+ATP Events,156,10014,Total Sets,Total,true,0.75,0.25
+ATP Events,156,10031,1st Set Total Games,Total,true,0.8,0.2
+ATP Events,156,10032,2nd Set Total Games,Total,true,0.8,0.2
+ATP Events,156,10033,3rd Set Total Games,Total,true,0.8,0.2
+Olympic Games Tennis,158,0,Moneyline,Moneyline,false,0.75,0.25
+Olympic Games Tennis,158,10001,Game Spread,Spread,false,0.75,0.25
+Olympic Games Tennis,158,10002,Total Games,Total,false,0.75,0.25
+Liga MX,230,0,Moneyline,Moneyline,true,0.75,0.25
+Liga MX,230,10001,Goal Spread,Spread,false,0.75,0.25
+Liga MX,230,10002,Total Goals,Total,false,0.75,0.25
+Brazil - Serie A,268,0,Moneyline,Moneyline,true,0.75,0.25
+Brazil - Serie A,268,10001,Goal Spread,Spread,false,0.75,0.25
+Brazil - Serie A,268,10002,Total Goals,Total,false,0.75,0.25
+UEFA EURO U21,288,0,Moneyline,Moneyline,true,0.75,0.25
+UEFA EURO U21,288,10001,Goal Spread,Spread,false,0.75,0.25
+UEFA EURO U21,288,10002,Total Goals,Total,false,0.75,0.25
+Olympics Handball Women,380,0,Moneyline,Moneyline,false,0.75,0.25
+Olympics Handball Men,381,0,Moneyline,Moneyline,false,0.75,0.25
+Euroleague,399,0,Moneyline,Moneyline,true,0.75,0.25
+Euroleague,399,10001,Point Spread,Spread,true,0.75,0.25
+Euroleague,399,10002,Total Points,Total,true,0.75,0.25
+Euroleague,399,10017,Team Total,Total,true,0.75,0.25
+Euroleague,399,10018,Team Total,Total,true,0.75,0.25
+Olympics Basketball Men,406,0,Moneyline,Moneyline,false,0.75,0.25
+Olympics Basketball Men,406,10001,Point Spread,Spread,false,0.75,0.25
+Olympics Basketball Men,406,10002,Total Points,Total,false,0.75,0.25
+Olympics Basketball Women,407,0,Moneyline,Moneyline,false,0.75,0.25
+Olympics Basketball Women,407,10001,Point Spread,Spread,false,0.75,0.25
+Olympics Basketball Women,407,10002,Total Points,Total,false,0.75,0.25
+Saudi Professional League,536,0,Moneyline,Moneyline,true,0.75,0.25
+Saudi Professional League,536,10001,Goal Spread,Spread,true,0.75,0.25
+Saudi Professional League,536,10002,Total Goals,Total,true,0.75,0.25
+Olympics Water Polo,8881,0,Moneyline,Moneyline,false,0.75,0.25
+Olympics Volleyball Women,8893,0,Moneyline,Moneyline,false,0.75,0.25
+Olympics Volleyball Men,8894,0,Moneyline,Moneyline,false,0.75,0.25
+UEFA Nations League,9806,0,Moneyline,Moneyline,true,0.75,0.25
+UEFA Nations League,9806,10001,Goal Spread,Spread,true,0.75,0.25
+UEFA Nations League,9806,10002,Total Goals,Total,true,0.75,0.25
+Olympics Basketball 3x3 Men,10071,0,Moneyline,Moneyline,false,0.75,0.25
+Olympics Basketball 3x3 Women,10072,0,Moneyline,Moneyline,false,0.75,0.25
+UEFA Conference League,10216,0,Moneyline,Moneyline,true,0.75,0.25
+UEFA Conference League,10216,10001,Goal Spread,Spread,true,0.75,0.25
+UEFA Conference League,10216,10002,Total Goals,Total,true,0.75,0.25
+UEFA Champions League Qualification,10611,0,Moneyline,Moneyline,true,0.75,0.25
+UEFA Champions League Qualification,10611,10001,Goal Spread,Spread,false,0.75,0.25
+UEFA Champions League Qualification,10611,10002,Total Goals,Total,false,0.75,0.25
+UEFA Europa League Qualification,10613,0,Moneyline,Moneyline,true,0.75,0.25
+UEFA Europa League Qualification,10613,10001,Goal Spread,Spread,true,0.75,0.25
+UEFA Europa League Qualification,10613,10002,Total Goals,Total,true,0.75,0.25
+UEFA Conference League Qualification,10615,0,Moneyline,Moneyline,true,0.75,0.25
+UEFA Conference League Qualification,10615,10001,Goal Spread,Spread,true,0.75,0.25
+UEFA Conference League Qualification,10615,10002,Total Goals,Total,true,0.75,0.25
+UEFA Super Cup,20001,0,Moneyline,Moneyline,true,0.75,0.25
+UEFA Super Cup,20001,10001,Goal Spread,Spread,false,0.75,0.25
+UEFA Super Cup,20001,10002,Total Goals,Total,false,0.75,0.25
+Copa do Brasil,20002,0,Moneyline,Moneyline,true,0.75,0.25
+Copa do Brasil,20002,10001,Goal Spread,Spread,false,0.75,0.25
+Copa do Brasil,20002,10002,Total Goals,Total,false,0.75,0.25
+EFL Championship,20011,0,Moneyline,Moneyline,true,0.75,0.25
+EFL Championship,20011,10001,Goal Spread,Spread,false,0.75,0.25
+EFL Championship,20011,10002,Total Goals,Total,false,0.75,0.25
+England - EFL Cup,20125,0,Moneyline,Moneyline,true,0.75,0.25
+England - EFL Cup,20125,10001,Goal Spread,Spread,false,0.75,0.25
+England - EFL Cup,20125,10002,Total Goals,Total,false,0.75,0.25
