@@ -15,8 +15,8 @@ NHL,6,0,Moneyline,Moneyline,true,0.75,0.25
 NHL,6,10001,Puck Line,Spread,true,0.75,0.25
 NHL,6,10002,Total Goals,Total,true,0.75,0.25
 WNBA,8,0,Moneyline,Moneyline,true,0.75,0.25
-WNBA,8,10001,Point Spread,Spread,false,0.75,0.25
-WNBA,8,10002,Total Points,Total,false,0.75,0.25
+WNBA,8,10001,Point Spread,Spread,true,0.75,0.25
+WNBA,8,10002,Total Points,Total,true,0.75,0.25
 MLS,10,0,Moneyline,Moneyline,true,0.75,0.25
 MLS,10,10001,Goal Spread,Spread,false,0.75,0.25
 MLS,10,10002,Total Goals,Total,false,0.75,0.25
@@ -87,8 +87,8 @@ UEFA Nations League,9806,0,Moneyline,Moneyline,true,0.75,0.25
 UEFA Nations League,9806,10001,Goal Spread,Spread,true,0.75,0.25
 UEFA Nations League,9806,10002,Total Goals,Total,true,0.75,0.25
 UEFA Conference League,10216,0,Moneyline,Moneyline,true,0.75,0.25
-UEFA Conference League,10216,10001,Goal Spread,Spread,true,0.75,0.25
-UEFA Conference League,10216,10002,Total Goals,Total,true,0.75,0.25
+UEFA Conference League,10216,10001,Goal Spread,Spread,false,0.75,0.25
+UEFA Conference League,10216,10002,Total Goals,Total,false,0.75,0.25
 UEFA Super Cup,20001,0,Moneyline,Moneyline,true,0.75,0.25
 UEFA Super Cup,20001,10001,Goal Spread,Spread,false,0.75,0.25
 UEFA Super Cup,20001,10002,Total Goals,Total,false,0.75,0.25
