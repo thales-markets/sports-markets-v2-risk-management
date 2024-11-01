@@ -81,8 +81,8 @@ Euroleague,399,0,Moneyline,Moneyline,true,0.75,0.25
 Euroleague,399,10001,Point Spread,Spread,true,0.75,0.25
 Euroleague,399,10002,Total Points,Total,true,0.75,0.25
 Saudi Professional League,536,0,Moneyline,Moneyline,true,0.75,0.25
-Saudi Professional League,536,10001,Goal Spread,Spread,false,0.75,0.25
-Saudi Professional League,536,10002,Total Goals,Total,false,0.75,0.25
+Saudi Professional League,536,10001,Goal Spread,Spread,true,0.75,0.25
+Saudi Professional League,536,10002,Total Goals,Total,true,0.75,0.25
 UEFA Nations League,9806,0,Moneyline,Moneyline,true,0.75,0.25
 UEFA Nations League,9806,10001,Goal Spread,Spread,true,0.75,0.25
 UEFA Nations League,9806,10002,Total Goals,Total,true,0.75,0.25
