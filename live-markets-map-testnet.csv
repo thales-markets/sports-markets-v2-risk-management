@@ -11,6 +11,12 @@ MLB,3,10002,Total Runs,Total,true,0.75,0.25
 NBA,4,0,Moneyline,Moneyline,true,0.75,0.25
 NBA,4,10001,Point Spread,Spread,true,0.75,0.25
 NBA,4,10002,Total Points,Total,true,0.75,0.25
+NBA,4,10017,Team Total,Total,true,0.75,0.25
+NBA,4,10018,Team Total,Total,true,0.75,0.25
+NBA,4,10031,1st Quarter Total Points,Total,true,0.75,0.25
+NBA,4,10032,2nd Quarter Total Points,Total,true,0.75,
+NBA,4,10033,3rd Quarter Total Points,Total,true,0.75,
+NBA,4,10034,4th Quarter Total Points,Total,true,0.75,
 NHL,6,0,Moneyline,Moneyline,true,0.75,0.25
 NHL,6,10001,Puck Line,Spread,true,0.75,0.25
 NHL,6,10002,Total Goals,Total,true,0.75,0.25
