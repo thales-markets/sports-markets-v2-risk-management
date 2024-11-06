@@ -37,7 +37,6 @@ overtime-puller-opticodds-uefa-nations,UEFA - Nations League,9806,5,60s,0x4ef22b
 overtime-puller-opticodds-conference-league,UEFA - Europa Conference League,10216,5,60s,0xA635170ceA886BD548117e662D42Eb28d78F0d83,
 overtime-puller-opticodds-en-championship,England - Championship;England - EFL Cup,20011;20125,5,60s,0x1932BEd29Ee58C26072F8Ac3456A11CD39c8Cab8,
 overtime-puller-opticodds-copa-brasil,Brazil - Copa do Brasil,20002,5,60s,0xECD83Cf92F4977A6a0926da965b0028040531190,
-overtime-puller-opticodds-us-elections,US Elections,20000,0,60s,0x1932BEd29Ee58C26072F8Ac3456A11CD39c8Cab8,
 overtime-puller-opticodds-euro-basketball,Euroleague;Eurocup,399;20200,2,60s,0xC3b6d636C12A8eB8Fc55F654dB6e5305f9c5C12A,
 overtime-puller-opticodds-futures,NFL - Futures;NBA - Futures;England - Premier League - Futures,30002;30004;30011,0,60s,0x47Dd547d4c74E811600db61722758b940579f58B,inactive
 overtime-resolver-enetpulse-v2,11 42 45 47 53 54 55 57 61 73 87 132 141 268 153 536 10216,,-2,1hr,0xcC97993365989c6Cb15503d088A9270Eb39d2FfE,
