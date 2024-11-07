@@ -90,6 +90,12 @@ Brazil - Serie A,268,10002,Total Goals,Total,false,0.75,0.25
 Euroleague,399,0,Moneyline,Moneyline,true,0.75,0.25
 Euroleague,399,10001,Point Spread,Spread,true,0.75,0.25
 Euroleague,399,10002,Total Points,Total,true,0.75,0.25
+Euroleague,399,10017,Team Total,Total,true,0.75,0.25
+Euroleague,399,10018,Team Total,Total,true,0.75,0.25
+Euroleague,399,10031,1st Quarter Total Points,Total,true,0.75,0.25
+Euroleague,399,10032,2nd Quarter Total Points,Total,true,0.75,
+Euroleague,399,10033,3rd Quarter Total Points,Total,true,0.75,
+Euroleague,399,10034,4th Quarter Total Points,Total,true,0.75,
 Saudi Professional League,536,0,Moneyline,Moneyline,true,0.75,0.25
 Saudi Professional League,536,10001,Goal Spread,Spread,true,0.75,0.25
 Saudi Professional League,536,10002,Total Goals,Total,true,0.75,0.25
