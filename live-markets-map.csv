@@ -5,15 +5,21 @@ NCAAF,1,10002,Total Points,Total,true,0.75,0.25
 NFL,2,0,Moneyline,Moneyline,true,0.75,0.25
 NFL,2,10001,Point Spread,Spread,true,0.75,0.25
 NFL,2,10002,Total Points,Total,true,0.75,0.25
+NFL,2,10017,Team Total,Total,true,0.75,0.25
+NFL,2,10018,Team Total,Total,true,0.75,0.25
 MLB,3,0,Moneyline,Moneyline,true,0.75,0.25
 MLB,3,10001,Run Line,Spread,true,0.75,0.25
 MLB,3,10002,Total Runs,Total,true,0.75,0.25
 NBA,4,0,Moneyline,Moneyline,true,0.75,0.25
 NBA,4,10001,Point Spread,Spread,true,0.75,0.25
 NBA,4,10002,Total Points,Total,true,0.75,0.25
+NBA,4,10017,Team Total,Total,true,0.75,0.25
+NBA,4,10018,Team Total,Total,true,0.75,0.25
 NHL,6,0,Moneyline,Moneyline,true,0.75,0.25
 NHL,6,10001,Puck Line,Spread,true,0.75,0.25
 NHL,6,10002,Total Goals,Total,true,0.75,0.25
+NHL,6,10017,Team Total,Total,true,0.75,0.25
+NHL,6,10018,Team Total,Total,true,0.75,0.25
 WNBA,8,0,Moneyline,Moneyline,true,0.75,0.25
 WNBA,8,10001,Point Spread,Spread,true,0.75,0.25
 WNBA,8,10002,Total Points,Total,true,0.75,0.25
@@ -23,27 +29,43 @@ MLS,10,10002,Total Goals,Total,false,0.75,0.25
 EPL,11,0,Moneyline,Moneyline,true,0.75,0.25
 EPL,11,10001,Goal Spread,Spread,true,0.75,0.25
 EPL,11,10002,Total Goals,Total,true,0.75,0.25
+EPL,11,10017,Team Total,Total,true,0.75,0.25
+EPL,11,10018,Team Total,Total,true,0.75,0.25
 Ligue 1,12,0,Moneyline,Moneyline,true,0.75,0.25
 Ligue 1,12,10001,Goal Spread,Spread,true,0.75,0.25
 Ligue 1,12,10002,Total Goals,Total,true,0.75,0.25
+Ligue 1,12,10017,Team Total,Total,true,0.75,0.25
+Ligue 1,12,10018,Team Total,Total,true,0.75,0.25
 Bundesliga,13,0,Moneyline,Moneyline,true,0.75,0.25
 Bundesliga,13,10001,Goal Spread,Spread,true,0.75,0.25
 Bundesliga,13,10002,Total Goals,Total,true,0.75,0.25
+Bundesliga,13,10017,Team Total,Total,true,0.75,0.25
+Bundesliga,13,10018,Team Total,Total,true,0.75,0.25
 La Liga,14,0,Moneyline,Moneyline,true,0.75,0.25
 La Liga,14,10001,Goal Spread,Spread,true,0.75,0.25
 La Liga,14,10002,Total Goals,Total,true,0.75,0.25
+La Liga,14,10017,Team Total,Total,true,0.75,0.25
+La Liga,14,10018,Team Total,Total,true,0.75,0.25
 Serie A,15,0,Moneyline,Moneyline,true,0.75,0.25
 Serie A,15,10001,Goal Spread,Spread,true,0.75,0.25
 Serie A,15,10002,Total Goals,Total,true,0.75,0.25
+Serie A,15,10017,Team Total,Total,true,0.75,0.25
+Serie A,15,10018,Team Total,Total,true,0.75,0.25
 UEFA Champions League,16,0,Moneyline,Moneyline,true,0.75,0.25
 UEFA Champions League,16,10001,Goal Spread,Spread,true,0.75,0.25
 UEFA Champions League,16,10002,Total Goals,Total,true,0.75,0.25
+UEFA Champions League,16,10017,Team Total,Total,true,0.75,0.25
+UEFA Champions League,16,10018,Team Total,Total,true,0.75,0.25
 UEFA Europa League,17,0,Moneyline,Moneyline,true,0.75,0.25
 UEFA Europa League,17,10001,Goal Spread,Spread,true,0.75,0.25
 UEFA Europa League,17,10002,Total Goals,Total,true,0.75,0.25
+UEFA Europa League,17,10017,Team Total,Total,true,0.75,0.25
+UEFA Europa League,17,10018,Team Total,Total,true,0.75,0.25
 FIFA World Cup Qualifiers,18,0,Moneyline,Moneyline,true,0.75,0.25
 FIFA World Cup Qualifiers,18,10001,Goal Spread,Spread,true,0.75,0.25
 FIFA World Cup Qualifiers,18,10002,Total Goals,Total,true,0.75,0.25
+FIFA World Cup Qualifiers,18,10017,Team Total,Total,true,0.75,0.25
+FIFA World Cup Qualifiers,18,10018,Team Total,Total,true,0.75,0.25
 J1 League,19,0,Moneyline,Moneyline,true,0.75,0.25
 J1 League,19,10001,Goal Spread,Spread,false,0.75,0.25
 J1 League,19,10002,Total Goals,Total,false,0.75,0.25
@@ -53,6 +75,8 @@ Copa America,44,10002,Total Goals,Total,false,0.75,0.25
 Copa Libertadores,45,0,Moneyline,Moneyline,true,0.75,0.25
 Copa Libertadores,45,10001,Goal Spread,Spread,false,0.75,0.25
 Copa Libertadores,45,10002,Total Goals,Total,false,0.75,0.25
+Copa Libertadores,45,10017,Team Total,Total,true,0.75,0.25
+Copa Libertadores,45,10018,Team Total,Total,true,0.75,0.25
 UEFA EURO 2024,50,0,Moneyline,Moneyline,false,0.75,0.25
 UEFA EURO 2024,50,10001,Goal Spread,Spread,false,0.75,0.25
 UEFA EURO 2024,50,10002,Total Goals,Total,false,0.75,0.25
@@ -86,6 +110,8 @@ Saudi Professional League,536,10002,Total Goals,Total,false,0.75,0.25
 UEFA Nations League,9806,0,Moneyline,Moneyline,true,0.75,0.25
 UEFA Nations League,9806,10001,Goal Spread,Spread,true,0.75,0.25
 UEFA Nations League,9806,10002,Total Goals,Total,true,0.75,0.25
+UEFA Nations League,9806,10017,Team Total,Total,true,0.75,0.25
+UEFA Nations League,9806,10018,Team Total,Total,true,0.75,0.25
 UEFA Conference League,10216,0,Moneyline,Moneyline,true,0.75,0.25
 UEFA Conference League,10216,10001,Goal Spread,Spread,false,0.75,0.25
 UEFA Conference League,10216,10002,Total Goals,Total,false,0.75,0.25
