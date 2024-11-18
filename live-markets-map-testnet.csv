@@ -110,6 +110,10 @@ Saudi Professional League,536,10002,Total Goals,Total,true,0.75,0.25
 UEFA Nations League,9806,0,Moneyline,Moneyline,true,0.75,0.25
 UEFA Nations League,9806,10001,Goal Spread,Spread,true,0.75,0.25
 UEFA Nations League,9806,10002,Total Goals,Total,true,0.75,0.25
+UEFA Nations League,9806,10041,1st Half Asian Handicap,Total,true,0.75,0.25
+UEFA Nations League,9806,10042,2nd Half Asian Handicap,Total,true,0.75,0.25
+UEFA Nations League,9806,10031,1st Half Total Goals,Total,true,0.75,0.25
+UEFA Nations League,9806,10032,2nd Half Total Goals,Total,true,0.75,0.25
 UEFA Conference League,10216,0,Moneyline,Moneyline,true,0.75,0.25
 UEFA Conference League,10216,10001,Goal Spread,Spread,false,0.75,0.25
 UEFA Conference League,10216,10002,Total Goals,Total,false,0.75,0.25
