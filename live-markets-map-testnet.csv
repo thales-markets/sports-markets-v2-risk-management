@@ -37,6 +37,14 @@ MLS,10,10002,Total Goals,Total,false,0.75,0.25
 EPL,11,0,Moneyline,Moneyline,true,0.75,0.25
 EPL,11,10001,Goal Spread,Spread,true,0.75,0.25
 EPL,11,10002,Total Goals,Total,true,0.75,0.25
+EPL,11,10017,Team Total,Total,true,0.75,0.25
+EPL,11,10018,Team Total,Total,true,0.75,0.25
+EPL,11,10031,1st Half Total Goals,Total,true,0.75,0.25
+EPL,11,10032,2nd Half Total Goals,Total,true,0.75,
+EPL,11,10041,1st Half Asian Handicap,Spread,true,0.75,0.25
+EPL,11,10042,2nd Half Asian Handicap,Spread,true,0.75,0.25
+EPL,11,10021,1st Half Moneyline,Moneyline,true,0.75,0.25
+EPL,11,10022,2nd Half Asian Moneyline,Moneyline,true,0.75,0.25
 Ligue 1,12,0,Moneyline,Moneyline,true,0.75,0.25
 Ligue 1,12,10001,Goal Spread,Spread,true,0.75,0.25
 Ligue 1,12,10002,Total Goals,Total,true,0.75,0.25
@@ -49,6 +57,14 @@ La Liga,14,10002,Total Goals,Total,true,0.75,0.25
 Serie A,15,0,Moneyline,Moneyline,true,0.75,0.25
 Serie A,15,10001,Goal Spread,Spread,true,0.75,0.25
 Serie A,15,10002,Total Goals,Total,true,0.75,0.25
+Serie A,15,10017,Team Total,Total,true,0.75,0.25
+Serie A,15,10018,Team Total,Total,true,0.75,0.25
+Serie A,15,10031,1st Half Total Goals,Total,true,0.75,0.25
+Serie A,15,10032,2nd Half Total Goals,Total,true,0.75,
+Serie A,15,10041,1st Half Asian Handicap,Spread,true,0.75,0.25
+Serie A,15,10042,2nd Half Asian Handicap,Spread,true,0.75,0.25
+Serie A,15,10021,1st Half Moneyline,Moneyline,true,0.75,0.25
+Serie A,15,10022,2nd Half Asian Moneyline,Moneyline,true,0.75,0.25
 UEFA Champions League,16,0,Moneyline,Moneyline,true,0.75,0.25
 UEFA Champions League,16,10001,Goal Spread,Spread,true,0.75,0.25
 UEFA Champions League,16,10002,Total Goals,Total,true,0.75,0.25
