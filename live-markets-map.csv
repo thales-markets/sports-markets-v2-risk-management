@@ -39,6 +39,12 @@ NBA,4,10071,1st Half Point Spread,Spread,true,0.75,0.25
 NBA,4,10072,2nd Half Point Spread,Spread,true,0.75,0.25
 NBA,4,10061,1st Half Total Points,Total,true,0.75,0.25
 NBA,4,10062,2nd Half Total Points,Total,true,0.75,0.25
+NBA,4,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01
+NBA,4,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01
+NBA,4,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01
+NBA,4,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01
+NBA,4,10051,1st Half Moneyline,Moneyline,true,0.99,0.01
+NBA,4,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01
 NHL,6,0,Moneyline,Moneyline,true,0.75,0.25
 NHL,6,10001,Puck Line,Spread,true,0.75,0.25
 NHL,6,10002,Total Goals,Total,true,0.75,0.25
