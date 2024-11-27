@@ -151,6 +151,14 @@ UEFA Nations League,9806,10032,2nd Half Total Goals,Total,true,0.75,0.25
 UEFA Conference League,10216,0,Moneyline,Moneyline,true,0.75,0.25
 UEFA Conference League,10216,10001,Goal Spread,Spread,false,0.75,0.25
 UEFA Conference League,10216,10002,Total Goals,Total,false,0.75,0.25
+UEFA Conference League,10216,10017,Team Total,Total,true,0.75,0.25
+UEFA Conference League,10216,10018,Team Total,Total,true,0.75,0.25
+UEFA Conference League,10216,10031,1st Half Total Goals,Total,true,0.75,0.25
+UEFA Conference League,10216,10032,2nd Half Total Goals,Total,true,0.75,
+UEFA Conference League,10216,10041,1st Half Asian Handicap,Spread,true,0.75,0.25
+UEFA Conference League,10216,10042,2nd Half Asian Handicap,Spread,true,0.75,0.25
+UEFA Conference League,10216,10021,1st Half Moneyline,Moneyline,true,0.99,0.01
+UEFA Conference League,10216,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01
 UEFA Super Cup,20001,0,Moneyline,Moneyline,true,0.75,0.25
 UEFA Super Cup,20001,10001,Goal Spread,Spread,false,0.75,0.25
 UEFA Super Cup,20001,10002,Total Goals,Total,false,0.75,0.25
