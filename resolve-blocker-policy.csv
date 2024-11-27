@@ -1,4 +1,4 @@
 ruleName, ruleDescription, reason
 Total spent CAP_MULTIPLIER * the cap per game, Blocks games for resolve in case total spent on game is greater CAP_MULTIPLIER x the cap per game, "Spent amount exceeds double the cap"
 Live bet > MAX_BUY_IN_THRESHOLD_USD, Blocks a game if there is a live bet that is greater than MAX_BUY_IN_THRESHOLD_USD, "Live ticket exceeds buyIn threshold"
-Ticket buyIn or payout > BUY_IN_THRESHOLD_IN_USD or PAYOUT_THRESHOLD_IN_USD, Block games if there are tickets which total buyIn or payout exceeds thresholds (BUY_IN_THRESHOLD_IN_USD or PAYOUT_THRESHOLD_IN_USD), "Total buyIn or payout exceeds threshold"
+Ticket buyIn or payout > BUY_IN_THRESHOLD_IN_USD or PAYOUT_THRESHOLD_IN_USD, Blocks games if there are tickets which total buyIn or payout exceeds thresholds (BUY_IN_THRESHOLD_IN_USD or PAYOUT_THRESHOLD_IN_USD), "Total buyIn or payout exceeds threshold"
