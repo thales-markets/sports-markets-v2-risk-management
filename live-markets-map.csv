@@ -76,26 +76,46 @@ EPL,11,10001,Goal Spread,Spread,true,0.75,0.25
 EPL,11,10002,Total Goals,Total,true,0.75,0.25
 EPL,11,10017,Team Total,Total,true,0.75,0.25
 EPL,11,10018,Team Total,Total,true,0.75,0.25
+EPL,11,10031,1st Half Total Goals,Total,true,0.75,0.25
+EPL,11,10032,2nd Half Total Goals,Total,true,0.75,
+EPL,11,10021,1st Half Moneyline,Moneyline,true,0.99,0.01
+EPL,11,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01
 Ligue 1,12,0,Moneyline,Moneyline,true,0.75,0.25
 Ligue 1,12,10001,Goal Spread,Spread,true,0.75,0.25
 Ligue 1,12,10002,Total Goals,Total,true,0.75,0.25
 Ligue 1,12,10017,Team Total,Total,true,0.75,0.25
 Ligue 1,12,10018,Team Total,Total,true,0.75,0.25
+Ligue 1,12,10031,1st Half Total Goals,Total,true,0.75,0.25
+Ligue 1,12,10032,2nd Half Total Goals,Total,true,0.75,
+Ligue 1,12,10021,1st Half Moneyline,Moneyline,true,0.99,0.01
+Ligue 1,12,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01
 Bundesliga,13,0,Moneyline,Moneyline,true,0.75,0.25
 Bundesliga,13,10001,Goal Spread,Spread,true,0.75,0.25
 Bundesliga,13,10002,Total Goals,Total,true,0.75,0.25
 Bundesliga,13,10017,Team Total,Total,true,0.75,0.25
 Bundesliga,13,10018,Team Total,Total,true,0.75,0.25
+Bundesliga,13,10031,1st Half Total Goals,Total,true,0.75,0.25
+Bundesliga,13,10032,2nd Half Total Goals,Total,true,0.75,
+Bundesliga,13,10021,1st Half Moneyline,Moneyline,true,0.99,0.01
+Bundesliga,13,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01
 La Liga,14,0,Moneyline,Moneyline,true,0.75,0.25
 La Liga,14,10001,Goal Spread,Spread,true,0.75,0.25
 La Liga,14,10002,Total Goals,Total,true,0.75,0.25
 La Liga,14,10017,Team Total,Total,true,0.75,0.25
 La Liga,14,10018,Team Total,Total,true,0.75,0.25
+La Liga,14,10031,1st Half Total Goals,Total,true,0.75,0.25
+La Liga,14,10032,2nd Half Total Goals,Total,true,0.75,
+La Liga,14,10021,1st Half Moneyline,Moneyline,true,0.99,0.01
+La Liga,14,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01
 Serie A,15,0,Moneyline,Moneyline,true,0.75,0.25
 Serie A,15,10001,Goal Spread,Spread,true,0.75,0.25
 Serie A,15,10002,Total Goals,Total,true,0.75,0.25
 Serie A,15,10017,Team Total,Total,true,0.75,0.25
 Serie A,15,10018,Team Total,Total,true,0.75,0.25
+Serie A,15,10031,1st Half Total Goals,Total,true,0.75,0.25
+Serie A,15,10032,2nd Half Total Goals,Total,true,0.75,
+Serie A,15,10021,1st Half Moneyline,Moneyline,true,0.99,0.01
+Serie A,15,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01
 UEFA Champions League,16,0,Moneyline,Moneyline,true,0.75,0.25
 UEFA Champions League,16,10001,Goal Spread,Spread,true,0.75,0.25
 UEFA Champions League,16,10002,Total Goals,Total,true,0.75,0.25
@@ -110,6 +130,10 @@ UEFA Europa League,17,10001,Goal Spread,Spread,true,0.75,0.25
 UEFA Europa League,17,10002,Total Goals,Total,true,0.75,0.25
 UEFA Europa League,17,10017,Team Total,Total,true,0.75,0.25
 UEFA Europa League,17,10018,Team Total,Total,true,0.75,0.25
+UEFA Europa League,17,10031,1st Half Total Goals,Total,true,0.75,0.25
+UEFA Europa League,17,10032,2nd Half Total Goals,Total,true,0.75,
+UEFA Europa League,17,10021,1st Half Moneyline,Moneyline,true,0.99,0.01
+UEFA Europa League,17,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01
 FIFA World Cup Qualifiers,18,0,Moneyline,Moneyline,true,0.75,0.25
 FIFA World Cup Qualifiers,18,10001,Goal Spread,Spread,true,0.75,0.25
 FIFA World Cup Qualifiers,18,10002,Total Goals,Total,true,0.75,0.25
