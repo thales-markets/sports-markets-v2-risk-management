@@ -105,9 +105,9 @@ NHL,6,10033,3rd Period Total Goals,Total,true,0.75,0.25
 NHL,6,10041,1st Period Puck Line,Spread,true,0.75,0.25
 NHL,6,10042,2nd Period Puck Line,Spread,true,0.75,0.25
 NHL,6,10043,3rd Period Puck Line,Spread,true,0.75,0.25
-NHL,6,10021,1st Period Moneyline,Moneyline,true,0.99,0.01
-NHL,6,10022,2nd Period Moneyline,Moneyline,true,0.99,0.01
-NHL,6,10023,3rd Period Moneyline,Moneyline,true,0.99,0.01
+NHL,6,10021,1st Period Moneyline 3-Way,Moneyline,true,0.99,0.01
+NHL,6,10022,2nd Period Moneyline 3-Way,Moneyline,true,0.99,0.01
+NHL,6,10023,3rd Period Moneyline 3-Way,Moneyline,true,0.99,0.01
 WNBA,8,0,Moneyline,Moneyline,true,0.75,0.25
 WNBA,8,10001,Point Spread,Spread,true,0.75,0.25
 WNBA,8,10002,Total Points,Total,true,0.75,0.25
