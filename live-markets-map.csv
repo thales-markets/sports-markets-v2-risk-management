@@ -390,6 +390,33 @@ Primeira Liga,61,10002,Total Goals,Total,true,0.75,0.25
 Primeira Liga,61,10017,Team Total,Total,true,0.75,0.25
 Primeira Liga,61,10018,Team Total,Total,true,0.75,0.25
 Primeira Liga,61,10031,1st Half Total Goals,Total,true,0.75,0.25
-Primeira Liga,61,10032,2nd Half Total Goals,Total,true,0.75,
+Primeira Liga,61,10032,2nd Half Total Goals,Total,true,0.75,0.25
 Primeira Liga,61,10021,1st Half Moneyline,Moneyline,true,0.99,0.01
 Primeira Liga,61,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,
+Eredivisie,57,0,Moneyline,Moneyline,true,0.75,0.25
+Eredivisie,57,10001,Goal Spread,Spread,true,0.75,0.25
+Eredivisie,57,10002,Total Goals,Total,true,0.75,0.25
+Eredivisie,57,10017,Team Total,Total,true,0.75,0.25
+Eredivisie,57,10018,Team Total,Total,true,0.75,0.25
+Eredivisie,57,10031,1st Half Total Goals,Total,true,0.75,0.25
+Eredivisie,57,10032,2nd Half Total Goals,Total,true,0.75,0.25
+Eredivisie,57,10021,1st Half Moneyline,Moneyline,true,0.99,0.01
+Eredivisie,57,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01
+Copa Libertadores,45,0,Moneyline,Moneyline,true,0.75,0.25
+Copa Libertadores,45,10001,Goal Spread,Spread,true,0.75,0.25
+Copa Libertadores,45,10002,Total Goals,Total,true,0.75,0.25
+Copa Libertadores,45,10017,Team Total,Total,true,0.75,0.25
+Copa Libertadores,45,10018,Team Total,Total,true,0.75,0.25
+Copa Libertadores,45,10031,1st Half Total Goals,Total,true,0.75,0.25
+Copa Libertadores,45,10032,2nd Half Total Goals,Total,true,0.75,0.25
+Copa Libertadores,45,10021,1st Half Moneyline,Moneyline,true,0.99,0.01
+Copa Libertadores,45,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01
+J1 League,19,0,Moneyline,Moneyline,true,0.75,0.25
+J1 League,19,10001,Goal Spread,Spread,true,0.75,0.25
+J1 League,19,10002,Total Goals,Total,true,0.75,0.25
+J1 League,19,10017,Team Total,Total,true,0.75,0.25
+J1 League,19,10018,Team Total,Total,true,0.75,0.25
+J1 League,19,10031,1st Half Total Goals,Total,true,0.75,0.25
+J1 League,19,10032,2nd Half Total Goals,Total,true,0.75,0.25
+J1 League,19,10021,1st Half Moneyline,Moneyline,true,0.99,0.01
+J1 League,19,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01
