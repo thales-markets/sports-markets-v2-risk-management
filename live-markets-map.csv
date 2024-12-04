@@ -384,3 +384,12 @@ Liga MX,230,10031,1st Half Total Goals,Total,true,0.75,0.25
 Liga MX,230,10032,2nd Half Total Goals,Total,true,0.75,
 Liga MX,230,10021,1st Half Moneyline,Moneyline,true,0.99,0.01
 Liga MX,230,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01
+Primeira Liga,61,0,Moneyline,Moneyline,true,0.75,0.25
+Primeira Liga,61,10001,Goal Spread,Spread,true,0.75,0.25
+Primeira Liga,61,10002,Total Goals,Total,true,0.75,0.25
+Primeira Liga,61,10017,Team Total,Total,true,0.75,0.25
+Primeira Liga,61,10018,Team Total,Total,true,0.75,0.25
+Primeira Liga,61,10031,1st Half Total Goals,Total,true,0.75,0.25
+Primeira Liga,61,10032,2nd Half Total Goals,Total,true,0.75,
+Primeira Liga,61,10021,1st Half Moneyline,Moneyline,true,0.99,0.01
+Primeira Liga,61,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,
