@@ -240,15 +240,15 @@ UEFA Super Cup,20001,10002,Total Goals,Total,false,0.75,0.25
 Copa do Brasil,20002,0,Moneyline,Moneyline,true,0.75,0.25
 Copa do Brasil,20002,10001,Goal Spread,Spread,false,0.75,0.25
 Copa do Brasil,20002,10002,Total Goals,Total,false,0.75,0.25
-Swiss superleague,20014,0,Moneyline,Moneyline,true,0.75,0.25
-Swiss superleague,20014,10001,Goal Spread,Spread,true,0.75,0.25
-Swiss superleague,20014,10002,Total Goals,Total,true,0.75,0.25
-Swiss superleague,20014,10017,Team Total,Total,true,0.75,0.25
-Swiss superleague,20014,10018,Team Total,Total,true,0.75,0.25
-Swiss superleague,20014,10031,1st Half Total Goals,Total,true,0.75,0.25
-Swiss superleague,20014,10032,2nd Half Total Goals,Total,true,0.75,
-Swiss superleague,20014,10021,1st Half Moneyline,Moneyline,true,0.99,0.01
-Swiss superleague,20014,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01
+Swiss superleague,20114,0,Moneyline,Moneyline,true,0.75,0.25
+Swiss superleague,20114,10001,Goal Spread,Spread,true,0.75,0.25
+Swiss superleague,20114,10002,Total Goals,Total,true,0.75,0.25
+Swiss superleague,20114,10017,Team Total,Total,true,0.75,0.25
+Swiss superleague,20114,10018,Team Total,Total,true,0.75,0.25
+Swiss superleague,20114,10031,1st Half Total Goals,Total,true,0.75,0.25
+Swiss superleague,20114,10032,2nd Half Total Goals,Total,true,0.75,
+Swiss superleague,20114,10021,1st Half Moneyline,Moneyline,true,0.99,0.01
+Swiss superleague,20114,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01
 Belgium league 1,20102,0,Moneyline,Moneyline,true,0.75,0.25
 Belgium league 1,20102,10001,Goal Spread,Spread,true,0.75,0.25
 Belgium league 1,20102,10002,Total Goals,Total,true,0.75,0.25
@@ -276,15 +276,15 @@ Argentina league 1,20106,10031,1st Half Total Goals,Total,true,0.75,0.25
 Argentina league 1,20106,10032,2nd Half Total Goals,Total,true,0.75,
 Argentina league 1,20106,10021,1st Half Moneyline,Moneyline,true,0.99,0.01
 Argentina league 1,20106,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01
-China league 1,20012,0,Moneyline,Moneyline,true,0.75,0.25
-China league 1,20012,10001,Goal Spread,Spread,true,0.75,0.25
-China league 1,20012,10002,Total Goals,Total,true,0.75,0.25
-China league 1,20012,10017,Team Total,Total,true,0.75,0.25
-China league 1,20012,10018,Team Total,Total,true,0.75,0.25
-China league 1,20012,10031,1st Half Total Goals,Total,true,0.75,0.25
-China league 1,20012,10032,2nd Half Total Goals,Total,true,0.75,
-China league 1,20012,10021,1st Half Moneyline,Moneyline,true,0.99,0.01
-China league 1,20012,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01
+China league 1,20112,0,Moneyline,Moneyline,true,0.75,0.25
+China league 1,20112,10001,Goal Spread,Spread,true,0.75,0.25
+China league 1,20112,10002,Total Goals,Total,true,0.75,0.25
+China league 1,20112,10017,Team Total,Total,true,0.75,0.25
+China league 1,20112,10018,Team Total,Total,true,0.75,0.25
+China league 1,20112,10031,1st Half Total Goals,Total,true,0.75,0.25
+China league 1,20112,10032,2nd Half Total Goals,Total,true,0.75,
+China league 1,20112,10021,1st Half Moneyline,Moneyline,true,0.99,0.01
+China league 1,20112,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01
 Scotland league 1,20101,0,Moneyline,Moneyline,true,0.75,0.25
 Scotland league 1,20101,10001,Goal Spread,Spread,true,0.75,0.25
 Scotland league 1,20101,10002,Total Goals,Total,true,0.75,0.25
