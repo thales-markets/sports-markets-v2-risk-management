@@ -1,4 +1,7 @@
 sportName,sportId,typeId,minSpread,targetSpread,addedSpread
+NFL,2,0,5,0,0
+NFL,2,10001,5,0,0
+NFL,2,10002,6,0,0
 NFL,2,10021,7,0,0
 NFL,2,10022,7,0,0
 NFL,2,10023,7,0,0
