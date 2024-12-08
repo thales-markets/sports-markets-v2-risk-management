@@ -1,6 +1,6 @@
 sportName,sportId,primaryBookmaker,secondaryBookmaker
 NFL,2,DraftKings,Pinnacle
-NBA,4,DraftKings,Pinnacle
+NBA,4,Pinnacle,DraftKings
 NHL,6,DraftKings,Pinnacle
 Saudi League,536,Pinnacle,
 Copa do Brasil Soccer,20002,Bovada,
