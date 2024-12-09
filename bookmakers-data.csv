@@ -2,6 +2,15 @@ sportName,sportId,primaryBookmaker,secondaryBookmaker
 NFL,2,Pinnacle,DraftKings
 NBA,4,Pinnacle,DraftKings
 NHL,6,Pinnacle,DraftKings
+MLS,10,Pinnacle,Draftkings
+EPL,11,Pinnacle,Draftkings
+FRA1,12,Pinnacle,Draftkings
+GER1,13,Pinnacle,Draftkings
+ESP1,14,Pinnacle,Draftkings
+ITA1,15,Pinnacle,Draftkings
+UEFA CL,16,Pinnacle,Draftkings
+UEFA EL,17,Pinnacle,Draftkings
+UEFA Conference league,10216,Pinnacle,
 Saudi League,536,Pinnacle,
 Copa do Brasil Soccer,20002,Bovada,
 Switzerland - Super League,20114,Draftkings,
@@ -11,8 +20,6 @@ Italy - Lega Basket Serie A,20202,Draftkings,Pinnacle
 Germany - BBL,20203,Draftkings,Pinnacle
 France - LNB Pro A,20204,Draftkings,Pinnacle
 Portugal,61,Draftkings,
-UEFA Conference league,10216,Pinnacle,
-UEFA EL,17,Draftkings,Pinnacle
 Australia - Big Bash League Women,20304,Pinnacle,
 CS2,9977,Pinnacle,
 Dota 2,9983,Pinnacle,
