@@ -1,4 +1,5 @@
 name,sportId,marketName,bookmaker
 NBA,4,Player Props,Bovada
 NFL,2,Point Spread,Bovada
+NFL,2,Anytime Touchdown Scorer,Pinnacle
 NFL,2,Player Receiving Yards,bet365
