@@ -5,6 +5,7 @@ BUY_IN_THRESHOLD_IN_USD,1000,"Total net payout exceeds threshold"
 PAYOUT_THRESHOLD_IN_USD,2000,"Total net payout exceeds threshold"
 MIN_SPENT_AMOUNT,1000,"Spent amount"
 FILTER_TIMEFRAME_IN_MINUTES,90,"FilterTimeframe"
+TICKET_SIZE,2,"Ticket size to be filtered for net payouts"
 EXCLUDED_SPORT_IDS,"","Exclude sport IDs for any check"
 EXCLUDED_LIVE_SPORT_IDS,"NBA,NFL,NHL","Exclude sportIDs for live check"
 
