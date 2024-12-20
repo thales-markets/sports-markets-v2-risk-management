@@ -1,2 +1,6 @@
 name,sportId,marketName,bookmaker
 Euroleague props,399,Player Props,Betsson
+NBA,4,Player Blocks,Draftkings
+NBA,4,Player Steals,Draftkings
+NBA,4,Player Steals + Blocks,Draftkings
+NBA,4,Player Triple Double,Draftkings
