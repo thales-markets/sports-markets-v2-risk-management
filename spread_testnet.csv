@@ -1,4 +1,6 @@
 sportName,sportId,typeId,minSpread,targetSpread,addedSpread
-General,All Sports,All Markets,0,0,3
-NBA General,4,All Markets,0,0,5
-NBA Totals,4,10002,0,0,10
+General,All Sports,All Markets,0,0,1
+NBA General,4,All Markets,0,0,2
+NBA Totals,4,10002,0,0,3
+WTA general,152,All Markets,0,0,2
+ATP general,156,All Markets,0,0,2
