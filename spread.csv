@@ -2,6 +2,6 @@ sportName,sportId,typeId,minSpread,targetSpread,addedSpread
 General,All Sports,All Markets,0,0,1.5
 WTA general,152,All Markets,0,0,2
 ATP general,156,All Markets,0,0,2
-NFL PP,2,Player Props,0,0,2.5
-NBA PP,4,Player Props,0,0,2.5
-NHL PP,6,Player Props,0,0,2.5
+NFL PP,2,Player Props,0,0,2
+NBA PP,4,Player Props,0,0,2
+NHL PP,6,Player Props,0,0,2
