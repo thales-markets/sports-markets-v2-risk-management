@@ -1,4 +1,5 @@
 sportName,sportId,typeId,minSpread,targetSpread,addedSpread
 General,All Sports,All Markets,0,0,1.5
+General,All Sports,Player Props,0,0,2
 WTA general,152,All Markets,0,0,2
 ATP general,156,All Markets,0,0,2
