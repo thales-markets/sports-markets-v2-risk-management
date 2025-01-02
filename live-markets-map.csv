@@ -188,9 +188,9 @@ Copa America,44,10002,Total Goals,Total,false,0.75,0.25,2
 UEFA EURO 2024,50,0,Moneyline,Moneyline,false,0.75,0.25,2
 UEFA EURO 2024,50,10001,Goal Spread,Spread,false,0.75,0.25,2
 UEFA EURO 2024,50,10002,Total Goals,Total,false,0.75,0.25,2
-WTA Events,152,0,Moneyline,Moneyline,true,0.75,0.25,2
-WTA Events,152,10001,Game Spread,Spread,true,0.65,0.35,2
-WTA Events,152,10002,Total Games,Total,true,0.65,0.35,2
+WTA Events,152,0,Moneyline,Moneyline,false,0.75,0.25,2
+WTA Events,152,10001,Game Spread,Spread,false,0.65,0.35,2
+WTA Events,152,10002,Total Games,Total,false,0.65,0.35,2
 Grand Slam,153,0,Moneyline,Moneyline,true,0.75,0.25,2
 Grand Slam,153,10001,Game Spread,Spread,true,0.65,0.35,2
 Grand Slam,153,10002,Total Games,Total,true,0.65,0.35,2
