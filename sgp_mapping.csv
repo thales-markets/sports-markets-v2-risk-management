@@ -1,0 +1,86 @@
+name,sportId,typeId,marketName
+GENERAL,ANY,11010,Player Home Runs
+GENERAL,ANY,11011,Player Bases
+GENERAL,ANY,11012,Player Hits
+GENERAL,ANY,11019,Player Strikeouts
+GENERAL,ANY,11029,Player Points
+GENERAL,ANY,11035,Player Rebounds
+GENERAL,ANY,11038,Player Made Threes
+GENERAL,ANY,11039,Player Assists
+GENERAL,ANY,11047,Player Hits Allowed
+GENERAL,ANY,11087,Player Double Double
+GENERAL,ANY,11088,Player Triple Double
+GENERAL,ANY,11097,Player Shots On Goal
+GENERAL,ANY,11098,Player Blocks
+GENERAL,ANY,11100,Player Goals
+GENERAL,ANY,11200,Player Takedowns
+GENERAL,ANY,11201,Player Significant Strikes
+GENERAL,ANY,11049,Player First Touchdown Scorer
+GENERAL,ANY,11051,Player Passing Yards
+GENERAL,ANY,11052,Player Passing Touchdowns
+GENERAL,ANY,11053,Player Rushing Yards
+GENERAL,ANY,11055,Anytime Touchdown Scorer
+GENERAL,ANY,11056,Player Last Touchdown Scored
+GENERAL,ANY,11057,Player Receiving Yards
+GENERAL,ANY,11058,Player Receptions
+GENERAL,ANY,11060,Player Field Goals Made
+GENERAL,ANY,11202,Player Interceptions
+GENERAL,ANY,11203,Player Kicking Points
+GENERAL,ANY,11204,Player Passing Attempts
+GENERAL,ANY,11205,Player Passing Completions
+GENERAL,ANY,11206,Player Touchdowns
+GENERAL,ANY,11207,Player Sacks
+GENERAL,ANY,11208,Player Passing + Rushing Yards
+GENERAL,ANY,11209,Player Rushing + Receiving Yards
+GENERAL,ANY,11210,Player Longest Reception
+GENERAL,ANY,11211,Player Extra Points Made
+GENERAL,ANY,11212,Player Tackles
+GENERAL,ANY,11213,Player Outs
+GENERAL,ANY,11214,Player RBIs
+GENERAL,ANY,11215,Player Hits + Runs + RBIs 
+GENERAL,ANY,11216,Player Earned Runs
+GENERAL,ANY,11217,Player Doubles
+GENERAL,ANY,11218,Player Batting Walks
+GENERAL,ANY,11219,Player Batting Strikeouts
+GENERAL,ANY,11220,Player Singles
+GENERAL,ANY,11221,Player Stolen Bases
+GENERAL,ANY,11222,Player Runs
+GENERAL,ANY,11223,Player Walks
+GENERAL,ANY,11224,Anytime Goal Scorer
+GENERAL,ANY,11225,Player Points + Assists
+GENERAL,ANY,11226,Player Points + Rebounds
+GENERAL,ANY,11227,Player Points + Rebounds + Assists
+GENERAL,ANY,11228,Player Rebounds + Assists 
+GENERAL,ANY,11229,Player Steals 
+GENERAL,ANY,11230,Player Steals + Blocks
+GENERAL,ANY,11231,Player Aces
+GENERAL,ANY,11232,Player Break Points Won
+GENERAL,ANY,11234,Anytime Card Receiver
+GENERAL,ANY,11235,Anytime Red Card Receiver
+GENERAL,ANY,11236,First Goal Scorer
+GENERAL,ANY,11237,Last Goal Scorer
+GENERAL,ANY,11238,Player Shots On Target
+GENERAL,ANY,11239,Player Shots
+GENERAL,ANY,0,Moneyline
+GENERAL,ANY,10017,Team Total
+GENERAL,ANY,10018,Team Total
+POINT_BASED,ANY,10001,Point Spread
+POINT_BASED,ANY,10002 Points
+QUARTER_BASED,ANY,10031,1st Quarter Total Points
+QUARTER_BASED,ANY,10032,2nd Quarter Total Points
+QUARTER_BASED,ANY,10033,3rd Quarter Total Points
+QUARTER_BASED,ANY,10034,4th Quarter Total Points
+QUARTER_BASED,ANY,10041,1st Quarter Point Spread
+QUARTER_BASED,ANY,10042,2nd Quarter Point Spread
+QUARTER_BASED,ANY,10043,3rd Quarter Point Spread
+QUARTER_BASED,ANY,10044,4th Quarter Point Spread
+QUARTER_BASED,ANY,10071,1st Half Point Spread
+QUARTER_BASED,ANY,10072,2nd Half Point Spread
+QUARTER_BASED,ANY,10061,1st Half Total Points
+QUARTER_BASED,ANY,10062,2nd Half Total Points
+QUARTER_BASED,ANY,10021,1st Quarter Moneyline
+QUARTER_BASED,ANY,10022,2nd Quarter Moneyline
+QUARTER_BASED,ANY,10023,3rd Quarter Moneyline
+QUARTER_BASED,ANY,10024,4th Quarter Moneyline
+QUARTER_BASED,ANY,10051,1st Half Moneyline
+QUARTER_BASED,ANY,10052,2nd Half Moneyline
