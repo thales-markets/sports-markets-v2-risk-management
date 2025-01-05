@@ -19,7 +19,6 @@ GENERAL,ANY,11049,Player First Touchdown Scorer
 GENERAL,ANY,11051,Player Passing Yards
 GENERAL,ANY,11052,Player Passing Touchdowns
 GENERAL,ANY,11053,Player Rushing Yards
-
 GENERAL,ANY,11055,Anytime Touchdown Scorer
 GENERAL,ANY,11056,Player Last Touchdown Scored
 GENERAL,ANY,11057,Player Receiving Yards
@@ -65,3 +64,23 @@ GENERAL,ANY,11239,Player Shots
 GENERAL,ANY,0,Moneyline
 GENERAL,ANY,10017,Team Total
 GENERAL,ANY,10018,Team Total
+POINT_BASED,ANY,10001,Point Spread
+POINT_BASED,ANY,10002,Total Points
+QUARTER_BASED,ANY,10031,1st Quarter Total Points
+QUARTER_BASED,ANY,10032,2nd Quarter Total Points
+QUARTER_BASED,ANY,10033,3rd Quarter Total Points
+QUARTER_BASED,ANY,10034,4th Quarter Total Points
+QUARTER_BASED,ANY,10041,1st Quarter Point Spread
+QUARTER_BASED,ANY,10042,2nd Quarter Point Spread
+QUARTER_BASED,ANY,10043,3rd Quarter Point Spread
+QUARTER_BASED,ANY,10044,4th Quarter Point Spread
+QUARTER_BASED,ANY,10071,1st Half Point Spread
+QUARTER_BASED,ANY,10072,2nd Half Point Spread
+QUARTER_BASED,ANY,10061,1st Half Total Points
+QUARTER_BASED,ANY,10062,2nd Half Total Points
+QUARTER_BASED,ANY,10021,1st Quarter Moneyline
+QUARTER_BASED,ANY,10022,2nd Quarter Moneyline
+QUARTER_BASED,ANY,10023,3rd Quarter Moneyline
+QUARTER_BASED,ANY,10024,4th Quarter Moneyline
+QUARTER_BASED,ANY,10051,1st Half Moneyline
+QUARTER_BASED,ANY,10052,2nd Half Moneyline
