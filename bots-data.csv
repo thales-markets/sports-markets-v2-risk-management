@@ -23,7 +23,7 @@ overtime-puller-opticodds-bra,Brazil - Serie A,268,5,30s,0xe5fCBb61EcD215152A38d
 overtime-puller-opticodds-saudi,Saudi Arabia - Saudi League,536,5,30s,0x7138ae438D12B3272a4825D73AF3eE8cA7F1f82c,
 overtime-puller-opticodds-scottland,Scotland - Premiership,20101,5,30s,0x6782c82de4d258575621accfa244dec5144ac4ec,
 overtime-puller-opticodds-turkey,Turkey - Super Lig,20108,5,30s,0x8222b4cb28a14743f13f825b1788bd74f24b5a97,
-overtime-puller-opticodds-portugal,Portugal - Primeira Liga,61,5,30s,0x25632fb184dA434eae4107d862b10Ec1B29083FA,
+overtime-puller-opticodds-portugal,Portugal - Primeira Liga;Portugal - League Cup,61,5,30s,0x25632fb184dA434eae4107d862b10Ec1B29083FA,
 overtime-puller-opticodds-holland,Netherlands - Eredivisie,57,5,30s,0x4ef22b2132eF6b497e8Da56EFc1e440FbA6B24e9,
 overtime-puller-opticodds-belgium,Belgium - Jupiler Pro League,20102,5,30s,0x6ec7dc7121c0eb671704c96a049189e5de2a0307,
 overtime-puller-opticodds-austria,Austria - Bundesliga,20113,5,30s,0xe7e408df0148673ed963fe2e32b72638277ec158,
