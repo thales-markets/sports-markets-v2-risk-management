@@ -32,7 +32,7 @@ overtime-puller-opticodds-swiss,Switzerland - Super League,20114,5,30s,0x79b78bc
 overtime-puller-opticodds-argentina,Argentina - Primera Division,20106,5,30s,0xaa9c97daa593e4171adac3ef960f99b96ff59ed6,
 overtime-puller-opticodds-uefa-nations,UEFA - Nations League,9806,5,30s,0x4ef22b2132eF6b497e8Da56EFc1e440FbA6B24e9, 
 overtime-puller-opticodds-conference-league,UEFA - Europa Conference League,10216,5,30s,0xA635170ceA886BD548117e662D42Eb28d78F0d83,
-overtime-puller-opticodds-en-championship,England - Championship;England - EFL Cup;England - League 1,20011;20125,5,30s,0x1932BEd29Ee58C26072F8Ac3456A11CD39c8Cab8,
+overtime-puller-opticodds-en-championship,England - Championship;England - EFL Cup;England - League 1;England - FA Cup,20011;20125,5,30s,0x1932BEd29Ee58C26072F8Ac3456A11CD39c8Cab8,
 overtime-puller-opticodds-copa-brasil,Brazil - Copa do Brasil,20002,5,30s,0xECD83Cf92F4977A6a0926da965b0028040531190,
 overtime-puller-opticodds-euro-basketball,Euroleague;Eurocup,399;20200,2,30s,0xC3b6d636C12A8eB8Fc55F654dB6e5305f9c5C12A,
 overtime-puller-opticodds-basketball-leagues,Italy - Lega Basket Serie A;Germany - BBL;France - LNB Pro A;Australia - NBL;Spain - Liga ACB,20202;20203;20204;20206;20201,2,30s,0xF9F46F57C9C55060ED189998971f21f309386A7a,
