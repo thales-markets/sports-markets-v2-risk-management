@@ -109,12 +109,42 @@ Primeira Liga,61,10002,Total Goals,Total,false,0.75,0.25,2
 WTA Events,152,0,Moneyline,Moneyline,true,0.75,0.25,2
 WTA Events,152,10001,Game Spread,Spread,true,0.75,0.25,2
 WTA Events,152,10002,Total Games,Total,true,0.75,0.25,2
+WTA Events,152,10031,1st Set Total Games,Total,true,0.75,0.25,2
+WTA Events,152,10032,2nd Set Total Games,Total,true,0.75,0.25,2
+WTA Events,152,10033,3rd Set Total Games,Total,true,0.75,0.25,2
+WTA Events,152,10034,3rd Set Total Games,Total,true,0.75,0.25,2
+WTA Events,152,10035,3rd Set Total Games,Total,true,0.75,0.25,2
+WTA Events,152,10041,1st Set Game Spread,Spread,true,0.75,0.25,2
+WTA Events,152,10042,2nd Set Game Spread,Spread,true,0.75,0.25,2
+WTA Events,152,10043,3rd Set Game Spread,Spread,true,0.75,0.25,2
+WTA Events,152,10044,4th Set Game Spread,Spread,true,0.75,0.25,2
+WTA Events,152,10045,5th Set Game Spread,Spread,true,0.75,0.25,2
+WTA Events,152,10021,1st Set Moneyline,Moneyline,true,0.99,0.01,2
+WTA Events,152,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,2
+WTA Events,152,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,2
+WTA Events,152,10024,4th Set Moneyline,Moneyline,true,0.99,0.01,2
+WTA Events,152,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,2
 Grand Slam,153,0,Moneyline,Moneyline,true,0.75,0.25,2
 Grand Slam,153,10001,Game Spread,Spread,true,0.75,0.25,2
 Grand Slam,153,10002,Total Games,Total,true,0.75,0.25,2
 ATP Events,156,0,Moneyline,Moneyline,true,0.75,0.25,2
 ATP Events,156,10001,Game Spread,Spread,true,0.75,0.25,2
 ATP Events,156,10002,Total Games,Total,true,0.75,0.25,2
+ATP Events,156,10031,1st Set Total Games,Total,true,0.75,0.25,2
+ATP Events,156,10032,2nd Set Total Games,Total,true,0.75,0.25,2
+ATP Events,156,10033,3rd Set Total Games,Total,true,0.75,0.25,2
+ATP Events,156,10034,3rd Set Total Games,Total,true,0.75,0.25,2
+ATP Events,156,10035,3rd Set Total Games,Total,true,0.75,0.25,2
+ATP Events,156,10041,1st Set Game Spread,Spread,true,0.75,0.25,2
+ATP Events,156,10042,2nd Set Game Spread,Spread,true,0.75,0.25,2
+ATP Events,156,10043,3rd Set Game Spread,Spread,true,0.75,0.25,2
+ATP Events,156,10044,4th Set Game Spread,Spread,true,0.75,0.25,2
+ATP Events,156,10045,5th Set Game Spread,Spread,true,0.75,0.25,2
+ATP Events,156,10021,1st Set Moneyline,Moneyline,true,0.99,0.01,2
+ATP Events,156,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,2
+ATP Events,156,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,2
+ATP Events,156,10024,4th Set Moneyline,Moneyline,true,0.99,0.01,2
+ATP Events,156,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,2
 Liga MX,230,0,Moneyline,Moneyline,true,0.75,0.25,2
 Liga MX,230,10001,Goal Spread,Spread,false,0.75,0.25,2
 Liga MX,230,10002,Total Goals,Total,false,0.75,0.25,2
