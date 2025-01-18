@@ -1,546 +1,546 @@
 name,sportId,typeId,marketName,type,enabled,minOdds,maxOdds,addedSpread
-NCAAF,1,0,Moneyline,Moneyline,true,0.75,0.25,0
-NCAAF,1,10001,Point Spread,Spread,true,0.65,0.35,0
-NCAAF,1,10002,Total Points,Total,true,0.65,0.35,0
-NCAAF,1,10017,Team Total,Total,true,0.65,0.35,0
-NCAAF,1,10018,Team Total,Total,true,0.65,0.35,0
-NCAAF,1,10031,1st Quarter Total Points,Total,true,0.65,0.35,0
-NCAAF,1,10032,2nd Quarter Total Points,Total,true,0.65,0.35,0
-NCAAF,1,10033,3rd Quarter Total Points,Total,true,0.65,0.35,0
-NCAAF,1,10034,4th Quarter Total Points,Total,true,0.65,0.35,0
-NCAAF,1,10041,1st Quarter Point Spread,Spread,true,0.65,0.35,0
-NCAAF,1,10042,2nd Quarter Point Spread,Spread,true,0.65,0.35,0
-NCAAF,1,10043,3rd Quarter Point Spread,Spread,true,0.65,0.35,0
-NCAAF,1,10044,4th Quarter Point Spread,Spread,true,0.65,0.35,0
-NCAAF,1,10071,1st Half Point Spread,Spread,true,0.65,0.35,0
-NCAAF,1,10072,2nd Half Point Spread,Spread,true,0.65,0.35,0
-NCAAF,1,10061,1st Half Total Points Points,Total,true,0.65,0.35,0
-NCAAF,1,10062,2nd Half Total Points,Total,true,0.65,0.35,0
-NCAAF,1,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,0
-NCAAF,1,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,0
-NCAAF,1,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,0
-NCAAF,1,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,0
-NCAAF,1,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-NCAAF,1,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-NFL,2,0,Moneyline,Moneyline,true,0.75,0.25,0
-NFL,2,10001,Point Spread,Spread,true,0.65,0.35,0
-NFL,2,10002,Total Points,Total,true,0.65,0.35,0
-NFL,2,10017,Team Total,Total,true,0.65,0.35,0
-NFL,2,10018,Team Total,Total,true,0.65,0.35,0
-NFL,2,10031,1st Quarter Total Points,Total,true,0.65,0.35,0
-NFL,2,10032,2nd Quarter Total Points,Total,true,0.65,0.35,0
-NFL,2,10033,3rd Quarter Total Points,Total,true,0.65,0.35,0
-NFL,2,10034,4th Quarter Total Points,Total,true,0.65,0.35,0
-NFL,2,10041,1st Quarter Point Spread,Spread,true,0.65,0.35,0
-NFL,2,10042,2nd Quarter Point Spread,Spread,true,0.65,0.35,0
-NFL,2,10043,3rd Quarter Point Spread,Spread,true,0.65,0.35,0
-NFL,2,10044,4th Quarter Point Spread,Spread,true,0.65,0.35,0
-NFL,2,10071,1st Half Point Spread,Spread,true,0.65,0.35,0
-NFL,2,10072,2nd Half Point Spread,Spread,true,0.65,0.35,0
-NFL,2,10061,1st Half Total Points Points,Total,true,0.65,0.35,0
-NFL,2,10062,2nd Half Total Points,Total,true,0.65,0.35,0
-NFL,2,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,0
-NFL,2,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,0
-NFL,2,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,0
-NFL,2,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,0
-NFL,2,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-NFL,2,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-MLB,3,0,Moneyline,Moneyline,true,0.75,0.25,0
-MLB,3,10001,Run Line,Spread,true,0.65,0.35,0
-MLB,3,10002,Total Runs,Total,true,0.65,0.35,0
-NBA,4,0,Moneyline,Moneyline,true,0.75,0.25,0
-NBA,4,10001,Point Spread,Spread,true,0.65,0.35,0
-NBA,4,10002,Total Points,Total,true,0.65,0.35,0
-NBA,4,10017,Team Total,Total,true,0.65,0.35,0
-NBA,4,10018,Team Total,Total,true,0.65,0.35,0
-NBA,4,10031,1st Quarter Total Points,Total,true,0.65,0.35,0
-NBA,4,10032,2nd Quarter Total Points,Total,true,0.65,0.35,0
-NBA,4,10033,3rd Quarter Total Points,Total,true,0.65,0.35,0
-NBA,4,10034,4th Quarter Total Points,Total,true,0.65,0.35,0
-NBA,4,10041,1st Quarter Point Spread,Spread,true,0.65,0.35,0
-NBA,4,10042,2nd Quarter Point Spread,Spread,true,0.65,0.35,0
-NBA,4,10043,3rd Quarter Point Spread,Spread,true,0.65,0.35,0
-NBA,4,10044,4th Quarter Point Spread,Spread,true,0.65,0.35,0
-NBA,4,10071,1st Half Point Spread,Spread,true,0.65,0.35,0
-NBA,4,10072,2nd Half Point Spread,Spread,true,0.65,0.35,0
-NBA,4,10061,1st Half Total Points,Total,true,0.65,0.35,0
-NBA,4,10062,2nd Half Total Points,Total,true,0.65,0.35,0
-NBA,4,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,0
-NBA,4,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,0
-NBA,4,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,0
-NBA,4,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,0
-NBA,4,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-NBA,4,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-NCAAB,5,0,Moneyline,Moneyline,true,0.75,0.25,0
-NCAAB,5,10001,Point Spread,Spread,true,0.65,0.35,0
-NCAAB,5,10002,Total Points,Total,true,0.65,0.35,0
-NCAAB,5,10017,Team Total,Total,true,0.65,0.35,0
-NCAAB,5,10018,Team Total,Total,true,0.65,0.35,0
-NCAAB,5,10031,1st Quarter Total Points,Total,true,0.65,0.35,0
-NCAAB,5,10032,2nd Quarter Total Points,Total,true,0.65,0.35,0
-NCAAB,5,10033,3rd Quarter Total Points,Total,true,0.65,0.35,0
-NCAAB,5,10034,4th Quarter Total Points,Total,true,0.65,0.35,0
-NCAAB,5,10041,1st Quarter Point Spread,Spread,true,0.65,0.35,0
-NCAAB,5,10042,2nd Quarter Point Spread,Spread,true,0.65,0.35,0
-NCAAB,5,10043,3rd Quarter Point Spread,Spread,true,0.65,0.35,0
-NCAAB,5,10044,4th Quarter Point Spread,Spread,true,0.65,0.35,0
-NCAAB,5,10071,1st Half Point Spread,Spread,true,0.65,0.35,0
-NCAAB,5,10072,2nd Half Point Spread,Spread,true,0.65,0.35,0
-NCAAB,5,10061,1st Half Total Points,Total,true,0.65,0.35,0
-NCAAB,5,10062,2nd Half Total Points,Total,true,0.65,0.35,0
-NCAAB,5,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,0
-NCAAB,5,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,0
-NCAAB,5,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,0
-NCAAB,5,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,0
-NCAAB,5,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-NCAAB,5,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-NHL,6,0,Moneyline,Moneyline,true,0.75,0.25,0
-NHL,6,10001,Puck Line,Spread,true,0.65,0.35,0
-NHL,6,10002,Total Goals,Total,true,0.65,0.35,0
-NHL,6,10017,Team Total,Total,true,0.65,0.35,0
-NHL,6,10018,Team Total,Total,true,0.65,0.35,0
-NHL,6,10031,1st Period Total Goals,Total,true,0.65,0.35,0
-NHL,6,10032,2nd Period Total Goals,Total,true,0.65,0.35,0
-NHL,6,10033,3rd Period Total Goals,Total,true,0.65,0.35,0
-NHL,6,10041,1st Period Puck Line,Spread,true,0.65,0.35,0
-NHL,6,10042,2nd Period Puck Line,Spread,true,0.65,0.35,0
-NHL,6,10043,3rd Period Puck Line,Spread,true,0.65,0.35,0
-NHL,6,10021,1st Period Moneyline 3-Way,Moneyline,true,0.99,0.01,0
-NHL,6,10022,2nd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,0
-NHL,6,10023,3rd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,0
-WNBA,8,0,Moneyline,Moneyline,true,0.75,0.25,0
-WNBA,8,10001,Point Spread,Spread,true,0.65,0.35,0
-WNBA,8,10002,Total Points,Total,true,0.65,0.35,0
-MLS,10,0,Moneyline,Moneyline,true,0.75,0.25,0
-MLS,10,10001,Goal Spread,Spread,false,0.75,0.25,0
-MLS,10,10002,Total Goals,Total,false,0.75,0.25,0
-EPL,11,0,Moneyline,Moneyline,true,0.75,0.25,0
-EPL,11,10001,Goal Spread,Spread,true,0.65,0.35,0
-EPL,11,10002,Total Goals,Total,true,0.65,0.35,0
-EPL,11,10017,Team Total,Total,true,0.65,0.35,0
-EPL,11,10018,Team Total,Total,true,0.65,0.35,0
-EPL,11,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-EPL,11,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-EPL,11,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-EPL,11,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-Ligue 1,12,0,Moneyline,Moneyline,true,0.75,0.25,0
-Ligue 1,12,10001,Goal Spread,Spread,true,0.65,0.35,0
-Ligue 1,12,10002,Total Goals,Total,true,0.65,0.35,0
-Ligue 1,12,10017,Team Total,Total,true,0.65,0.35,0
-Ligue 1,12,10018,Team Total,Total,true,0.65,0.35,0
-Ligue 1,12,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-Ligue 1,12,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-Ligue 1,12,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-Ligue 1,12,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-Bundesliga,13,0,Moneyline,Moneyline,true,0.75,0.25,0
-Bundesliga,13,10001,Goal Spread,Spread,true,0.65,0.35,0
-Bundesliga,13,10002,Total Goals,Total,true,0.65,0.35,0
-Bundesliga,13,10017,Team Total,Total,true,0.65,0.35,0
-Bundesliga,13,10018,Team Total,Total,true,0.65,0.35,0
-Bundesliga,13,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-Bundesliga,13,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-Bundesliga,13,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-Bundesliga,13,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-La Liga,14,0,Moneyline,Moneyline,true,0.75,0.25,0
-La Liga,14,10001,Goal Spread,Spread,true,0.65,0.35,0
-La Liga,14,10002,Total Goals,Total,true,0.65,0.35,0
-La Liga,14,10017,Team Total,Total,true,0.65,0.35,0
-La Liga,14,10018,Team Total,Total,true,0.65,0.35,0
-La Liga,14,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-La Liga,14,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-La Liga,14,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-La Liga,14,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-Serie A,15,0,Moneyline,Moneyline,true,0.75,0.25,0
-Serie A,15,10001,Goal Spread,Spread,true,0.65,0.35,0
-Serie A,15,10002,Total Goals,Total,true,0.65,0.35,0
-Serie A,15,10017,Team Total,Total,true,0.65,0.35,0
-Serie A,15,10018,Team Total,Total,true,0.65,0.35,0
-Serie A,15,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-Serie A,15,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-Serie A,15,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-Serie A,15,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-UEFA Champions League,16,0,Moneyline,Moneyline,true,0.75,0.25,0
-UEFA Champions League,16,10001,Goal Spread,Spread,true,0.65,0.35,0
-UEFA Champions League,16,10002,Total Goals,Total,true,0.65,0.35,0
-UEFA Champions League,16,10017,Team Total,Total,true,0.65,0.35,0
-UEFA Champions League,16,10018,Team Total,Total,true,0.65,0.35,0
-UEFA Champions League,16,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-UEFA Champions League,16,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-UEFA Champions League,16,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-UEFA Champions League,16,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-UEFA Europa League,17,0,Moneyline,Moneyline,true,0.75,0.25,0
-UEFA Europa League,17,10001,Goal Spread,Spread,true,0.65,0.35,0
-UEFA Europa League,17,10002,Total Goals,Total,true,0.65,0.35,0
-UEFA Europa League,17,10017,Team Total,Total,true,0.65,0.35,0
-UEFA Europa League,17,10018,Team Total,Total,true,0.65,0.35,0
-UEFA Europa League,17,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-UEFA Europa League,17,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-UEFA Europa League,17,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-UEFA Europa League,17,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-FIFA World Cup Qualifiers,18,0,Moneyline,Moneyline,true,0.75,0.25,0
-FIFA World Cup Qualifiers,18,10001,Goal Spread,Spread,true,0.65,0.35,0
-FIFA World Cup Qualifiers,18,10002,Total Goals,Total,true,0.65,0.35,0
-FIFA World Cup Qualifiers,18,10017,Team Total,Total,true,0.65,0.35,0
-FIFA World Cup Qualifiers,18,10018,Team Total,Total,true,0.65,0.35,0
-Copa America,44,0,Moneyline,Moneyline,true,0.75,0.25,0
-Copa America,44,10001,Goal Spread,Spread,false,0.75,0.25,0
-Copa America,44,10002,Total Goals,Total,false,0.75,0.25,0
-UEFA EURO 2024,50,0,Moneyline,Moneyline,false,0.75,0.25,0
-UEFA EURO 2024,50,10001,Goal Spread,Spread,false,0.75,0.25,0
-UEFA EURO 2024,50,10002,Total Goals,Total,false,0.75,0.25,0
-WTA Events,152,0,Moneyline,Moneyline,true,0.75,0.25,0
-WTA Events,152,10001,Game Spread,Spread,true,0.65,0.35,0
-WTA Events,152,10002,Total Games,Total,true,0.65,0.35,0
-WTA Events,152,10017,Player Games Won,Total,true,0.75,0.25,0
-WTA Events,152,10018,Player Games Won,Total,true,0.75,0.25,0
-WTA Events,152,10031,1st Set Total Games,Total,true,0.75,0.25,0
-WTA Events,152,10032,2nd Set Total Games,Total,true,0.75,0.25,0
-WTA Events,152,10033,3rd Set Total Games,Total,true,0.75,0.25,0
-WTA Events,152,10034,3rd Set Total Games,Total,true,0.75,0.25,0
-WTA Events,152,10035,3rd Set Total Games,Total,true,0.75,0.25,0
-WTA Events,152,10041,1st Set Game Spread,Spread,true,0.75,0.25,0
-WTA Events,152,10042,2nd Set Game Spread,Spread,true,0.75,0.25,0
-WTA Events,152,10043,3rd Set Game Spread,Spread,true,0.75,0.25,0
-WTA Events,152,10044,4th Set Game Spread,Spread,true,0.75,0.25,0
-WTA Events,152,10045,5th Set Game Spread,Spread,true,0.75,0.25,0
-WTA Events,152,10021,1st Set Moneyline,Moneyline,true,0.99,0.01,0
-WTA Events,152,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,0
-WTA Events,152,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,0
-WTA Events,152,10024,4th Set Moneyline,Moneyline,true,0.99,0.01,0
-WTA Events,152,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,0
-Grand Slam,153,0,Moneyline,Moneyline,true,0.75,0.25,0
-Grand Slam,153,10001,Game Spread,Spread,true,0.65,0.35,0
-Grand Slam,153,10002,Total Games,Total,true,0.65,0.35,0
-ATP Events,156,0,Moneyline,Moneyline,true,0.75,0.25,0
-ATP Events,156,10001,Game Spread,Spread,true,0.65,0.35,0
-ATP Events,156,10002,Total Games,Total,true,0.65,0.35,0
-ATP Events,156,10017,Player Games Won,Total,true,0.75,0.25,0
-ATP Events,156,10018,Player Games Won,Total,true,0.75,0.25,0
-ATP Events,156,10031,1st Set Total Games,Total,true,0.75,0.25,0
-ATP Events,156,10032,2nd Set Total Games,Total,true,0.75,0.25,0
-ATP Events,156,10033,3rd Set Total Games,Total,true,0.75,0.25,0
-ATP Events,156,10034,3rd Set Total Games,Total,true,0.75,0.25,0
-ATP Events,156,10035,3rd Set Total Games,Total,true,0.75,0.25,0
-ATP Events,156,10041,1st Set Game Spread,Spread,true,0.75,0.25,0
-ATP Events,156,10042,2nd Set Game Spread,Spread,true,0.75,0.25,0
-ATP Events,156,10043,3rd Set Game Spread,Spread,true,0.75,0.25,0
-ATP Events,156,10044,4th Set Game Spread,Spread,true,0.75,0.25,0
-ATP Events,156,10045,5th Set Game Spread,Spread,true,0.75,0.25,0
-ATP Events,156,10021,1st Set Moneyline,Moneyline,true,0.99,0.01,0
-ATP Events,156,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,0
-ATP Events,156,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,0
-ATP Events,156,10024,4th Set Moneyline,Moneyline,true,0.99,0.01,0
-ATP Events,156,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,0
-Liga MX,230,0,Moneyline,Moneyline,true,0.75,0.25,0
-Liga MX,230,10001,Goal Spread,Spread,false,0.75,0.25,0
-Liga MX,230,10002,Total Goals,Total,false,0.75,0.25,0
-Euroleague,399,0,Moneyline,Moneyline,true,0.75,0.25,0
-Euroleague,399,10001,Point Spread,Spread,true,0.65,0.35,0
-Euroleague,399,10002,Total Points,Total,true,0.65,0.35,0
-Euroleague,399,10017,Team Total,Total,true,0.65,0.35,0
-Euroleague,399,10018,Team Total,Total,true,0.65,0.35,0
-Euroleague,399,10031,1st Quarter Total Points,Total,true,0.65,0.35,0
-Euroleague,399,10032,2nd Quarter Total Points,Total,true,0.65,0.35,0
-Euroleague,399,10033,3rd Quarter Total Points,Total,true,0.65,0.35,0
-Euroleague,399,10034,4th Quarter Total Points,Total,true,0.65,0.35,0
-Euroleague,399,10041,1st Quarter Point Spread,Spread,true,0.65,0.35,0
-Euroleague,399,10042,2nd Quarter Point Spread,Spread,true,0.65,0.35,0
-Euroleague,399,10043,3rd Quarter Point Spread,Spread,true,0.65,0.35,0
-Euroleague,399,10044,4th Quarter Point Spread,Spread,true,0.65,0.35,0
-Euroleague,399,10071,1st Half Point Spread,Spread,true,0.65,0.35,0
-Euroleague,399,10072,2nd Half Point Spread,Spread,true,0.65,0.35,0
-Euroleague,399,10061,1st Half Total Points,Total,true,0.65,0.35,0
-Euroleague,399,10062,2nd Half Total Points,Total,true,0.65,0.35,0
-Euoleague,399,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,0
-Euroleague,399,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,0
-Euroleague,399,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,0
-Euroleague,399,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,0
-Euroleague,399,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-Euroleague,399,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-Saudi Professional League,536,0,Moneyline,Moneyline,true,0.75,0.25,0
-Saudi Professional League,536,10001,Goal Spread,Spread,false,0.75,0.25,0
-Saudi Professional League,536,10002,Total Goals,Total,false,0.75,0.25,0
-UEFA Nations League,9806,0,Moneyline,Moneyline,true,0.75,0.25,0
-UEFA Nations League,9806,10001,Goal Spread,Spread,true,0.65,0.35,0
-UEFA Nations League,9806,10002,Total Goals,Total,true,0.65,0.35,0
-UEFA Nations League,9806,10017,Team Total,Total,true,0.65,0.35,0
-UEFA Nations League,9806,10018,Team Total,Total,true,0.65,0.35,0
-UEFA Conference League,10216,0,Moneyline,Moneyline,true,0.75,0.25,0
-UEFA Conference League,10216,10001,Goal Spread,Spread,false,0.75,0.25,0
-UEFA Conference League,10216,10002,Total Goals,Total,false,0.75,0.25,0
-UEFA Super Cup,20001,0,Moneyline,Moneyline,true,0.75,0.25,0
-UEFA Super Cup,20001,10001,Goal Spread,Spread,false,0.75,0.25,0
-UEFA Super Cup,20001,10002,Total Goals,Total,false,0.75,0.25,0
-Copa do Brasil,20002,0,Moneyline,Moneyline,true,0.75,0.25,0
-Copa do Brasil,20002,10001,Goal Spread,Spread,false,0.75,0.25,0
-Copa do Brasil,20002,10002,Total Goals,Total,false,0.75,0.25,0
-Swiss superleague,20114,0,Moneyline,Moneyline,true,0.75,0.25,0
-Swiss superleague,20114,10001,Goal Spread,Spread,true,0.65,0.35,0
-Swiss superleague,20114,10002,Total Goals,Total,true,0.65,0.35,0
-Swiss superleague,20114,10017,Team Total,Total,true,0.65,0.35,0
-Swiss superleague,20114,10018,Team Total,Total,true,0.65,0.35,0
-Swiss superleague,20114,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-Swiss superleague,20114,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-Swiss superleague,20114,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-Swiss superleague,20114,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-Belgium league 1,20102,0,Moneyline,Moneyline,true,0.75,0.25,0
-Belgium league 1,20102,10001,Goal Spread,Spread,true,0.65,0.35,0
-Belgium league 1,20102,10002,Total Goals,Total,true,0.65,0.35,0
-Belgium league 1,20102,10017,Team Total,Total,true,0.65,0.35,0
-Belgium league 1,20102,10018,Team Total,Total,true,0.65,0.35,0
-Belgium league 1,20102,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-Belgium league 1,20102,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-Belgium league 1,20102,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-Belgium league 1,20102,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-Turkey League 1,20108,0,Moneyline,Moneyline,true,0.75,0.25,0
-Turkey League 1,20108,10001,Goal Spread,Spread,true,0.65,0.35,0
-Turkey League 1,20108,10002,Total Goals,Total,true,0.65,0.35,0
-Turkey League 1,20108,10017,Team Total,Total,true,0.65,0.35,0
-Turkey League 1,20108,10018,Team Total,Total,true,0.65,0.35,0
-Turkey League 1,20108,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-Turkey League 1,20108,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-Turkey League 1,20108,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-Turkey League 1,20108,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-Argentina league 1,20106,0,Moneyline,Moneyline,true,0.75,0.25,0
-Argentina league 1,20106,10001,Goal Spread,Spread,true,0.65,0.35,0
-Argentina league 1,20106,10002,Total Goals,Total,true,0.65,0.35,0
-Argentina league 1,20106,10017,Team Total,Total,true,0.65,0.35,0
-Argentina league 1,20106,10018,Team Total,Total,true,0.65,0.35,0
-Argentina league 1,20106,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-Argentina league 1,20106,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-Argentina league 1,20106,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-Argentina league 1,20106,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-China league 1,20112,0,Moneyline,Moneyline,true,0.75,0.25,0
-China league 1,20112,10001,Goal Spread,Spread,true,0.65,0.35,0
-China league 1,20112,10002,Total Goals,Total,true,0.65,0.35,0
-China league 1,20112,10017,Team Total,Total,true,0.65,0.35,0
-China league 1,20112,10018,Team Total,Total,true,0.65,0.35,0
-China league 1,20112,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-China league 1,20112,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-China league 1,20112,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-China league 1,20112,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-Scotland league 1,20101,0,Moneyline,Moneyline,true,0.75,0.25,0
-Scotland league 1,20101,10001,Goal Spread,Spread,true,0.65,0.35,0
-Scotland league 1,20101,10002,Total Goals,Total,true,0.65,0.35,0
-Scotland league 1,20101,10017,Team Total,Total,true,0.65,0.35,0
-Scotland league 1,20101,10018,Team Total,Total,true,0.65,0.35,0
-Scotland league 1,20101,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-Scotland league 1,20101,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-Scotland league 1,20101,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-Scotland league 1,20101,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-England EFL cup,20125,0,Moneyline,Moneyline,true,0.75,0.25,0
-England EFL cup,20125,10001,Goal Spread,Spread,true,0.65,0.35,0
-England EFL cup,20125,10002,Total Goals,Total,true,0.65,0.35,0
-England EFL cup,20125,10017,Team Total,Total,true,0.65,0.35,0
-England EFL cup,20125,10018,Team Total,Total,true,0.65,0.35,0
-England EFL cup,20125,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-England EFL cup,20125,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-England EFL cup,20125,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-England EFL cup,20125,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-Spain La Liga 2,20116,0,Moneyline,Moneyline,true,0.75,0.25,0
-Spain La Liga 2,20116,10001,Goal Spread,Spread,true,0.65,0.35,0
-Spain La Liga 2,20116,10002,Total Goals,Total,true,0.65,0.35,0
-Spain La Liga 2,20116,10017,Team Total,Total,true,0.65,0.35,0
-Spain La Liga 2,20116,10018,Team Total,Total,true,0.65,0.35,0
-Spain La Liga 2,20116,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-Spain La Liga 2,20116,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-Spain La Liga 2,20116,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-Spain La Liga 2,20116,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-Germany Bundesliga 2,20115,0,Moneyline,Moneyline,true,0.75,0.25,0
-Germany Bundesliga 2,20115,10001,Goal Spread,Spread,true,0.65,0.35,0
-Germany Bundesliga 2,20115,10002,Total Goals,Total,true,0.65,0.35,0
-Germany Bundesliga 2,20115,10017,Team Total,Total,true,0.65,0.35,0
-Germany Bundesliga 2,20115,10018,Team Total,Total,true,0.65,0.35,0
-Germany Bundesliga 2,20115,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-Germany Bundesliga 2,20115,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-Germany Bundesliga 2,20115,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-Germany Bundesliga 2,20115,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-AFC Champions League,20128,0,Moneyline,Moneyline,true,0.75,0.25,0
-AFC Champions League,20128,10001,Goal Spread,Spread,true,0.65,0.35,0
-AFC Champions League,20128,10002,Total Goals,Total,true,0.65,0.35,0
-AFC Champions League,20128,10017,Team Total,Total,true,0.65,0.35,0
-AFC Champions League,20128,10018,Team Total,Total,true,0.65,0.35,0
-AFC Champions League,20128,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-AFC Champions League,20128,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-AFC Champions League,20128,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-AFC Champions League,20128,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-Spain Copa del Rey,138,0,Moneyline,Moneyline,true,0.75,0.25,0
-Spain Copa del Rey,138,10001,Goal Spread,Spread,true,0.65,0.35,0
-Spain Copa del Rey,138,10002,Total Goals,Total,true,0.65,0.35,0
-Spain Copa del Rey,138,10017,Team Total,Total,true,0.65,0.35,0
-Spain Copa del Rey,138,10018,Team Total,Total,true,0.65,0.35,0
-Spain Copa del Rey,138,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-Spain Copa del Rey,138,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-Spain Copa del Rey,138,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-Spain Copa del Rey,138,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-DFB Pokal,209,0,Moneyline,Moneyline,true,0.75,0.25,0
-DFB Pokal,209,10001,Goal Spread,Spread,true,0.65,0.35,0
-DFB Pokal,209,10002,Total Goals,Total,true,0.65,0.35,0
-DFB Pokal,209,10017,Team Total,Total,true,0.65,0.35,0
-DFB Pokal,209,10018,Team Total,Total,true,0.65,0.35,0
-DFB Pokal,209,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-DFB Pokal,209,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-DFB Pokal,209,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-DFB Pokal,209,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-Coppa Italia,141,0,Moneyline,Moneyline,true,0.75,0.25,0
-Coppa Italia,141,10001,Goal Spread,Spread,true,0.65,0.35,0
-Coppa Italia,141,10002,Total Goals,Total,true,0.65,0.35,0
-Coppa Italia,141,10017,Team Total,Total,true,0.65,0.35,0
-Coppa Italia,141,10018,Team Total,Total,true,0.65,0.35,0
-Coppa Italia,141,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-Coppa Italia,141,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-Coppa Italia,141,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-Coppa Italia,141,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-EFL Championship,20011,0,Moneyline,Moneyline,true,0.75,0.25,0
-EFL Championship,20011,10001,Goal Spread,Spread,true,0.65,0.35,0
-EFL Championship,20011,10002,Total Goals,Total,true,0.65,0.35,0
-EFL Championship,20011,10017,Team Total,Total,true,0.65,0.35,0
-EFL Championship,20011,10018,Team Total,Total,true,0.65,0.35,0
-EFL Championship,20011,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-EFL Championship,20011,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-EFL Championship,20011,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-EFL Championship,20011,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-Brazil Seria A,268,0,Moneyline,Moneyline,true,0.75,0.25,0
-Brazil Seria A,268,10001,Goal Spread,Spread,true,0.65,0.35,0
-Brazil Seria A,268,10002,Total Goals,Total,true,0.65,0.35,0
-Brazil Seria A,268,10017,Team Total,Total,true,0.65,0.35,0
-Brazil Seria A,268,10018,Team Total,Total,true,0.65,0.35,0
-Brazil Seria A,268,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-Brazil Seria A,268,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-Brazil Seria A,268,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-Brazil Seria A,268,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-Liga MX,230,0,Moneyline,Moneyline,true,0.75,0.25,0
-Liga MX,230,10001,Goal Spread,Spread,true,0.65,0.35,0
-Liga MX,230,10002,Total Goals,Total,true,0.65,0.35,0
-Liga MX,230,10017,Team Total,Total,true,0.65,0.35,0
-Liga MX,230,10018,Team Total,Total,true,0.65,0.35,0
-Liga MX,230,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-Liga MX,230,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-Liga MX,230,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-Liga MX,230,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-Primeira Liga,61,0,Moneyline,Moneyline,true,0.75,0.25,0
-Primeira Liga,61,10001,Goal Spread,Spread,true,0.65,0.35,0
-Primeira Liga,61,10002,Total Goals,Total,true,0.65,0.35,0
-Primeira Liga,61,10017,Team Total,Total,true,0.65,0.35,0
-Primeira Liga,61,10018,Team Total,Total,true,0.65,0.35,0
-Primeira Liga,61,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-Primeira Liga,61,10032,2nd Half Total Goals,Total,true,0.65,0.35,0
-Primeira Liga,61,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-Primeira Liga,61,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-Eredivisie,57,0,Moneyline,Moneyline,true,0.75,0.25,0
-Eredivisie,57,10001,Goal Spread,Spread,true,0.65,0.35,0
-Eredivisie,57,10002,Total Goals,Total,true,0.65,0.35,0
-Eredivisie,57,10017,Team Total,Total,true,0.65,0.35,0
-Eredivisie,57,10018,Team Total,Total,true,0.65,0.35,0
-Eredivisie,57,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-Eredivisie,57,10032,2nd Half Total Goals,Total,true,0.65,0.35,0
-Eredivisie,57,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-Eredivisie,57,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-Copa Libertadores,45,0,Moneyline,Moneyline,true,0.75,0.25,0
-Copa Libertadores,45,10001,Goal Spread,Spread,true,0.65,0.35,0
-Copa Libertadores,45,10002,Total Goals,Total,true,0.65,0.35,0
-Copa Libertadores,45,10017,Team Total,Total,true,0.65,0.35,0
-Copa Libertadores,45,10018,Team Total,Total,true,0.65,0.35,0
-Copa Libertadores,45,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-Copa Libertadores,45,10032,2nd Half Total Goals,Total,true,0.65,0.35,0
-Copa Libertadores,45,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-Copa Libertadores,45,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-J1 League,19,0,Moneyline,Moneyline,true,0.75,0.25,0
-J1 League,19,10001,Goal Spread,Spread,true,0.65,0.35,0
-J1 League,19,10002,Total Goals,Total,true,0.65,0.35,0
-J1 League,19,10017,Team Total,Total,true,0.65,0.35,0
-J1 League,19,10018,Team Total,Total,true,0.65,0.35,0
-J1 League,19,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-J1 League,19,10032,2nd Half Total Goals,Total,true,0.65,0.35,0
-J1 League,19,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-J1 League,19,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-England - League 1,20126,0,Moneyline,Moneyline,true,0.75,0.25,0
-England - League 1,20126,10001,Goal Spread,Spread,true,0.65,0.35,0
-England - League 1,20126,10002,Total Goals,Total,true,0.65,0.35,0
-England - League 1,20126,10017,Team Total,Total,true,0.65,0.35,0
-England - League 1,20126,10018,Team Total,Total,true,0.65,0.35,0
-England - League 1,20126,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-England - League 1,20126,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-England - League 1,20126,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-England - League 1,20126,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-Italy - Serie B,20117,0,Moneyline,Moneyline,true,0.75,0.25,0
-Italy - Serie B,20117,10001,Goal Spread,Spread,true,0.65,0.35,0
-Italy - Serie B,20117,10002,Total Goals,Total,true,0.65,0.35,0
-Italy - Serie B,20117,10017,Team Total,Total,true,0.65,0.35,0
-Italy - Serie B,20117,10018,Team Total,Total,true,0.65,0.35,0
-Italy - Serie B,20117,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-Italy - Serie B,20117,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-Italy - Serie B,20117,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-Italy - Serie B,20117,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-Italy Super Cup,20129,0,Moneyline,Moneyline,true,0.75,0.25,0
-Italy Super Cup,20129,10001,Goal Spread,Spread,true,0.65,0.35,0
-Italy Super Cup,20129,10002,Total Goals,Total,true,0.65,0.35,0
-Italy Super Cup,20129,10017,Team Total,Total,true,0.65,0.35,0
-Italy Super Cup,20129,10018,Team Total,Total,true,0.65,0.35,0
-Italy Super Cup,20129,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-Italy Super Cup,20129,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-Italy Super Cup,20129,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-France - Super Cup,20130,0,Moneyline,Moneyline,true,0.75,0.25,0
-France - Super Cup,20130,10001,Goal Spread,Spread,true,0.65,0.35,0
-France - Super Cup,20130,10002,Total Goals,Total,true,0.65,0.35,0
-France - Super Cup,20130,10017,Team Total,Total,true,0.65,0.35,0
-France - Super Cup,20130,10018,Team Total,Total,true,0.65,0.35,0
-France - Super Cup,20130,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-France - Super Cup,20130,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-France - Super Cup,20130,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-Spain - Supercopa,20131,0,Moneyline,Moneyline,true,0.75,0.25,0
-Spain - Supercopa,20131,10001,Goal Spread,Spread,true,0.65,0.35,0
-Spain - Supercopa,20131,10002,Total Goals,Total,true,0.65,0.35,0
-Spain - Supercopa,20131,10017,Team Total,Total,true,0.65,0.35,0
-Spain - Supercopa,20131,10018,Team Total,Total,true,0.65,0.35,0
-Spain - Supercopa,20131,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-Spain - Supercopa,20131,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-Spain - Supercopa,20131,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-Germany- Super Cup,20132,0,Moneyline,Moneyline,true,0.75,0.25,0
-Germany- Super Cup,20132,10001,Goal Spread,Spread,true,0.65,0.35,0
-Germany- Super Cup,20132,10002,Total Goals,Total,true,0.65,0.35,0
-Germany- Super Cup,20132,10017,Team Total,Total,true,0.65,0.35,0
-Germany- Super Cup,20132,10018,Team Total,Total,true,0.65,0.35,0
-Germany- Super Cup,20132,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-Germany- Super Cup,20132,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-Germany- Super Cup,20132,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-Portugal - League Cup,20133,0,Moneyline,Moneyline,true,0.75,0.25,0
-Portugal - League Cup,20133,10001,Goal Spread,Spread,true,0.65,0.35,0
-Portugal - League Cup,20133,10002,Total Goals,Total,true,0.65,0.35,0
-Portugal - League Cup,20133,10017,Team Total,Total,true,0.65,0.35,0
-Portugal - League Cup,20133,10018,Team Total,Total,true,0.65,0.35,0
-Portugal - League Cup,20133,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-Portugal - League Cup,20133,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-Portugal - League Cup,20133,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-England FA Cup,132,0,Moneyline,Moneyline,true,0.75,0.25,0
-England FA Cup,132,10001,Goal Spread,Spread,true,0.65,0.35,0
-England FA Cup,132,10002,Total Goals,Total,true,0.65,0.35,0
-England FA Cup,132,10017,Team Total,Total,true,0.65,0.35,0
-England FA Cup,132,10018,Team Total,Total,true,0.65,0.35,0
-England FA Cup,132,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-England FA Cup,132,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-England FA Cup,132,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-France Cup,134,0,Moneyline,Moneyline,true,0.75,0.25,0
-France Cup,134,10001,Goal Spread,Spread,true,0.65,0.35,0
-France Cup,134,10002,Total Goals,Total,true,0.65,0.35,0
-France Cup,134,10017,Team Total,Total,true,0.65,0.35,0
-France Cup,134,10018,Team Total,Total,true,0.65,0.35,0
-France Cup,134,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-France Cup,134,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-France Cup,134,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-Thai League 1,20134,0,Moneyline,Moneyline,true,0.75,0.25,0
-Thai League 1,20134,10001,Goal Spread,Spread,true,0.65,0.35,0
-Thai League 1,20134,10002,Total Goals,Total,true,0.65,0.35,0
-Thai League 1,20134,10017,Team Total,Total,true,0.65,0.35,0
-Thai League 1,20134,10018,Team Total,Total,true,0.65,0.35,0
-Thai League 1,20134,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-Thai League 1,20134,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-Thai League 1,20134,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-Netherlands Cup,20135,0,Moneyline,Moneyline,true,0.75,0.25,0
-Netherlands Cup,20135,10001,Goal Spread,Spread,true,0.65,0.35,0
-Netherlands Cup,20135,10002,Total Goals,Total,true,0.65,0.35,0
-Netherlands Cup,20135,10017,Team Total,Total,true,0.65,0.35,0
-Netherlands Cup,20135,10018,Team Total,Total,true,0.65,0.35,0
-Netherlands Cup,20135,10031,1st Half Total Goals,Total,true,0.65,0.35,0
-Netherlands Cup,20135,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
-Netherlands Cup,20135,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+NCAAF,1,0,Moneyline,Moneyline,true,0.75,0.25,1
+NCAAF,1,10001,Point Spread,Spread,true,0.65,0.35,1
+NCAAF,1,10002,Total Points,Total,true,0.65,0.35,1
+NCAAF,1,10017,Team Total,Total,true,0.65,0.35,1
+NCAAF,1,10018,Team Total,Total,true,0.65,0.35,1
+NCAAF,1,10031,1st Quarter Total Points,Total,true,0.65,0.35,1
+NCAAF,1,10032,2nd Quarter Total Points,Total,true,0.65,0.35,1
+NCAAF,1,10033,3rd Quarter Total Points,Total,true,0.65,0.35,1
+NCAAF,1,10034,4th Quarter Total Points,Total,true,0.65,0.35,1
+NCAAF,1,10041,1st Quarter Point Spread,Spread,true,0.65,0.35,1
+NCAAF,1,10042,2nd Quarter Point Spread,Spread,true,0.65,0.35,1
+NCAAF,1,10043,3rd Quarter Point Spread,Spread,true,0.65,0.35,1
+NCAAF,1,10044,4th Quarter Point Spread,Spread,true,0.65,0.35,1
+NCAAF,1,10071,1st Half Point Spread,Spread,true,0.65,0.35,1
+NCAAF,1,10072,2nd Half Point Spread,Spread,true,0.65,0.35,1
+NCAAF,1,10061,1st Half Total Points Points,Total,true,0.65,0.35,1
+NCAAF,1,10062,2nd Half Total Points,Total,true,0.65,0.35,1
+NCAAF,1,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,1
+NCAAF,1,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,1
+NCAAF,1,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,1
+NCAAF,1,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,1
+NCAAF,1,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+NCAAF,1,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+NFL,2,0,Moneyline,Moneyline,true,0.75,0.25,1
+NFL,2,10001,Point Spread,Spread,true,0.65,0.35,1
+NFL,2,10002,Total Points,Total,true,0.65,0.35,1
+NFL,2,10017,Team Total,Total,true,0.65,0.35,1
+NFL,2,10018,Team Total,Total,true,0.65,0.35,1
+NFL,2,10031,1st Quarter Total Points,Total,true,0.65,0.35,1
+NFL,2,10032,2nd Quarter Total Points,Total,true,0.65,0.35,1
+NFL,2,10033,3rd Quarter Total Points,Total,true,0.65,0.35,1
+NFL,2,10034,4th Quarter Total Points,Total,true,0.65,0.35,1
+NFL,2,10041,1st Quarter Point Spread,Spread,true,0.65,0.35,1
+NFL,2,10042,2nd Quarter Point Spread,Spread,true,0.65,0.35,1
+NFL,2,10043,3rd Quarter Point Spread,Spread,true,0.65,0.35,1
+NFL,2,10044,4th Quarter Point Spread,Spread,true,0.65,0.35,1
+NFL,2,10071,1st Half Point Spread,Spread,true,0.65,0.35,1
+NFL,2,10072,2nd Half Point Spread,Spread,true,0.65,0.35,1
+NFL,2,10061,1st Half Total Points Points,Total,true,0.65,0.35,1
+NFL,2,10062,2nd Half Total Points,Total,true,0.65,0.35,1
+NFL,2,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,1
+NFL,2,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,1
+NFL,2,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,1
+NFL,2,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,1
+NFL,2,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+NFL,2,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+MLB,3,0,Moneyline,Moneyline,true,0.75,0.25,1
+MLB,3,10001,Run Line,Spread,true,0.65,0.35,1
+MLB,3,10002,Total Runs,Total,true,0.65,0.35,1
+NBA,4,0,Moneyline,Moneyline,true,0.75,0.25,1
+NBA,4,10001,Point Spread,Spread,true,0.65,0.35,1
+NBA,4,10002,Total Points,Total,true,0.65,0.35,1
+NBA,4,10017,Team Total,Total,true,0.65,0.35,1
+NBA,4,10018,Team Total,Total,true,0.65,0.35,1
+NBA,4,10031,1st Quarter Total Points,Total,true,0.65,0.35,1
+NBA,4,10032,2nd Quarter Total Points,Total,true,0.65,0.35,1
+NBA,4,10033,3rd Quarter Total Points,Total,true,0.65,0.35,1
+NBA,4,10034,4th Quarter Total Points,Total,true,0.65,0.35,1
+NBA,4,10041,1st Quarter Point Spread,Spread,true,0.65,0.35,1
+NBA,4,10042,2nd Quarter Point Spread,Spread,true,0.65,0.35,1
+NBA,4,10043,3rd Quarter Point Spread,Spread,true,0.65,0.35,1
+NBA,4,10044,4th Quarter Point Spread,Spread,true,0.65,0.35,1
+NBA,4,10071,1st Half Point Spread,Spread,true,0.65,0.35,1
+NBA,4,10072,2nd Half Point Spread,Spread,true,0.65,0.35,1
+NBA,4,10061,1st Half Total Points,Total,true,0.65,0.35,1
+NBA,4,10062,2nd Half Total Points,Total,true,0.65,0.35,1
+NBA,4,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,1
+NBA,4,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,1
+NBA,4,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,1
+NBA,4,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,1
+NBA,4,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+NBA,4,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+NCAAB,5,0,Moneyline,Moneyline,true,0.75,0.25,1
+NCAAB,5,10001,Point Spread,Spread,true,0.65,0.35,1
+NCAAB,5,10002,Total Points,Total,true,0.65,0.35,1
+NCAAB,5,10017,Team Total,Total,true,0.65,0.35,1
+NCAAB,5,10018,Team Total,Total,true,0.65,0.35,1
+NCAAB,5,10031,1st Quarter Total Points,Total,true,0.65,0.35,1
+NCAAB,5,10032,2nd Quarter Total Points,Total,true,0.65,0.35,1
+NCAAB,5,10033,3rd Quarter Total Points,Total,true,0.65,0.35,1
+NCAAB,5,10034,4th Quarter Total Points,Total,true,0.65,0.35,1
+NCAAB,5,10041,1st Quarter Point Spread,Spread,true,0.65,0.35,1
+NCAAB,5,10042,2nd Quarter Point Spread,Spread,true,0.65,0.35,1
+NCAAB,5,10043,3rd Quarter Point Spread,Spread,true,0.65,0.35,1
+NCAAB,5,10044,4th Quarter Point Spread,Spread,true,0.65,0.35,1
+NCAAB,5,10071,1st Half Point Spread,Spread,true,0.65,0.35,1
+NCAAB,5,10072,2nd Half Point Spread,Spread,true,0.65,0.35,1
+NCAAB,5,10061,1st Half Total Points,Total,true,0.65,0.35,1
+NCAAB,5,10062,2nd Half Total Points,Total,true,0.65,0.35,1
+NCAAB,5,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,1
+NCAAB,5,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,1
+NCAAB,5,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,1
+NCAAB,5,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,1
+NCAAB,5,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+NCAAB,5,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+NHL,6,0,Moneyline,Moneyline,true,0.75,0.25,1
+NHL,6,10001,Puck Line,Spread,true,0.65,0.35,1
+NHL,6,10002,Total Goals,Total,true,0.65,0.35,1
+NHL,6,10017,Team Total,Total,true,0.65,0.35,1
+NHL,6,10018,Team Total,Total,true,0.65,0.35,1
+NHL,6,10031,1st Period Total Goals,Total,true,0.65,0.35,1
+NHL,6,10032,2nd Period Total Goals,Total,true,0.65,0.35,1
+NHL,6,10033,3rd Period Total Goals,Total,true,0.65,0.35,1
+NHL,6,10041,1st Period Puck Line,Spread,true,0.65,0.35,1
+NHL,6,10042,2nd Period Puck Line,Spread,true,0.65,0.35,1
+NHL,6,10043,3rd Period Puck Line,Spread,true,0.65,0.35,1
+NHL,6,10021,1st Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+NHL,6,10022,2nd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+NHL,6,10023,3rd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+WNBA,8,0,Moneyline,Moneyline,true,0.75,0.25,1
+WNBA,8,10001,Point Spread,Spread,true,0.65,0.35,1
+WNBA,8,10002,Total Points,Total,true,0.65,0.35,1
+MLS,10,0,Moneyline,Moneyline,true,0.75,0.25,1
+MLS,10,10001,Goal Spread,Spread,false,0.75,0.25,1
+MLS,10,10002,Total Goals,Total,false,0.75,0.25,1
+EPL,11,0,Moneyline,Moneyline,true,0.75,0.25,1
+EPL,11,10001,Goal Spread,Spread,true,0.65,0.35,1
+EPL,11,10002,Total Goals,Total,true,0.65,0.35,1
+EPL,11,10017,Team Total,Total,true,0.65,0.35,1
+EPL,11,10018,Team Total,Total,true,0.65,0.35,1
+EPL,11,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+EPL,11,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+EPL,11,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+EPL,11,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+Ligue 1,12,0,Moneyline,Moneyline,true,0.75,0.25,1
+Ligue 1,12,10001,Goal Spread,Spread,true,0.65,0.35,1
+Ligue 1,12,10002,Total Goals,Total,true,0.65,0.35,1
+Ligue 1,12,10017,Team Total,Total,true,0.65,0.35,1
+Ligue 1,12,10018,Team Total,Total,true,0.65,0.35,1
+Ligue 1,12,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+Ligue 1,12,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+Ligue 1,12,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Ligue 1,12,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+Bundesliga,13,0,Moneyline,Moneyline,true,0.75,0.25,1
+Bundesliga,13,10001,Goal Spread,Spread,true,0.65,0.35,1
+Bundesliga,13,10002,Total Goals,Total,true,0.65,0.35,1
+Bundesliga,13,10017,Team Total,Total,true,0.65,0.35,1
+Bundesliga,13,10018,Team Total,Total,true,0.65,0.35,1
+Bundesliga,13,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+Bundesliga,13,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+Bundesliga,13,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Bundesliga,13,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+La Liga,14,0,Moneyline,Moneyline,true,0.75,0.25,1
+La Liga,14,10001,Goal Spread,Spread,true,0.65,0.35,1
+La Liga,14,10002,Total Goals,Total,true,0.65,0.35,1
+La Liga,14,10017,Team Total,Total,true,0.65,0.35,1
+La Liga,14,10018,Team Total,Total,true,0.65,0.35,1
+La Liga,14,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+La Liga,14,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+La Liga,14,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+La Liga,14,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+Serie A,15,0,Moneyline,Moneyline,true,0.75,0.25,1
+Serie A,15,10001,Goal Spread,Spread,true,0.65,0.35,1
+Serie A,15,10002,Total Goals,Total,true,0.65,0.35,1
+Serie A,15,10017,Team Total,Total,true,0.65,0.35,1
+Serie A,15,10018,Team Total,Total,true,0.65,0.35,1
+Serie A,15,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+Serie A,15,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+Serie A,15,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Serie A,15,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+UEFA Champions League,16,0,Moneyline,Moneyline,true,0.75,0.25,1
+UEFA Champions League,16,10001,Goal Spread,Spread,true,0.65,0.35,1
+UEFA Champions League,16,10002,Total Goals,Total,true,0.65,0.35,1
+UEFA Champions League,16,10017,Team Total,Total,true,0.65,0.35,1
+UEFA Champions League,16,10018,Team Total,Total,true,0.65,0.35,1
+UEFA Champions League,16,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+UEFA Champions League,16,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+UEFA Champions League,16,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+UEFA Champions League,16,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+UEFA Europa League,17,0,Moneyline,Moneyline,true,0.75,0.25,1
+UEFA Europa League,17,10001,Goal Spread,Spread,true,0.65,0.35,1
+UEFA Europa League,17,10002,Total Goals,Total,true,0.65,0.35,1
+UEFA Europa League,17,10017,Team Total,Total,true,0.65,0.35,1
+UEFA Europa League,17,10018,Team Total,Total,true,0.65,0.35,1
+UEFA Europa League,17,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+UEFA Europa League,17,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+UEFA Europa League,17,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+UEFA Europa League,17,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+FIFA World Cup Qualifiers,18,0,Moneyline,Moneyline,true,0.75,0.25,1
+FIFA World Cup Qualifiers,18,10001,Goal Spread,Spread,true,0.65,0.35,1
+FIFA World Cup Qualifiers,18,10002,Total Goals,Total,true,0.65,0.35,1
+FIFA World Cup Qualifiers,18,10017,Team Total,Total,true,0.65,0.35,1
+FIFA World Cup Qualifiers,18,10018,Team Total,Total,true,0.65,0.35,1
+Copa America,44,0,Moneyline,Moneyline,true,0.75,0.25,1
+Copa America,44,10001,Goal Spread,Spread,false,0.75,0.25,1
+Copa America,44,10002,Total Goals,Total,false,0.75,0.25,1
+UEFA EURO 2024,50,0,Moneyline,Moneyline,false,0.75,0.25,1
+UEFA EURO 2024,50,10001,Goal Spread,Spread,false,0.75,0.25,1
+UEFA EURO 2024,50,10002,Total Goals,Total,false,0.75,0.25,1
+WTA Events,152,0,Moneyline,Moneyline,true,0.75,0.25,1
+WTA Events,152,10001,Game Spread,Spread,true,0.65,0.35,1
+WTA Events,152,10002,Total Games,Total,true,0.65,0.35,1
+WTA Events,152,10017,Player Games Won,Total,true,0.75,0.25,1
+WTA Events,152,10018,Player Games Won,Total,true,0.75,0.25,1
+WTA Events,152,10031,1st Set Total Games,Total,true,0.75,0.25,1
+WTA Events,152,10032,2nd Set Total Games,Total,true,0.75,0.25,1
+WTA Events,152,10033,3rd Set Total Games,Total,true,0.75,0.25,1
+WTA Events,152,10034,3rd Set Total Games,Total,true,0.75,0.25,1
+WTA Events,152,10035,3rd Set Total Games,Total,true,0.75,0.25,1
+WTA Events,152,10041,1st Set Game Spread,Spread,true,0.75,0.25,1
+WTA Events,152,10042,2nd Set Game Spread,Spread,true,0.75,0.25,1
+WTA Events,152,10043,3rd Set Game Spread,Spread,true,0.75,0.25,1
+WTA Events,152,10044,4th Set Game Spread,Spread,true,0.75,0.25,1
+WTA Events,152,10045,5th Set Game Spread,Spread,true,0.75,0.25,1
+WTA Events,152,10021,1st Set Moneyline,Moneyline,true,0.99,0.01,1
+WTA Events,152,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,1
+WTA Events,152,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,1
+WTA Events,152,10024,4th Set Moneyline,Moneyline,true,0.99,0.01,1
+WTA Events,152,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,1
+Grand Slam,153,0,Moneyline,Moneyline,true,0.75,0.25,1
+Grand Slam,153,10001,Game Spread,Spread,true,0.65,0.35,1
+Grand Slam,153,10002,Total Games,Total,true,0.65,0.35,1
+ATP Events,156,0,Moneyline,Moneyline,true,0.75,0.25,1
+ATP Events,156,10001,Game Spread,Spread,true,0.65,0.35,1
+ATP Events,156,10002,Total Games,Total,true,0.65,0.35,1
+ATP Events,156,10017,Player Games Won,Total,true,0.75,0.25,1
+ATP Events,156,10018,Player Games Won,Total,true,0.75,0.25,1
+ATP Events,156,10031,1st Set Total Games,Total,true,0.75,0.25,1
+ATP Events,156,10032,2nd Set Total Games,Total,true,0.75,0.25,1
+ATP Events,156,10033,3rd Set Total Games,Total,true,0.75,0.25,1
+ATP Events,156,10034,3rd Set Total Games,Total,true,0.75,0.25,1
+ATP Events,156,10035,3rd Set Total Games,Total,true,0.75,0.25,1
+ATP Events,156,10041,1st Set Game Spread,Spread,true,0.75,0.25,1
+ATP Events,156,10042,2nd Set Game Spread,Spread,true,0.75,0.25,1
+ATP Events,156,10043,3rd Set Game Spread,Spread,true,0.75,0.25,1
+ATP Events,156,10044,4th Set Game Spread,Spread,true,0.75,0.25,1
+ATP Events,156,10045,5th Set Game Spread,Spread,true,0.75,0.25,1
+ATP Events,156,10021,1st Set Moneyline,Moneyline,true,0.99,0.01,1
+ATP Events,156,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,1
+ATP Events,156,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,1
+ATP Events,156,10024,4th Set Moneyline,Moneyline,true,0.99,0.01,1
+ATP Events,156,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,1
+Liga MX,230,0,Moneyline,Moneyline,true,0.75,0.25,1
+Liga MX,230,10001,Goal Spread,Spread,false,0.75,0.25,1
+Liga MX,230,10002,Total Goals,Total,false,0.75,0.25,1
+Euroleague,399,0,Moneyline,Moneyline,true,0.75,0.25,1
+Euroleague,399,10001,Point Spread,Spread,true,0.65,0.35,1
+Euroleague,399,10002,Total Points,Total,true,0.65,0.35,1
+Euroleague,399,10017,Team Total,Total,true,0.65,0.35,1
+Euroleague,399,10018,Team Total,Total,true,0.65,0.35,1
+Euroleague,399,10031,1st Quarter Total Points,Total,true,0.65,0.35,1
+Euroleague,399,10032,2nd Quarter Total Points,Total,true,0.65,0.35,1
+Euroleague,399,10033,3rd Quarter Total Points,Total,true,0.65,0.35,1
+Euroleague,399,10034,4th Quarter Total Points,Total,true,0.65,0.35,1
+Euroleague,399,10041,1st Quarter Point Spread,Spread,true,0.65,0.35,1
+Euroleague,399,10042,2nd Quarter Point Spread,Spread,true,0.65,0.35,1
+Euroleague,399,10043,3rd Quarter Point Spread,Spread,true,0.65,0.35,1
+Euroleague,399,10044,4th Quarter Point Spread,Spread,true,0.65,0.35,1
+Euroleague,399,10071,1st Half Point Spread,Spread,true,0.65,0.35,1
+Euroleague,399,10072,2nd Half Point Spread,Spread,true,0.65,0.35,1
+Euroleague,399,10061,1st Half Total Points,Total,true,0.65,0.35,1
+Euroleague,399,10062,2nd Half Total Points,Total,true,0.65,0.35,1
+Euoleague,399,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,1
+Euroleague,399,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,1
+Euroleague,399,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,1
+Euroleague,399,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,1
+Euroleague,399,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Euroleague,399,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+Saudi Professional League,536,0,Moneyline,Moneyline,true,0.75,0.25,1
+Saudi Professional League,536,10001,Goal Spread,Spread,false,0.75,0.25,1
+Saudi Professional League,536,10002,Total Goals,Total,false,0.75,0.25,1
+UEFA Nations League,9806,0,Moneyline,Moneyline,true,0.75,0.25,1
+UEFA Nations League,9806,10001,Goal Spread,Spread,true,0.65,0.35,1
+UEFA Nations League,9806,10002,Total Goals,Total,true,0.65,0.35,1
+UEFA Nations League,9806,10017,Team Total,Total,true,0.65,0.35,1
+UEFA Nations League,9806,10018,Team Total,Total,true,0.65,0.35,1
+UEFA Conference League,10216,0,Moneyline,Moneyline,true,0.75,0.25,1
+UEFA Conference League,10216,10001,Goal Spread,Spread,false,0.75,0.25,1
+UEFA Conference League,10216,10002,Total Goals,Total,false,0.75,0.25,1
+UEFA Super Cup,20001,0,Moneyline,Moneyline,true,0.75,0.25,1
+UEFA Super Cup,20001,10001,Goal Spread,Spread,false,0.75,0.25,1
+UEFA Super Cup,20001,10002,Total Goals,Total,false,0.75,0.25,1
+Copa do Brasil,20002,0,Moneyline,Moneyline,true,0.75,0.25,1
+Copa do Brasil,20002,10001,Goal Spread,Spread,false,0.75,0.25,1
+Copa do Brasil,20002,10002,Total Goals,Total,false,0.75,0.25,1
+Swiss superleague,20114,0,Moneyline,Moneyline,true,0.75,0.25,1
+Swiss superleague,20114,10001,Goal Spread,Spread,true,0.65,0.35,1
+Swiss superleague,20114,10002,Total Goals,Total,true,0.65,0.35,1
+Swiss superleague,20114,10017,Team Total,Total,true,0.65,0.35,1
+Swiss superleague,20114,10018,Team Total,Total,true,0.65,0.35,1
+Swiss superleague,20114,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+Swiss superleague,20114,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+Swiss superleague,20114,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Swiss superleague,20114,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+Belgium league 1,20102,0,Moneyline,Moneyline,true,0.75,0.25,1
+Belgium league 1,20102,10001,Goal Spread,Spread,true,0.65,0.35,1
+Belgium league 1,20102,10002,Total Goals,Total,true,0.65,0.35,1
+Belgium league 1,20102,10017,Team Total,Total,true,0.65,0.35,1
+Belgium league 1,20102,10018,Team Total,Total,true,0.65,0.35,1
+Belgium league 1,20102,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+Belgium league 1,20102,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+Belgium league 1,20102,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Belgium league 1,20102,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+Turkey League 1,20108,0,Moneyline,Moneyline,true,0.75,0.25,1
+Turkey League 1,20108,10001,Goal Spread,Spread,true,0.65,0.35,1
+Turkey League 1,20108,10002,Total Goals,Total,true,0.65,0.35,1
+Turkey League 1,20108,10017,Team Total,Total,true,0.65,0.35,1
+Turkey League 1,20108,10018,Team Total,Total,true,0.65,0.35,1
+Turkey League 1,20108,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+Turkey League 1,20108,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+Turkey League 1,20108,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Turkey League 1,20108,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+Argentina league 1,20106,0,Moneyline,Moneyline,true,0.75,0.25,1
+Argentina league 1,20106,10001,Goal Spread,Spread,true,0.65,0.35,1
+Argentina league 1,20106,10002,Total Goals,Total,true,0.65,0.35,1
+Argentina league 1,20106,10017,Team Total,Total,true,0.65,0.35,1
+Argentina league 1,20106,10018,Team Total,Total,true,0.65,0.35,1
+Argentina league 1,20106,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+Argentina league 1,20106,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+Argentina league 1,20106,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Argentina league 1,20106,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+China league 1,20112,0,Moneyline,Moneyline,true,0.75,0.25,1
+China league 1,20112,10001,Goal Spread,Spread,true,0.65,0.35,1
+China league 1,20112,10002,Total Goals,Total,true,0.65,0.35,1
+China league 1,20112,10017,Team Total,Total,true,0.65,0.35,1
+China league 1,20112,10018,Team Total,Total,true,0.65,0.35,1
+China league 1,20112,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+China league 1,20112,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+China league 1,20112,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+China league 1,20112,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+Scotland league 1,20101,0,Moneyline,Moneyline,true,0.75,0.25,1
+Scotland league 1,20101,10001,Goal Spread,Spread,true,0.65,0.35,1
+Scotland league 1,20101,10002,Total Goals,Total,true,0.65,0.35,1
+Scotland league 1,20101,10017,Team Total,Total,true,0.65,0.35,1
+Scotland league 1,20101,10018,Team Total,Total,true,0.65,0.35,1
+Scotland league 1,20101,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+Scotland league 1,20101,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+Scotland league 1,20101,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Scotland league 1,20101,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+England EFL cup,20125,0,Moneyline,Moneyline,true,0.75,0.25,1
+England EFL cup,20125,10001,Goal Spread,Spread,true,0.65,0.35,1
+England EFL cup,20125,10002,Total Goals,Total,true,0.65,0.35,1
+England EFL cup,20125,10017,Team Total,Total,true,0.65,0.35,1
+England EFL cup,20125,10018,Team Total,Total,true,0.65,0.35,1
+England EFL cup,20125,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+England EFL cup,20125,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+England EFL cup,20125,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+England EFL cup,20125,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+Spain La Liga 2,20116,0,Moneyline,Moneyline,true,0.75,0.25,1
+Spain La Liga 2,20116,10001,Goal Spread,Spread,true,0.65,0.35,1
+Spain La Liga 2,20116,10002,Total Goals,Total,true,0.65,0.35,1
+Spain La Liga 2,20116,10017,Team Total,Total,true,0.65,0.35,1
+Spain La Liga 2,20116,10018,Team Total,Total,true,0.65,0.35,1
+Spain La Liga 2,20116,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+Spain La Liga 2,20116,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+Spain La Liga 2,20116,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Spain La Liga 2,20116,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+Germany Bundesliga 2,20115,0,Moneyline,Moneyline,true,0.75,0.25,1
+Germany Bundesliga 2,20115,10001,Goal Spread,Spread,true,0.65,0.35,1
+Germany Bundesliga 2,20115,10002,Total Goals,Total,true,0.65,0.35,1
+Germany Bundesliga 2,20115,10017,Team Total,Total,true,0.65,0.35,1
+Germany Bundesliga 2,20115,10018,Team Total,Total,true,0.65,0.35,1
+Germany Bundesliga 2,20115,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+Germany Bundesliga 2,20115,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+Germany Bundesliga 2,20115,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Germany Bundesliga 2,20115,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+AFC Champions League,20128,0,Moneyline,Moneyline,true,0.75,0.25,1
+AFC Champions League,20128,10001,Goal Spread,Spread,true,0.65,0.35,1
+AFC Champions League,20128,10002,Total Goals,Total,true,0.65,0.35,1
+AFC Champions League,20128,10017,Team Total,Total,true,0.65,0.35,1
+AFC Champions League,20128,10018,Team Total,Total,true,0.65,0.35,1
+AFC Champions League,20128,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+AFC Champions League,20128,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+AFC Champions League,20128,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+AFC Champions League,20128,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+Spain Copa del Rey,138,0,Moneyline,Moneyline,true,0.75,0.25,1
+Spain Copa del Rey,138,10001,Goal Spread,Spread,true,0.65,0.35,1
+Spain Copa del Rey,138,10002,Total Goals,Total,true,0.65,0.35,1
+Spain Copa del Rey,138,10017,Team Total,Total,true,0.65,0.35,1
+Spain Copa del Rey,138,10018,Team Total,Total,true,0.65,0.35,1
+Spain Copa del Rey,138,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+Spain Copa del Rey,138,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+Spain Copa del Rey,138,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Spain Copa del Rey,138,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+DFB Pokal,209,0,Moneyline,Moneyline,true,0.75,0.25,1
+DFB Pokal,209,10001,Goal Spread,Spread,true,0.65,0.35,1
+DFB Pokal,209,10002,Total Goals,Total,true,0.65,0.35,1
+DFB Pokal,209,10017,Team Total,Total,true,0.65,0.35,1
+DFB Pokal,209,10018,Team Total,Total,true,0.65,0.35,1
+DFB Pokal,209,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+DFB Pokal,209,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+DFB Pokal,209,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+DFB Pokal,209,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+Coppa Italia,141,0,Moneyline,Moneyline,true,0.75,0.25,1
+Coppa Italia,141,10001,Goal Spread,Spread,true,0.65,0.35,1
+Coppa Italia,141,10002,Total Goals,Total,true,0.65,0.35,1
+Coppa Italia,141,10017,Team Total,Total,true,0.65,0.35,1
+Coppa Italia,141,10018,Team Total,Total,true,0.65,0.35,1
+Coppa Italia,141,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+Coppa Italia,141,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+Coppa Italia,141,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Coppa Italia,141,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+EFL Championship,20011,0,Moneyline,Moneyline,true,0.75,0.25,1
+EFL Championship,20011,10001,Goal Spread,Spread,true,0.65,0.35,1
+EFL Championship,20011,10002,Total Goals,Total,true,0.65,0.35,1
+EFL Championship,20011,10017,Team Total,Total,true,0.65,0.35,1
+EFL Championship,20011,10018,Team Total,Total,true,0.65,0.35,1
+EFL Championship,20011,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+EFL Championship,20011,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+EFL Championship,20011,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+EFL Championship,20011,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+Brazil Seria A,268,0,Moneyline,Moneyline,true,0.75,0.25,1
+Brazil Seria A,268,10001,Goal Spread,Spread,true,0.65,0.35,1
+Brazil Seria A,268,10002,Total Goals,Total,true,0.65,0.35,1
+Brazil Seria A,268,10017,Team Total,Total,true,0.65,0.35,1
+Brazil Seria A,268,10018,Team Total,Total,true,0.65,0.35,1
+Brazil Seria A,268,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+Brazil Seria A,268,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+Brazil Seria A,268,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Brazil Seria A,268,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+Liga MX,230,0,Moneyline,Moneyline,true,0.75,0.25,1
+Liga MX,230,10001,Goal Spread,Spread,true,0.65,0.35,1
+Liga MX,230,10002,Total Goals,Total,true,0.65,0.35,1
+Liga MX,230,10017,Team Total,Total,true,0.65,0.35,1
+Liga MX,230,10018,Team Total,Total,true,0.65,0.35,1
+Liga MX,230,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+Liga MX,230,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+Liga MX,230,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Liga MX,230,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+Primeira Liga,61,0,Moneyline,Moneyline,true,0.75,0.25,1
+Primeira Liga,61,10001,Goal Spread,Spread,true,0.65,0.35,1
+Primeira Liga,61,10002,Total Goals,Total,true,0.65,0.35,1
+Primeira Liga,61,10017,Team Total,Total,true,0.65,0.35,1
+Primeira Liga,61,10018,Team Total,Total,true,0.65,0.35,1
+Primeira Liga,61,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+Primeira Liga,61,10032,2nd Half Total Goals,Total,true,0.65,0.35,1
+Primeira Liga,61,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Primeira Liga,61,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+Eredivisie,57,0,Moneyline,Moneyline,true,0.75,0.25,1
+Eredivisie,57,10001,Goal Spread,Spread,true,0.65,0.35,1
+Eredivisie,57,10002,Total Goals,Total,true,0.65,0.35,1
+Eredivisie,57,10017,Team Total,Total,true,0.65,0.35,1
+Eredivisie,57,10018,Team Total,Total,true,0.65,0.35,1
+Eredivisie,57,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+Eredivisie,57,10032,2nd Half Total Goals,Total,true,0.65,0.35,1
+Eredivisie,57,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Eredivisie,57,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+Copa Libertadores,45,0,Moneyline,Moneyline,true,0.75,0.25,1
+Copa Libertadores,45,10001,Goal Spread,Spread,true,0.65,0.35,1
+Copa Libertadores,45,10002,Total Goals,Total,true,0.65,0.35,1
+Copa Libertadores,45,10017,Team Total,Total,true,0.65,0.35,1
+Copa Libertadores,45,10018,Team Total,Total,true,0.65,0.35,1
+Copa Libertadores,45,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+Copa Libertadores,45,10032,2nd Half Total Goals,Total,true,0.65,0.35,1
+Copa Libertadores,45,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Copa Libertadores,45,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+J1 League,19,0,Moneyline,Moneyline,true,0.75,0.25,1
+J1 League,19,10001,Goal Spread,Spread,true,0.65,0.35,1
+J1 League,19,10002,Total Goals,Total,true,0.65,0.35,1
+J1 League,19,10017,Team Total,Total,true,0.65,0.35,1
+J1 League,19,10018,Team Total,Total,true,0.65,0.35,1
+J1 League,19,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+J1 League,19,10032,2nd Half Total Goals,Total,true,0.65,0.35,1
+J1 League,19,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+J1 League,19,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+England - League 1,20126,0,Moneyline,Moneyline,true,0.75,0.25,1
+England - League 1,20126,10001,Goal Spread,Spread,true,0.65,0.35,1
+England - League 1,20126,10002,Total Goals,Total,true,0.65,0.35,1
+England - League 1,20126,10017,Team Total,Total,true,0.65,0.35,1
+England - League 1,20126,10018,Team Total,Total,true,0.65,0.35,1
+England - League 1,20126,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+England - League 1,20126,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+England - League 1,20126,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+England - League 1,20126,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+Italy - Serie B,20117,0,Moneyline,Moneyline,true,0.75,0.25,1
+Italy - Serie B,20117,10001,Goal Spread,Spread,true,0.65,0.35,1
+Italy - Serie B,20117,10002,Total Goals,Total,true,0.65,0.35,1
+Italy - Serie B,20117,10017,Team Total,Total,true,0.65,0.35,1
+Italy - Serie B,20117,10018,Team Total,Total,true,0.65,0.35,1
+Italy - Serie B,20117,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+Italy - Serie B,20117,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+Italy - Serie B,20117,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Italy - Serie B,20117,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+Italy Super Cup,20129,0,Moneyline,Moneyline,true,0.75,0.25,1
+Italy Super Cup,20129,10001,Goal Spread,Spread,true,0.65,0.35,1
+Italy Super Cup,20129,10002,Total Goals,Total,true,0.65,0.35,1
+Italy Super Cup,20129,10017,Team Total,Total,true,0.65,0.35,1
+Italy Super Cup,20129,10018,Team Total,Total,true,0.65,0.35,1
+Italy Super Cup,20129,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+Italy Super Cup,20129,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+Italy Super Cup,20129,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+France - Super Cup,20130,0,Moneyline,Moneyline,true,0.75,0.25,1
+France - Super Cup,20130,10001,Goal Spread,Spread,true,0.65,0.35,1
+France - Super Cup,20130,10002,Total Goals,Total,true,0.65,0.35,1
+France - Super Cup,20130,10017,Team Total,Total,true,0.65,0.35,1
+France - Super Cup,20130,10018,Team Total,Total,true,0.65,0.35,1
+France - Super Cup,20130,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+France - Super Cup,20130,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+France - Super Cup,20130,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Spain - Supercopa,20131,0,Moneyline,Moneyline,true,0.75,0.25,1
+Spain - Supercopa,20131,10001,Goal Spread,Spread,true,0.65,0.35,1
+Spain - Supercopa,20131,10002,Total Goals,Total,true,0.65,0.35,1
+Spain - Supercopa,20131,10017,Team Total,Total,true,0.65,0.35,1
+Spain - Supercopa,20131,10018,Team Total,Total,true,0.65,0.35,1
+Spain - Supercopa,20131,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+Spain - Supercopa,20131,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+Spain - Supercopa,20131,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Germany- Super Cup,20132,0,Moneyline,Moneyline,true,0.75,0.25,1
+Germany- Super Cup,20132,10001,Goal Spread,Spread,true,0.65,0.35,1
+Germany- Super Cup,20132,10002,Total Goals,Total,true,0.65,0.35,1
+Germany- Super Cup,20132,10017,Team Total,Total,true,0.65,0.35,1
+Germany- Super Cup,20132,10018,Team Total,Total,true,0.65,0.35,1
+Germany- Super Cup,20132,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+Germany- Super Cup,20132,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+Germany- Super Cup,20132,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Portugal - League Cup,20133,0,Moneyline,Moneyline,true,0.75,0.25,1
+Portugal - League Cup,20133,10001,Goal Spread,Spread,true,0.65,0.35,1
+Portugal - League Cup,20133,10002,Total Goals,Total,true,0.65,0.35,1
+Portugal - League Cup,20133,10017,Team Total,Total,true,0.65,0.35,1
+Portugal - League Cup,20133,10018,Team Total,Total,true,0.65,0.35,1
+Portugal - League Cup,20133,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+Portugal - League Cup,20133,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+Portugal - League Cup,20133,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+England FA Cup,132,0,Moneyline,Moneyline,true,0.75,0.25,1
+England FA Cup,132,10001,Goal Spread,Spread,true,0.65,0.35,1
+England FA Cup,132,10002,Total Goals,Total,true,0.65,0.35,1
+England FA Cup,132,10017,Team Total,Total,true,0.65,0.35,1
+England FA Cup,132,10018,Team Total,Total,true,0.65,0.35,1
+England FA Cup,132,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+England FA Cup,132,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+England FA Cup,132,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+France Cup,134,0,Moneyline,Moneyline,true,0.75,0.25,1
+France Cup,134,10001,Goal Spread,Spread,true,0.65,0.35,1
+France Cup,134,10002,Total Goals,Total,true,0.65,0.35,1
+France Cup,134,10017,Team Total,Total,true,0.65,0.35,1
+France Cup,134,10018,Team Total,Total,true,0.65,0.35,1
+France Cup,134,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+France Cup,134,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+France Cup,134,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Thai League 1,20134,0,Moneyline,Moneyline,true,0.75,0.25,1
+Thai League 1,20134,10001,Goal Spread,Spread,true,0.65,0.35,1
+Thai League 1,20134,10002,Total Goals,Total,true,0.65,0.35,1
+Thai League 1,20134,10017,Team Total,Total,true,0.65,0.35,1
+Thai League 1,20134,10018,Team Total,Total,true,0.65,0.35,1
+Thai League 1,20134,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+Thai League 1,20134,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+Thai League 1,20134,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Netherlands Cup,20135,0,Moneyline,Moneyline,true,0.75,0.25,1
+Netherlands Cup,20135,10001,Goal Spread,Spread,true,0.65,0.35,1
+Netherlands Cup,20135,10002,Total Goals,Total,true,0.65,0.35,1
+Netherlands Cup,20135,10017,Team Total,Total,true,0.65,0.35,1
+Netherlands Cup,20135,10018,Team Total,Total,true,0.65,0.35,1
+Netherlands Cup,20135,10031,1st Half Total Goals,Total,true,0.65,0.35,1
+Netherlands Cup,20135,10032,2nd Half Total Goals,Total,true,0.75,0.25,1
+Netherlands Cup,20135,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
