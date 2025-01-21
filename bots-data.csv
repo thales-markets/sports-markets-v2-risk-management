@@ -36,7 +36,7 @@ overtime-puller-opticodds-en-championship,England - Championship;England - EFL C
 overtime-puller-opticodds-copa-brasil,Brazil - Copa do Brasil,20002,5,30s,0xECD83Cf92F4977A6a0926da965b0028040531190,2m,
 overtime-puller-opticodds-euro-basketball,Euroleague;Eurocup,399;20200,2,30s,0xC3b6d636C12A8eB8Fc55F654dB6e5305f9c5C12A,2m,
 overtime-puller-opticodds-basketball-leagues,Italy - Lega Basket Serie A;Germany - BBL;France - LNB Pro A;Australia - NBL;Spain - Liga ACB;China - CBA,20202;20203;20204;20206;20201;20205,2,30s,0xF9F46F57C9C55060ED189998971f21f309386A7a,2m,
-overtime-puller-opticodds-tennis,ATP;WTA,156;152,1,30s,0x0dB6b60db480B7E9db4d0d2ac90608bebD4Da822,2m,
+overtime-puller-opticodds-tennis,ATP;WTA,156;152,3,30s,0x0dB6b60db480B7E9db4d0d2ac90608bebD4Da822,2m,
 overtime-puller-opticodds-esports-cs,CS2,9977,4,30s,0x8561Dc58DaD01D19Fa68966f8006C672de1814Fa,2m,
 overtime-puller-opticodds-esports-dota,Dota 2,9983,4,30s,0x8561Dc58DaD01D19Fa68966f8006C672de1814Fa,2m,
 overtime-puller-opticodds-esports-lol,League of Legends,10138,4,30s,0x8561Dc58DaD01D19Fa68966f8006C672de1814Fa,2m,
