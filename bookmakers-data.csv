@@ -1,7 +1,7 @@
 sportName,sportId,primaryBookmaker,secondaryBookmaker
 NCAAF,1,Pinnacle,DraftKings
 NFL,2,Pinnacle,DraftKings
-NBA,4,XXX,DraftKings
+NBA,4,Pinnacle,DraftKings
 NCAAB,5,Pinnacle,DraftKings
 NHL,6,Pinnacle,DraftKings
 MLS,10,Pinnacle,Draftkings
