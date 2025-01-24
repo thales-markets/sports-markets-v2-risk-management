@@ -1,22 +1,27 @@
 sportName,sportId,primaryBookmaker,secondaryBookmaker
+NCAAF,1,Pinnacle,DraftKings
 NFL,2,Pinnacle,DraftKings
 NBA,4,Pinnacle,DraftKings
+NCAAB,5,Pinnacle,DraftKings
 NHL,6,Pinnacle,DraftKings
 MLS,10,Pinnacle,Draftkings
-EPL,11,Draftkings,
-FRA1,12,Draftkings,
-GER1,13,Draftkings,
-ESP1,14,Draftkings,
-ITA1,15,Draftkings,
-UEFA CL,16,Draftkings,
+EPL,11,Pinnacle,Draftkings
+FRA1,12,Pinnacle,Draftkings
+GER1,13,Pinnacle,Draftkings
+ESP1,14,Pinnacle,Draftkings
+ITA1,15,Pinnacle,Draftkings
+UEFA CL,16,Pinnacle,
 UEFA EL,17,Pinnacle,
 NET1,57,Pinnacle,Draftkings
 POR1,61,Pinnacle,Draftkings
+England FA Cup,132,Pinnacle,
+France - Coupe de France,134,Pinnacle,
 Brazil,268,Pinnacle,Draftkings
 UEFA Nations League,9806,Pinnacle,Draftkings
 Copa Libertadores,45,Pinnacle,Draftkings
 Brazil - Copa do Brasil,20002,Pinnacle,Draftkings
 England - Championship,20011,Pinnacle,Draftkings
+England - League 1,20126,Pinnacle,
 Austria league 1,20120,Pinnacle,Draftkings
 JPN1,19,Pinnacle,Draftkings
 Liga MX,230,Pinnacle,Draftkings
@@ -28,13 +33,17 @@ Argentina league 1,20106,Pinnacle,Draftkings
 China league 1,20012,Pinnacle,Draftkings
 Scotland league 1,20101,Pinnacle,Draftkings
 England EFL cup,20125,Pinnacle,Draftkings
-England - League 1,20126,Pinnacle,
 Spain - La Liga 2,20116,Pinnacle,Draftkings
 Germany - Bundesliga 2,20115,Pinnacle,Draftkings
 AFC - Champions League,20128,Pinnacle,Draftkings
+Italy Super Cup,20129,Pinnacle,
+Portugal League Cup,20133,Pinnacle,
+Portugal - Taca de Portugal,20136,Pinnacle,
+Thai League 1,20134 ,Pinnacle,
+Netherlands Cup,20135 ,Pinnacle,
 Spain - Copa del Rey,138,Pinnacle,Draftkings
 DFB Pokal,209,Pinnacle,Draftkings
-Coppa Italia,141,Pinnacle,Draftkings
+Coppa Italia,141,Draftkings,
 UEFA Conference league,10216,Pinnacle,
 Copa do Brasil Soccer,20002,Bovada,
 Euroleague,399,Pinnacle,Betsson
@@ -42,9 +51,10 @@ Spain - Liga ACB,20201,Pinnacle,Draftkings
 Italy - Lega Basket Serie A,20202,Pinnacle,Draftkings
 Germany - BBL,20203,Pinnacle,Draftkings
 France - LNB Pro A,20204,Pinnacle,Draftkings
+China - CBA,20205,Pinnacle,Draftkings
 Australia - Big Bash League Women,20304,Pinnacle,
-CS2,9977,betwhale,
-Dota 2,9983,betwhale,
-LOL,10138,betwhale,
-ATP,156,DraftKings,
-WTA,152,DraftKings,
+CS2,9977,Pinnacle,
+Dota 2,9983,Pinnacle,
+LOL,10138,Pinnacle,
+ATP,156,Pinnacle,
+WTA,152,Pinnacle,
