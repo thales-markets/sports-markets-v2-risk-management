@@ -1,4 +1,6 @@
 name,sportId,marketName,bookmaker
+NCAAB,5,Moneyline,DraftKings
+NCAAB,5,Player Props,bet365
 Euroleague props,399,Player Props,Betsson
 NBA,4,Player Blocks,Draftkings
 NBA,4,Player Steals,Draftkings
