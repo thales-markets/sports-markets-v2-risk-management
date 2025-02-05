@@ -1,4 +1,4 @@
-sportName,typeIdsOnePositions,typeIdsTwoPositions,lowerPercentageRisk,higherPercentageRisk,lowerPercentageRiskRebalance,higherPercentageRiskRebalance
-NFL,,0;10001,33,66,1,2
-NFL,,10002,50,75,1,2
-NBA,,0;10001;10002,33,66,1,2
+sportName,typeIdsOnePositions,typeIdsTwoPositions,typeIdsThreePositions,lowerPercentageRisk,higherPercentageRisk,lowerPercentageRiskRebalance,higherPercentageRiskRebalance
+NFL,,0;10001,,33,66,1,2
+NFL,,10002,,50,75,1,2
+NBA,,0;10001;10002,,33,66,1,2
