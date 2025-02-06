@@ -1,6 +1,6 @@
 sportName,sportId,primaryBookmaker,secondaryBookmaker
 NCAAF,1,Pinnacle,DraftKings
-NFL,2,Pinnacle,DraftKings
+NFL,2,DraftKings,Pinnacle
 NBA,4,Pinnacle,DraftKings
 NCAAB,5,Pinnacle,DraftKings
 NHL,6,Pinnacle,DraftKings
@@ -56,5 +56,6 @@ Australia - Big Bash League Women,20304,Pinnacle,
 CS2,9977,Pinnacle,
 Dota 2,9983,Pinnacle,
 LOL,10138,Pinnacle,
+Call of Duty,20298,Pinnacle,
 ATP,156,Pinnacle,
 WTA,152,Pinnacle,
