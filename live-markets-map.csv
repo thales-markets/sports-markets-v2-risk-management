@@ -71,29 +71,29 @@ NBA,4,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,0
 NBA,4,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,0
 NBA,4,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,0
 NBA,4,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-NCAAB,5,0,Moneyline,Moneyline,true,0.75,0.25,0
-NCAAB,5,10001,Point Spread,Spread,true,0.65,0.35,0
-NCAAB,5,10002,Total Points,Total,true,0.65,0.35,0
-NCAAB,5,10017,Team Total,Total,true,0.65,0.35,0
-NCAAB,5,10018,Team Total,Total,true,0.65,0.35,0
-NCAAB,5,10031,1st Quarter Total Points,Total,true,0.65,0.35,0
-NCAAB,5,10032,2nd Quarter Total Points,Total,true,0.65,0.35,0
-NCAAB,5,10033,3rd Quarter Total Points,Total,true,0.65,0.35,0
-NCAAB,5,10034,4th Quarter Total Points,Total,true,0.65,0.35,0
-NCAAB,5,10041,1st Quarter Point Spread,Spread,true,0.65,0.35,0
-NCAAB,5,10042,2nd Quarter Point Spread,Spread,true,0.65,0.35,0
-NCAAB,5,10043,3rd Quarter Point Spread,Spread,true,0.65,0.35,0
-NCAAB,5,10044,4th Quarter Point Spread,Spread,true,0.65,0.35,0
-NCAAB,5,10071,1st Half Point Spread,Spread,true,0.65,0.35,0
-NCAAB,5,10072,2nd Half Point Spread,Spread,true,0.65,0.35,0
-NCAAB,5,10061,1st Half Total Points,Total,true,0.65,0.35,0
-NCAAB,5,10062,2nd Half Total Points,Total,true,0.65,0.35,0
-NCAAB,5,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,0
-NCAAB,5,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,0
-NCAAB,5,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,0
-NCAAB,5,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,0
-NCAAB,5,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-NCAAB,5,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+NCAAB,5,0,Moneyline,Moneyline,true,0.75,0.25,1
+NCAAB,5,10001,Point Spread,Spread,true,0.65,0.35,1
+NCAAB,5,10002,Total Points,Total,true,0.65,0.35,1
+NCAAB,5,10017,Team Total,Total,true,0.65,0.35,1
+NCAAB,5,10018,Team Total,Total,true,0.65,0.35,1
+NCAAB,5,10031,1st Quarter Total Points,Total,true,0.65,0.35,1
+NCAAB,5,10032,2nd Quarter Total Points,Total,true,0.65,0.35,1
+NCAAB,5,10033,3rd Quarter Total Points,Total,true,0.65,0.35,1
+NCAAB,5,10034,4th Quarter Total Points,Total,true,0.65,0.35,1
+NCAAB,5,10041,1st Quarter Point Spread,Spread,true,0.65,0.35,1
+NCAAB,5,10042,2nd Quarter Point Spread,Spread,true,0.65,0.35,1
+NCAAB,5,10043,3rd Quarter Point Spread,Spread,true,0.65,0.35,1
+NCAAB,5,10044,4th Quarter Point Spread,Spread,true,0.65,0.35,1
+NCAAB,5,10071,1st Half Point Spread,Spread,true,0.65,0.35,1
+NCAAB,5,10072,2nd Half Point Spread,Spread,true,0.65,0.35,1
+NCAAB,5,10061,1st Half Total Points,Total,true,0.65,0.35,1
+NCAAB,5,10062,2nd Half Total Points,Total,true,0.65,0.35,1
+NCAAB,5,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,1
+NCAAB,5,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,1
+NCAAB,5,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,1
+NCAAB,5,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,1
+NCAAB,5,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+NCAAB,5,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
 NHL,6,0,Moneyline,Moneyline,true,0.75,0.25,0
 NHL,6,10001,Puck Line,Spread,true,0.65,0.35,0
 NHL,6,10002,Total Goals,Total,true,0.65,0.35,0
