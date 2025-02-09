@@ -23,10 +23,10 @@ NCAAF,1,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,0
 NCAAF,1,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,0
 NCAAF,1,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 NFL,2,0,Moneyline,Moneyline,true,0.75,0.25,0
-NFL,2,10001,Point Spread,Spread,true,0.65,0.35,0
-NFL,2,10002,Total Points,Total,true,0.65,0.35,0
-NFL,2,10017,Team Total,Total,true,0.65,0.35,0
-NFL,2,10018,Team Total,Total,true,0.65,0.35,0
+NFL,2,10001,Point Spread,Spread,true,0.8,0.2,0
+NFL,2,10002,Total Points,Total,true,0.8,0.2,0
+NFL,2,10017,Team Total,Total,true,0.8,0.2,0
+NFL,2,10018,Team Total,Total,true,0.8,0.2,0
 NFL,2,10031,1st Quarter Total Points,Total,true,0.65,0.35,0
 NFL,2,10032,2nd Quarter Total Points,Total,true,0.65,0.35,0
 NFL,2,10033,3rd Quarter Total Points,Total,true,0.65,0.35,0
