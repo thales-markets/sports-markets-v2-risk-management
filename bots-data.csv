@@ -39,7 +39,7 @@ overtime-puller-opticodds-basketball-leagues,Italy - Lega Basket Serie A;Germany
 overtime-puller-opticodds-tennis,ATP;WTA,156;152,2,30s,0x0dB6b60db480B7E9db4d0d2ac90608bebD4Da822,2m,
 overtime-puller-opticodds-esports-one,CS2;League of Legends,9977;10138,4,30s,0x8561Dc58DaD01D19Fa68966f8006C672de1814Fa,2m,
 overtime-puller-opticodds-esports-two,Dota 2;Call of Duty,9983;20298,4,30s,0x8561Dc58DaD01D19Fa68966f8006C672de1814Fa,2m,
-overtime-puller-opticodds-soccer-women-europe,Netherlands - Vrouwen Eredivisie,20142,4,30s,0x29121adFD82A866F5484fcd1dd9201bAf0008d9c,2m,
+overtime-puller-opticodds-soccer-women-europe,Netherlands - Vrouwen Eredivisie;England - Womens Super League,20137;20142,4,30s,0x29121adFD82A866F5484fcd1dd9201bAf0008d9c,2m,
 overtime-puller-opticodds-soccer-women-other,Australia - A-League Women,20146,4,30s,0xcf4dBeBd891e3365dEF886AA90e9681314cC3dFa,2m,
 overtime-puller-opticodds-futures-us-el,NFL - Futures;NBA - Futures;NHL - Futures;Euroleague - Futures,30002;30004;30006;30399,0,30s,0x47Dd547d4c74E811600db61722758b940579f58B,2m,
 overtime-puller-opticodds-futures-tennis,ATP - Futures,30156,0,30s,0x47Dd547d4c74E811600db61722758b940579f58B,2m,
