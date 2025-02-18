@@ -160,7 +160,7 @@ Serie A,15,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
 Serie A,15,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
 Serie A,15,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 UEFA Champions League,16,0,Moneyline,Moneyline,true,0.75,0.25,0
-UEFA Champions League,16,10001,Goal Spread,Spread,true,0.65,0.35,0
+UEFA Champions League,16,10001,Goal Spread,Spread,false,0.65,0.35,0
 UEFA Champions League,16,10002,Total Goals,Total,true,0.65,0.35,0
 UEFA Champions League,16,10017,Team Total,Total,true,0.65,0.35,0
 UEFA Champions League,16,10018,Team Total,Total,true,0.65,0.35,0
