@@ -1,3 +1,15 @@
 sportName,sportId,typeIdsOnePositions,typeIdsTwoPositions,typeIdsThreePositions,lowerPercentageRisk,higherPercentageRisk,lowerPercentageRiskRebalance,higherPercentageRiskRebalance
+NCAAF,1,,0;10001;10002,,33,66,1,2
 NFL,2,,0;10001;10002,,33,66,1,2
+MLB,3,,0;10001;10002,,33,66,1,2
 NBA,4,,0;10001;10002,,33,66,1,2
+NCAAB,5,,0;10001;10002,,33,66,1,2
+NHL,6,,0;10001;10002,,33,66,1,2
+WTA,152,,0;10001;10002,,33,66,1,2
+ATP,156,,0;10001;10002,,33,66,1,2
+Euroleague,399,,0;10001;10002,,33,66,1,2
+Eurocup,20200,,0;10001;10002,,33,66,1,2
+CS2,9977,,0;10001;10002,,33,66,1,2
+Dota2,9983,,0;10001;10002,,33,66,1,2
+League of Legends,10138,,0;10001;10002,,33,66,1,2
+Call of Duty,20298,,0;10001;10002,,33,66,1,2
