@@ -45,9 +45,9 @@ NFL,2,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,0
 NFL,2,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,0
 NFL,2,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,0
 NFL,2,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-MLB,3,0,Moneyline,Moneyline,true,0.75,0.25,0
-MLB,3,10001,Run Line,Spread,true,0.65,0.35,0
-MLB,3,10002,Total Runs,Total,true,0.65,0.35,0
+MLB,3,0,Moneyline,Moneyline,false,0.75,0.25,0
+MLB,3,10001,Run Line,Spread,false,0.65,0.35,0
+MLB,3,10002,Total Runs,Total,false,0.65,0.35,0
 NBA,4,0,Moneyline,Moneyline,true,0.75,0.25,0
 NBA,4,10001,Point Spread,Spread,true,0.65,0.35,0
 NBA,4,10002,Total Points,Total,true,0.65,0.35,0
