@@ -563,11 +563,9 @@ Australia A League,20113,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
 CS2,9977,0,Moneyline,Moneyline,true,0.75,0.25,0
 CS2,9977,10001,Map Handicap,Spread,true,0.9,0.1,0
 CS2,9977,10002,Total Maps,Total,true,0.9,0.1,0
-CS2,9977,10031,1st Map Total Kills,Total,true,0.75,0.25,1
-CS2,9977,10032,2nd Map Total Kills,Total,true,0.75,0.25,1
-CS2,9977,10033,3rd Map Total Kills,Total,true,0.75,0.25,1
-CS2,9977,10034,3rd Map Total Kills,Total,true,0.75,0.25,1
-CS2,9977,10035,3rd Map Total Kills,Total,true,0.75,0.25,1
+CS2,9977,10031,1st Map Total Rounds,Total,true,0.75,0.25,1
+CS2,9977,10032,2nd Map Total Rounds,Total,true,0.75,0.25,1
+CS2,9977,10033,3rd Map Total Rounds,Total,true,0.75,0.25,1
 CS2,9977,10041,1st Map Round Handicap,Spread,true,0.75,0.25,1
 CS2,9977,10042,2nd Map Round Handicap,Spread,true,0.75,0.25,1
 CS2,9977,10043,3rd Map Round Handicap,Spread,true,0.75,0.25,1
@@ -584,8 +582,6 @@ DOTA2,9983,10002,Total Maps,Total,true,0.9,0.1,0
 DOTA2,9983,10031,1st Map Total Kills,Total,true,0.75,0.25,1
 DOTA2,9983,10032,2nd Map Total Kills,Total,true,0.75,0.25,1
 DOTA2,9983,10033,3rd Map Total Kills,Total,true,0.75,0.25,1
-DOTA2,9983,10034,3rd Map Total Kills,Total,true,0.75,0.25,1
-DOTA2,9983,10035,3rd Map Total Kills,Total,true,0.75,0.25,1
 DOTA2,9983,10041,1st Map Round Handicap,Spread,true,0.75,0.25,1
 DOTA2,9983,10042,2nd Map Round Handicap,Spread,true,0.75,0.25,1
 DOTA2,9983,10043,3rd Map Round Handicap,Spread,true,0.75,0.25,1
@@ -602,8 +598,6 @@ LOL,10138,10002,Total Maps,Total,true,0.9,0.1,0
 LOL,10138,10031,1st Map Total Kills,Total,true,0.75,0.25,1
 LOL,10138,10032,2nd Map Total Kills,Total,true,0.75,0.25,1
 LOL,10138,10033,3rd Map Total Kills,Total,true,0.75,0.25,1
-LOL,10138,10034,3rd Map Total Kills,Total,true,0.75,0.25,1
-LOL,10138,10035,3rd Map Total Kills,Total,true,0.75,0.25,1
 LOL,10138,10041,1st Map Round Handicap,Spread,true,0.75,0.25,1
 LOL,10138,10042,2nd Map Round Handicap,Spread,true,0.75,0.25,1
 LOL,10138,10043,3rd Map Round Handicap,Spread,true,0.75,0.25,1
