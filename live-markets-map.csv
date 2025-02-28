@@ -560,19 +560,19 @@ Australia A League,20113,10018,Team Total,Total,true,0.65,0.35,0
 Australia A League,20113,10031,1st Half Total Goals,Total,true,0.65,0.35,0
 Australia A League,20113,10032,2nd Half Total Goals,Total,true,0.75,0.25,0
 Australia A League,20113,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-CS2,9977,0,Moneyline,Moneyline,true,0.75,0.25,0
+CS2,9977,0,Moneyline,Moneyline,true,0.9,0.1,0
 CS2,9977,10001,Map Handicap,Spread,true,0.9,0.1,0
 CS2,9977,10002,Total Maps,Total,true,0.9,0.1,0
-CS2,9977,10031,1st Map Total Rounds,Total,true,0.75,0.25,1
-CS2,9977,10032,2nd Map Total Rounds,Total,true,0.75,0.25,1
-CS2,9977,10033,3rd Map Total Rounds,Total,true,0.75,0.25,1
-CS2,9977,10034,3rd Map Total Rounds,Total,true,0.75,0.25,1
-CS2,9977,10035,3rd Map Total Rounds,Total,true,0.75,0.25,1
-CS2,9977,10041,1st Map Round Handicap,Spread,true,0.75,0.25,1
-CS2,9977,10042,2nd Map Round Handicap,Spread,true,0.75,0.25,1
-CS2,9977,10043,3rd Map Round Handicap,Spread,true,0.75,0.25,1
-CS2,9977,10044,4th Map Round Handicap,Spread,true,0.75,0.25,1
-CS2,9977,10045,5th Map Round Handicap,Spread,true,0.75,0.25,1
+CS2,9977,10031,1st Map Total Rounds,Total,true,0.9,0.1,1
+CS2,9977,10032,2nd Map Total Rounds,Total,true,0.9,0.1,1
+CS2,9977,10033,3rd Map Total Rounds,Total,true,0.9,0.1,1
+CS2,9977,10034,3rd Map Total Rounds,Total,true,0.9,0.1,1
+CS2,9977,10035,3rd Map Total Rounds,Total,true,0.9,0.1,1
+CS2,9977,10041,1st Map Round Handicap,Spread,true,0.9,0.1,1
+CS2,9977,10042,2nd Map Round Handicap,Spread,true,0.9,0.1,1
+CS2,9977,10043,3rd Map Round Handicap,Spread,true,0.9,0.1,1
+CS2,9977,10044,4th Map Round Handicap,Spread,true,0.9,0.1,1
+CS2,9977,10045,5th Map Round Handicap,Spread,true,0.9,0.1,1
 CS2,9977,10021,1st Map Moneyline,Moneyline,true,0.99,0.01,1
 CS2,9977,10022,2nd Map Moneyline,Moneyline,true,0.99,0.01,1
 CS2,9977,10023,3rd Map Moneyline,Moneyline,true,0.99,0.01,1
