@@ -1,0 +1,3 @@
+blockerNumber,blockerName,typeIds,message
+1,Markets have same type ID, player ID and position,,Multiple markets with the same direction
+2,Halftime/Fulltime combining with Moneyline,10118;10119;10218;10219,Moneyline market with half/full time
