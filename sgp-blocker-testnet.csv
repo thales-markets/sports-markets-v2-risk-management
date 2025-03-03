@@ -1,5 +1,5 @@
 blockerGroup,blockerNumber,blockerDescription,typeIds,message
-1,1,Same type ID and player ID and position,,Multiple markets with the same direction
+1,1,Same type ID and player ID and position (both over or both under),,Multiple markets with the same direction
 2,1,Halftime/Fulltime combined with Moneyline,10118;10119;10218;10219,Moneyline market with half/full time
 3,1,Same type ID and player ID (not 0) for player props - Triple double with any other prop,,
 3,2,Same type ID and player ID (not 0) for player props - Double double with any other prop,,
