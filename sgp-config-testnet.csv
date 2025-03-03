@@ -1,3 +1,8 @@
 name,sportId,bookmakers,spread
 default,0,draftkings;betmgm;blue book,0
 NBA,4,draftkings;betmgm;blue book,0
+EPL,11,draftkings;betmgm;bwin,0
+FRA1,12,draftkings;betmgm;bwin,0
+GER1,13,draftkings;betmgm;bwin,0
+ESP1,14,draftkings;betmgm;bwin,0
+ITA1,15,draftkings;betmgm;bwin,0
