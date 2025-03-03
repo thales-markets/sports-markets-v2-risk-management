@@ -1,2 +1,3 @@
-primaryBookmaker,secondaryBookmaker,tertiaryBookmaker,spread
-draftkings,betmgm,blue book,5
+name,sportId,bookmakers,spread
+default,0,draftkings;betmgm;blue book,5
+NBA,4,draftkings;betmgm;blue book,5
