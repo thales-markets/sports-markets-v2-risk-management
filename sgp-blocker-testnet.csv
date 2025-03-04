@@ -4,8 +4,8 @@ blockerGroup,blockerNumber,blockerDescription,blockerTypeIds,combineWithTypeIds,
 2,0,Same type ID and player ID (not 0) for player props - Triple double with any other prop,11088,,Triple double with the same player prop
 2,1,Same type ID and player ID (not 0) for player props - Double double with any other prop,11087,,Double double with the same player prop
 2,2,Same type ID and player ID (not 0) for player props - PRA with PR and PA and points or rebounds or assist props,11227,11226;11225;11029;11035;11039,
-2,3,Same type ID and player ID (not 0) for player props - PR with points or rebounds,11226,,
-2,4,Same type ID and player ID (not 0) for player props - PA with points or assists,11225,,
+2,3,Same type ID and player ID (not 0) for player props - PR with points or rebounds,11226,11029;11035,
+2,4,Same type ID and player ID (not 0) for player props - PA with points or assists,11225,11029;11039,
 3,0,Moneyline and spread on the same team - Moneyline and spread full time,0,,
 3,1,Moneyline and spread on the same team - Moneyline and spread first period,0,,
 3,2,Moneyline and spread on the same team - Moneyline and spread second period,0,,
