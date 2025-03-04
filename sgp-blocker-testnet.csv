@@ -1,11 +1,11 @@
 blockerGroup,blockerNumber,groupDescription,blockerDescription,blockerTypeIds,combineWithTypeIds,message
 0,0,Same type ID and player ID and position,Same type ID and player ID and position (both over or both under),-,-,Multiple markets with the same direction
 1,0,Same blocker type ID with any other combined type ID,Moneyline combined with Halftime/Fulltime,0,10118;10119;10218;10219,Moneyline market with halftime/fulltime
-2,0,Same player ID (not 0) and if defined blocker type ID with any combined type ID,Triple double with any other prop,11088,,Triple double with the same player prop
-2,1,Same player ID (not 0) and if defined blocker type ID with any combined type ID,Double double with any other prop,11087,,Double double with the same player prop
-2,2,Same player ID (not 0) and if defined blocker type ID with any combined type ID,PRA with PR or PA or points or rebounds or assist props,11227,11226;11225;11029;11035;11039,
-2,3,Same player ID (not 0) and if defined blocker type ID with any combined type ID,PR with points or rebounds,11226,11029;11035,
-2,4,Same player ID (not 0) and if defined blocker type ID with any combined type ID,PA with points or assists,11225,11029;11039,
+2,0,Same player ID (not 0) and blocker type ID with any combined type ID if exists,Triple double with any other prop,11088,,Triple double with the same player prop
+2,1,Same player ID (not 0) and blocker type ID with any combined type ID if exists,Double double with any other prop,11087,,Double double with the same player prop
+2,2,Same player ID (not 0) and blocker type ID with any combined type ID if exists,PRA with PR or PA or points or rebounds or assist props,11227,11226;11225;11029;11035;11039,
+2,3,Same player ID (not 0) and blocker type ID with any combined type ID if exists,PR with points or rebounds,11226,11029;11035,
+2,4,Same player ID (not 0) and blocker type ID with any combined type ID if exists,PA with points or assists,11225,11029;11039,
 3,0,Same team (position) and blocker type ID with any combined type ID,Moneyline with spread full time,0,10001,
 3,1,Same team (position) and blocker type ID with any combined type ID,Moneyline with spread first period,0,10041,
 3,2,Same team (position) and blocker type ID with any combined type ID,Moneyline with spread second period,0,,
