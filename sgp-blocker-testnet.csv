@@ -2,14 +2,14 @@ blockerGroup,blockerNumber,groupDescription,blockerDescription,blockerTypeIds,co
 0,0,Same type ID and player ID and position,Same type ID and player ID and position (both over or both under),-,-,Multiple markets with the same direction
 1,0,Same blocker type ID with any other combined type ID,Moneyline combined with Halftime/Fulltime,0,10118;10119;10218;10219,Moneyline market with halftime/fulltime
 2,0,Same player ID (not 0) and blocker type ID with any combined type ID if exists,Triple double with any other player props,11088,,Triple double with the same player prop
-2,1,Same player ID (not 0) and blocker type ID with any combined type ID if exists,Double double with any other player props,11087,,Double double with the same player prop
-2,2,Same player ID (not 0) and blocker type ID with any combined type ID if exists,PRA with PR or PA or points or rebounds or assist props,11227,11226;11225;11029;11035;11039,
-2,3,Same player ID (not 0) and blocker type ID with any combined type ID if exists,PR with points or rebounds,11226,11029;11035,
-2,4,Same player ID (not 0) and blocker type ID with any combined type ID if exists,PA with points or assists,11225,11029;11039,
+2,1,,Double double with any other player props,11087,,Double double with the same player prop
+2,2,,PRA with PR or PA or points or rebounds or assist props,11227,11226;11225;11029;11035;11039,
+2,3,,PR with points or rebounds,11226,11029;11035,
+2,4,,PA with points or assists,11225,11029;11039,
 3,0,Same team (position) and blocker type ID with any combined type ID,Moneyline with spread full time,0,10001,
-3,1,Same team (position) and blocker type ID with any combined type ID,Moneyline with spread first period,0,10041,
-3,2,Same team (position) and blocker type ID with any combined type ID,Moneyline with spread second period,0,,
-3,3,Same team (position) and blocker type ID with any combined type ID,Moneyline with spread secondary first period,0,,
-3,4,Same team (position) and blocker type ID with any combined type ID,Both teams to score with total goals per team,10009,,
+3,1,,Moneyline with spread first period,0,10041,
+3,2,,Moneyline with spread second period,0,,
+3,3,,Moneyline with spread secondary first period,0,,
+3,4,,Both teams to score with total goals per team,10009,,
 4,0,Same team (position) and blocker type ID with every combined type ID,Moneyline with betting on each period individually on the same team,0,,
 5,0,Same blocker type ID with every combined type ID,Total whole game with total on each period,10002,,
