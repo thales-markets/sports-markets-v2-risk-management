@@ -1,6 +1,6 @@
 blockerGroup,blockerNumber,groupDescription,blockerDescription,blockerTypeIds,combineWithTypeIds,message
 0,0,Same type ID and player ID and position,Same type ID and player ID and position (both over or both under),-,-,Multiple markets with the same direction
-1,0,Same blocker type ID with any other combined type ID,Moneyline combined with Halftime/Fulltime,0,10006,Moneyline market with halftime/fulltime
+1,0,Same blocker type ID with any other combined type ID,Moneyline combined with Halftime/Fulltime,0;10021,10006,Moneyline market with halftime/fulltime
 2,0,Same player ID (not 0) and blocker type ID with any combined type ID if exists,Triple double with any other player props,11088,,Triple double with the same player prop
 2,1,,Double double with any other player props,11087,,Double double with the same player prop
 2,2,,PRA with PR or PA or points or rebounds or assist props,11227,11226;11225;11029;11035;11039,
