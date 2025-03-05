@@ -12,4 +12,4 @@ blockerGroup,blockerNumber,groupDescription,blockerDescription,blockerTypeIds,co
 3,3,,Moneyline with spread secondary first period,0,,
 3,4,,Both teams to score with total goals per team,10009,10017,
 4,0,Same team (position) and blocker type ID with every combined type ID,Moneyline with betting on each period individually on the same team,0,,
-5,0,Same blocker type ID with every combined type ID,Total whole game with total on each period,10002,,
+4,1,Same blocker type ID with every combined type ID,Total whole game with total on each period,10002,,
