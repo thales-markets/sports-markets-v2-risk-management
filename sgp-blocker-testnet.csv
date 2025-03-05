@@ -7,23 +7,23 @@ sport,sportId,blockerGroup,blockerNumber,groupDescription,blockerDescription,blo
 ,,2,3,,PR with points or rebounds,11226,11029;11035,PR with points or rebounds,true
 ,,2,4,,PA with points or assists,11225,11029;11039,PA with points or assists,true
 ,,2,5,,RA with rebounds or assists props,11228,11035;11039,RA with rebounds or assists props,true
-,,3,0,Same team (position) and blocker type ID with any combined type ID,Moneyline with spread full time,0,10001,,true
+,,3,0,Same team (position) and blocker type ID with any combined type ID,Moneyline with spread full time,0,10001,Moneyline with spread full time,true
 ,,3,1,,1st Half Moneyline with spread first period,10021,10041,1st Half Moneyline with spread first period,true
 ,,3,2,,2nd Half Moneyline with spread second period,10022,10042,2nd Half Moneyline with spread second period,true
 ,,3,3,,Secondary First Moneyline with spread secondary first period,10051,10071,1st Half Moneyline with spread first period,true
 ,,3,4,,Secondary Second Moneyline with spread secondary second period,10052,10072,2nd Half Moneyline with spread second period,true
 ,,3,5,,Both teams to score with total goals per team,10009,10017;10018,Both teams to score with total goals per team,true
 ,,3,6,,1st Half Both teams to score with 1st half total goals per team,10101,10111;10112,1st Half Both teams to score with 1st Half total goals per team,true
-,,3,7,,2nd Half Both teams to score with 2nd half total goals per team,10102,10211;10212,1st Half Both teams to score with 1st Half total goals per team,true
+,,3,7,,2nd Half Both teams to score with 2nd half total goals per team,10102,10211;10212,2nd Half Both teams to score with 2nd Half total goals per team,true
 ,,3,8,,Moneyline with Double Chance,0,10003,Moneyline with Double Chance,true
 ,,3,9,,1st Half Moneyline with 1st half Double Chance,10021,10015,1st Half Moneyline with 1st half Double Chance,true
 ,,3,10,,2nd Half Moneyline with 2nd half Double Chance,10022,10016,2nd Half Moneyline with 2nd half Double Chance,true
-,,4,0,Same team (position) and blocker type ID with every combined type ID,Moneyline with betting on each period individually on the same team-Soccer,0,10021;10022,Moneyline with betting on each period individually,true
-,,4,1,,Moneyline with betting on each period individually on the same team - Basketball halves,0,10051;10052,Moneyline with betting on each period individually,true
-,,4,2,,Moneyline with betting on each period individually on the same team - Basketball quarters,0,10021;10022;10023;10024,Moneyline with betting on each period individually,true
-,,4,3,,Moneyline with betting on each period individually on the same team - Basketball quarters/first half,10051,10021;10022,1st Half Moneyline with betting on each period individually,true
-,,4,4,,Moneyline with betting on each period individually on the same team - Basketball quarters/second half,10052,10023;10024,2nd Half Moneyline with betting on each period individually,true
-,,4,5,,Moneyline with betting on each period individually on the same team - Hockey,0,10021;10022;10023,Moneyline with betting on each period individually,true
+,,4,0,Same team (position) and blocker type ID with every combined type ID,Moneyline with each period individually on the same team-Soccer,0,10021;10022,Moneyline with each period individually,true
+,,4,1,,Moneyline with each period individually on the same team - Basketball halves,0,10051;10052,Moneyline with each period individually,true
+,,4,2,,Moneyline with each period individually on the same team - Basketball quarters,0,10021;10022;10023;10024,Moneyline with each period individually,true
+,,4,3,,Moneyline with each period individually on the same team - Basketball quarters/first half,10051,10021;10022,1st Half Moneyline with each period individually,true
+,,4,4,,Moneyline with each period individually on the same team - Basketball quarters/second half,10052,10023;10024,2nd Half Moneyline with each period individually,true
+,,4,5,,Moneyline with each period individually on the same team - Hockey,0,10021;10022;10023,Moneyline with betting on each period individually,true
 ,,4,6,,Total whole game with total on each period - Soccer,10002,10031;10032,Total whole game with total on each period,true
 ,,4,7,,Total whole game with total on each period - Basketball halves,10002,10061;10062,Total whole game with total on each period,true
 ,,4,8,,Total whole game with total on each period - Basketball quaretrs/full time,10002,10031;10032;10033;10034,Total whole game with total on each period,true
