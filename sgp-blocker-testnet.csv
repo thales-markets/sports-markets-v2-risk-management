@@ -1,5 +1,5 @@
 sport,sportId,blockerGroup,blockerNumber,groupDescription,blockerDescription,blockerTypeIds,combineWithTypeIds,message,enabled
-,4,0,0,Same type ID and player ID and position,Same type ID and player ID and position (both over or both under),-,-,Multiple markets with the same direction,true
+basketball,,0,0,Same type ID and player ID and position,Same type ID and player ID and position (both over or both under),-,-,Multiple markets with the same direction,true
 ,,1,0,Same blocker type ID with any other combined type ID,Moneyline combined with Halftime/Fulltime,0;10021;10022;10003;10015;10016,10006,Moneyline market with halftime/fulltime,true
 ,,2,0,Same player ID (not 0) and blocker type ID with any combined type ID if exists,Triple double with any other player props,11088,,Triple double with the same player prop,true
 ,,2,1,,Double double with any other player props,11087,,Double double with the same player prop,true
