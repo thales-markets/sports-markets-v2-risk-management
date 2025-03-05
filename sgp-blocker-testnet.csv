@@ -29,8 +29,9 @@ blockerGroup,blockerNumber,groupDescription,blockerDescription,blockerTypeIds,co
 4,10,,Total whole game with total on each period - Basketball quaretrs/2nd half,10062,10033;10034,Total whole game with total on each period
 4,11,,Total whole game with total on each period - Hockey,10002,10031;10032;10033,Total whole game with total on each period
 4,12,,Spread whole game with spread on each period - Soccer,10001,10041;10042,Spread whole game with spread on each period
-4,13,,Spread whole game with spread on each period - Basketball halves,10002,10071;10072,Spread whole game with spread on each period
-4,14,,Spread whole game with spread on each period - Basketball quaretrs/full time,10002,10041;10042;10043;10044,Spread whole game with spread on each period
+4,13,,Spread whole game with spread on each period - Basketball halves,10001,10071;10072,Spread whole game with spread on each period
+4,14,,Spread whole game with spread on each period - Basketball quaretrs/full time,10001,10041;10042;10043;10044,Spread whole game with spread on each period
 4,15,,Spread whole game with spread on each period - Basketball quaretrs/1st half,10071,10041;10042,Spread whole game with spread on each period
 4,16,,Spread whole game with spread on each period - Basketball quaretrs/2nd half,10072,10043;10044,Spread whole game with spread on each period
+4,16,,Spread whole game with spread on each period - Hockey,10001,10041;10042;10043,Spread whole game with spread on each period
 Spread5,0,Same blocker type ID with every combined type ID,,,,
