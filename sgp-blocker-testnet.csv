@@ -14,10 +14,10 @@ sport,sportId,blockerGroup,blockerNumber,groupDescription,blockerDescription,blo
 ,,3,4,,Secondary Second Moneyline with spread secondary second period,10052,10072,2nd Half Moneyline with spread second period,true
 ,,3,5,,Both teams to score with total goals per team,10009,10017;10018,Both teams to score with total goals per team,true
 ,,3,6,,1st Half Both teams to score with 1st half total goals per team,10101,10111;10112,1st Half Both teams to score with 1st Half total goals per team,true
-,,3,7,,1st Half Both teams to score with 1st half total goals per team,10102,10211;10212,1st Half Both teams to score with 1st Half total goals per team,true
-,,3,6,,Moneyline with Double Chance,0,10003,Moneyline with Double Chance,true
-,,3,7,,1st Half Moneyline with 1st half Double Chance,10021,10015,1st Half Moneyline with 1st half Double Chance,true
-,,3,7,,2nd Half Moneyline with 2nd half Double Chance,10022,10016,2nd Half Moneyline with 2nd half Double Chance,true
+,,3,7,,2nd Half Both teams to score with 2nd half total goals per team,10102,10211;10212,1st Half Both teams to score with 1st Half total goals per team,true
+,,3,8,,Moneyline with Double Chance,0,10003,Moneyline with Double Chance,true
+,,3,9,,1st Half Moneyline with 1st half Double Chance,10021,10015,1st Half Moneyline with 1st half Double Chance,true
+,,3,10,,2nd Half Moneyline with 2nd half Double Chance,10022,10016,2nd Half Moneyline with 2nd half Double Chance,true
 ,,4,0,Same team (position) and blocker type ID with every combined type ID,Moneyline with betting on each period individually on the same team-Soccer,0,10021;10022,Moneyline with betting on each period individually,true
 ,,4,1,,Moneyline with betting on each period individually on the same team - Basketball halves,0,10051;10052,Moneyline with betting on each period individually,true
 ,,4,2,,Moneyline with betting on each period individually on the same team - Basketball quarters,0,10021;10022;10023;10024,Moneyline with betting on each period individually,true
@@ -37,5 +37,5 @@ sport,sportId,blockerGroup,blockerNumber,groupDescription,blockerDescription,blo
 ,,4,16,,Spread whole game with spread on each period - Basketball quaretrs/2nd half,10072,10043;10044,Spread whole game with spread on each period,true
 ,,4,17,,Spread whole game with spread on each period - Hockey,10001,10041;10042;10043,Spread whole game with spread on each period,true
 ,,4,18,,Total corners whole game with total corners on each period - Soccer,10222,10226;10227,Spread whole game with spread on each period,true
-,,4,19,,DNB whole game with DNB on each period - Soccer,10001,10121;10122,Spread whole game with spread on each period,true
+,,4,19,,DNB whole game with DNB on each period - Soccer,10010,10121;10122,Spread whole game with spread on each period,true
 ,,5,0,Same blocker type ID with every combined type ID,,,,,true
