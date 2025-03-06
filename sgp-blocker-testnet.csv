@@ -8,8 +8,8 @@ sport,sportId,blockerGroup,blockerNumber,groupDescription,blockerDescription,blo
 ,,2,4,,PA with points or assists,11225,11029;11039,PA with points or assists,true
 ,,2,5,,RA with rebounds or assists props,11228,11035;11039,RA with rebounds or assists props,true
 ,,3,0,Same team (position) and blocker type ID with any combined type ID,Moneyline with spread full time,0,10001,Moneyline with spread full time,true
-,,3,1,,1st Half Moneyline with spread first period,10021,10041,1st Half Moneyline with spread first period,true
-,,3,2,,2nd Half Moneyline with spread second period,10022,10042,2nd Half Moneyline with spread second period,true
+,,3,1,,1st Half Moneyline with spread first period,10021,10041,1st Half Moneyline with spread first period - quarter,true
+,,3,2,,2nd Half Moneyline with spread second period,10022,10042,2nd Half Moneyline with spread second period - quarter,true
 ,,3,3,,Secondary First Moneyline with spread secondary first period,10051,10071,1st Half Moneyline with spread first period,true
 ,,3,4,,Secondary Second Moneyline with spread secondary second period,10052,10072,2nd Half Moneyline with spread second period,true
 ,,3,5,,Both teams to score with total goals per team,10009,10017;10018,Both teams to score with total goals per team,true
@@ -18,6 +18,7 @@ sport,sportId,blockerGroup,blockerNumber,groupDescription,blockerDescription,blo
 ,,3,8,,Moneyline with Double Chance,0,10003,Moneyline with Double Chance,true
 ,,3,9,,1st Half Moneyline with 1st half Double Chance,10021,10015,1st Half Moneyline with 1st half Double Chance,true
 ,,3,10,,2nd Half Moneyline with 2nd half Double Chance,10022,10016,2nd Half Moneyline with 2nd half Double Chance,true
+,,3,11,,2-way Moneyline with 3-Way Moneyline,0,10011,2-way Moneyline with 3-Way Moneyline,true
 ,,4,0,Same team (position) and blocker type ID with every combined type ID,Moneyline with each period individually on the same team-Soccer,0,10021;10022,Moneyline with each period individually,true
 ,,4,1,,Moneyline with each period individually on the same team - Basketball halves,0,10051;10052,Moneyline with each period individually,true
 ,,4,2,,Moneyline with each period individually on the same team - Basketball quarters,0,10021;10022;10023;10024,Moneyline with each period individually,true
