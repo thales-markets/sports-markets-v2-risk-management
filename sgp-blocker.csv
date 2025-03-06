@@ -25,24 +25,24 @@ sport,sportId,blockerGroup,blockerNumber,groupDescription,blockerDescription,blo
 ,,3,8,,Moneyline with Double Chance,0,10003,Moneyline with Double Chance,true
 ,,3,9,,1st Half Moneyline with 1st half Double Chance,10021,10015,1st Half Moneyline with 1st half Double Chance,true
 ,,3,10,,2nd Half Moneyline with 2nd half Double Chance,10022,10016,2nd Half Moneyline with 2nd half Double Chance,true
-,,4,0,Same team (position) and blocker type ID with every combined type ID,Moneyline with each period individually on the same team-Soccer,0,10021;10022,Moneyline with each period individually,true
+soccer,,4,0,Same team (position) and blocker type ID with every combined type ID,Moneyline with each period individually on the same team-Soccer,0,10021;10022,Moneyline with each period individually,true
 ,,4,1,,Moneyline with each period individually on the same team - Basketball halves,0,10051;10052,Moneyline with each period individually,true
-,,4,2,,Moneyline with each period individually on the same team - Basketball quarters,0,10021;10022;10023;10024,Moneyline with each period individually,true
+basketball,,4,2,,Moneyline with each period individually on the same team - Basketball quarters,0,10021;10022;10023;10024,Moneyline with each period individually,true
 ,,4,3,,Moneyline with each period individually on the same team - Basketball quarters/first half,10051,10021;10022,1st Half Moneyline with each period individually,true
 ,,4,4,,Moneyline with each period individually on the same team - Basketball quarters/second half,10052,10023;10024,2nd Half Moneyline with each period individually,true
-,,4,5,,Moneyline with each period individually on the same team - Hockey,0,10021;10022;10023,Moneyline with betting on each period individually,true
-,,4,6,,Total whole game with total on each period - Soccer,10002,10031;10032,Total whole game with total on each period,true
+hockey,,4,5,,Moneyline with each period individually on the same team - Hockey,0,10021;10022;10023,Moneyline with betting on each period individually,true
+soccer,,4,6,,Total whole game with total on each period - Soccer,10002,10031;10032,Total whole game with total on each period,true
 ,,4,7,,Total whole game with total on each period - Basketball halves,10002,10061;10062,Total whole game with total on each period,true
-,,4,8,,Total whole game with total on each period - Basketball quaretrs/full time,10002,10031;10032;10033;10034,Total whole game with total on each period,true
-,,4,9,,Total whole game with total on each period - Basketball quaretrs/1st half,10061,10031;10032,Total whole game with total on each period,true
-,,4,10,,Total whole game with total on each period - Basketball quaretrs/2nd half,10062,10033;10034,Total whole game with total on each period,true
-,,4,11,,Total whole game with total on each period - Hockey,10002,10031;10032;10033,Total whole game with total on each period,true
-,,4,12,,Spread whole game with spread on each period - Soccer,10001,10041;10042,Spread whole game with spread on each period,true
+basketball,,4,8,,Total whole game with total on each period - Basketball quaretrs/full time,10002,10031;10032;10033;10034,Total whole game with total on each period,true
+,,4,9,,Total whole game with total on each period - Basketball quaretrs/1st half,10061,10031;10032,1st Half Total with total on each period,true
+,,4,10,,Total whole game with total on each period - Basketball quaretrs/2nd half,10062,10033;10034,2nd Half Total with total on each period,true
+hockey,,4,11,,Total whole game with total on each period - Hockey,10002,10031;10032;10033,Total whole game with total on each period,true
+soccer,,4,12,,Spread whole game with spread on each period - Soccer,10001,10041;10042,Spread whole game with spread on each period,true
 ,,4,13,,Spread whole game with spread on each period - Basketball halves,10001,10071;10072,Spread whole game with spread on each period,true
-,,4,14,,Spread whole game with spread on each period - Basketball quaretrs/full time,10001,10041;10042;10043;10044,Spread whole game with spread on each period,true
-,,4,15,,Spread whole game with spread on each period - Basketball quaretrs/1st half,10071,10041;10042,Spread whole game with spread on each period,true
-,,4,16,,Spread whole game with spread on each period - Basketball quaretrs/2nd half,10072,10043;10044,Spread whole game with spread on each period,true
-,,4,17,,Spread whole game with spread on each period - Hockey,10001,10041;10042;10043,Spread whole game with spread on each period,true
+basketball,,4,14,,Spread whole game with spread on each period - Basketball quaretrs/full time,10001,10041;10042;10043;10044,Spread whole game with spread on each period,true
+,,4,15,,Spread whole game with spread on each period - Basketball quaretrs/1st half,10071,10041;10042,1st Half Spread with spread on each period,true
+,,4,16,,Spread whole game with spread on each period - Basketball quaretrs/2nd half,10072,10043;10044,2nd Half Spread with spread on each period,true
+hockey,,4,17,,Spread whole game with spread on each period - Hockey,10001,10041;10042;10043,Spread whole game with spread on each period,true
 ,,4,18,,Total whole game with both Team Total whole game,10002,10017;10018,Total whole game with Team Totals whole game,true
 ,,4,19,,Total 1st period with both team total 1st period soccer,10031,10111;10112,Total 1st period with team totals 1st period soccer,true
 ,,4,20,,Total 2nd period with both team total 2nd period soccer,10032,10211;10212,Total 2nd period with team totals 2nd period soccer,true
