@@ -2,6 +2,12 @@ sport,sportId,blockerGroup,blockerNumber,groupDescription,blockerDescription,blo
 ,,0,0,Same type ID and player ID and position,Same type ID and player ID and position (both over or both under),-,-,Multiple markets with the same direction,true
 ,,1,0,Same blocker type ID with any other combined type ID,Moneyline combined with Halftime/Fulltime,0;10021;10022;10003;10015;10016,10006,Moneyline market with halftime/fulltime,true
 ,,1,1,,2-way Moneyline with 3-Way Moneyline,0,10011,2-way Moneyline with 3-Way Moneyline,true
+,,1,2,,Moneyline with Correct Score,0,10100,Moneyline with Correct Score,true
+,,1,3,,Total Goals with Correct Score,10002,10100,Total Goals with Correct Score,true
+,,1,4,,Both team to Score with Correct Score,10009,10100,Both team to Score with Correct Score,true
+,,1,5,,Spread whole game with Correct Score,10001,10100,Spread whole game with Correct Score,true
+,,1,6,,Draw No Bet with Correct Score,10010,10100,Draw No Bet with Correct Score,true
+,,1,7,,Odd/Even with Correct Score,10005,10100,Odd/Even with Correct Score,true
 ,,2,0,Same player ID (not 0) and blocker type ID with any combined type ID if exists,Triple double with any other player props,11088,,Triple double with the same player prop,true
 ,,2,1,,Double double with any other player props,11087,,Double double with the same player prop,true
 ,,2,2,,PRA with PR or PA or RA or points or rebounds or assists props,11227,11226;11225;11228;11029;11035;11039,PRA with PR or PA or points or rebounds or assists props,true
