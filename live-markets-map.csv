@@ -270,7 +270,7 @@ ATP Events,156,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,1
 Liga MX,230,0,Moneyline,Moneyline,true,0.9,0.1,0
 Liga MX,230,10001,Goal Spread,Spread,false,0.9,0.1,0
 Liga MX,230,10002,Total Goals,Total,false,0.9,0.1,0
-Euroleague,399,0,Moneyline,Moneyline,true,0.9,0.1,1
+Euroleague,399,0,Moneyline,Moneyline,true,0.9,0.1,3
 Euroleague,399,10001,Point Spread,Spread,true,0.9,0.1,1
 Euroleague,399,10002,Total Points,Total,true,0.9,0.1,1
 Euroleague,399,10017,Team Total,Total,true,0.9,0.1,1
