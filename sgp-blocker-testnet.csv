@@ -43,11 +43,11 @@ sport,sportId,blockerGroup,blockerNumber,groupDescription,blockerDescription,blo
 ,,4,15,,Spread whole game with spread on each period - Basketball quaretrs/1st half,10071,10041;10042,Spread whole game with spread on each period,true
 ,,4,16,,Spread whole game with spread on each period - Basketball quaretrs/2nd half,10072,10043;10044,Spread whole game with spread on each period,true
 ,,4,17,,Spread whole game with spread on each period - Hockey,10001,10041;10042;10043,Spread whole game with spread on each period,true
-,,4,18,,Total whole game with Team Total whole game,10002,10017;10018,Total whole game with Team Total whole game,true
-,,4,19,,Total 1st period with team total 1st period soccer,10031,10111;10112,Total 1st period with team total 1st period soccer,true
-,,4,20,,Total 2nd period with team total 2nd period soccer,10032,10211;10212,Total 2nd period with team total 2nd period soccer,true
-,,4,21,,Total 1st period with team total 1st period basketball,10061,10118;10119,Total 1st period with team total 1st period basketball,true
-,,4,22,,Total 2nd period with team total 2nd period basketball,10062,10218;10219,Total 2nd period with team total 2nd period basketball,true
+,,4,18,,Total whole game with both Team Total whole game,10002,10017;10018,Total whole game with Team Totals whole game,true
+,,4,19,,Total 1st period with both team total 1st period soccer,10031,10111;10112,Total 1st period with team totals 1st period soccer,true
+,,4,20,,Total 2nd period with both team total 2nd period soccer,10032,10211;10212,Total 2nd period with team totals 2nd period soccer,true
+,,4,21,,Total 1st period with both team total 1st period basketball,10061,10118;10119,Total 1st period with team totals 1st period basketball,true
+,,4,22,,Total 2nd period with both team total 2nd period basketball,10062,10218;10219,Total 2nd period with team totals 2nd period basketball,true
 ,,4,23,,Total corners whole game with total corners on each period - Soccer,10222,10226;10227,Spread whole game with spread on each period,true
 ,,4,24,,DNB whole game with DNB on each period - Soccer,10010,10121;10122,Spread whole game with spread on each period,true
 ,,5,0,Same blocker type ID with every combined type ID,,,,,true
