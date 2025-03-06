@@ -270,29 +270,29 @@ ATP Events,156,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,1
 Liga MX,230,0,Moneyline,Moneyline,true,0.9,0.1,0
 Liga MX,230,10001,Goal Spread,Spread,false,0.9,0.1,0
 Liga MX,230,10002,Total Goals,Total,false,0.9,0.1,0
-Euroleague,399,0,Moneyline,Moneyline,true,0.9,0.1,0
-Euroleague,399,10001,Point Spread,Spread,true,0.9,0.1,0
-Euroleague,399,10002,Total Points,Total,true,0.9,0.1,0
-Euroleague,399,10017,Team Total,Total,true,0.9,0.1,0
-Euroleague,399,10018,Team Total,Total,true,0.9,0.1,0
-Euroleague,399,10031,1st Quarter Total Points,Total,true,0.9,0.1,0
-Euroleague,399,10032,2nd Quarter Total Points,Total,true,0.9,0.1,0
-Euroleague,399,10033,3rd Quarter Total Points,Total,true,0.9,0.1,0
-Euroleague,399,10034,4th Quarter Total Points,Total,true,0.9,0.1,0
-Euroleague,399,10041,1st Quarter Point Spread,Spread,true,0.9,0.1,0
-Euroleague,399,10042,2nd Quarter Point Spread,Spread,true,0.9,0.1,0
-Euroleague,399,10043,3rd Quarter Point Spread,Spread,true,0.9,0.1,0
-Euroleague,399,10044,4th Quarter Point Spread,Spread,true,0.9,0.1,0
-Euroleague,399,10071,1st Half Point Spread,Spread,true,0.9,0.1,0
-Euroleague,399,10072,2nd Half Point Spread,Spread,true,0.9,0.1,0
-Euroleague,399,10061,1st Half Total Points,Total,true,0.9,0.1,0
-Euroleague,399,10062,2nd Half Total Points,Total,true,0.9,0.1,0
-Euoleague,399,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,0
-Euroleague,399,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,0
-Euroleague,399,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,0
-Euroleague,399,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,0
-Euroleague,399,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-Euroleague,399,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+Euroleague,399,0,Moneyline,Moneyline,true,0.9,0.1,1
+Euroleague,399,10001,Point Spread,Spread,true,0.9,0.1,1
+Euroleague,399,10002,Total Points,Total,true,0.9,0.1,1
+Euroleague,399,10017,Team Total,Total,true,0.9,0.1,1
+Euroleague,399,10018,Team Total,Total,true,0.9,0.1,1
+Euroleague,399,10031,1st Quarter Total Points,Total,true,0.9,0.1,1
+Euroleague,399,10032,2nd Quarter Total Points,Total,true,0.9,0.1,1
+Euroleague,399,10033,3rd Quarter Total Points,Total,true,0.9,0.1,1
+Euroleague,399,10034,4th Quarter Total Points,Total,true,0.9,0.1,1
+Euroleague,399,10041,1st Quarter Point Spread,Spread,true,0.9,0.1,1
+Euroleague,399,10042,2nd Quarter Point Spread,Spread,true,0.9,0.1,1
+Euroleague,399,10043,3rd Quarter Point Spread,Spread,true,0.9,0.1,1
+Euroleague,399,10044,4th Quarter Point Spread,Spread,true,0.9,0.1,1
+Euroleague,399,10071,1st Half Point Spread,Spread,true,0.9,0.1,1
+Euroleague,399,10072,2nd Half Point Spread,Spread,true,0.9,0.1,1
+Euroleague,399,10061,1st Half Total Points,Total,true,0.9,0.1,1
+Euroleague,399,10062,2nd Half Total Points,Total,true,0.9,0.1,1
+Euoleague,399,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,1
+Euroleague,399,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,1
+Euroleague,399,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,1
+Euroleague,399,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,1
+Euroleague,399,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Euroleague,399,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
 Saudi Professional League,536,0,Moneyline,Moneyline,true,0.9,0.1,0
 Saudi Professional League,536,10001,Goal Spread,Spread,false,0.9,0.1,0
 Saudi Professional League,536,10002,Total Goals,Total,false,0.9,0.1,0
