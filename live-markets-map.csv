@@ -22,6 +22,14 @@ NCAAF,1,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,0
 NCAAF,1,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,0
 NCAAF,1,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,0
 NCAAF,1,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+NCAAF,1,10111,1st Quarter Team Total,Total,true,0.9,0.1,1
+NCAAF,1,10112,1st Quarter Team Total,Total,true,0.9,0.1,1
+NCAAF,1,10211,2nd Quarter Team Total,Total,true,0.9,0.1,1
+NCAAF,1,10212,2nd Quarter Team Total,Total,true,0.9,0.1,1
+NCAAF,1,10311,3rd Quarter Team Total,Total,true,0.9,0.1,1
+NCAAF,1,10312,3rd Quarter Team Total,Total,true,0.9,0.1,1
+NCAAF,1,10411,4th Quarter Team Total,Total,true,0.9,0.1,1
+NCAAF,1,10412,4th Quarter Team Total,Total,true,0.9,0.1,1
 NFL,2,0,Moneyline,Moneyline,true,0.9,0.1,0
 NFL,2,10001,Point Spread,Spread,true,0.8,0.2,0
 NFL,2,10002,Total Points,Total,true,0.8,0.2,0
@@ -45,6 +53,14 @@ NFL,2,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,0
 NFL,2,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,0
 NFL,2,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,0
 NFL,2,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+NFL,2,10111,1st Quarter Team Total,Total,true,0.9,0.1,1
+NFL,2,10112,1st Quarter Team Total,Total,true,0.9,0.1,1
+NFL,2,10211,2nd Quarter Team Total,Total,true,0.9,0.1,1
+NFL,2,10212,2nd Quarter Team Total,Total,true,0.9,0.1,1
+NFL,2,10311,3rd Quarter Team Total,Total,true,0.9,0.1,1
+NFL,2,10312,3rd Quarter Team Total,Total,true,0.9,0.1,1
+NFL,2,10411,4th Quarter Team Total,Total,true,0.9,0.1,1
+NFL,2,10412,4th Quarter Team Total,Total,true,0.9,0.1,1
 MLB,3,0,Moneyline,Moneyline,false,0.9,0.1,0
 MLB,3,10001,Run Line,Spread,false,0.9,0.1,0
 MLB,3,10002,Total Runs,Totals,false,0.9,0.1,0
@@ -78,6 +94,22 @@ MLB,3,10049,9th Inning Run Line,Spread,false,0.9,0.1,0
 MLB,3,10154,No Runs First Inning,Moneyline,false,0.9,0.1,0
 MLB,3,10168,1st Half Run Line,Spread,false,0.9,0.1,0
 MLB,3,10169,1st Half Total Runs,Totals,false,0.9,0.1,0
+MLB,3,10111,1st Inning Team Total,Total,true,0.9,0.1,1
+MLB,3,10112,1st Inning Team Total,Total,true,0.9,0.1,1
+MLB,3,10211,2nd Inning Team Total,Total,true,0.9,0.1,1
+MLB,3,10212,2nd Inning Team Total,Total,true,0.9,0.1,1
+MLB,3,10311,3rd Inning Team Total,Total,true,0.9,0.1,1
+MLB,3,10312,3rd Inning Team Total,Total,true,0.9,0.1,1
+MLB,3,10411,4th Inning Team Total,Total,true,0.9,0.1,1
+MLB,3,10412,4th Inning Team Total,Total,true,0.9,0.1,1
+MLB,3,10511,5th Inning Team Total,Total,true,0.9,0.1,1
+MLB,3,10512,5th Inning Team Total,Total,true,0.9,0.1,1
+MLB,3,10611,6th Inning Team Total,Total,true,0.9,0.1,1
+MLB,3,10612,6th Inning Team Total,Total,true,0.9,0.1,1
+MLB,3,10711,7th Inning Team Total,Total,true,0.9,0.1,1
+MLB,3,10712,7th Inning Team Total,Total,true,0.9,0.1,1
+MLB,3,10811,8th Inning Team Total,Total,true,0.9,0.1,1
+MLB,3,10812,8th Inning Team Total,Total,true,0.9,0.1,1
 NBA,4,0,Moneyline,Moneyline,true,0.9,0.1,0
 NBA,4,10001,Point Spread,Spread,true,0.9,0.1,0
 NBA,4,10002,Total Points,Total,true,0.9,0.1,0
@@ -120,6 +152,10 @@ NCAAB,5,10061,1st Half Total Points,Total,true,0.9,0.1,2
 NCAAB,5,10062,2nd Half Total Points,Total,true,0.9,0.1,2
 NCAAB,5,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,2
 NCAAB,5,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
+NCAAB,5,10111,1st Half Team Total,Total,true,0.9,0.1,1
+NCAAB,5,10112,1st Half Team Total,Total,true,0.9,0.1,1
+NCAAB,5,10211,2nd Half Team Total,Total,true,0.9,0.1,1
+NCAAB,5,10212,2nd Half Team Total,Total,true,0.9,0.1,1
 NHL,6,0,Moneyline,Moneyline,true,0.9,0.1,1
 NHL,6,10001,Puck Line,Spread,true,0.9,0.1,1
 NHL,6,10002,Total Goals,Total,true,0.9,0.1,1
@@ -134,6 +170,12 @@ NHL,6,10043,3rd Period Puck Line,Spread,true,0.9,0.1,2
 NHL,6,10021,1st Period Moneyline 3-Way,Moneyline,true,0.99,0.01,2
 NHL,6,10022,2nd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,2
 NHL,6,10023,3rd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,2
+NHL,6,10111,1st Period Team Total,Total,true,0.9,0.1,1
+NHL,6,10112,1st Period Team Total,Total,true,0.9,0.1,1
+NHL,6,10211,2nd Period Team Total,Total,true,0.9,0.1,1
+NHL,6,10212,2nd Period Team Total,Total,true,0.9,0.1,1
+NHL,6,10311,3rd Period Team Total,Total,true,0.9,0.1,1
+NHL,6,10312,3rd Period Team Total,Total,true,0.9,0.1,1
 WNBA,8,0,Moneyline,Moneyline,true,0.9,0.1,0
 WNBA,8,10001,Point Spread,Spread,true,0.9,0.1,0
 WNBA,8,10002,Total Points,Total,true,0.9,0.1,0
@@ -289,6 +331,14 @@ Euroleague,399,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,1
 Euroleague,399,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,1
 Euroleague,399,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,1
 Euroleague,399,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+Euroleague,399,10111,1st Quarter Team Total,Total,true,0.9,0.1,1
+Euroleague,399,10112,1st Quarter Team Total,Total,true,0.9,0.1,1
+Euroleague,399,10211,2nd Quarter Team Total,Total,true,0.9,0.1,1
+Euroleague,399,10212,2nd Quarter Team Total,Total,true,0.9,0.1,1
+Euroleague,399,10311,3rd Quarter Team Total,Total,true,0.9,0.1,1
+Euroleague,399,10312,3rd Quarter Team Total,Total,true,0.9,0.1,1
+Euroleague,399,10411,4th Quarter Team Total,Total,true,0.9,0.1,1
+Euroleague,399,10412,4th Quarter Team Total,Total,true,0.9,0.1,1
 Saudi Professional League,536,0,Moneyline,Moneyline,true,0.9,0.1,0
 Saudi Professional League,536,10001,Goal Spread,Spread,false,0.9,0.1,0
 Saudi Professional League,536,10002,Total Goals,Total,false,0.9,0.1,0
@@ -610,6 +660,16 @@ CS2,9977,10022,2nd Map Moneyline,Moneyline,true,0.99,0.01,1
 CS2,9977,10023,3rd Map Moneyline,Moneyline,true,0.99,0.01,1
 CS2,9977,10024,4th Map Moneyline,Moneyline,true,0.99,0.01,1
 CS2,9977,10025,5th Map Moneyline,Moneyline,true,0.99,0.01,1
+CS2,9977,10111,1st Map Team Total,Total,true,0.9,0.1,1
+CS2,9977,10112,1st Map Team Total,Total,true,0.9,0.1,1
+CS2,9977,10211,2nd Map Team Total,Total,true,0.9,0.1,1
+CS2,9977,10212,2nd Map Team Total,Total,true,0.9,0.1,1
+CS2,9977,10311,3rd Map Team Total,Total,true,0.9,0.1,1
+CS2,9977,10312,3rd Map Team Total,Total,true,0.9,0.1,1
+CS2,9977,10411,4th Map Team Total,Total,true,0.9,0.1,1
+CS2,9977,10412,4th Map Team Total,Total,true,0.9,0.1,1
+CS2,9977,10511,5th Map Team Total,Total,true,0.9,0.1,1
+CS2,9977,10512,5th Map Team Total,Total,true,0.9,0.1,1
 DOTA2,9983,0,Moneyline,Moneyline,true,0.9,0.1,0
 DOTA2,9983,10001,Map Handicap,Spread,true,0.9,0.1,0
 DOTA2,9983,10002,Total Maps,Total,true,0.9,0.1,0
@@ -628,6 +688,16 @@ DOTA2,9983,10022,2nd Map Moneyline,Moneyline,true,0.99,0.01,1
 DOTA2,9983,10023,3rd Map Moneyline,Moneyline,true,0.99,0.01,1
 DOTA2,9983,10024,4th Map Moneyline,Moneyline,true,0.99,0.01,1
 DOTA2,9983,10025,5th Map Moneyline,Moneyline,true,0.99,0.01,1
+DOTA2,9983,10111,1st Map Team Total,Total,true,0.9,0.1,1
+DOTA2,9983,10112,1st Map Team Total,Total,true,0.9,0.1,1
+DOTA2,9983,10211,2nd Map Team Total,Total,true,0.9,0.1,1
+DOTA2,9983,10212,2nd Map Team Total,Total,true,0.9,0.1,1
+DOTA2,9983,10311,3rd Map Team Total,Total,true,0.9,0.1,1
+DOTA2,9983,10312,3rd Map Team Total,Total,true,0.9,0.1,1
+DOTA2,9983,10411,4th Map Team Total,Total,true,0.9,0.1,1
+DOTA2,9983,10412,4th Map Team Total,Total,true,0.9,0.1,1
+DOTA2,9983,10511,5th Map Team Total,Total,true,0.9,0.1,1
+DOTA2,9983,10512,5th Map Team Total,Total,true,0.9,0.1,1
 LOL,10138,0,Moneyline,Moneyline,true,0.9,0.1,0
 LOL,10138,10001,Map Handicap,Spread,true,0.9,0.1,0
 LOL,10138,10002,Total Maps,Total,true,0.9,0.1,0
@@ -646,3 +716,13 @@ LOL,10138,10022,2nd Map Moneyline,Moneyline,true,0.99,0.01,1
 LOL,10138,10023,3rd Map Moneyline,Moneyline,true,0.99,0.01,1
 LOL,10138,10024,4th Map Moneyline,Moneyline,true,0.99,0.01,1
 LOL,10138,10025,5th Map Moneyline,Moneyline,true,0.99,0.01,1
+LOL,10138,10111,1st Map Team Total,Total,true,0.9,0.1,1
+LOL,10138,10112,1st Map Team Total,Total,true,0.9,0.1,1
+LOL,10138,10211,2nd Map Team Total,Total,true,0.9,0.1,1
+LOL,10138,10212,2nd Map Team Total,Total,true,0.9,0.1,1
+LOL,10138,10311,3rd Map Team Total,Total,true,0.9,0.1,1
+LOL,10138,10312,3rd Map Team Total,Total,true,0.9,0.1,1
+LOL,10138,10411,4th Map Team Total,Total,true,0.9,0.1,1
+LOL,10138,10412,4th Map Team Total,Total,true,0.9,0.1,1
+LOL,10138,10511,5th Map Team Total,Total,true,0.9,0.1,1
+LOL,10138,10512,5th Map Team Total,Total,true,0.9,0.1,1
