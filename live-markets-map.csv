@@ -101,6 +101,14 @@ NBA,4,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,1
 NBA,4,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,1
 NBA,4,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,1
 NBA,4,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+NBA,4,10111,1st Quarter Team Total,Total,true,0.9,0.1,1
+NBA,4,10112,1st Quarter Team Total,Total,true,0.9,0.1,1
+NBA,4,10211,2nd Quarter Team Total,Total,true,0.9,0.1,1
+NBA,4,10212,2nd Quarter Team Total,Total,true,0.9,0.1,1
+NBA,4,10311,3rd Quarter Team Total,Total,true,0.9,0.1,1
+NBA,4,10312,3rd Quarter Team Total,Total,true,0.9,0.1,1
+NBA,4,10411,4th Quarter Team Total,Total,true,0.9,0.1,1
+NBA,4,10412,4th Quarter Team Total,Total,true,0.9,0.1,1
 NCAAB,5,0,Moneyline,Moneyline,true,0.9,0.1,2
 NCAAB,5,10001,Point Spread,Spread,true,0.9,0.1,2
 NCAAB,5,10002,Total Points,Total,true,0.9,0.1,2
