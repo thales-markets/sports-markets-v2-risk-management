@@ -141,17 +141,17 @@ NBA,4,10311,3rd Quarter Team Total,Total,true,0.9,0.1,1
 NBA,4,10312,3rd Quarter Team Total,Total,true,0.9,0.1,1
 NBA,4,10411,4th Quarter Team Total,Total,true,0.9,0.1,1
 NBA,4,10412,4th Quarter Team Total,Total,true,0.9,0.1,1
-NCAAB,5,0,Moneyline,Moneyline,true,0.9,0.1,2
-NCAAB,5,10001,Point Spread,Spread,true,0.9,0.1,2
-NCAAB,5,10002,Total Points,Total,true,0.9,0.1,2
-NCAAB,5,10017,Team Total,Total,true,0.9,0.1,2
-NCAAB,5,10018,Team Total,Total,true,0.9,0.1,2
-NCAAB,5,10071,1st Half Point Spread,Spread,true,0.9,0.1,2
-NCAAB,5,10072,2nd Half Point Spread,Spread,true,0.9,0.1,2
-NCAAB,5,10061,1st Half Total Points,Total,true,0.9,0.1,2
-NCAAB,5,10062,2nd Half Total Points,Total,true,0.9,0.1,2
-NCAAB,5,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,2
-NCAAB,5,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
+NCAAB,5,0,Moneyline,Moneyline,true,0.9,0.1,1
+NCAAB,5,10001,Point Spread,Spread,true,0.9,0.1,1
+NCAAB,5,10002,Total Points,Total,true,0.9,0.1,1
+NCAAB,5,10017,Team Total,Total,true,0.9,0.1,1
+NCAAB,5,10018,Team Total,Total,true,0.9,0.1,1
+NCAAB,5,10071,1st Half Point Spread,Spread,true,0.9,0.1,1
+NCAAB,5,10072,2nd Half Point Spread,Spread,true,0.9,0.1,1
+NCAAB,5,10061,1st Half Total Points,Total,true,0.9,0.1,1
+NCAAB,5,10062,2nd Half Total Points,Total,true,0.9,0.1,1
+NCAAB,5,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+NCAAB,5,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
 NCAAB,5,10111,1st Half Team Total,Total,true,0.9,0.1,1
 NCAAB,5,10112,1st Half Team Total,Total,true,0.9,0.1,1
 NCAAB,5,10211,2nd Half Team Total,Total,true,0.9,0.1,1
