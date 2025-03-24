@@ -776,18 +776,18 @@ LOL,10138,10411,4th Map Team Total,Total,true,0.9,0.1,1
 LOL,10138,10412,4th Map Team Total,Total,true,0.9,0.1,1
 LOL,10138,10511,5th Map Team Total,Total,true,0.9,0.1,1
 LOL,10138,10512,5th Map Team Total,Total,true,0.9,0.1,1
-Australia - NRL,9500,0,Moneyline,Moneyline,false,0.9,0.1,0
-Australia - NRL,9500,10001,Point Spread,Spread,false,0.9,0.1,0
-Australia - NRL,9500,10002,Total Points,Total,false,0.9,0.1,0
-England - Super League,9501,0,Moneyline,Moneyline,false,0.9,0.1,0
-England - Super League,9501,10001,Point Spread,Spread,false,0.9,0.1,0
-England - Super League,9501,10002,Total Points,Total,false,0.9,0.1,0
-Oceania - Super Rugby,9502,0,Moneyline,Moneyline,false,0.9,0.1,0
-Oceania - Super Rugby,9502,10001,Point Spread,Spread,false,0.9,0.1,0
-Oceania - Super Rugby,9502,10002,Total Points,Total,false,0.9,0.1,0
-International - Six Nations,9503,0,Moneyline,Moneyline,false,0.9,0.1,0
-International - Six Nations,9503,10001,Point Spread,Spread,false,0.9,0.1,0
-International - Six Nations,9503,10002,Total Points,Total,false,0.9,0.1,0
+Australia - NRL,9500,0,Moneyline,Moneyline,true,0.9,0.1,0
+Australia - NRL,9500,10001,Point Spread,Spread,true,0.9,0.1,0
+Australia - NRL,9500,10002,Total Points,Total,true,0.9,0.1,0
+England - Super League,9501,0,Moneyline,Moneyline,true,0.9,0.1,0
+England - Super League,9501,10001,Point Spread,Spread,true,0.9,0.1,0
+England - Super League,9501,10002,Total Points,Total,true,0.9,0.1,0
+Oceania - Super Rugby,9502,0,Moneyline,Moneyline,true,0.9,0.1,0
+Oceania - Super Rugby,9502,10001,Point Spread,Spread,true,0.9,0.1,0
+Oceania - Super Rugby,9502,10002,Total Points,Total,true,0.9,0.1,0
+International - Six Nations,9503,0,Moneyline,Moneyline,true,0.9,0.1,0
+International - Six Nations,9503,10001,Point Spread,Spread,true,0.9,0.1,0
+International - Six Nations,9503,10002,Total Points,Total,true,0.9,0.1,0
 International - Champions League,20218,0,Moneyline,Moneyline,true,0.9,0.1,0
 International - Champions League,20218,10001,Point Spread,Spread,true,0.9,0.1,0
 International - Champions League,20218,10002,Total Points,Total,true,0.9,0.1,0
