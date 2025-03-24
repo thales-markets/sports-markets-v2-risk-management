@@ -1,3 +1,3 @@
-typeId,name,sport,sportId,size,combinedTypeIds,combinedPlayerIds,combinedLines,combinedPositions,enabled
-90000,Moneyline + Over Home,,4,2,0;10002,0;0,0;223.5,0;0,true
-90000,Moneyline + Over Away,,4,2,0;10002,0;0,0;223.5,1;1,true
+sport,sportId,typeId,positionIndex,positionName,size,combinedTypeIds,combinedPlayerIds,combinedLines,combinedPositions,enabled
+,4,90000,Moneyline + Over Home,2,0;10002,0;0,0;223.5,0;0,true
+,4,90000,Moneyline + Over Away,2,0;10002,0;0,0;223.5,1;1,true
