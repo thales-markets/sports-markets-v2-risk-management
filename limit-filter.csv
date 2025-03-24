@@ -1,6 +1,6 @@
 sportName,sportId,minLimit
-CS2,9977,500
-DOTA2,9983,500
-LOL,10138,500
-Call of duty,20298,500
-Valorant,20300,500
+CS2,9977,200
+DOTA2,9983,200
+LOL,10138,200
+Call of duty,20298,50
+Valorant,20300,100
