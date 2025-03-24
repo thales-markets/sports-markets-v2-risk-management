@@ -48,7 +48,7 @@ overtime-puller-opticodds-futures-us-el,NFL - Futures;NBA - Futures;NHL - Future
 overtime-puller-opticodds-futures-tennis,ATP - Futures,30156,0,30s,0x47Dd547d4c74E811600db61722758b940579f58B,2m,
 overtime-puller-opticodds-futures-football,England - Premier League - Futures;UEFA - Champions League - Futures;France - Ligue 1 - Futures;Germany - Bundesliga - Futures;Spain - La Liga - Futures;Italy - Serie A - Futures,30011;30012;30013;30014;30015;30016,0,30s,0x47Dd547d4c74E811600db61722758b940579f58B,2m,
 overtime-players-report-puller-nba,NBA,4,0,15s,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,5m,no wallet needed but used from NBA bot
-overtime-risk-puller,NCAAF;NFL;MLB;NBA;NCAAB;NCAAW;NHL;UFC;WTA;ATP;Euroleague;Eurocup;CS2;Dota2;League of Legends;Call of Duty;Valorant;Finland - SM Liiga;Russia - KHL;Sweden - SHL,1;2;3;4;5;20211;6;7;152;156;399;20200;9977;9983;10138;20298;20300;319;321;324,0,1m,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,3m,
+overtime-risk-puller,NCAAF;NFL;MLB;NBA;NCAAB;NCAAW;NHL;UFC;WTA;ATP;Euroleague;Eurocup;CS2;Dota2;League of Legends;Call of Duty;Valorant;Finland - SM Liiga;Russia - KHL;Sweden - SHL;KBO;College Baseball,1;2;3;4;5;20211;6;7;152;156;399;20200;9977;9983;10138;20298;20300;319;321;324;302;303,0,1m,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,3m,
 overtime-liveness-puller,,,0,120s,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,,
 overtime-resolver-opticodds,3 4 6 7 10 17 19 21 20,,-3,20m,0xcC97993365989c6Cb15503d088A9270Eb39d2FfE,1h,
 overtime-resolver-opticodds-football,3 4 6 7 10 17 19 21 20,,-3,20m,0xcC97993365989c6Cb15503d088A9270Eb39d2FfE,1h,
