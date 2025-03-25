@@ -285,9 +285,9 @@ UEFA Europa League,17,10211,2nd Half Team Total,Total,true,0.9,0.1,1
 UEFA Europa League,17,10212,2nd Half Team Total,Total,true,0.9,0.1,1
 FIFA World Cup Qualifiers,18,0,Moneyline,Moneyline,true,0.9,0.1,0
 FIFA World Cup Qualifiers,18,10001,Goal Spread,Spread,false,0.9,0.1,0
-FIFA World Cup Qualifiers,18,10002,Total Goals,Total,false,0.9,0.1,0
-FIFA World Cup Qualifiers,18,10017,Team Total,Total,false,0.9,0.1,0
-FIFA World Cup Qualifiers,18,10018,Team Total,Total,false,0.9,0.1,0
+FIFA World Cup Qualifiers,18,10002,Total Goals,Total,true,0.9,0.1,0
+FIFA World Cup Qualifiers,18,10017,Team Total,Total,true,0.9,0.1,0
+FIFA World Cup Qualifiers,18,10018,Team Total,Total,true,0.9,0.1,0
 Copa America,44,0,Moneyline,Moneyline,true,0.9,0.1,0
 Copa America,44,10001,Goal Spread,Spread,false,0.9,0.1,0
 Copa America,44,10002,Total Goals,Total,false,0.9,0.1,0
