@@ -1,4 +1,4 @@
 sport,sportId,typeId,positionIndex,positionName,size,combinedTypeIds,combinedPlayerIds,combinedLines,combinedPositions,enabled
 ,4,90000,0,Moneyline + Over (Home),2,0;10002,0;0,0;null,0;0,true
 ,4,90000,1,Moneyline + Under (Away),2,0;10002,0;0,0;null,1;1,true
-,4,90001,0,Moneyline + Player Points (Home),2,0;11029,0;100140,0;null,0;0,true
+,4,90001,0,Moneyline + Player Points (Home),2,0;11029;11029,0;100140;100081,0;null,0;0,true
