@@ -4,6 +4,8 @@ NFL,2,All Markets,3,3,0
 NFL,2,Player Props,5,5,0
 WTA general,152,All Markets,0,0,2
 ATP general,156,All Markets,0,0,2
+WTA general,152,Player Props,0,0,3
+ATP general,156,Player Props,0,0,3
 NCAAF PP,1,Player Props,0,0,2
 NBA PP,4,Player Props,0,0,2.5
 Euroleague,399,Player Props,0,0,2.5
