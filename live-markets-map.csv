@@ -788,17 +788,17 @@ International - Champions League,20218,0,Moneyline,Moneyline,true,0.9,0.1,0
 International - Champions League,20218,10001,Point Spread,Spread,true,0.9,0.1,0
 International - Champions League,20218,10002,Total Points,Total,true,0.9,0.1,0
 College Baseball,303,0,Moneyline,Moneyline,true,0.9,0.1,0
-College Baseball,303,10001,Point Spread,Spread,true,0.9,0.1,0
-College Baseball,303,10002,Total Points,Total,true,0.9,0.1,0
+College Baseball,303,10001,Run Line,Spread,true,0.9,0.1,0
+College Baseball,303,10002,Total Runs,Total,true,0.9,0.1,0
 Finland - SM Liiga,319,0,Moneyline,Moneyline,true,0.9,0.1,0
 Finland - SM Liiga,319,10001,Point Spread,Spread,true,0.9,0.1,0
 Finland - SM Liiga,319,10002,Total Points,Total,true,0.9,0.1,0
 NPB,301,0,Moneyline,Moneyline,true,0.9,0.1,0
-NPB,301,10001,Point Spread,Spread,true,0.9,0.1,0
-NPB,301,10002,Total Points,Total,true,0.9,0.1,0
+NPB,301,10001,Run Line,Spread,true,0.9,0.1,0
+NPB,301,10002,Total Runs,Total,true,0.9,0.1,0
 KBO,302,0,Moneyline,Moneyline,true,0.9,0.1,0
-KBO,302,10001,Point Spread,Spread,true,0.9,0.1,0
-KBO,302,10002,Total Points,Total,true,0.9,0.1,0
+KBO,302,10001,Run Line,Spread,true,0.9,0.1,0
+KBO,302,10002,Total Runs,Total,true,0.9,0.1,0
 NCAAW,20211,0,Moneyline,Moneyline,true,0.9,0.1,0
 NCAAW,20211,10001,Point Spread,Spread,true,0.9,0.1,0
 NCAAW,20211,10002,Total Points,Total,true,0.9,0.1,0
