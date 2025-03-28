@@ -1,6 +1,7 @@
 name,sportId,marketName,bookmaker
 MLB,3,Player Props,Draftkings
 NCAAB,5,Player Props,Betsson
+NCAAW,20211,Player Props,DraftKings
 Euroleague props,399,Player Props,Betsson
 NHL,6,Player Props,DraftKings
 NBA,4,Player Props,Draftkings
