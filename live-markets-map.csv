@@ -63,33 +63,33 @@ NFL,2,10411,4th Quarter Team Total,Total,true,0.9,0.1,1
 NFL,2,10412,4th Quarter Team Total,Total,true,0.9,0.1,1
 MLB,3,0,Moneyline,Moneyline,true,0.9,0.1,0
 MLB,3,10001,Run Line,Spread,true,0.9,0.1,0
-MLB,3,10002,Total Runs,Totals,true,0.9,0.1,0
+MLB,3,10002,Total Runs,Total,true,0.9,0.1,0
 MLB,3,10021,1st Inning Moneyline,Moneyline,true,0.9,0.1,0
-MLB,3,10031,1st Inning Total Runs,Totals,true,0.9,0.1,0
+MLB,3,10031,1st Inning Total Runs,Total,true,0.9,0.1,0
 MLB,3,10041,1st Inning Run Line,Spread,true,0.9,0.1,0
 MLB,3,10022,2nd Inning Moneyline,Moneyline,true,0.9,0.1,0
-MLB,3,10032,2nd Inning Total Runs,Totals,true,0.9,0.1,0
+MLB,3,10032,2nd Inning Total Runs,Total,true,0.9,0.1,0
 MLB,3,10042,2nd Inning Run Line,Spread,true,0.9,0.1,0
 MLB,3,10023,3rd Inning Moneyline,Moneyline,true,0.9,0.1,0
-MLB,3,10033,3rd Inning Total Runs,Totals,true,0.9,0.1,0
+MLB,3,10033,3rd Inning Total Runs,Total,true,0.9,0.1,0
 MLB,3,10043,3rd Inning Run Line,Spread,true,0.9,0.1,0
 MLB,3,10024,4th Inning Moneyline,Moneyline,true,0.9,0.1,0
-MLB,3,10034,4th Inning Total Runs,Totals,true,0.9,0.1,0
+MLB,3,10034,4th Inning Total Runs,Total,true,0.9,0.1,0
 MLB,3,10044,4th Inning Run Line,Spread,true,0.9,0.1,0
 MLB,3,10025,5th Inning Moneyline,Moneyline,true,0.9,0.1,0
-MLB,3,10035,5th Inning Total Runs,Totals,true,0.9,0.1,0
+MLB,3,10035,5th Inning Total Runs,Total,true,0.9,0.1,0
 MLB,3,10045,5th Inning Run Line,Spread,true,0.9,0.1,0
 MLB,3,10026,6th Inning Moneyline,Moneyline,true,0.9,0.1,0
-MLB,3,10036,6th Inning Total Runs,Totals,true,0.9,0.1,0
+MLB,3,10036,6th Inning Total Runs,Total,true,0.9,0.1,0
 MLB,3,10046,6th Inning Run Line,Spread,true,0.9,0.1,0
 MLB,3,10027,7th Inning Moneyline,Moneyline,true,0.9,0.1,0
-MLB,3,10037,7th Inning Total Runs,Totals,true,0.9,0.1,0
+MLB,3,10037,7th Inning Total Runs,Total,true,0.9,0.1,0
 MLB,3,10047,7th Inning Run Line,Spread,true,0.9,0.1,0
 MLB,3,10028,8th Inning Moneyline,Moneyline,true,0.9,0.1,0
-MLB,3,10038,8th Inning Total Runs,Totals,true,0.9,0.1,0
+MLB,3,10038,8th Inning Total Runs,Total,true,0.9,0.1,0
 MLB,3,10048,8th Inning Run Line,Spread,true,0.9,0.1,0
 MLB,3,10071,1st Half Run Line,Spread,true,0.9,0.1,0
-MLB,3,10061,1st Half Total Runs,Totals,false,0.9,0.1,0
+MLB,3,10061,1st Half Total Runs,Total,false,0.9,0.1,0
 MLB,3,10111,1st Inning Team Total,Total,true,0.9,0.1,1
 MLB,3,10112,1st Inning Team Total,Total,true,0.9,0.1,1
 MLB,3,10211,2nd Inning Team Total,Total,true,0.9,0.1,1
