@@ -1,11 +1,11 @@
 sportName,sportId,primaryBookmaker,secondaryBookmaker
-NCAAF,1,Pinnacle,DraftKings
-NFL,2,DraftKings,
-MLB,3,Pinnacle,
-NBA,4,Pinnacle,DraftKings
-NCAAB,5,Pinnacle,DraftKings
+NCAAF,1,blue book,
+NFL,2,blue book,
+MLB,3,blue book,
+NBA,4,blue book,
+NCAAB,5,blue book,
 NCAAW,20211,blue book,
-NHL,6,Pinnacle,
+NHL,6,blue book,
 MLS,10,Pinnacle,
 EPL,11,Pinnacle,
 FRA1,12,Pinnacle,
