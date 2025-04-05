@@ -8,7 +8,7 @@ overtime-puller-opticodds-ncaab,NCAAB;NCAAW,5;20211,5,30s,0xDD747F32ADd26b1C1DBC
 overtime-puller-opticodds-nhl,NHL,6,2,30s,0xB1194db809c35e6259c504328F07424FB983e812,2m,
 overtime-puller-opticodds-ufc,UFC,7,6,30s,0x8B408EfA4A738a749EEfF612778a419B41167f48,2m,
 overtime-puller-opticodds-wnba,WNBA,8,3,30s,0xDe877F209fE2945AB48f058395749AD443f6B43C,2m,
-overtime-puller-opticodds-usa-soccer,USA - Major League Soccer;CONCACAF - Champions Cup,10;20147,5,30s,0xFA8D284734aB97cf02d7bFC2174E6450e1e73e99,2m,
+overtime-puller-opticodds-usa-soccer,USA - Major League Soccer;CONCACAF - Champions Cup;Canada - Premier League,10;20147;20149,5,30s,0xFA8D284734aB97cf02d7bFC2174E6450e1e73e99,2m,
 overtime-puller-opticodds-epl,England - Premier League,11,5,30s,0x6640Ec4b1d139AfDE7b7AD22582DAAe30E8A3e01,2m,
 overtime-puller-opticodds-fra,France - Ligue 1;France - Ligue 2;France - Super Cup;France - Coupe de France,12;20119,5,30s,0x42Fa56307C5d939a482317c49339f535fF5797Cf,2m,
 overtime-puller-opticodds-germany,Germany - Bundesliga;Germany - Bundesliga 2;Germany - DFB Pokal;Germany - Super Cup,13;20115;209,5,30s,0x18bEa3f2391ff4E3b6c4Ad9ff11f30f16d8A34d6,2m,
