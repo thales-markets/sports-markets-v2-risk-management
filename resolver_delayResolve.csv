@@ -1,136 +1,136 @@
 name,sportId,timeoutSeconds,ppTimeoutSeconds
-NCAAF,1,600,600
-NFL,2,600,600
-MLB,3,600,600
-NBA,4,600,600
-NCAAB,5,600,600
-NHL,6,600,600
-UFC,7,600,600
-WNBA,8,600,600
-USA - Major League Soccer,10,600,600
-England - Premier League,11,600,600
-France - Ligue 1,12,600,600
-Germany - Bundesliga,13,600,600
-Spain - La Liga,14,600,600
-Italy - Serie A,15,600,600
-UEFA - Champions League,16,600,600
-UEFA - Europa League,17,600,600
-FIFA - World Cup Qualifiers,18,600,600
-Japan - J1 League,19,600,600
-India - IPL,20,600,600
-England - T20 Blast,21,600,600
-CONMEBOL - Copa Libertadores,45,600,600
-UEFA - European Championship,50,600,600
-Netherlands - Eredivisie,57,600,600
-Portugal - Primeira Liga,61,600,600
-Italy - Coppa Italia,141,600,600
-England - FA Cup,132,600,600
-France - Coupe de France,134,600,600
-Spain - Copa del Rey,138,600,600
-WTA,152,600,600
-ATP,156,600,600
-Germany - DFB Pokal,209,600,600
-Mexico - Liga MX,230,600,600
-Brazil - Serie A,268,600,600
-NPB,301,600,600
-KBO,302,600,600
-College Baseball,303,600,600
-CPBL,304,600,600
-Czech Republic - Extraliga,310,600,600
-Finland - SM Liiga,319,600,600
-Russia - KHL,321,600,600
-Germany - DEL,322,600,600
-Austria - Ice Hockey League,323,600,600
-Sweden - SHL,324,600,600
-Switzerland - National League,327,600,600
-USA - AHL,328,600,600
-Euroleague,399,600,600
-Saudi Arabia - Saudi League,536,600,600
-Australia - NRL,9500,600,600
-England - Super League,9501,600,600
-UEFA - Nations League,9806,600,600
-CS2,9977,600,600
-Dota 2,9983,600,600
-League of Legends,10138,600,600
-UEFA - Europa Conference League,10216,600,600
-US Elections,20000,600,600
-UEFA - Super Cup,20001,600,600
-Brazil - Copa do Brasil,20002,600,600
-England - Championship,20011,600,600
-Scotland - Premiership,20101,600,600
-Belgium - Jupiler Pro League,20102,600,600
-Czech Republic - FNL,20103,600,600
-Chile - Primera Division,20104,600,600
-Finland - Veikkausliiga,20105,600,600
-Argentina - Primera Division,20106,600,600
-Russia - Premier League,20107,600,600
-Turkey - Super Lig,20108,600,600
-Serbia - Super Liga,20109,600,600
-Greece - Super League,20110,600,600
-India - Calcutta Premier Division,20111,600,600
-China - Super League,20112,600,600
-Australia - A-League,20113,600,600
-Switzerland - Super League,20114,600,600
-Germany - Bundesliga 2,20115,600,600
-Spain - La Liga 2,20116,600,600
-Italy - Serie B,20117,600,600
-India - Super League,20118,600,600
-France - Ligue 2,20119,600,600
-Austria - Bundesliga,20120,600,600
-Denmark - Superliga,20121,600,600
-Poland - Ekstraklasa,20122,600,600
-Sweden - Allsvenskan,20123,600,600
-Colombia - Primera A,20124,600,600
-England - EFL Cup,20125,600,600
-England - League 1,20126,600,600
-Uruguay - Primera Division,20127,600,600
-AFC - Champions League,20128,600,600
-Italy - Supercoppa,20129,600,600
-France - Super Cup,20130,600,600
-Spain - Supercopa,20131,600,600
-Germany - Super Cup,20132,600,600
-Portugal - League Cup,20133,600,600
-Thailand - Thai League 1,20134,600,600
-Netherlands - KNVB Beker,20135,600,600
-Portugal - Taca de Portugal,20136,600,600
-England - Womens Super League,20137,600,600
-Italy - Serie A Femminile,20138,600,600
-France - Premiere Ligue,20139,600,600
-Germany - Frauen Bundesliga,20140,600,600
-Spain - Liga F,20141,600,600
-Netherlands - Vrouwen Eredivisie,20142,600,600
-Belgium - Womens Super League,20143,600,600
-UEFA - Champions League Women,20144,600,600
-USA - NWSL,20145,600,600
-Australia - A-League Women,20146,600,600
-CONCACAF - Champions Cup,20147,600,600
-UEFA - Nations League Women,20148,600,600
-Canada - Premier League,20149,600,600
-Eurocup,20200,600,600
-Spain - Liga ACB,20201,600,600
-Italy - Lega Basket Serie A,20202,600,600
-Germany - BBL,20203,600,600
-France - LNB Pro A,20204,600,600
-China - CBA,20205,600,600
-Australia - NBL,20206,600,600
-Japan - B1 League,20207,600,600
-Korea - KBL,20208,600,600
-England - BBL,20209,600,600
-BIG3,20210,600,600
-NCAAW,20211,600,600
-FIBA - Americup Qualifiers,20212,600,600
-FIBA - Asia Cup Qualifiers,20213,600,600
-FIBA - Eurobasket Qualifiers,20214,600,600
-FIBA - World Cup Qualifiers,20215,600,600
-FIBA - AfroBasket Qualifiers,20216,600,600
-Greece - A1 League,20217,600,600
-International - Champions League,20218,600,600
-Rocket League,20297,600,600
-Call of Duty,20298,600,600
-Starcraft,20299,600,600
-Valorant,20300,600,600
-ICC - T20 World Cup,20301,600,600
-Australia - Big Bash League,20302,600,600
-USA - Major League Cricket,20303,600,600
-Australia - Big Bash League Women,20304,600,600
-USA - National Lacrosse League,20310,600,600
+NCAAF,1,300,600
+NFL,2,300,600
+MLB,3,300,600
+NBA,4,300,600
+NCAAB,5,300,600
+NHL,6,300,600
+UFC,7,300,600
+WNBA,8,300,600
+USA - Major League Soccer,10,300,600
+England - Premier League,11,300,600
+France - Ligue 1,12,300,600
+Germany - Bundesliga,13,300,600
+Spain - La Liga,14,300,600
+Italy - Serie A,15,300,600
+UEFA - Champions League,16,300,600
+UEFA - Europa League,17,300,600
+FIFA - World Cup Qualifiers,18,300,600
+Japan - J1 League,19,300,600
+India - IPL,20,300,600
+England - T20 Blast,21,300,600
+CONMEBOL - Copa Libertadores,45,300,600
+UEFA - European Championship,50,300,600
+Netherlands - Eredivisie,57,300,600
+Portugal - Primeira Liga,61,300,600
+Italy - Coppa Italia,141,300,600
+England - FA Cup,132,300,600
+France - Coupe de France,134,300,600
+Spain - Copa del Rey,138,300,600
+WTA,152,300,600
+ATP,156,300,600
+Germany - DFB Pokal,209,300,600
+Mexico - Liga MX,230,300,600
+Brazil - Serie A,268,300,600
+NPB,301,300,600
+KBO,302,300,600
+College Baseball,303,300,600
+CPBL,304,300,600
+Czech Republic - Extraliga,310,300,600
+Finland - SM Liiga,319,300,600
+Russia - KHL,321,300,600
+Germany - DEL,322,300,600
+Austria - Ice Hockey League,323,300,600
+Sweden - SHL,324,300,600
+Switzerland - National League,327,300,600
+USA - AHL,328,300,600
+Euroleague,399,300,600
+Saudi Arabia - Saudi League,536,300,600
+Australia - NRL,9500,300,600
+England - Super League,9501,300,600
+UEFA - Nations League,9806,300,600
+CS2,9977,300,600
+Dota 2,9983,300,600
+League of Legends,10138,300,600
+UEFA - Europa Conference League,10216,300,600
+US Elections,20000,300,600
+UEFA - Super Cup,20001,300,600
+Brazil - Copa do Brasil,20002,300,600
+England - Championship,20011,300,600
+Scotland - Premiership,20101,300,600
+Belgium - Jupiler Pro League,20102,300,600
+Czech Republic - FNL,20103,300,600
+Chile - Primera Division,20104,300,600
+Finland - Veikkausliiga,20105,300,600
+Argentina - Primera Division,20106,300,600
+Russia - Premier League,20107,300,600
+Turkey - Super Lig,20108,300,600
+Serbia - Super Liga,20109,300,600
+Greece - Super League,20110,300,600
+India - Calcutta Premier Division,20111,300,600
+China - Super League,20112,300,600
+Australia - A-League,20113,300,600
+Switzerland - Super League,20114,300,600
+Germany - Bundesliga 2,20115,300,600
+Spain - La Liga 2,20116,300,600
+Italy - Serie B,20117,300,600
+India - Super League,20118,300,600
+France - Ligue 2,20119,300,600
+Austria - Bundesliga,20120,300,600
+Denmark - Superliga,20121,300,600
+Poland - Ekstraklasa,20122,300,600
+Sweden - Allsvenskan,20123,300,600
+Colombia - Primera A,20124,300,600
+England - EFL Cup,20125,300,600
+England - League 1,20126,300,600
+Uruguay - Primera Division,20127,300,600
+AFC - Champions League,20128,300,600
+Italy - Supercoppa,20129,300,600
+France - Super Cup,20130,300,600
+Spain - Supercopa,20131,300,600
+Germany - Super Cup,20132,300,600
+Portugal - League Cup,20133,300,600
+Thailand - Thai League 1,20134,300,600
+Netherlands - KNVB Beker,20135,300,600
+Portugal - Taca de Portugal,20136,300,600
+England - Womens Super League,20137,300,600
+Italy - Serie A Femminile,20138,300,600
+France - Premiere Ligue,20139,300,600
+Germany - Frauen Bundesliga,20140,300,600
+Spain - Liga F,20141,300,600
+Netherlands - Vrouwen Eredivisie,20142,300,600
+Belgium - Womens Super League,20143,300,600
+UEFA - Champions League Women,20144,300,600
+USA - NWSL,20145,300,600
+Australia - A-League Women,20146,300,600
+CONCACAF - Champions Cup,20147,300,600
+UEFA - Nations League Women,20148,300,600
+Canada - Premier League,20149,300,600
+Eurocup,20200,300,600
+Spain - Liga ACB,20201,300,600
+Italy - Lega Basket Serie A,20202,300,600
+Germany - BBL,20203,300,600
+France - LNB Pro A,20204,300,600
+China - CBA,20205,300,600
+Australia - NBL,20206,300,600
+Japan - B1 League,20207,300,600
+Korea - KBL,20208,300,600
+England - BBL,20209,300,600
+BIG3,20210,300,600
+NCAAW,20211,300,600
+FIBA - Americup Qualifiers,20212,300,600
+FIBA - Asia Cup Qualifiers,20213,300,600
+FIBA - Eurobasket Qualifiers,20214,300,600
+FIBA - World Cup Qualifiers,20215,300,600
+FIBA - AfroBasket Qualifiers,20216,300,600
+Greece - A1 League,20217,300,600
+International - Champions League,20218,300,600
+Rocket League,20297,300,600
+Call of Duty,20298,300,600
+Starcraft,20299,300,600
+Valorant,20300,300,600
+ICC - T20 World Cup,20301,300,600
+Australia - Big Bash League,20302,300,600
+USA - Major League Cricket,20303,300,600
+Australia - Big Bash League Women,20304,300,600
+USA - National Lacrosse League,20310,300,600
