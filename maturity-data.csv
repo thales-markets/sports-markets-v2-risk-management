@@ -1,2 +1,4 @@
 sportName,sportId,addMinutes,offsetMinutes
+MLB,3,0,15
 NBA,4,10,15
+NHL,6,0,15
