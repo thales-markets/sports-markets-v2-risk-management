@@ -1,14 +1,2 @@
 sportName,sportId,typeId,minSpread,targetSpread,addedSpread
-General,All Sports,All Markets,0,0,1
-WTA general,152,All Markets,0,0,1
-ATP general,156,All Markets,0,0,1
-ATP challenger,157,All Markets,0,0,1
-WTA general,152,Player Props,0,0,1
-ATP general,156,Player Props,0,0,1
-NCAAF PP,1,Player Props,0,0,1
-NBA PP,4,Player Props,0,0,1
-Euroleague,399,Player Props,0,0,1
-NCAAB PP,5,Player Props,0,0,1
-NHL PP,6,Player Props,0,0,1
-MLB PP,3,Player Props,0,0,1
-
+General,All Sports,All Markets,0,0,0.5
