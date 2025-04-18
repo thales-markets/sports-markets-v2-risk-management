@@ -2,4 +2,6 @@ sportName,sportId,typeId,minSpread,targetSpread,addedSpread
 General,All Sports,All Markets,0,0,0.5
 MLB Pitcher,3,Player Strikeouts,6,6,0
 MLB PP,3,Player Props,6,6,0
+NBA PP,4,Player Props,6,6,0
+NHL PP,6,Player Props,6,6,0
 
