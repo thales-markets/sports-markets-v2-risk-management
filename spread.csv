@@ -1,7 +1,5 @@
 sportName,sportId,typeId,minSpread,targetSpread,addedSpread
 General,All Sports,All Markets,0,0,0.5
-MLB PP,3,Player Hits Allowed,7,0,0
-MLB PP,3,Player Home Runs,7,0,0
-MLB PP,3,Player Outs,7,0,0
-MLB PP,3,Player Strikeouts,7,0,0
+MLB PP,3,Player Props,7,7,0
+MLB PP,3,Player Strikeouts,6,6,0
 
