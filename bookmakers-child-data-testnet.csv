@@ -1,6 +1,13 @@
 name,sportId,marketName,bookmaker
-MLB,3,Player Props,DraftKings
+MLB,3,Player Props,draftkings
+MLB,3,Player Hits Allowed,Pinnacle
+MLB,3,Player Home Runs,Pinnacle
+MLB,3,Player Outs,Pinnacle
+MLB,3,Player Strikeouts,Pinnacle
+MLB,3,Player Earned Runs,Pinnacle
 MLB,3,Player Batting Strikeouts,bet365
+MLB,3,Player Stolen Bases,bet365
+MLB,3,Player Batting Walks,bet365
 NCAAB,5,Player Props,betmgm
 NCAAB,5,Player Blocks,betano
 NCAAB,5,Player Steals,betano
@@ -8,7 +15,7 @@ NCAAB,5,Player Turnovers,betano
 NCAAW,20211,Player Props,DraftKings
 Euroleague,399,Player Props,bwin
 Euroleague,399,Player Turnovers,betano
-NBA,4,Player Props,pinnacle
+NBA,4,Player Props,draftkings
 NBA,4,Player Blocks,blue book
 NBA,4,Player Steals,blue book
 NBA,4,Player Steals + Blocks,blue book
@@ -19,7 +26,7 @@ NBA,4,Player Triple Double,blue book
 NBA,4,Player Turnovers,DraftKings
 NHL,6,Player Blocked Shots,DraftKings
 NCAAF,1,Player Props,bet365
-WTA,152,Player Props,Pinnacle
+WTA,152,Player Props,blue book
 ATP,156,Player Props,blue book
 WTA,152,Set Betting,Draftkings
 ATP,156,Set Betting,Draftkings
