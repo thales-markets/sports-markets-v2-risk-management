@@ -831,3 +831,8 @@ Australia - Big Bash League,20302,0,Moneyline,Moneyline,true,0.9,0.1,0
 USA - Major League Cricket,20303,0,Moneyline,Moneyline,true,0.9,0.1,0
 Australia - Big Bash League Women,20304,0,Moneyline,Moneyline,true,0.9,0.1,0
 Pakistan Cricket,20305,0,Moneyline,Moneyline,false,0.9,0.1,0
+AFL,9510,0,Moneyline,Moneyline,true,0.9,0.1,0
+AFL,9510,10001,Point Spread,Spread,true,0.8,0.2,0
+AFL,9510,10002,Total Points,Total,true,0.8,0.2,0
+AFL,9510,10017,Team Total,Total,true,0.8,0.2,0
+AFL,9510,10018,Team Total,Total,true,0.8,0.2,0
