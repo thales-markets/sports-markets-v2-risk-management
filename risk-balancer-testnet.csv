@@ -1,7 +1,6 @@
-
 sportName,sportId,typeIdsOnePositions,typeIdsTwoPositions,typeIdsThreePositions,lowerPercentageRisk,higherPercentageRisk,lowerPercentageRiskRebalance,higherPercentageRiskRebalance
 NCAAF,1,,0;10001;10002,,33,66,1,2
 NFL,2,,0;10001;10002,,33,66,1,2
-NBA - Futures,30004,,13012;,,33,66,1,2
-NHL - Futures,30006,,13012;,,33,66,1,2
+NBA - Futures,30004,,13012,,33,66,1,2
+NHL - Futures,30006,,13012,,33,66,1,2
 
