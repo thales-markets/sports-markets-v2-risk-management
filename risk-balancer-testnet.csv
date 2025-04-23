@@ -1,6 +1,59 @@
 sportName,sportId,typeIdsOnePositions,typeIdsTwoPositions,typeIdsThreePositions,lowerPercentageRisk,higherPercentageRisk,lowerPercentageRiskRebalance,higherPercentageRiskRebalance
 NCAAF,1,,0;10001;10002,,33,66,1,2
 NFL,2,,0;10001;10002,,33,66,1,2
+MLB,3,,0;10001;10002,,33,66,1,2
+NPB,301,,0;10001;10002,,33,66,1,2
+KBO,302,,0;10001;10002,,33,66,1,2
+Collage Baseball,303,,0;10001;10002,,33,66,1,2
+NBA,4,,0;10001;10002,,33,66,1,2
+WNBA,8,,0;10001;10002,,33,66,1,2
+NCAAB,5,,0;10001;10002,,33,66,1,2
+NCAAW,20211,,0;10001;10002,,33,66,1,2
+NHL,6,,0;10001;10002,,33,66,1,2
+India - IPL,20,,0;10001;10002,,33,66,1,2
+Pakistan - Super League,20305,,0;10001;10002,,33,66,1,2
+Finland - SM Liiga,319,,0;10001;10002,,33,66,1,2
+Russia - KHL,321,,0;10001;10002,,33,66,1,2
+Sweden - SHL,324,,0;10001;10002,,33,66,1,2
+UFC,7,,0;10001;10002,,33,66,1,2
+WTA,152,,0;10001;10002,,33,66,1,2
+ATP,156,,0;10001;10002,,33,66,1,2
+ATP Challenger,157,,0;10001;10002,,33,66,1,2
+Euroleague,399,,0;10001;10002,,33,66,1,2
+Eurocup,20200,,0;10001;10002,,33,66,1,2
+CS2,9977,,0;10001;10002,,33,66,1,2
+Dota2,9983,,0;10001;10002,,33,66,1,2
+League of Legends,10138,,0;10001;10002,,33,66,1,2
+Call of Duty,20298,,0;10001;10002,,33,66,1,2
+Valorant,20300,,0;10001;10002,,33,66,1,2
+North Macedonia - Super Liga,379,,0;10001;10002,,33,66,1,2
+Croatia - HB Premijer Liga,382,,0;10001;10002,,33,66,1,2
+EHF - Champions League,383,,0;10001;10002,,33,66,1,2
+EHF - Champions League Women,384,,0;10001;10002,,33,66,1,2
+EHF - European League,385,,0;10001;10002,,33,66,1,2
+France - LNH Division 1,386,,0;10001;10002,,33,66,1,2
+Germany - HBL,387,,0;10001;10002,,33,66,1,2
+Hungary - HNB I,388,,0;10001;10002,,33,66,1,2
+Iceland - Urvalsdeild,389,,0;10001;10002,,33,66,1,2
+IHF - World Championship,390,,0;10001;10002,,33,66,1,2
+Norway - HB 1. Divisjon,391,,0;10001;10002,,33,66,1,2
+Poland - Superliga,392,,0;10001;10002,,33,66,1,2
+Russia - Super League,393,,0;10001;10002,,33,66,1,2
+Serbia - Superliga,394,,0;10001;10002,,33,66,1,2
+Slovakia - HB Extraliga,395,,0;10001;10002,,33,66,1,2
+Slovenia - 1. Liga,396,,0;10001;10002,,33,66,1,2
+Spain - ASOBAL,397,,0;10001;10002,,33,66,1,2
+Sweden - Handbollsligan,398,,0;10001;10002,,33,66,1,2
+Olympics Table Tennis Women,8909,,0;10001;10002,,33,66,1,2
+Olympics Table Tennis Men,8910,,0;10001;10002,,33,66,1,2
+Czech Republic - TT Cup Men,8911,,0;10001;10002,,33,66,1,2
+Czech Republic - TT Liga Pro Men,8912,,0;10001;10002,,33,66,1,2
+Poland - TT Elite Series Men,8913,,0;10001;10002,,33,66,1,2
+WTT Men,8914,,0;10001;10002,,33,66,1,2
+Australia - NRL,9500,,0;10001;10002,,33,66,1,2
+England - Super League,9501,,0;10001;10002,,33,66,1,2
+Oceania - Super Rugby,9502,,0;10001;10002,,33,66,1,2
+International - Six Nations,9503,,0;10001;10002,,33,66,1,2
+AFL,9510,,0;10001;10002,,33,66,1,2
 NBA - Futures,30004,,13012,,33,66,1,2
 NHL - Futures,30006,,13012,,33,66,1,2
-
