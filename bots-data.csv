@@ -56,7 +56,7 @@ overtime-risk-puller-baseball,NPB;KBO;College Baseball;India - IPL;Pakistan - Su
 overtime-risk-puller-hockey,Finland - SM Liiga;Russia - KHL;Sweden - SHL,319;321;324,0,1m,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,3m,
 overtime-risk-puller-esports,CS2;Dota2;League of Legends;Call of Duty;Valorant,9977;9983;10138;20298;20300,0,1m,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,3m,
 overtime-risk-puller-basketball,Euroleague;Eurocup,399;20200,0,1m,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,3m,
-overtime-risk-puller-tennis,WTA;ATP;ATP Challenger,152;156;157,0,1m,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,3m,
+overtime-risk-puller-tennis,WTA;ATP;ATP Challenger;Czech Republic - TT Cup Men;Czech Republic - TT Liga Pro Men;Poland - TT Elite Series Men;WTT Men,152;156;157;8911;8912;8913;8914,0,1m,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,3m,
 overtime-risk-puller-usa,NCAAF;NFL;MLB;NBA;NCAAB;NCAAW;NHL;UFC;WNBA,1;2;3;4;5;20211;6;7;8,0,1m,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,3m,
 overtime-risk-puller-handball,EHF - Champions League;EHF - Champions League Women;EHF - European League;France - LNH Division 1;Germany - HBL;Spain - ASOBAL;Sweden - Handbollsligan;Poland - Superliga,383;384;385;387;386;398;397;392,0,1m,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,3m,
 overtime-risk-puller-futures,NBA - Futures;NHL - Futures,30004;30005,0,1m,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,3m,
