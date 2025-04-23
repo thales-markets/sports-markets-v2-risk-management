@@ -43,6 +43,7 @@ MLS,10,10002,Total Goals,Total,false,0.75,0.25,2
 EPL,11,0,Moneyline,Moneyline,true,0.75,0.25,2
 EPL,11,10001,Goal Spread,Spread,true,0.75,0.25,2
 EPL,11,10002,Total Goals,Total,true,0.75,0.25,2
+EPL,11,10003,Double Chance,Double Chance,true,0.9,0.1,0
 EPL,11,10017,Team Total,Total,true,0.75,0.25,2
 EPL,11,10018,Team Total,Total,true,0.75,0.25,2
 EPL,11,10031,1st Half Total Goals,Total,true,0.75,0.25,2
@@ -54,15 +55,19 @@ EPL,11,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
 Ligue 1,12,0,Moneyline,Moneyline,true,0.75,0.25,2
 Ligue 1,12,10001,Goal Spread,Spread,true,0.75,0.25,2
 Ligue 1,12,10002,Total Goals,Total,true,0.75,0.25,2
+Ligue 1,12,10003,Double Chance,Double Chance,true,0.9,0.1,0
 Bundesliga,13,0,Moneyline,Moneyline,true,0.75,0.25,2
 Bundesliga,13,10001,Goal Spread,Spread,true,0.75,0.25,2
 Bundesliga,13,10002,Total Goals,Total,true,0.75,0.25,2
+Bundesliga,13,10003,Double Chance,Double Chance,true,0.9,0.1,0
 La Liga,14,0,Moneyline,Moneyline,true,0.75,0.25,2
 La Liga,14,10001,Goal Spread,Spread,true,0.75,0.25,2
 La Liga,14,10002,Total Goals,Total,true,0.75,0.25,2
+La Liga,14,10003,Double Chance,Double Chance,true,0.9,0.1,0
 Serie A,15,0,Moneyline,Moneyline,true,0.75,0.25,2
 Serie A,15,10001,Goal Spread,Spread,true,0.75,0.25,2
 Serie A,15,10002,Total Goals,Total,true,0.75,0.25,2
+Serie A,15,10003,Double Chance,Double Chance,true,0.9,0.1,0
 Serie A,15,10017,Team Total,Total,true,0.75,0.25,2
 Serie A,15,10018,Team Total,Total,true,0.75,0.25,2
 Serie A,15,10031,1st Half Total Goals,Total,true,0.75,0.25,2
@@ -74,6 +79,7 @@ Serie A,15,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
 UEFA Champions League,16,0,Moneyline,Moneyline,true,0.75,0.25,2
 UEFA Champions League,16,10001,Goal Spread,Spread,true,0.75,0.25,2
 UEFA Champions League,16,10002,Total Goals,Total,true,0.75,0.25,2
+UEFA Champions League,16,10003,Double Chance,Double Chance,true,0.9,0.1,0
 UEFA Champions League,16,10017,Team Total,Total,true,0.75,0.25,2
 UEFA Champions League,16,10018,Team Total,Total,true,0.75,0.25,2
 UEFA Champions League,16,10031,1st Half Total Goals,Total,true,0.75,0.25,2
@@ -85,6 +91,7 @@ UEFA Champions League,16,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
 UEFA Europa League,17,0,Moneyline,Moneyline,true,0.75,0.25,2
 UEFA Europa League,17,10001,Goal Spread,Spread,true,0.75,0.25,2
 UEFA Europa League,17,10002,Total Goals,Total,true,0.75,0.25,2
+UEFA Europa League,17,10003,Double Chance,Double Chance,true,0.9,0.1,0
 FIFA World Cup Qualifiers,18,0,Moneyline,Moneyline,true,0.75,0.25,2
 FIFA World Cup Qualifiers,18,10001,Goal Spread,Spread,true,0.75,0.25,2
 FIFA World Cup Qualifiers,18,10002,Total Goals,Total,true,0.75,0.25,2
@@ -239,6 +246,7 @@ AFC Champions League,20128,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
 CS2,9977,0,Moneyline,Moneyline,true,0.75,0.25,0
 CS2,9977,10001,Map Handicap,Spread,true,0.9,0.1,0
 CS2,9977,10002,Total Maps,Total,true,0.9,0.1,0
+CS2,9977,10100,Correct Score,Correct Score,true,0.9,0.1,0
 CS2,9977,10031,1st Map Total Kills,Total,true,0.75,0.25,1
 CS2,9977,10032,2nd Map Total Kills,Total,true,0.75,0.25,1
 CS2,9977,10033,3rd Map Total Kills,Total,true,0.75,0.25,1
@@ -257,6 +265,7 @@ CS2,9977,10025,5th Map Moneyline,Moneyline,true,0.99,0.01,1
 DOTA2,9983,0,Moneyline,Moneyline,true,0.75,0.25,0
 DOTA2,9983,10001,Map Handicap,Spread,true,0.9,0.1,0
 DOTA2,9983,10002,Total Maps,Total,true,0.9,0.1,0
+DOTA2,9983,10100,Correct Score,Correct Score,true,0.9,0.1,0
 DOTA2,9983,10031,1st Map Total Kills,Total,true,0.75,0.25,1
 DOTA2,9983,10032,2nd Map Total Kills,Total,true,0.75,0.25,1
 DOTA2,9983,10033,3rd Map Total Kills,Total,true,0.75,0.25,1
