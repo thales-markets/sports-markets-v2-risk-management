@@ -1,13 +1,13 @@
 sportName,sportId,delayInSeconds
-NCAAF,1,5
-NFL,2,5
-MLB,3,5
-NBA,4,5
-Euroleague,399,5
-NCAAB,5,5
-NCAAW,20211,5
-NHL,6,5
-WNBA,8,5
+NCAAF,1,7
+NFL,2,7
+MLB,3,7
+NBA,4,7
+Euroleague,399,7
+NCAAB,5,7
+NCAAW,20211,7
+NHL,6,7
+WNBA,8,7
 MLS,10,5
 EPL,11,5
 FRA1,12,5
@@ -91,79 +91,79 @@ DOTA2,9983,5
 LOL,10138,5
 Call of Duty,20298,5
 Valorant,20300,5
-Tennis ATP GS unknown round,15610,5
-Tennis ATP GS Qualification,15611,5
-Tennis ATP GS 1st round,15612,5
-Tennis ATP GS 2nd round,15613,5
-Tennis ATP GS 3rt round,15614,5
-Tennis ATP GS 4th round,15615,5
-Tennis ATP GS quarterfinals,15616,5
-Tennis ATP GS semifinals,15617,5
-Tennis ATP GS finals,15618,5
-Tennis ATP1000 unknown round,15620,5
-Tennis ATP1000 Qualification,15621,5
-Tennis ATP1000 1st round,15622,5
-Tennis ATP1000 2nd round,15623,5
-Tennis ATP1000 3rt round,15624,5
-Tennis ATP1000 4th round,15625,5
-Tennis ATP1000 quarterfinals,15626,5
-Tennis ATP1000 semifinals,15627,5
-Tennis ATP1000 finals,15628,5
-Tennis ATP500 unknown round,15630,5
-Tennis ATP500 Qualification,15631,5
-Tennis ATP500 1st round,15632,5
-Tennis ATP500 2nd round,15633,5
-Tennis ATP500 3rt round,15634,5
-Tennis ATP500 4th round,15635,5
-Tennis ATP500 quarterfinals,15636,5
-Tennis ATP500 semifinals,15637,5
-Tennis ATP500 finals,15638,5
-Tennis ATP250 unknown round,15640,5
-Tennis ATP250 Qualification,15641,5
-Tennis ATP250 1st round,15642,5
-Tennis ATP250 2nd round,15643,5
-Tennis ATP250 3rt round,15644,5
-Tennis ATP250 4th round,15645,5
-Tennis ATP250 quarterfinals,15646,5
-Tennis ATP250 semifinals,15647,5
-Tennis ATP250 finals,15648,5
-ATP Challenger,157,5
-Tennis WTA GS unknown round,15210,5
-Tennis WTA GS Qualification,15211,5
-Tennis WTA GS 1st round,15212,5
-Tennis WTA GS 2nd round,15213,5
-Tennis WTA GS 3rd round,15214,5
-Tennis WTA GS 4th round,15215,5
-Tennis WTA GS quarterfinals,15216,5
-Tennis WTA GS semifinals,15217,5
-Tennis WTA GS finals,15218,5
-Tennis WTA1000 unknown round,15220,5
-Tennis WTA1000 Qualification,15221,5
-Tennis WTA1000 1st round,15222,5
-Tennis WTA1000 2nd round,15223,5
-Tennis WTA1000 3rt round,15224,5
-Tennis WTA1000 4th round,15225,5
-Tennis WTA1000 quarterfinals,15226,5
-Tennis WTA1000 semifinals,15227,5
-Tennis WTA1000 finals,15228,5
-Tennis WTA500 unknown round,15230,5
-Tennis WTA500 Qualification,15231,5
-Tennis WTA500 1st round,15232,5
-Tennis WTA500 2nd round,15233,5
-Tennis WTA500 3rt round,15234,5
-Tennis WTA500 4th round,15235,5
-Tennis WTA500 quarterfinals,15236,5
-Tennis WTA500 semifinals,15237,5
-Tennis WTA500 finals,15238,5
-Tennis WTA250 unknown round,15240,5
-Tennis WTA250 Qualification,15241,5
-Tennis WTA250 1st round,15242,5
-Tennis WTA250 2nd round,15243,5
-Tennis WTA250 3rt round,15244,5
-Tennis WTA250 4th round,15245,5
-Tennis WTA250 quarterfinals,15246,5
-Tennis WTA250 semifinals,15247,5
-Tennis WTA250 finals,15248,5
+Tennis ATP GS unknown round,15610,7
+Tennis ATP GS Qualification,15611,7
+Tennis ATP GS 1st round,15612,7
+Tennis ATP GS 2nd round,15613,7
+Tennis ATP GS 3rt round,15614,7
+Tennis ATP GS 4th round,15615,7
+Tennis ATP GS quarterfinals,15616,7
+Tennis ATP GS semifinals,15617,7
+Tennis ATP GS finals,15618,7
+Tennis ATP1000 unknown round,15620,7
+Tennis ATP1000 Qualification,15621,7
+Tennis ATP1000 1st round,15622,7
+Tennis ATP1000 2nd round,15623,7
+Tennis ATP1000 3rt round,15624,7
+Tennis ATP1000 4th round,15625,7
+Tennis ATP1000 quarterfinals,15626,7
+Tennis ATP1000 semifinals,15627,7
+Tennis ATP1000 finals,15628,7
+Tennis ATP500 unknown round,15630,7
+Tennis ATP500 Qualification,15631,7
+Tennis ATP500 1st round,15632,7
+Tennis ATP500 2nd round,15633,7
+Tennis ATP500 3rt round,15634,7
+Tennis ATP500 4th round,15635,7
+Tennis ATP500 quarterfinals,15636,7
+Tennis ATP500 semifinals,15637,7
+Tennis ATP500 finals,15638,7
+Tennis ATP250 unknown round,15640,7
+Tennis ATP250 Qualification,15641,7
+Tennis ATP250 1st round,15642,7
+Tennis ATP250 2nd round,15643,7
+Tennis ATP250 3rt round,15644,7
+Tennis ATP250 4th round,15645,7
+Tennis ATP250 quarterfinals,15646,7
+Tennis ATP250 semifinals,15647,7
+Tennis ATP250 finals,15648,7
+ATP Challenger,157,7
+Tennis WTA GS unknown round,15210,7
+Tennis WTA GS Qualification,15211,7
+Tennis WTA GS 1st round,15212,7
+Tennis WTA GS 2nd round,15213,7
+Tennis WTA GS 3rd round,15214,7
+Tennis WTA GS 4th round,15215,7
+Tennis WTA GS quarterfinals,15216,7
+Tennis WTA GS semifinals,15217,7
+Tennis WTA GS finals,15218,7
+Tennis WTA1000 unknown round,15220,7
+Tennis WTA1000 Qualification,15221,7
+Tennis WTA1000 1st round,15222,7
+Tennis WTA1000 2nd round,15223,7
+Tennis WTA1000 3rt round,15224,7
+Tennis WTA1000 4th round,15225,7
+Tennis WTA1000 quarterfinals,15226,7
+Tennis WTA1000 semifinals,15227,7
+Tennis WTA1000 finals,15228,7
+Tennis WTA500 unknown round,15230,7
+Tennis WTA500 Qualification,15231,7
+Tennis WTA500 1st round,15232,7
+Tennis WTA500 2nd round,15233,7
+Tennis WTA500 3rt round,15234,7
+Tennis WTA500 4th round,15235,7
+Tennis WTA500 quarterfinals,15236,7
+Tennis WTA500 semifinals,15237,7
+Tennis WTA500 finals,15238,7
+Tennis WTA250 unknown round,15240,7
+Tennis WTA250 Qualification,15241,7
+Tennis WTA250 1st round,15242,7
+Tennis WTA250 2nd round,15243,7
+Tennis WTA250 3rt round,15244,7
+Tennis WTA250 4th round,15245,7
+Tennis WTA250 quarterfinals,15246,7
+Tennis WTA250 semifinals,15247,7
+Tennis WTA250 finals,15248,7
 India - IPL,20,7
 Pakistan - Super League,20305,7
 England - T20 Blast,21,7
