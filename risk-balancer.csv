@@ -2,6 +2,7 @@ sportName,sportId,typeIdsOnePositions,typeIdsTwoPositions,typeIdsThreePositions,
 NCAAF,1,,0;10001;10002,,33,66,1,2
 NFL,2,,0;10001;10002,,33,66,1,2
 MLB,3,,0;10001;10002,,33,66,1,2
+NPB,301,,0;10001;10002,,33,66,1,2
 KBO,302,,0;10001;10002,,33,66,1,2
 Collage Baseball,303,,0;10001;10002,,33,66,1,2
 NBA,4,,0;10001;10002,,33,66,1,2
