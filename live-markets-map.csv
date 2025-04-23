@@ -63,121 +63,121 @@ NFL,2,10411,4th Quarter Team Total,Total,true,0.9,0.1,1
 NFL,2,10412,4th Quarter Team Total,Total,true,0.9,0.1,1
 MLB,3,0,Moneyline,Moneyline,true,0.9,0.1,0
 MLB,3,10001,Run Line,Spread,true,0.9,0.1,0
-MLB,3,10002,Total Runs,Total,true,0.9,0.1,0
+MLB,3,10002,Total Runs,Total,true,0.9,0.1,2
 MLB,3,10021,1st Inning Moneyline,Moneyline,true,0.9,0.1,0
-MLB,3,10031,1st Inning Total Runs,Total,true,0.9,0.1,0
+MLB,3,10031,1st Inning Total Runs,Total,true,0.9,0.1,2
 MLB,3,10041,1st Inning Run Line,Spread,true,0.9,0.1,0
 MLB,3,10022,2nd Inning Moneyline,Moneyline,true,0.9,0.1,0
-MLB,3,10032,2nd Inning Total Runs,Total,true,0.9,0.1,0
+MLB,3,10032,2nd Inning Total Runs,Total,true,0.9,0.1,2
 MLB,3,10042,2nd Inning Run Line,Spread,true,0.9,0.1,0
 MLB,3,10023,3rd Inning Moneyline,Moneyline,true,0.9,0.1,0
-MLB,3,10033,3rd Inning Total Runs,Total,true,0.9,0.1,0
+MLB,3,10033,3rd Inning Total Runs,Total,true,0.9,0.1,2
 MLB,3,10043,3rd Inning Run Line,Spread,true,0.9,0.1,0
 MLB,3,10024,4th Inning Moneyline,Moneyline,true,0.9,0.1,0
-MLB,3,10034,4th Inning Total Runs,Total,true,0.9,0.1,0
+MLB,3,10034,4th Inning Total Runs,Total,true,0.9,0.1,2
 MLB,3,10044,4th Inning Run Line,Spread,true,0.9,0.1,0
 MLB,3,10025,5th Inning Moneyline,Moneyline,true,0.9,0.1,0
-MLB,3,10035,5th Inning Total Runs,Total,true,0.9,0.1,0
+MLB,3,10035,5th Inning Total Runs,Total,true,0.9,0.1,2
 MLB,3,10045,5th Inning Run Line,Spread,true,0.9,0.1,0
 MLB,3,10026,6th Inning Moneyline,Moneyline,true,0.9,0.1,0
-MLB,3,10036,6th Inning Total Runs,Total,true,0.9,0.1,0
+MLB,3,10036,6th Inning Total Runs,Total,true,0.9,0.1,2
 MLB,3,10046,6th Inning Run Line,Spread,true,0.9,0.1,0
 MLB,3,10027,7th Inning Moneyline,Moneyline,true,0.9,0.1,0
-MLB,3,10037,7th Inning Total Runs,Total,true,0.9,0.1,0
+MLB,3,10037,7th Inning Total Runs,Total,true,0.9,0.1,2
 MLB,3,10047,7th Inning Run Line,Spread,true,0.9,0.1,0
 MLB,3,10028,8th Inning Moneyline,Moneyline,true,0.9,0.1,0
-MLB,3,10038,8th Inning Total Runs,Total,true,0.9,0.1,0
+MLB,3,10038,8th Inning Total Runs,Total,true,0.9,0.1,2
 MLB,3,10048,8th Inning Run Line,Spread,true,0.9,0.1,0
 MLB,3,10071,1st Half Run Line,Spread,true,0.9,0.1,0
-MLB,3,10061,1st Half Total Runs,Total,false,0.9,0.1,0
-MLB,3,10111,1st Inning Team Total,Total,true,0.9,0.1,1
-MLB,3,10112,1st Inning Team Total,Total,true,0.9,0.1,1
-MLB,3,10211,2nd Inning Team Total,Total,true,0.9,0.1,1
-MLB,3,10212,2nd Inning Team Total,Total,true,0.9,0.1,1
-MLB,3,10311,3rd Inning Team Total,Total,true,0.9,0.1,1
-MLB,3,10312,3rd Inning Team Total,Total,true,0.9,0.1,1
-MLB,3,10411,4th Inning Team Total,Total,true,0.9,0.1,1
-MLB,3,10412,4th Inning Team Total,Total,true,0.9,0.1,1
-MLB,3,10511,5th Inning Team Total,Total,true,0.9,0.1,1
-MLB,3,10512,5th Inning Team Total,Total,true,0.9,0.1,1
-MLB,3,10611,6th Inning Team Total,Total,true,0.9,0.1,1
-MLB,3,10612,6th Inning Team Total,Total,true,0.9,0.1,1
-MLB,3,10711,7th Inning Team Total,Total,true,0.9,0.1,1
-MLB,3,10712,7th Inning Team Total,Total,true,0.9,0.1,1
-MLB,3,10811,8th Inning Team Total,Total,true,0.9,0.1,1
-MLB,3,10812,8th Inning Team Total,Total,true,0.9,0.1,1
+MLB,3,10061,1st Half Total Runs,Total,false,0.9,0.1,2
+MLB,3,10111,1st Inning Team Total,Total,true,0.9,0.1,2
+MLB,3,10112,1st Inning Team Total,Total,true,0.9,0.1,2
+MLB,3,10211,2nd Inning Team Total,Total,true,0.9,0.1,2
+MLB,3,10212,2nd Inning Team Total,Total,true,0.9,0.1,2
+MLB,3,10311,3rd Inning Team Total,Total,true,0.9,0.1,2
+MLB,3,10312,3rd Inning Team Total,Total,true,0.9,0.1,2
+MLB,3,10411,4th Inning Team Total,Total,true,0.9,0.1,2
+MLB,3,10412,4th Inning Team Total,Total,true,0.9,0.1,2
+MLB,3,10511,5th Inning Team Total,Total,true,0.9,0.1,2
+MLB,3,10512,5th Inning Team Total,Total,true,0.9,0.1,2
+MLB,3,10611,6th Inning Team Total,Total,true,0.9,0.1,2
+MLB,3,10612,6th Inning Team Total,Total,true,0.9,0.1,2
+MLB,3,10711,7th Inning Team Total,Total,true,0.9,0.1,2
+MLB,3,10712,7th Inning Team Total,Total,true,0.9,0.1,2
+MLB,3,10811,8th Inning Team Total,Total,true,0.9,0.1,2
+MLB,3,10812,8th Inning Team Total,Total,true,0.9,0.1,2
 NBA,4,0,Moneyline,Moneyline,true,0.9,0.1,0
 NBA,4,10001,Point Spread,Spread,true,0.9,0.1,0
-NBA,4,10002,Total Points,Total,true,0.9,0.1,0
-NBA,4,10017,Team Total,Total,true,0.9,0.1,0
-NBA,4,10018,Team Total,Total,true,0.9,0.1,0
-NBA,4,10031,1st Quarter Total Points,Total,true,0.9,0.1,1
-NBA,4,10032,2nd Quarter Total Points,Total,true,0.9,0.1,1
-NBA,4,10033,3rd Quarter Total Points,Total,true,0.9,0.1,1
-NBA,4,10034,4th Quarter Total Points,Total,true,0.9,0.1,1
+NBA,4,10002,Total Points,Total,true,0.9,0.1,2
+NBA,4,10017,Team Total,Total,true,0.9,0.1,2
+NBA,4,10018,Team Total,Total,true,0.9,0.1,2
+NBA,4,10031,1st Quarter Total Points,Total,true,0.9,0.1,2
+NBA,4,10032,2nd Quarter Total Points,Total,true,0.9,0.1,2
+NBA,4,10033,3rd Quarter Total Points,Total,true,0.9,0.1,2
+NBA,4,10034,4th Quarter Total Points,Total,true,0.9,0.1,2
 NBA,4,10041,1st Quarter Point Spread,Spread,true,0.9,0.1,1
 NBA,4,10042,2nd Quarter Point Spread,Spread,true,0.9,0.1,1
 NBA,4,10043,3rd Quarter Point Spread,Spread,true,0.9,0.1,1
 NBA,4,10044,4th Quarter Point Spread,Spread,true,0.9,0.1,1
 NBA,4,10071,1st Half Point Spread,Spread,true,0.9,0.1,1
 NBA,4,10072,2nd Half Point Spread,Spread,true,0.9,0.1,1
-NBA,4,10061,1st Half Total Points,Total,true,0.9,0.1,1
-NBA,4,10062,2nd Half Total Points,Total,true,0.9,0.1,1
+NBA,4,10061,1st Half Total Points,Total,true,0.9,0.1,2
+NBA,4,10062,2nd Half Total Points,Total,true,0.9,0.1,2
 NBA,4,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,1
 NBA,4,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,1
 NBA,4,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,1
 NBA,4,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,1
 NBA,4,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,1
 NBA,4,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
-NBA,4,10111,1st Quarter Team Total,Total,true,0.9,0.1,1
-NBA,4,10112,1st Quarter Team Total,Total,true,0.9,0.1,1
-NBA,4,10211,2nd Quarter Team Total,Total,true,0.9,0.1,1
-NBA,4,10212,2nd Quarter Team Total,Total,true,0.9,0.1,1
-NBA,4,10311,3rd Quarter Team Total,Total,true,0.9,0.1,1
-NBA,4,10312,3rd Quarter Team Total,Total,true,0.9,0.1,1
-NBA,4,10411,4th Quarter Team Total,Total,true,0.9,0.1,1
-NBA,4,10412,4th Quarter Team Total,Total,true,0.9,0.1,1
+NBA,4,10111,1st Quarter Team Total,Total,true,0.9,0.1,2
+NBA,4,10112,1st Quarter Team Total,Total,true,0.9,0.1,2
+NBA,4,10211,2nd Quarter Team Total,Total,true,0.9,0.1,2
+NBA,4,10212,2nd Quarter Team Total,Total,true,0.9,0.1,2
+NBA,4,10311,3rd Quarter Team Total,Total,true,0.9,0.1,2
+NBA,4,10312,3rd Quarter Team Total,Total,true,0.9,0.1,2
+NBA,4,10411,4th Quarter Team Total,Total,true,0.9,0.1,2
+NBA,4,10412,4th Quarter Team Total,Total,true,0.9,0.1,2
 NCAAB,5,0,Moneyline,Moneyline,true,0.9,0.1,1
 NCAAB,5,10001,Point Spread,Spread,true,0.9,0.1,1
-NCAAB,5,10002,Total Points,Total,true,0.9,0.1,1
-NCAAB,5,10017,Team Total,Total,true,0.9,0.1,1
-NCAAB,5,10018,Team Total,Total,true,0.9,0.1,1
+NCAAB,5,10002,Total Points,Total,true,0.9,0.1,2
+NCAAB,5,10017,Team Total,Total,true,0.9,0.1,2
+NCAAB,5,10018,Team Total,Total,true,0.9,0.1,2
 NCAAB,5,10071,1st Half Point Spread,Spread,true,0.9,0.1,1
 NCAAB,5,10072,2nd Half Point Spread,Spread,true,0.9,0.1,1
-NCAAB,5,10061,1st Half Total Points,Total,true,0.9,0.1,1
-NCAAB,5,10062,2nd Half Total Points,Total,true,0.9,0.1,1
+NCAAB,5,10061,1st Half Total Points,Total,true,0.9,0.1,2
+NCAAB,5,10062,2nd Half Total Points,Total,true,0.9,0.1,2
 NCAAB,5,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,1
 NCAAB,5,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
-NCAAB,5,10111,1st Half Team Total,Total,true,0.9,0.1,1
-NCAAB,5,10112,1st Half Team Total,Total,true,0.9,0.1,1
-NCAAB,5,10211,2nd Half Team Total,Total,true,0.9,0.1,1
-NCAAB,5,10212,2nd Half Team Total,Total,true,0.9,0.1,1
+NCAAB,5,10111,1st Half Team Total,Total,true,0.9,0.1,2
+NCAAB,5,10112,1st Half Team Total,Total,true,0.9,0.1,2
+NCAAB,5,10211,2nd Half Team Total,Total,true,0.9,0.1,2
+NCAAB,5,10212,2nd Half Team Total,Total,true,0.9,0.1,2
 NHL,6,0,Moneyline,Moneyline,true,0.9,0.1,1
 NHL,6,10001,Puck Line,Spread,true,0.9,0.1,1
-NHL,6,10002,Total Goals,Total,true,0.9,0.1,1
-NHL,6,10017,Team Total,Total,true,0.9,0.1,1
-NHL,6,10018,Team Total,Total,true,0.9,0.1,1
-NHL,6,10031,1st Period Total Goals,Total,true,0.9,0.1,1
-NHL,6,10032,2nd Period Total Goals,Total,true,0.9,0.1,1
-NHL,6,10033,3rd Period Total Goals,Total,true,0.9,0.1,1
+NHL,6,10002,Total Goals,Total,true,0.9,0.1,2
+NHL,6,10017,Team Total,Total,true,0.9,0.1,2
+NHL,6,10018,Team Total,Total,true,0.9,0.1,2
+NHL,6,10031,1st Period Total Goals,Total,true,0.9,0.1,2
+NHL,6,10032,2nd Period Total Goals,Total,true,0.9,0.1,2
+NHL,6,10033,3rd Period Total Goals,Total,true,0.9,0.1,2
 NHL,6,10041,1st Period Puck Line,Spread,true,0.9,0.1,1
 NHL,6,10042,2nd Period Puck Line,Spread,true,0.9,0.1,1
 NHL,6,10043,3rd Period Puck Line,Spread,true,0.9,0.1,1
 NHL,6,10021,1st Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
 NHL,6,10022,2nd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
 NHL,6,10023,3rd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
-NHL,6,10111,1st Period Team Total,Total,true,0.9,0.1,1
-NHL,6,10112,1st Period Team Total,Total,true,0.9,0.1,1
-NHL,6,10211,2nd Period Team Total,Total,true,0.9,0.1,1
-NHL,6,10212,2nd Period Team Total,Total,true,0.9,0.1,1
-NHL,6,10311,3rd Period Team Total,Total,true,0.9,0.1,1
-NHL,6,10312,3rd Period Team Total,Total,true,0.9,0.1,1
+NHL,6,10111,1st Period Team Total,Total,true,0.9,0.1,2
+NHL,6,10112,1st Period Team Total,Total,true,0.9,0.1,2
+NHL,6,10211,2nd Period Team Total,Total,true,0.9,0.1,2
+NHL,6,10212,2nd Period Team Total,Total,true,0.9,0.1,2
+NHL,6,10311,3rd Period Team Total,Total,true,0.9,0.1,2
+NHL,6,10312,3rd Period Team Total,Total,true,0.9,0.1,2
 WNBA,8,0,Moneyline,Moneyline,true,0.9,0.1,0
 WNBA,8,10001,Point Spread,Spread,true,0.9,0.1,0
-WNBA,8,10002,Total Points,Total,true,0.9,0.1,0
+WNBA,8,10002,Total Points,Total,true,0.9,0.1,2
 MLS,10,0,Moneyline,Moneyline,true,0.9,0.1,0
-MLS,10,10001,Goal Spread,Spread,false,0.9,0.1,0
-MLS,10,10002,Total Goals,Total,false,0.9,0.1,0
+MLS,10,10001,Goal Spread,Spread,true,0.9,0.1,0
+MLS,10,10002,Total Goals,Total,true,0.9,0.1,0
 MLS,10,10017,Team Total,Total,true,0.9,0.1,0
 MLS,10,10018,Team Total,Total,true,0.9,0.1,0
 MLS,10,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -290,97 +290,97 @@ Copa America,44,10002,Total Goals,Total,false,0.9,0.1,0
 UEFA EURO 2024,50,0,Moneyline,Moneyline,false,0.9,0.1,0
 UEFA EURO 2024,50,10001,Goal Spread,Spread,false,0.9,0.1,0
 UEFA EURO 2024,50,10002,Total Goals,Total,false,0.9,0.1,0
-WTA Events,152,0,Moneyline,Moneyline,true,0.9,0.1,1
-WTA Events,152,10001,Game Spread,Spread,true,0.9,0.1,1
-WTA Events,152,10002,Total Games,Total,true,0.9,0.1,1
-WTA Events,152,10017,Player Games Won,Total,true,0.9,0.1,1
-WTA Events,152,10018,Player Games Won,Total,true,0.9,0.1,1
-WTA Events,152,10031,1st Set Total Games,Total,true,0.9,0.1,1
-WTA Events,152,10032,2nd Set Total Games,Total,true,0.9,0.1,1
-WTA Events,152,10033,3rd Set Total Games,Total,true,0.9,0.1,1
-WTA Events,152,10034,3rd Set Total Games,Total,true,0.9,0.1,1
-WTA Events,152,10035,3rd Set Total Games,Total,true,0.9,0.1,1
-WTA Events,152,10041,1st Set Game Spread,Spread,true,0.9,0.1,1
-WTA Events,152,10042,2nd Set Game Spread,Spread,true,0.9,0.1,1
-WTA Events,152,10043,3rd Set Game Spread,Spread,true,0.9,0.1,1
-WTA Events,152,10044,4th Set Game Spread,Spread,true,0.9,0.1,1
-WTA Events,152,10045,5th Set Game Spread,Spread,true,0.9,0.1,1
-WTA Events,152,10021,1st Set Moneyline,Moneyline,true,0.99,0.01,1
-WTA Events,152,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,1
-WTA Events,152,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,1
-WTA Events,152,10024,4th Set Moneyline,Moneyline,true,0.99,0.01,1
-WTA Events,152,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,1
-Grand Slam,153,0,Moneyline,Moneyline,true,0.9,0.1,1
-Grand Slam,153,10001,Game Spread,Spread,true,0.9,0.1,1
-Grand Slam,153,10002,Total Games,Total,true,0.9,0.1,1
-ATP Events,156,0,Moneyline,Moneyline,true,0.9,0.1,1
-ATP Events,156,10001,Game Spread,Spread,true,0.9,0.1,1
-ATP Events,156,10002,Total Games,Total,true,0.9,0.1,1
-ATP Events,156,10017,Player Games Won,Total,true,0.9,0.1,1
-ATP Events,156,10018,Player Games Won,Total,true,0.9,0.1,1
-ATP Events,156,10031,1st Set Total Games,Total,true,0.9,0.1,1
-ATP Events,156,10032,2nd Set Total Games,Total,true,0.9,0.1,1
-ATP Events,156,10033,3rd Set Total Games,Total,true,0.9,0.1,1
-ATP Events,156,10034,4th Set Total Games,Total,true,0.9,0.1,1
-ATP Events,156,10035,5th Set Total Games,Total,true,0.9,0.1,1
-ATP Events,156,10041,1st Set Game Spread,Spread,true,0.9,0.1,1
-ATP Events,156,10042,2nd Set Game Spread,Spread,true,0.9,0.1,1
-ATP Events,156,10043,3rd Set Game Spread,Spread,true,0.9,0.1,1
-ATP Events,156,10044,4th Set Game Spread,Spread,true,0.9,0.1,1
-ATP Events,156,10045,5th Set Game Spread,Spread,true,0.9,0.1,1
-ATP Events,156,10021,1st Set Moneyline,Moneyline,true,0.99,0.01,1
-ATP Events,156,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,1
-ATP Events,156,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,1
-ATP Events,156,10024,4th Set Moneyline,Moneyline,true,0.99,0.01,1
-ATP Events,156,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,1
-ATP Challenger,157,0,Moneyline,Moneyline,true,0.9,0.1,1
-ATP Challenger,157,10001,Game Spread,Spread,true,0.9,0.1,1
-ATP Challenger,157,10002,Total Games,Total,true,0.9,0.1,1
-ATP Challenger,157,10017,Player Games Won,Total,true,0.9,0.1,1
-ATP Challenger,157,10018,Player Games Won,Total,true,0.9,0.1,1
-ATP Challenger,157,10031,1st Set Total Games,Total,true,0.9,0.1,1
-ATP Challenger,157,10032,2nd Set Total Games,Total,true,0.9,0.1,1
-ATP Challenger,157,10033,3rd Set Total Games,Total,true,0.9,0.1,1
-ATP Challenger,157,10041,1st Set Game Spread,Spread,true,0.9,0.1,1
-ATP Challenger,157,10042,2nd Set Game Spread,Spread,true,0.9,0.1,1
-ATP Challenger,157,10043,3rd Set Game Spread,Spread,true,0.9,0.1,1
-ATP Challenger,157,10021,1st Set Moneyline,Moneyline,true,0.99,0.01,1
-ATP Challenger,157,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,1
-ATP Challenger,157,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,1
+WTA Events,152,0,Moneyline,Moneyline,true,0.9,0.1,2
+WTA Events,152,10001,Game Spread,Spread,true,0.9,0.1,2
+WTA Events,152,10002,Total Games,Total,true,0.9,0.1,2
+WTA Events,152,10017,Player Games Won,Total,true,0.9,0.1,2
+WTA Events,152,10018,Player Games Won,Total,true,0.9,0.1,2
+WTA Events,152,10031,1st Set Total Games,Total,true,0.9,0.1,2
+WTA Events,152,10032,2nd Set Total Games,Total,true,0.9,0.1,2
+WTA Events,152,10033,3rd Set Total Games,Total,true,0.9,0.1,2
+WTA Events,152,10034,3rd Set Total Games,Total,true,0.9,0.1,2
+WTA Events,152,10035,3rd Set Total Games,Total,true,0.9,0.1,2
+WTA Events,152,10041,1st Set Game Spread,Spread,true,0.9,0.1,2
+WTA Events,152,10042,2nd Set Game Spread,Spread,true,0.9,0.1,2
+WTA Events,152,10043,3rd Set Game Spread,Spread,true,0.9,0.1,2
+WTA Events,152,10044,4th Set Game Spread,Spread,true,0.9,0.1,2
+WTA Events,152,10045,5th Set Game Spread,Spread,true,0.9,0.1,2
+WTA Events,152,10021,1st Set Moneyline,Moneyline,true,0.99,0.01,2
+WTA Events,152,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,2
+WTA Events,152,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,2
+WTA Events,152,10024,4th Set Moneyline,Moneyline,true,0.99,0.01,2
+WTA Events,152,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,2
+Grand Slam,153,0,Moneyline,Moneyline,true,0.9,0.1,2
+Grand Slam,153,10001,Game Spread,Spread,true,0.9,0.1,2
+Grand Slam,153,10002,Total Games,Total,true,0.9,0.1,2
+ATP Events,156,0,Moneyline,Moneyline,true,0.9,0.1,2
+ATP Events,156,10001,Game Spread,Spread,true,0.9,0.1,2
+ATP Events,156,10002,Total Games,Total,true,0.9,0.1,2
+ATP Events,156,10017,Player Games Won,Total,true,0.9,0.1,2
+ATP Events,156,10018,Player Games Won,Total,true,0.9,0.1,2
+ATP Events,156,10031,1st Set Total Games,Total,true,0.9,0.1,2
+ATP Events,156,10032,2nd Set Total Games,Total,true,0.9,0.1,2
+ATP Events,156,10033,3rd Set Total Games,Total,true,0.9,0.1,2
+ATP Events,156,10034,4th Set Total Games,Total,true,0.9,0.1,2
+ATP Events,156,10035,5th Set Total Games,Total,true,0.9,0.1,2
+ATP Events,156,10041,1st Set Game Spread,Spread,true,0.9,0.1,2
+ATP Events,156,10042,2nd Set Game Spread,Spread,true,0.9,0.1,2
+ATP Events,156,10043,3rd Set Game Spread,Spread,true,0.9,0.1,2
+ATP Events,156,10044,4th Set Game Spread,Spread,true,0.9,0.1,2
+ATP Events,156,10045,5th Set Game Spread,Spread,true,0.9,0.1,2
+ATP Events,156,10021,1st Set Moneyline,Moneyline,true,0.99,0.01,2
+ATP Events,156,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,2
+ATP Events,156,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,2
+ATP Events,156,10024,4th Set Moneyline,Moneyline,true,0.99,0.01,2
+ATP Events,156,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,2
+ATP Challenger,157,0,Moneyline,Moneyline,true,0.9,0.1,2
+ATP Challenger,157,10001,Game Spread,Spread,true,0.9,0.1,2
+ATP Challenger,157,10002,Total Games,Total,true,0.9,0.1,2
+ATP Challenger,157,10017,Player Games Won,Total,true,0.9,0.1,2
+ATP Challenger,157,10018,Player Games Won,Total,true,0.9,0.1,2
+ATP Challenger,157,10031,1st Set Total Games,Total,true,0.9,0.1,2
+ATP Challenger,157,10032,2nd Set Total Games,Total,true,0.9,0.1,2
+ATP Challenger,157,10033,3rd Set Total Games,Total,true,0.9,0.1,2
+ATP Challenger,157,10041,1st Set Game Spread,Spread,true,0.9,0.1,2
+ATP Challenger,157,10042,2nd Set Game Spread,Spread,true,0.9,0.1,2
+ATP Challenger,157,10043,3rd Set Game Spread,Spread,true,0.9,0.1,2
+ATP Challenger,157,10021,1st Set Moneyline,Moneyline,true,0.99,0.01,2
+ATP Challenger,157,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,2
+ATP Challenger,157,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,2
 Liga MX,230,0,Moneyline,Moneyline,true,0.9,0.1,0
 Liga MX,230,10001,Goal Spread,Spread,false,0.9,0.1,0
 Liga MX,230,10002,Total Goals,Total,false,0.9,0.1,0
-Euroleague,399,0,Moneyline,Moneyline,true,0.9,0.1,1
-Euroleague,399,10001,Point Spread,Spread,true,0.9,0.1,1
-Euroleague,399,10002,Total Points,Total,true,0.9,0.1,1
-Euroleague,399,10017,Team Total,Total,true,0.9,0.1,1
-Euroleague,399,10018,Team Total,Total,true,0.9,0.1,1
-Euroleague,399,10031,1st Quarter Total Points,Total,true,0.9,0.1,1
-Euroleague,399,10032,2nd Quarter Total Points,Total,true,0.9,0.1,1
-Euroleague,399,10033,3rd Quarter Total Points,Total,true,0.9,0.1,1
-Euroleague,399,10034,4th Quarter Total Points,Total,true,0.9,0.1,1
-Euroleague,399,10041,1st Quarter Point Spread,Spread,true,0.9,0.1,1
-Euroleague,399,10042,2nd Quarter Point Spread,Spread,true,0.9,0.1,1
-Euroleague,399,10043,3rd Quarter Point Spread,Spread,true,0.9,0.1,1
-Euroleague,399,10044,4th Quarter Point Spread,Spread,true,0.9,0.1,1
-Euroleague,399,10071,1st Half Point Spread,Spread,true,0.9,0.1,1
-Euroleague,399,10072,2nd Half Point Spread,Spread,true,0.9,0.1,1
-Euroleague,399,10061,1st Half Total Points,Total,true,0.9,0.1,1
-Euroleague,399,10062,2nd Half Total Points,Total,true,0.9,0.1,1
-Euroleague,399,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,1
-Euroleague,399,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,1
-Euroleague,399,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,1
-Euroleague,399,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,1
-Euroleague,399,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,1
-Euroleague,399,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
-Euroleague,399,10111,1st Quarter Team Total,Total,true,0.9,0.1,1
-Euroleague,399,10112,1st Quarter Team Total,Total,true,0.9,0.1,1
-Euroleague,399,10211,2nd Quarter Team Total,Total,true,0.9,0.1,1
-Euroleague,399,10212,2nd Quarter Team Total,Total,true,0.9,0.1,1
-Euroleague,399,10311,3rd Quarter Team Total,Total,true,0.9,0.1,1
-Euroleague,399,10312,3rd Quarter Team Total,Total,true,0.9,0.1,1
-Euroleague,399,10411,4th Quarter Team Total,Total,true,0.9,0.1,1
-Euroleague,399,10412,4th Quarter Team Total,Total,true,0.9,0.1,1
+Euroleague,399,0,Moneyline,Moneyline,true,0.9,0.1,2
+Euroleague,399,10001,Point Spread,Spread,true,0.9,0.1,2
+Euroleague,399,10002,Total Points,Total,true,0.9,0.1,2
+Euroleague,399,10017,Team Total,Total,true,0.9,0.1,2
+Euroleague,399,10018,Team Total,Total,true,0.9,0.1,2
+Euroleague,399,10031,1st Quarter Total Points,Total,true,0.9,0.1,2
+Euroleague,399,10032,2nd Quarter Total Points,Total,true,0.9,0.1,2
+Euroleague,399,10033,3rd Quarter Total Points,Total,true,0.9,0.1,2
+Euroleague,399,10034,4th Quarter Total Points,Total,true,0.9,0.1,2
+Euroleague,399,10041,1st Quarter Point Spread,Spread,true,0.9,0.1,2
+Euroleague,399,10042,2nd Quarter Point Spread,Spread,true,0.9,0.1,2
+Euroleague,399,10043,3rd Quarter Point Spread,Spread,true,0.9,0.1,2
+Euroleague,399,10044,4th Quarter Point Spread,Spread,true,0.9,0.1,2
+Euroleague,399,10071,1st Half Point Spread,Spread,true,0.9,0.1,2
+Euroleague,399,10072,2nd Half Point Spread,Spread,true,0.9,0.1,2
+Euroleague,399,10061,1st Half Total Points,Total,true,0.9,0.1,2
+Euroleague,399,10062,2nd Half Total Points,Total,true,0.9,0.1,2
+Euroleague,399,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,2
+Euroleague,399,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+Euroleague,399,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+Euroleague,399,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,2
+Euroleague,399,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,2
+Euroleague,399,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
+Euroleague,399,10111,1st Quarter Team Total,Total,true,0.9,0.1,2
+Euroleague,399,10112,1st Quarter Team Total,Total,true,0.9,0.1,2
+Euroleague,399,10211,2nd Quarter Team Total,Total,true,0.9,0.1,2
+Euroleague,399,10212,2nd Quarter Team Total,Total,true,0.9,0.1,2
+Euroleague,399,10311,3rd Quarter Team Total,Total,true,0.9,0.1,2
+Euroleague,399,10312,3rd Quarter Team Total,Total,true,0.9,0.1,2
+Euroleague,399,10411,4th Quarter Team Total,Total,true,0.9,0.1,2
+Euroleague,399,10412,4th Quarter Team Total,Total,true,0.9,0.1,2
 Saudi Professional League,536,0,Moneyline,Moneyline,true,0.9,0.1,0
 Saudi Professional League,536,10001,Goal Spread,Spread,false,0.9,0.1,0
 Saudi Professional League,536,10002,Total Goals,Total,false,0.9,0.1,0
@@ -794,44 +794,44 @@ LOL,10138,10411,4th Map Team Total,Total,true,0.9,0.1,1
 LOL,10138,10412,4th Map Team Total,Total,true,0.9,0.1,1
 LOL,10138,10511,5th Map Team Total,Total,true,0.9,0.1,1
 LOL,10138,10512,5th Map Team Total,Total,true,0.9,0.1,1
-Australia - NRL,9500,0,Moneyline,Moneyline,true,0.9,0.1,0
-Australia - NRL,9500,10001,Point Spread,Spread,true,0.9,0.1,0
-Australia - NRL,9500,10002,Total Points,Total,true,0.9,0.1,0
-England - Super League,9501,0,Moneyline,Moneyline,true,0.9,0.1,0
-England - Super League,9501,10001,Point Spread,Spread,true,0.9,0.1,0
-England - Super League,9501,10002,Total Points,Total,true,0.9,0.1,0
-Oceania - Super Rugby,9502,0,Moneyline,Moneyline,true,0.9,0.1,0
-Oceania - Super Rugby,9502,10001,Point Spread,Spread,true,0.9,0.1,0
-Oceania - Super Rugby,9502,10002,Total Points,Total,true,0.9,0.1,0
-International - Six Nations,9503,0,Moneyline,Moneyline,true,0.9,0.1,0
-International - Six Nations,9503,10001,Point Spread,Spread,true,0.9,0.1,0
-International - Six Nations,9503,10002,Total Points,Total,true,0.9,0.1,0
-International - Champions League,20218,0,Moneyline,Moneyline,true,0.9,0.1,0
-International - Champions League,20218,10001,Point Spread,Spread,true,0.9,0.1,0
-International - Champions League,20218,10002,Total Points,Total,true,0.9,0.1,0
-College Baseball,303,0,Moneyline,Moneyline,true,0.9,0.1,0
-College Baseball,303,10001,Run Line,Spread,true,0.9,0.1,0
-College Baseball,303,10002,Total Runs,Total,true,0.9,0.1,0
-Finland - SM Liiga,319,0,Moneyline,Moneyline,true,0.9,0.1,0
-Finland - SM Liiga,319,10001,Point Spread,Spread,true,0.9,0.1,0
-Finland - SM Liiga,319,10002,Total Points,Total,true,0.9,0.1,0
-NPB,301,0,Moneyline,Moneyline,true,0.9,0.1,0
-NPB,301,10001,Run Line,Spread,true,0.9,0.1,0
-NPB,301,10002,Total Runs,Total,true,0.9,0.1,0
-KBO,302,0,Moneyline,Moneyline,true,0.9,0.1,0
-KBO,302,10001,Run Line,Spread,true,0.9,0.1,0
-KBO,302,10002,Total Runs,Total,true,0.9,0.1,0
+Australia - NRL,9500,0,Moneyline,Moneyline,true,0.9,0.1,2
+Australia - NRL,9500,10001,Point Spread,Spread,true,0.9,0.1,2
+Australia - NRL,9500,10002,Total Points,Total,true,0.9,0.1,2
+England - Super League,9501,0,Moneyline,Moneyline,true,0.9,0.1,2
+England - Super League,9501,10001,Point Spread,Spread,true,0.9,0.1,2
+England - Super League,9501,10002,Total Points,Total,true,0.9,0.1,2
+Oceania - Super Rugby,9502,0,Moneyline,Moneyline,true,0.9,0.1,2
+Oceania - Super Rugby,9502,10001,Point Spread,Spread,true,0.9,0.1,2
+Oceania - Super Rugby,9502,10002,Total Points,Total,true,0.9,0.1,2
+International - Six Nations,9503,0,Moneyline,Moneyline,true,0.9,0.1,2
+International - Six Nations,9503,10001,Point Spread,Spread,true,0.9,0.1,2
+International - Six Nations,9503,10002,Total Points,Total,true,0.9,0.1,2
+International - Champions League,20218,0,Moneyline,Moneyline,true,0.9,0.1,2
+International - Champions League,20218,10001,Point Spread,Spread,true,0.9,0.1,2
+International - Champions League,20218,10002,Total Points,Total,true,0.9,0.1,2
+College Baseball,303,0,Moneyline,Moneyline,true,0.9,0.1,2
+College Baseball,303,10001,Run Line,Spread,true,0.9,0.1,2
+College Baseball,303,10002,Total Runs,Total,true,0.9,0.1,2
+Finland - SM Liiga,319,0,Moneyline,Moneyline,true,0.9,0.1,2
+Finland - SM Liiga,319,10001,Point Spread,Spread,true,0.9,0.1,2
+Finland - SM Liiga,319,10002,Total Points,Total,true,0.9,0.1,2
+NPB,301,0,Moneyline,Moneyline,true,0.9,0.1,2
+NPB,301,10001,Run Line,Spread,true,0.9,0.1,2
+NPB,301,10002,Total Runs,Total,true,0.9,0.1,2
+KBO,302,0,Moneyline,Moneyline,true,0.9,0.1,2
+KBO,302,10001,Run Line,Spread,true,0.9,0.1,2
+KBO,302,10002,Total Runs,Total,true,0.9,0.1,2
 NCAAW,20211,0,Moneyline,Moneyline,true,0.9,0.1,2
 NCAAW,20211,10001,Point Spread,Spread,true,0.9,0.1,2
 NCAAW,20211,10002,Total Points,Total,true,0.9,0.1,2
-India - IPL,20,0,Moneyline,Moneyline,true,0.9,0.1,0
-England - T20 Blast,21,0,Moneyline,Moneyline,true,0.9,0.1,0
-ICC - T20 World Cup,20301,0,Moneyline,Moneyline,true,0.9,0.1,0
-Australia - Big Bash League,20302,0,Moneyline,Moneyline,true,0.9,0.1,0
-USA - Major League Cricket,20303,0,Moneyline,Moneyline,true,0.9,0.1,0
-Australia - Big Bash League Women,20304,0,Moneyline,Moneyline,true,0.9,0.1,0
-Pakistan Cricket,20305,0,Moneyline,Moneyline,false,0.9,0.1,0
-AFL,9510,0,Moneyline,Moneyline,true,0.9,0.1,0
+India - IPL,20,0,Moneyline,Moneyline,true,0.9,0.1,2
+England - T20 Blast,21,0,Moneyline,Moneyline,true,0.9,0.1,2
+ICC - T20 World Cup,20301,0,Moneyline,Moneyline,true,0.9,0.1,2
+Australia - Big Bash League,20302,0,Moneyline,Moneyline,true,0.9,0.1,2
+USA - Major League Cricket,20303,0,Moneyline,Moneyline,true,0.9,0.1,2
+Australia - Big Bash League Women,20304,0,Moneyline,Moneyline,true,0.9,0.1,2
+Pakistan Cricket,20305,0,Moneyline,Moneyline,false,0.9,0.1,2
+AFL,9510,0,Moneyline,Moneyline,true,0.9,0.1,2
 AFL,9510,10001,Point Spread,Spread,true,0.8,0.2,0
 AFL,9510,10002,Total Points,Total,true,0.8,0.2,0
 AFL,9510,10017,Team Total,Total,true,0.8,0.2,0
