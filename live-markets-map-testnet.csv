@@ -380,3 +380,8 @@ CZECH_TT_CUP_MEN,8911,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,1
 CZECH_TT_CUP_MEN,8911,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,1
 CZECH_TT_CUP_MEN,8911,10024,4th Set Moneyline,Moneyline,true,0.99,0.01,1
 CZECH_TT_CUP_MEN,8911,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,1
+AFL,9510,0,Moneyline,Moneyline,false,0.9,0.1,1
+AFL,9510,10001,Point Spread,Spread,false,0.8,0.2,1
+AFL,9510,10002,Total Points,Total,false,0.8,0.2,1
+AFL,9510,10017,Team Total,Total,false,0.8,0.2,1
+AFL,9510,10018,Team Total,Total,false,0.8,0.2,1
