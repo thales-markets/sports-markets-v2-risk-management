@@ -2,7 +2,7 @@ sportName,sportId,primaryBookmaker,secondaryBookmaker,tertiaryBookmaker
 Tennis Masters,156,pinnacle,,
 Tennis Grand Slam,153,pinnacle,,
 Tennis WTA,152,pinnacle,,
-Tennis challenger,157,blue book,,
+Tennis challenger,157,pinnacle,,
 Brazil cup,20002,bovada,,
 MLS,10,draftkings,bovada,
 EPL,11,draftkings,bovada,
