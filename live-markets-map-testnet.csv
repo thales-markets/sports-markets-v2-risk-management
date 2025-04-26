@@ -43,7 +43,7 @@ MLS,10,10002,Total Goals,Total,false,0.75,0.25,2
 EPL,11,0,Moneyline,Moneyline,true,0.75,0.25,2
 EPL,11,10001,Goal Spread,Spread,true,0.75,0.25,2
 EPL,11,10002,Total Goals,Total,true,0.75,0.25,2
-EPL,11,10003,Double Chance,Double Chance,true,0.9,0.1,0
+EPL,11,10003,Double Chance,Double Chance,true,0.99,0.01,0
 EPL,11,10017,Team Total,Total,true,0.75,0.25,2
 EPL,11,10018,Team Total,Total,true,0.75,0.25,2
 EPL,11,10031,1st Half Total Goals,Total,true,0.75,0.25,2
@@ -55,7 +55,7 @@ EPL,11,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
 Ligue 1,12,0,Moneyline,Moneyline,true,0.75,0.25,2
 Ligue 1,12,10001,Goal Spread,Spread,true,0.75,0.25,2
 Ligue 1,12,10002,Total Goals,Total,true,0.75,0.25,2
-Ligue 1,12,10003,Double Chance,Double Chance,true,0.9,0.1,0
+Ligue 1,12,10003,Double Chance,Double Chance,true,0.99,0.01,0
 Bundesliga,13,0,Moneyline,Moneyline,true,0.75,0.25,2
 Bundesliga,13,10001,Goal Spread,Spread,true,0.75,0.25,2
 Bundesliga,13,10002,Total Goals,Total,true,0.75,0.25,2
@@ -63,11 +63,11 @@ Bundesliga,13,10003,Double Chance,Double Chance,true,0.9,0.1,0
 La Liga,14,0,Moneyline,Moneyline,true,0.75,0.25,2
 La Liga,14,10001,Goal Spread,Spread,true,0.75,0.25,2
 La Liga,14,10002,Total Goals,Total,true,0.75,0.25,2
-La Liga,14,10003,Double Chance,Double Chance,true,0.9,0.1,0
+La Liga,14,10003,Double Chance,Double Chance,true,0.99,0.01,0
 Serie A,15,0,Moneyline,Moneyline,true,0.75,0.25,2
 Serie A,15,10001,Goal Spread,Spread,true,0.75,0.25,2
 Serie A,15,10002,Total Goals,Total,true,0.75,0.25,2
-Serie A,15,10003,Double Chance,Double Chance,true,0.9,0.1,0
+Serie A,15,10003,Double Chance,Double Chance,true,0.99,0.01,0
 Serie A,15,10017,Team Total,Total,true,0.75,0.25,2
 Serie A,15,10018,Team Total,Total,true,0.75,0.25,2
 Serie A,15,10031,1st Half Total Goals,Total,true,0.75,0.25,2
@@ -133,6 +133,10 @@ WTA Events,152,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,2
 WTA Events,152,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,2
 WTA Events,152,10024,4th Set Moneyline,Moneyline,true,0.99,0.01,2
 WTA Events,152,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,2
+WTA Events,152,10100,Correct Score,Correct Score,true,0.99,0.01,2
+WTA Events,152,10101,1st Set Correct Score,Correct Score,true,0.99,0.01,2
+WTA Events,152,10102,2nd Set Correct Score,Correct Score,true,0.99,0.01,2
+WTA Events,152,10103,3rd Set Correct Score,Correct Score,true,0.99,0.01,2
 Grand Slam,153,0,Moneyline,Moneyline,true,0.75,0.25,2
 Grand Slam,153,10001,Game Spread,Spread,true,0.75,0.25,2
 Grand Slam,153,10002,Total Games,Total,true,0.75,0.25,2
@@ -156,6 +160,10 @@ ATP Events,156,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,2
 ATP Events,156,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,2
 ATP Events,156,10024,4th Set Moneyline,Moneyline,true,0.99,0.01,2
 ATP Events,156,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,2
+ATP Events,156,10100,Correct Score,Correct Score,true,0.99,0.01,2
+ATP Events,156,10101,1st Set Correct Score,Correct Score,true,0.99,0.01,2
+ATP Events,156,10102,2nd Set Correct Score,Correct Score,true,0.99,0.01,2
+ATP Events,156,10103,3rd Set Correct Score,Correct Score,true,0.99,0.01,2
 ATP Challenger,157,0,Moneyline,Moneyline,true,0.9,0.1,1
 ATP Challenger,157,10001,Game Spread,Spread,true,0.9,0.1,1
 ATP Challenger,157,10002,Total Games,Total,true,0.9,0.1,1
@@ -380,3 +388,8 @@ CZECH_TT_CUP_MEN,8911,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,1
 CZECH_TT_CUP_MEN,8911,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,1
 CZECH_TT_CUP_MEN,8911,10024,4th Set Moneyline,Moneyline,true,0.99,0.01,1
 CZECH_TT_CUP_MEN,8911,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,1
+AFL,9510,0,Moneyline,Moneyline,true,0.9,0.1,1
+AFL,9510,10001,Point Spread,Spread,true,0.8,0.2,1
+AFL,9510,10002,Total Points,Total,true,0.8,0.2,1
+AFL,9510,10017,Team Total,Total,true,0.8,0.2,1
+AFL,9510,10018,Team Total,Total,true,0.8,0.2,1

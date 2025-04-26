@@ -831,12 +831,12 @@ Australia - Big Bash League,20302,0,Moneyline,Moneyline,true,0.9,0.1,2
 USA - Major League Cricket,20303,0,Moneyline,Moneyline,true,0.9,0.1,2
 Australia - Big Bash League Women,20304,0,Moneyline,Moneyline,true,0.9,0.1,2
 Pakistan Cricket,20305,0,Moneyline,Moneyline,false,0.9,0.1,2
-AFL,9510,0,Moneyline,Moneyline,true,0.9,0.1,1
-AFL,9510,10001,Point Spread,Spread,true,0.8,0.2,1
-AFL,9510,10002,Total Points,Total,true,0.8,0.2,2
-AFL,9510,10017,Team Total,Total,true,0.8,0.2,2
-AFL,9510,10018,Team Total,Total,true,0.8,0.2,2
-CZECH_TT_CUP_MEN,8911,0,Moneyline,Moneyline,true,0.9,0.1,2
-CZECH_TT_LIGA_PRO_MEN,8912,0,Moneyline,Moneyline,true,0.9,0.1,2
-POLAND_TT_ELITE_SERIES_MEN,8913,0,Moneyline,Moneyline,true,0.9,0.1,2
-WTT_MEN,8914,0,Moneyline,Moneyline,true,0.9,0.1,2
+AFL,9510,0,Moneyline,Moneyline,false,0.9,0.1,1
+AFL,9510,10001,Point Spread,Spread,false,0.8,0.2,1
+AFL,9510,10002,Total Points,Total,false,0.8,0.2,2
+AFL,9510,10017,Team Total,Total,false,0.8,0.2,2
+AFL,9510,10018,Team Total,Total,false,0.8,0.2,2
+CZECH_TT_CUP_MEN,8911,0,Moneyline,Moneyline,false,0.9,0.1,2
+CZECH_TT_LIGA_PRO_MEN,8912,0,Moneyline,Moneyline,false,0.9,0.1,2
+POLAND_TT_ELITE_SERIES_MEN,8913,0,Moneyline,Moneyline,false,0.9,0.1,2
+WTT_MEN,8914,0,Moneyline,Moneyline,false,0.9,0.1,2
