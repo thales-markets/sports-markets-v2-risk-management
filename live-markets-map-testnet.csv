@@ -44,6 +44,7 @@ EPL,11,0,Moneyline,Moneyline,true,0.75,0.25,2
 EPL,11,10001,Goal Spread,Spread,true,0.75,0.25,2
 EPL,11,10002,Total Goals,Total,true,0.75,0.25,2
 EPL,11,10003,Double Chance,Double Chance,true,0.99,0.01,0
+EPL,11,10100,Correct Score,Correct Score,true,0.99,0.01,2
 EPL,11,10017,Team Total,Total,true,0.75,0.25,2
 EPL,11,10018,Team Total,Total,true,0.75,0.25,2
 EPL,11,10031,1st Half Total Goals,Total,true,0.75,0.25,2
