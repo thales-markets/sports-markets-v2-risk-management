@@ -1,4 +1,4 @@
-sportName,sportId,minLimit,pushLimitThreshold,secondaryMarket,thirdMarket,pushSportLimitIfAbove
+sportName,sportId,minLimit,pushLimitThreshold,secondaryMarket,thirdMarket,pushSportCapIfAbove
 ATP Challenger,157,100,250,Game Spread,Total Games,false
 CS2,9977,100,250,Map Handicap,Total Maps,false
 DOTA2,9983,100,250,Map Handicap,Total Maps,false
