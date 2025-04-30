@@ -85,7 +85,7 @@ UEFA Champions League,16,0,Moneyline,Moneyline,true,0.75,0.25,2
 UEFA Champions League,16,10001,Goal Spread,Spread,true,0.75,0.25,2
 UEFA Champions League,16,10002,Total Goals,Total,true,0.75,0.25,2
 UEFA Champions League,16,10003,Double Chance,Double Chance,true,0.9,0.1,0
-UEFA Champions League,16,Correct Score,Correct Score,true,0.99,0.01,2
+UEFA Champions League,16,10100,Correct Score,Correct Score,true,0.99,0.01,2
 UEFA Champions League,16,10017,Team Total,Total,true,0.75,0.25,2
 UEFA Champions League,16,10018,Team Total,Total,true,0.75,0.25,2
 UEFA Champions League,16,10031,1st Half Total Goals,Total,true,0.75,0.25,2
@@ -98,12 +98,23 @@ UEFA Europa League,17,0,Moneyline,Moneyline,true,0.75,0.25,2
 UEFA Europa League,17,10001,Goal Spread,Spread,true,0.75,0.25,2
 UEFA Europa League,17,10002,Total Goals,Total,true,0.75,0.25,2
 UEFA Europa League,17,10003,Double Chance,Double Chance,true,0.9,0.1,0
+UEFA Europa League,17,10100,Correct Score,Correct Score,true,0.9,0.1,0
 FIFA World Cup Qualifiers,18,0,Moneyline,Moneyline,true,0.75,0.25,2
 FIFA World Cup Qualifiers,18,10001,Goal Spread,Spread,true,0.75,0.25,2
 FIFA World Cup Qualifiers,18,10002,Total Goals,Total,true,0.75,0.25,2
 J1 League,19,0,Moneyline,Moneyline,true,0.75,0.25,2
 J1 League,19,10001,Goal Spread,Spread,false,0.75,0.25,2
 J1 League,19,10002,Total Goals,Total,false,0.75,0.25,2
+Thai League 1,20134,0,Moneyline,Moneyline,true,0.9,0.1,0
+Thai League 1,20134,10001,Goal Spread,Spread,true,0.9,0.1,0
+Thai League 1,20134,10002,Total Goals,Total,true,0.9,0.1,0
+Thai League 1,20134,10017,Team Total,Total,true,0.9,0.1,0
+Thai League 1,20134,10018,Team Total,Total,true,0.9,0.1,0
+Thai League 1,20134,10031,1st Half Total Goals,Total,true,0.9,0.1,0
+Thai League 1,20134,10032,2nd Half Total Goals,Total,true,0.9,0.1,0
+Thai League 1,20134,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Thai League 1,20134,10003,Double Chance,Double Chance,0.9,0.1,
+Thai League 1,20134,10100,Correct Score,Correct Score,true,0.9,0.1,0
 Copa America,44,0,Moneyline,Moneyline,true,0.75,0.25,2
 Copa America,44,10001,Goal Spread,Spread,false,0.75,0.25,2
 Copa America,44,10002,Total Goals,Total,false,0.75,0.25,2
