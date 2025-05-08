@@ -293,6 +293,7 @@ UEFA EURO 2024,50,10002,Total Goals,Total,false,0.9,0.1,0
 WTA Events,152,0,Moneyline,Moneyline,true,0.9,0.1,2
 WTA Events,152,10001,Game Spread,Spread,true,0.9,0.1,2
 WTA Events,152,10002,Total Games,Total,true,0.9,0.1,2
+WTA Events,152,10100,Correct Score,Correct Score,true,0.99,0.01,2
 WTA Events,152,10017,Player Games Won,Total,true,0.9,0.1,2
 WTA Events,152,10018,Player Games Won,Total,true,0.9,0.1,2
 WTA Events,152,10031,1st Set Total Games,Total,true,0.9,0.1,2
@@ -316,6 +317,7 @@ Grand Slam,153,10002,Total Games,Total,true,0.9,0.1,2
 ATP Events,156,0,Moneyline,Moneyline,true,0.9,0.1,2
 ATP Events,156,10001,Game Spread,Spread,true,0.9,0.1,2
 ATP Events,156,10002,Total Games,Total,true,0.9,0.1,2
+ATP Events,156,10100,Correct Score,Correct Score,true,0.99,0.01,2
 ATP Events,156,10017,Player Games Won,Total,true,0.9,0.1,2
 ATP Events,156,10018,Player Games Won,Total,true,0.9,0.1,2
 ATP Events,156,10031,1st Set Total Games,Total,true,0.9,0.1,2
@@ -336,6 +338,7 @@ ATP Events,156,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,2
 ATP Challenger,157,0,Moneyline,Moneyline,true,0.9,0.1,2
 ATP Challenger,157,10001,Game Spread,Spread,true,0.9,0.1,2
 ATP Challenger,157,10002,Total Games,Total,true,0.9,0.1,2
+ATP Challenger,157,10100,Correct Score,Correct Score,true,0.99,0.01,2
 ATP Challenger,157,10017,Player Games Won,Total,true,0.9,0.1,2
 ATP Challenger,157,10018,Player Games Won,Total,true,0.9,0.1,2
 ATP Challenger,157,10031,1st Set Total Games,Total,true,0.9,0.1,2
@@ -721,6 +724,7 @@ Russia Premier League,20107,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
 CS2,9977,0,Moneyline,Moneyline,true,0.9,0.1,0
 CS2,9977,10001,Map Handicap,Spread,true,0.9,0.1,0
 CS2,9977,10002,Total Maps,Total,true,0.9,0.1,0
+CS2,9977,10100,Correct Score,Correct Score,true,0.9,0.1,0
 CS2,9977,10031,1st Map Total Rounds,Total,true,0.9,0.1,1
 CS2,9977,10032,2nd Map Total Rounds,Total,true,0.9,0.1,1
 CS2,9977,10033,3rd Map Total Rounds,Total,true,0.9,0.1,1
@@ -749,6 +753,7 @@ CS2,9977,10512,5th Map Team Total,Total,true,0.9,0.1,1
 DOTA2,9983,0,Moneyline,Moneyline,true,0.9,0.1,0
 DOTA2,9983,10001,Map Handicap,Spread,true,0.9,0.1,0
 DOTA2,9983,10002,Total Maps,Total,true,0.9,0.1,0
+DOTA2,9983,10100,Correct Score,Correct Score,true,0.9,0.1,0
 DOTA2,9983,10031,1st Map Total Kills,Total,true,0.9,0.1,1
 DOTA2,9983,10032,2nd Map Total Kills,Total,true,0.9,0.1,1
 DOTA2,9983,10033,3rd Map Total Kills,Total,true,0.9,0.1,1
@@ -777,6 +782,7 @@ DOTA2,9983,10512,5th Map Team Total,Total,true,0.9,0.1,1
 LOL,10138,0,Moneyline,Moneyline,true,0.9,0.1,0
 LOL,10138,10001,Map Handicap,Spread,true,0.9,0.1,0
 LOL,10138,10002,Total Maps,Total,true,0.9,0.1,0
+LOL,10138,10100,Correct Score,Correct Score,true,0.9,0.1,0
 LOL,10138,10031,1st Map Total Kills,Total,true,0.9,0.1,1
 LOL,10138,10032,2nd Map Total Kills,Total,true,0.9,0.1,1
 LOL,10138,10033,3rd Map Total Kills,Total,true,0.9,0.1,1
