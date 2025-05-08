@@ -153,6 +153,7 @@ NCAAB,5,10112,1st Half Team Total,Total,true,0.9,0.1,2
 NCAAB,5,10211,2nd Half Team Total,Total,true,0.9,0.1,2
 NCAAB,5,10212,2nd Half Team Total,Total,true,0.9,0.1,2
 NHL,6,0,Moneyline,Moneyline,true,0.9,0.1,1
+NHL,6,10011,Moneyline 3-Way,Moneyline,true,0.9,0.1,1
 NHL,6,10001,Puck Line,Spread,true,0.9,0.1,1
 NHL,6,10002,Total Goals,Total,true,0.9,0.1,2
 NHL,6,10017,Team Total,Total,true,0.9,0.1,2
