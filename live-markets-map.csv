@@ -178,6 +178,7 @@ WNBA,8,10002,Total Points,Total,true,0.9,0.1,2
 MLS,10,0,Moneyline,Moneyline,true,0.9,0.1,0
 MLS,10,10001,Goal Spread,Spread,true,0.9,0.1,0
 MLS,10,10002,Total Goals,Total,true,0.9,0.1,0
+MLS,10,10100,Correct Score,Correct Score,true,0.99,0.01,2
 MLS,10,10017,Team Total,Total,true,0.9,0.1,0
 MLS,10,10018,Team Total,Total,true,0.9,0.1,0
 MLS,10,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -277,7 +278,7 @@ UEFA Europa League,17,10001,Goal Spread,Spread,true,0.9,0.1,0
 UEFA Europa League,17,10002,Total Goals,Total,true,0.9,0.1,0
 UEFA Europa League,17,10017,Team Total,Total,true,0.9,0.1,0
 UEFA Europa League,17,10018,Team Total,Total,true,0.9,0.1,0
-UEFA Europa League,17,10100,Correct Score,Correct Score,true,0.99,0.01,0
+UEFA Europa League,17,10100,Correct Score,Correct Score,true,0.99,0.01,2
 UEFA Europa League,17,10031,1st Half Total Goals,Total,true,0.9,0.1,0
 UEFA Europa League,17,10032,2nd Half Total Goals,Total,true,0.9,0.1,0
 UEFA Europa League,17,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
@@ -289,6 +290,7 @@ UEFA Europa League,17,10212,2nd Half Team Total,Total,true,0.9,0.1,1
 FIFA World Cup Qualifiers,18,0,Moneyline,Moneyline,true,0.9,0.1,0
 FIFA World Cup Qualifiers,18,10001,Goal Spread,Spread,false,0.9,0.1,0
 FIFA World Cup Qualifiers,18,10002,Total Goals,Total,true,0.9,0.1,0
+FIFA World Cup Qualifiers,18,10100,Correct Score,Correct Score,true,0.99,0.01,2
 FIFA World Cup Qualifiers,18,10017,Team Total,Total,true,0.9,0.1,0
 FIFA World Cup Qualifiers,18,10018,Team Total,Total,true,0.9,0.1,0
 Copa America,44,0,Moneyline,Moneyline,true,0.9,0.1,0
@@ -397,7 +399,7 @@ Saudi Professional League,536,10002,Total Goals,Total,false,0.9,0.1,0
 UEFA Nations League,9806,0,Moneyline,Moneyline,true,0.9,0.1,0
 UEFA Nations League,9806,10001,Goal Spread,Spread,true,0.9,0.1,0
 UEFA Nations League,9806,10002,Total Goals,Total,true,0.9,0.1,0
-UEFA Nations League,9806,10100,Correct Score,Correct Score,true,0.99,0.01,0
+UEFA Nations League,9806,10100,Correct Score,Correct Score,true,0.99,0.01,2
 UEFA Nations League,9806,10017,Team Total,Total,true,0.9,0.1,0
 UEFA Nations League,9806,10018,Team Total,Total,true,0.9,0.1,0
 UEFA Nations League,9806,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -411,7 +413,7 @@ UEFA Nations League,9806,10212,2nd Half Team Total,Total,true,0.9,0.1,1
 UEFA Conference League,10216,0,Moneyline,Moneyline,true,0.9,0.1,0
 UEFA Conference League,10216,10001,Goal Spread,Spread,false,0.9,0.1,0
 UEFA Conference League,10216,10002,Total Goals,Total,false,0.9,0.1,0
-UEFA Conference League,10216,10100,Correct Score,Correct Score,true,0.99,0.01,0
+UEFA Conference League,10216,10100,Correct Score,Correct Score,true,0.99,0.01,2
 UEFA Conference League,10216,10017,Team Total,Total,true,0.9,0.1,0
 UEFA Conference League,10216,10018,Team Total,Total,true,0.9,0.1,0
 UEFA Conference League,10216,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -425,13 +427,14 @@ UEFA Conference League,10216,10212,2nd Half Team Total,Total,true,0.9,0.1,1
 UEFA Super Cup,20001,0,Moneyline,Moneyline,true,0.9,0.1,0
 UEFA Super Cup,20001,10001,Goal Spread,Spread,false,0.9,0.1,0
 UEFA Super Cup,20001,10002,Total Goals,Total,false,0.9,0.1,0
+UEFA Super Cup,20001,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Copa do Brasil,20002,0,Moneyline,Moneyline,true,0.9,0.1,0
 Copa do Brasil,20002,10001,Goal Spread,Spread,false,0.9,0.1,0
 Copa do Brasil,20002,10002,Total Goals,Total,false,0.9,0.1,0
 Swiss superleague,20114,0,Moneyline,Moneyline,true,0.9,0.1,0
 Swiss superleague,20114,10001,Goal Spread,Spread,true,0.9,0.1,0
 Swiss superleague,20114,10002,Total Goals,Total,true,0.9,0.1,0
-Swiss superleague,20114,10100,Correct Score,Correct Score,true,0.99,0.01,0
+Swiss superleague,20114,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Swiss superleague,20114,10017,Team Total,Total,true,0.9,0.1,0
 Swiss superleague,20114,10018,Team Total,Total,true,0.9,0.1,0
 Swiss superleague,20114,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -441,7 +444,7 @@ Swiss superleague,20114,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 Belgium league 1,20102,0,Moneyline,Moneyline,true,0.9,0.1,0
 Belgium league 1,20102,10001,Goal Spread,Spread,true,0.9,0.1,0
 Belgium league 1,20102,10002,Total Goals,Total,true,0.9,0.1,0
-Belgium league 1,20102,10100,Correct Score,Correct Score,true,0.99,0.01,0
+Belgium league 1,20102,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Belgium league 1,20102,10017,Team Total,Total,true,0.9,0.1,0
 Belgium league 1,20102,10018,Team Total,Total,true,0.9,0.1,0
 Belgium league 1,20102,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -451,7 +454,7 @@ Belgium league 1,20102,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 Turkey League 1,20108,0,Moneyline,Moneyline,true,0.9,0.1,0
 Turkey League 1,20108,10001,Goal Spread,Spread,true,0.9,0.1,0
 Turkey League 1,20108,10002,Total Goals,Total,true,0.9,0.1,0
-Turkey League 1,20108,10100,Correct Score,Correct Score,true,0.99,0.01,0
+Turkey League 1,20108,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Turkey League 1,20108,10017,Team Total,Total,true,0.9,0.1,0
 Turkey League 1,20108,10018,Team Total,Total,true,0.9,0.1,0
 Turkey League 1,20108,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -461,7 +464,7 @@ Turkey League 1,20108,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 Argentina league 1,20106,0,Moneyline,Moneyline,true,0.9,0.1,0
 Argentina league 1,20106,10001,Goal Spread,Spread,true,0.9,0.1,0
 Argentina league 1,20106,10002,Total Goals,Total,true,0.9,0.1,0
-Argentina league 1,20106,10100,Correct Score,Correct Score,true,0.99,0.01,0
+Argentina league 1,20106,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Argentina league 1,20106,10017,Team Total,Total,true,0.9,0.1,0
 Argentina league 1,20106,10018,Team Total,Total,true,0.9,0.1,0
 Argentina league 1,20106,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -471,7 +474,7 @@ Argentina league 1,20106,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 China league 1,20112,0,Moneyline,Moneyline,true,0.9,0.1,0
 China league 1,20112,10001,Goal Spread,Spread,true,0.9,0.1,0
 China league 1,20112,10002,Total Goals,Total,true,0.9,0.1,0
-China league 1,20112,10100,Correct Score,Correct Score,true,0.99,0.01,0
+China league 1,20112,10100,Correct Score,Correct Score,true,0.99,0.01,2
 China league 1,20112,10017,Team Total,Total,true,0.9,0.1,0
 China league 1,20112,10018,Team Total,Total,true,0.9,0.1,0
 China league 1,20112,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -481,6 +484,7 @@ China league 1,20112,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 Scotland league 1,20101,0,Moneyline,Moneyline,true,0.9,0.1,0
 Scotland league 1,20101,10001,Goal Spread,Spread,true,0.9,0.1,0
 Scotland league 1,20101,10002,Total Goals,Total,true,0.9,0.1,0
+Scotland league 1,20101,Correct Score,Correct Score,true,0.99,0.01,2
 Scotland league 1,20101,10017,Team Total,Total,true,0.9,0.1,0
 Scotland league 1,20101,10018,Team Total,Total,true,0.9,0.1,0
 Scotland league 1,20101,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -490,6 +494,7 @@ Scotland league 1,20101,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 England EFL cup,20125,0,Moneyline,Moneyline,true,0.9,0.1,0
 England EFL cup,20125,10001,Goal Spread,Spread,true,0.9,0.1,0
 England EFL cup,20125,10002,Total Goals,Total,true,0.9,0.1,0
+England EFL cup,20125,10100,Correct Score,Correct Score,true,0.99,0.01,2
 England EFL cup,20125,10017,Team Total,Total,true,0.9,0.1,0
 England EFL cup,20125,10018,Team Total,Total,true,0.9,0.1,0
 England EFL cup,20125,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -499,6 +504,7 @@ England EFL cup,20125,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 Spain La Liga 2,20116,0,Moneyline,Moneyline,true,0.9,0.1,0
 Spain La Liga 2,20116,10001,Goal Spread,Spread,true,0.9,0.1,0
 Spain La Liga 2,20116,10002,Total Goals,Total,true,0.9,0.1,0
+Spain La Liga 2,20116,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Spain La Liga 2,20116,10017,Team Total,Total,true,0.9,0.1,0
 Spain La Liga 2,20116,10018,Team Total,Total,true,0.9,0.1,0
 Spain La Liga 2,20116,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -508,6 +514,7 @@ Spain La Liga 2,20116,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 Germany Bundesliga 2,20115,0,Moneyline,Moneyline,true,0.9,0.1,0
 Germany Bundesliga 2,20115,10001,Goal Spread,Spread,true,0.9,0.1,0
 Germany Bundesliga 2,20115,10002,Total Goals,Total,true,0.9,0.1,0
+Germany Bundesliga 2,20115,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Germany Bundesliga 2,20115,10017,Team Total,Total,true,0.9,0.1,0
 Germany Bundesliga 2,20115,10018,Team Total,Total,true,0.9,0.1,0
 Germany Bundesliga 2,20115,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -517,7 +524,7 @@ Germany Bundesliga 2,20115,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 AFC Champions League,20128,0,Moneyline,Moneyline,true,0.9,0.1,0
 AFC Champions League,20128,10001,Goal Spread,Spread,true,0.9,0.1,0
 AFC Champions League,20128,10002,Total Goals,Total,true,0.9,0.1,0
-AFC Champions League,20128,10100,Correct Score,Correct Score,true,0.99,0.01,0
+AFC Champions League,20128,10100,Correct Score,Correct Score,true,0.99,0.01,2
 AFC Champions League,20128,10017,Team Total,Total,true,0.9,0.1,0
 AFC Champions League,20128,10018,Team Total,Total,true,0.9,0.1,0
 AFC Champions League,20128,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -527,6 +534,7 @@ AFC Champions League,20128,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 Spain Copa del Rey,138,0,Moneyline,Moneyline,true,0.9,0.1,0
 Spain Copa del Rey,138,10001,Goal Spread,Spread,true,0.9,0.1,0
 Spain Copa del Rey,138,10002,Total Goals,Total,true,0.9,0.1,0
+Spain Copa del Rey,138,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Spain Copa del Rey,138,10017,Team Total,Total,true,0.9,0.1,0
 Spain Copa del Rey,138,10018,Team Total,Total,true,0.9,0.1,0
 Spain Copa del Rey,138,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -535,7 +543,8 @@ Spain Copa del Rey,138,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
 Spain Copa del Rey,138,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 DFB Pokal,209,0,Moneyline,Moneyline,true,0.9,0.1,0
 DFB Pokal,209,10001,Goal Spread,Spread,true,0.9,0.1,0
-DFB Pokal,209,10002,Total Goals,Total,true,0.9,0.1,0
+DFB Pokal,209,10002,Total Goals,Total,true,0.9,0.1,
+DFB Pokal,209,10100,Correct Score,Correct Score,true,0.99,0.01,2
 DFB Pokal,209,10017,Team Total,Total,true,0.9,0.1,0
 DFB Pokal,209,10018,Team Total,Total,true,0.9,0.1,0
 DFB Pokal,209,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -545,6 +554,7 @@ DFB Pokal,209,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 Coppa Italia,141,0,Moneyline,Moneyline,true,0.9,0.1,0
 Coppa Italia,141,10001,Goal Spread,Spread,true,0.9,0.1,0
 Coppa Italia,141,10002,Total Goals,Total,true,0.9,0.1,0
+Coppa Italia,141,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Coppa Italia,141,10017,Team Total,Total,true,0.9,0.1,0
 Coppa Italia,141,10018,Team Total,Total,true,0.9,0.1,0
 Coppa Italia,141,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -554,6 +564,7 @@ Coppa Italia,141,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 EFL Championship,20011,0,Moneyline,Moneyline,true,0.9,0.1,0
 EFL Championship,20011,10001,Goal Spread,Spread,true,0.9,0.1,0
 EFL Championship,20011,10002,Total Goals,Total,true,0.9,0.1,0
+EFL Championship,20011,10100,Correct Score,Correct Score,true,0.99,0.01,2
 EFL Championship,20011,10017,Team Total,Total,true,0.9,0.1,0
 EFL Championship,20011,10018,Team Total,Total,true,0.9,0.1,0
 EFL Championship,20011,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -563,6 +574,7 @@ EFL Championship,20011,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 Brazil Seria A,268,0,Moneyline,Moneyline,true,0.9,0.1,0
 Brazil Seria A,268,10001,Goal Spread,Spread,true,0.9,0.1,0
 Brazil Seria A,268,10002,Total Goals,Total,true,0.9,0.1,0
+Brazil Seria A,268,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Brazil Seria A,268,10017,Team Total,Total,true,0.9,0.1,0
 Brazil Seria A,268,10018,Team Total,Total,true,0.9,0.1,0
 Brazil Seria A,268,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -571,7 +583,8 @@ Brazil Seria A,268,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
 Brazil Seria A,268,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 Liga MX,230,0,Moneyline,Moneyline,true,0.9,0.1,0
 Liga MX,230,10001,Goal Spread,Spread,true,0.9,0.1,0
-Liga MX,230,10002,Total Goals,Total,true,0.9,0.1,0
+Liga MX,230,10002,Total Goals,Total,true,0.9,0.1,
+Liga MX,230,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Liga MX,230,10017,Team Total,Total,true,0.9,0.1,0
 Liga MX,230,10018,Team Total,Total,true,0.9,0.1,0
 Liga MX,230,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -581,6 +594,7 @@ Liga MX,230,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 Primeira Liga,61,0,Moneyline,Moneyline,true,0.9,0.1,0
 Primeira Liga,61,10001,Goal Spread,Spread,true,0.9,0.1,0
 Primeira Liga,61,10002,Total Goals,Total,true,0.9,0.1,0
+Primeira Liga,61,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Primeira Liga,61,10017,Team Total,Total,true,0.9,0.1,0
 Primeira Liga,61,10018,Team Total,Total,true,0.9,0.1,0
 Primeira Liga,61,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -590,7 +604,7 @@ Primeira Liga,61,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 Eredivisie,57,0,Moneyline,Moneyline,true,0.9,0.1,0
 Eredivisie,57,10001,Goal Spread,Spread,true,0.9,0.1,0
 Eredivisie,57,10002,Total Goals,Total,true,0.9,0.1,0
-Eredivisie,57,10100,Correct Score,Correct Score,true,0.99,0.01,0
+Eredivisie,57,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Eredivisie,57,10017,Team Total,Total,true,0.9,0.1,0
 Eredivisie,57,10018,Team Total,Total,true,0.9,0.1,0
 Eredivisie,57,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -600,7 +614,7 @@ Eredivisie,57,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 Copa Libertadores,45,0,Moneyline,Moneyline,true,0.9,0.1,0
 Copa Libertadores,45,10001,Goal Spread,Spread,true,0.9,0.1,0
 Copa Libertadores,45,10002,Total Goals,Total,true,0.9,0.1,0
-Copa Libertadores,45,10100,Correct Score,Correct Score,true,0.99,0.01,0
+Copa Libertadores,45,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Copa Libertadores,45,10017,Team Total,Total,true,0.9,0.1,0
 Copa Libertadores,45,10018,Team Total,Total,true,0.9,0.1,0
 Copa Libertadores,45,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -610,6 +624,7 @@ Copa Libertadores,45,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 J1 League,19,0,Moneyline,Moneyline,true,0.9,0.1,0
 J1 League,19,10001,Goal Spread,Spread,true,0.9,0.1,0
 J1 League,19,10002,Total Goals,Total,true,0.9,0.1,0
+J1 League,19,10100,Correct Score,Correct Score,true,0.99,0.01,2
 J1 League,19,10017,Team Total,Total,true,0.9,0.1,0
 J1 League,19,10018,Team Total,Total,true,0.9,0.1,0
 J1 League,19,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -619,6 +634,7 @@ J1 League,19,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 England - League 1,20126,0,Moneyline,Moneyline,true,0.9,0.1,0
 England - League 1,20126,10001,Goal Spread,Spread,true,0.9,0.1,0
 England - League 1,20126,10002,Total Goals,Total,true,0.9,0.1,0
+England - League 1,20126,10100,Correct Score,Correct Score,true,0.99,0.01,2
 England - League 1,20126,10017,Team Total,Total,true,0.9,0.1,0
 England - League 1,20126,10018,Team Total,Total,true,0.9,0.1,0
 England - League 1,20126,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -628,6 +644,7 @@ England - League 1,20126,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 Italy - Serie B,20117,0,Moneyline,Moneyline,true,0.9,0.1,0
 Italy - Serie B,20117,10001,Goal Spread,Spread,true,0.9,0.1,0
 Italy - Serie B,20117,10002,Total Goals,Total,true,0.9,0.1,0
+Italy - Serie B,20117,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Italy - Serie B,20117,10017,Team Total,Total,true,0.9,0.1,0
 Italy - Serie B,20117,10018,Team Total,Total,true,0.9,0.1,0
 Italy - Serie B,20117,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -637,6 +654,7 @@ Italy - Serie B,20117,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 Italy Super Cup,20129,0,Moneyline,Moneyline,true,0.9,0.1,0
 Italy Super Cup,20129,10001,Goal Spread,Spread,true,0.9,0.1,0
 Italy Super Cup,20129,10002,Total Goals,Total,true,0.9,0.1,0
+Italy Super Cup,20129,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Italy Super Cup,20129,10017,Team Total,Total,true,0.9,0.1,0
 Italy Super Cup,20129,10018,Team Total,Total,true,0.9,0.1,0
 Italy Super Cup,20129,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -645,6 +663,7 @@ Italy Super Cup,20129,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
 France - Super Cup,20130,0,Moneyline,Moneyline,true,0.9,0.1,0
 France - Super Cup,20130,10001,Goal Spread,Spread,true,0.9,0.1,0
 France - Super Cup,20130,10002,Total Goals,Total,true,0.9,0.1,0
+France - Super Cup,20130,10100,Correct Score,Correct Score,true,0.99,0.01,2
 France - Super Cup,20130,10017,Team Total,Total,true,0.9,0.1,0
 France - Super Cup,20130,10018,Team Total,Total,true,0.9,0.1,0
 France - Super Cup,20130,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -653,6 +672,7 @@ France - Super Cup,20130,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
 Spain - Supercopa,20131,0,Moneyline,Moneyline,true,0.9,0.1,0
 Spain - Supercopa,20131,10001,Goal Spread,Spread,true,0.9,0.1,0
 Spain - Supercopa,20131,10002,Total Goals,Total,true,0.9,0.1,0
+Spain - Supercopa,20131,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Spain - Supercopa,20131,10017,Team Total,Total,true,0.9,0.1,0
 Spain - Supercopa,20131,10018,Team Total,Total,true,0.9,0.1,0
 Spain - Supercopa,20131,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -661,6 +681,7 @@ Spain - Supercopa,20131,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
 Germany- Super Cup,20132,0,Moneyline,Moneyline,true,0.9,0.1,0
 Germany- Super Cup,20132,10001,Goal Spread,Spread,true,0.9,0.1,0
 Germany- Super Cup,20132,10002,Total Goals,Total,true,0.9,0.1,0
+Germany- Super Cup,20132,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Germany- Super Cup,20132,10017,Team Total,Total,true,0.9,0.1,0
 Germany- Super Cup,20132,10018,Team Total,Total,true,0.9,0.1,0
 Germany- Super Cup,20132,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -669,6 +690,7 @@ Germany- Super Cup,20132,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
 Portugal - League Cup,20133,0,Moneyline,Moneyline,true,0.9,0.1,0
 Portugal - League Cup,20133,10001,Goal Spread,Spread,true,0.9,0.1,0
 Portugal - League Cup,20133,10002,Total Goals,Total,true,0.9,0.1,0
+Portugal - League Cup,13,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Portugal - League Cup,20133,10017,Team Total,Total,true,0.9,0.1,0
 Portugal - League Cup,20133,10018,Team Total,Total,true,0.9,0.1,0
 Portugal - League Cup,20133,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -677,6 +699,7 @@ Portugal - League Cup,20133,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
 England FA Cup,132,0,Moneyline,Moneyline,true,0.9,0.1,0
 England FA Cup,132,10001,Goal Spread,Spread,true,0.9,0.1,0
 England FA Cup,132,10002,Total Goals,Total,true,0.9,0.1,0
+England FA Cup,132,10100,Correct Score,Correct Score,true,0.99,0.01,2
 England FA Cup,132,10017,Team Total,Total,true,0.9,0.1,0
 England FA Cup,132,10018,Team Total,Total,true,0.9,0.1,0
 England FA Cup,132,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -685,6 +708,7 @@ England FA Cup,132,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
 France Cup,134,0,Moneyline,Moneyline,true,0.9,0.1,0
 France Cup,134,10001,Goal Spread,Spread,true,0.9,0.1,0
 France Cup,134,10002,Total Goals,Total,true,0.9,0.1,0
+France Cup,134,10100,Correct Score,Correct Score,true,0.99,0.01,2
 France Cup,134,10017,Team Total,Total,true,0.9,0.1,0
 France Cup,134,10018,Team Total,Total,true,0.9,0.1,0
 France Cup,134,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -693,6 +717,7 @@ France Cup,134,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
 Thai League 1,20134,0,Moneyline,Moneyline,true,0.9,0.1,0
 Thai League 1,20134,10001,Goal Spread,Spread,true,0.9,0.1,0
 Thai League 1,20134,10002,Total Goals,Total,true,0.9,0.1,0
+Thai League 1,20134,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Thai League 1,20134,10017,Team Total,Total,true,0.9,0.1,0
 Thai League 1,20134,10018,Team Total,Total,true,0.9,0.1,0
 Thai League 1,20134,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -701,6 +726,7 @@ Thai League 1,20134,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
 Netherlands Cup,20135,0,Moneyline,Moneyline,true,0.9,0.1,0
 Netherlands Cup,20135,10001,Goal Spread,Spread,true,0.9,0.1,0
 Netherlands Cup,20135,10002,Total Goals,Total,true,0.9,0.1,0
+Netherlands Cup,20135,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Netherlands Cup,20135,10017,Team Total,Total,true,0.9,0.1,0
 Netherlands Cup,20135,10018,Team Total,Total,true,0.9,0.1,0
 Netherlands Cup,20135,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -709,6 +735,7 @@ Netherlands Cup,20135,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
 China Super League,20112,0,Moneyline,Moneyline,true,0.9,0.1,0
 China Super League,20112,10001,Goal Spread,Spread,true,0.9,0.1,0
 China Super League,20112,10002,Total Goals,Total,true,0.9,0.1,0
+China Super League,20112,10100,Correct Score,Correct Score,true,0.99,0.01,2
 China Super League,20112,10017,Team Total,Total,true,0.9,0.1,0
 China Super League,20112,10018,Team Total,Total,true,0.9,0.1,0
 China Super League,20112,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -717,6 +744,7 @@ China Super League,20112,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
 Australia A League,20113,0,Moneyline,Moneyline,true,0.9,0.1,0
 Australia A League,20113,10001,Goal Spread,Spread,true,0.9,0.1,0
 Australia A League,20113,10002,Total Goals,Total,true,0.9,0.1,0
+Australia A League,20113,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Australia A League,20113,10017,Team Total,Total,true,0.9,0.1,0
 Australia A League,20113,10018,Team Total,Total,true,0.9,0.1,0
 Australia A League,20113,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -725,6 +753,7 @@ Australia A League,20113,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
 Sweden - Allsvenskan,20123,0,Moneyline,Moneyline,true,0.9,0.1,0
 Sweden - Allsvenskan,20123,10001,Goal Spread,Spread,true,0.9,0.1,0
 Sweden - Allsvenskan,20123,10002,Total Goals,Total,true,0.9,0.1,0
+Sweden - Allsvenskan,20123,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Sweden - Allsvenskan,20123,10017,Team Total,Total,true,0.9,0.1,0
 Sweden - Allsvenskan,20123,10018,Team Total,Total,true,0.9,0.1,0
 Sweden - Allsvenskan,20123,10031,1st Half Total Goals,Total,true,0.9,0.1,0
@@ -733,6 +762,7 @@ Sweden - Allsvenskan,20123,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
 Russia Premier League,20107,0,Moneyline,Moneyline,true,0.9,0.1,0
 Russia Premier League,20107,10001,Goal Spread,Spread,true,0.9,0.1,0
 Russia Premier League,20107,10002,Total Goals,Total,true,0.9,0.1,0
+Russia Premier League,20107,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Russia Premier League,20107,10017,Team Total,Total,true,0.9,0.1,0
 Russia Premier League,20107,10018,Team Total,Total,true,0.9,0.1,0
 Russia Premier League,20107,10031,1st Half Total Goals,Total,true,0.9,0.1,0
