@@ -194,6 +194,9 @@ IIHF - World Championship,33,10211,2nd Period Team Total,Total,true,0.9,0.1,2
 IIHF - World Championship,33,10212,2nd Period Team Total,Total,true,0.9,0.1,2
 IIHF - World Championship,33,10311,3rd Period Team Total,Total,true,0.9,0.1,2
 IIHF - World Championship,33,10312,3rd Period Team Total,Total,true,0.9,0.1,2
+KHL,321,0,Moneyline,Moneyline,true,0.9,0.1,1
+KHL,321,10001,Puck Line,Spread,true,0.9,0.1,1
+KHL,321,10002,Total Goals,Total,true,0.9,0.1,2
 WNBA,8,0,Moneyline,Moneyline,true,0.9,0.1,0
 WNBA,8,10001,Point Spread,Spread,true,0.9,0.1,0
 WNBA,8,10002,Total Points,Total,true,0.9,0.1,2
@@ -924,6 +927,35 @@ LOL,10138,10411,4th Map Team Total,Total,true,0.9,0.1,1
 LOL,10138,10412,4th Map Team Total,Total,true,0.9,0.1,1
 LOL,10138,10511,5th Map Team Total,Total,true,0.9,0.1,1
 LOL,10138,10512,5th Map Team Total,Total,true,0.9,0.1,1
+Valorant,20300,0,Moneyline,Moneyline,true,0.9,0.1,0
+Valorant,20300,10001,Map Handicap,Spread,true,0.9,0.1,0
+Valorant,20300,10002,Total Maps,Total,true,0.9,0.1,0
+Valorant,20300,10100,Correct Score,Correct Score,true,0.99,0.01,0
+Valorant,20300,10031,1st Map Total Rounds,Total,true,0.9,0.1,1
+Valorant,20300,10032,2nd Map Total Rounds,Total,true,0.9,0.1,1
+Valorant,20300,10033,3rd Map Total Rounds,Total,true,0.9,0.1,1
+Valorant,20300,10034,3rd Map Total Rounds,Total,true,0.9,0.1,1
+Valorant,20300,10035,3rd Map Total Rounds,Total,true,0.9,0.1,1
+Valorant,20300,10041,1st Map Round Handicap,Spread,true,0.9,0.1,1
+Valorant,20300,10042,2nd Map Round Handicap,Spread,true,0.9,0.1,1
+Valorant,20300,10043,3rd Map Round Handicap,Spread,true,0.9,0.1,1
+Valorant,20300,10044,4th Map Round Handicap,Spread,true,0.9,0.1,1
+Valorant,20300,10045,5th Map Round Handicap,Spread,true,0.9,0.1,1
+Valorant,20300,10021,1st Map Moneyline,Moneyline,true,0.99,0.01,1
+Valorant,20300,10022,2nd Map Moneyline,Moneyline,true,0.99,0.01,1
+Valorant,20300,10023,3rd Map Moneyline,Moneyline,true,0.99,0.01,1
+Valorant,20300,10024,4th Map Moneyline,Moneyline,true,0.99,0.01,1
+Valorant,20300,10025,5th Map Moneyline,Moneyline,true,0.99,0.01,1
+Valorant,20300,10111,1st Map Team Total,Total,true,0.9,0.1,1
+Valorant,20300,10112,1st Map Team Total,Total,true,0.9,0.1,1
+Valorant,20300,10211,2nd Map Team Total,Total,true,0.9,0.1,1
+Valorant,20300,10212,2nd Map Team Total,Total,true,0.9,0.1,1
+Valorant,20300,10311,3rd Map Team Total,Total,true,0.9,0.1,1
+Valorant,20300,10312,3rd Map Team Total,Total,true,0.9,0.1,1
+Valorant,20300,10411,4th Map Team Total,Total,true,0.9,0.1,1
+Valorant,20300,10412,4th Map Team Total,Total,true,0.9,0.1,1
+Valorant,20300,10511,5th Map Team Total,Total,true,0.9,0.1,1
+Valorant,20300,10512,5th Map Team Total,Total,true,0.9,0.1,1
 Australia - NRL,9500,0,Moneyline,Moneyline,true,0.9,0.1,2
 Australia - NRL,9500,10001,Point Spread,Spread,true,0.9,0.1,2
 Australia - NRL,9500,10002,Total Points,Total,true,0.9,0.1,2
@@ -970,3 +1002,6 @@ CZECH_TT_CUP_MEN,8911,0,Moneyline,Moneyline,false,0.9,0.1,2
 CZECH_TT_LIGA_PRO_MEN,8912,0,Moneyline,Moneyline,false,0.9,0.1,2
 POLAND_TT_ELITE_SERIES_MEN,8913,0,Moneyline,Moneyline,false,0.9,0.1,2
 WTT_MEN,8914,0,Moneyline,Moneyline,false,0.9,0.1,2
+England - Premier League Darts,20320,0,Moneyline,Moneyline,true,0.9,0.1,1
+England - Premier League Darts,20320,10001,Puck Line,Spread,true,0.9,0.1,1
+England - Premier League Darts,20320,10002,Total Goals,Total,true,0.9,0.1,2
