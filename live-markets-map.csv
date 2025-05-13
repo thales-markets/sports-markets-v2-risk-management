@@ -393,9 +393,6 @@ ATP Challenger,157,10043,3rd Set Game Spread,Spread,true,0.9,0.1,2
 ATP Challenger,157,10021,1st Set Moneyline,Moneyline,true,0.99,0.01,2
 ATP Challenger,157,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,2
 ATP Challenger,157,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,2
-Liga MX,230,0,Moneyline,Moneyline,true,0.9,0.1,0
-Liga MX,230,10001,Goal Spread,Spread,false,0.9,0.1,0
-Liga MX,230,10002,Total Goals,Total,false,0.9,0.1,0
 Euroleague,399,0,Moneyline,Moneyline,true,0.9,0.1,2
 Euroleague,399,10001,Point Spread,Spread,true,0.9,0.1,2
 Euroleague,399,10002,Total Points,Total,true,0.9,0.1,2
@@ -635,7 +632,7 @@ Brazil Seria A,268,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
 Brazil Seria A,268,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 Liga MX,230,0,Moneyline,Moneyline,true,0.9,0.1,0
 Liga MX,230,10001,Goal Spread,Spread,true,0.9,0.1,0
-Liga MX,230,10002,Total Goals,Total,true,0.9,0.1,
+Liga MX,230,10002,Total Goals,Total,true,0.9,0.1,0
 Liga MX,230,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Liga MX,230,10003,Double Chance,Double Chance,true,0.99,0.01,0
 Liga MX,230,10017,Team Total,Total,true,0.9,0.1,0
