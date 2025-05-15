@@ -1001,5 +1001,5 @@ CZECH_TT_LIGA_PRO_MEN,8912,0,Moneyline,Moneyline,true,0.9,0.1,2
 POLAND_TT_ELITE_SERIES_MEN,8913,0,Moneyline,Moneyline,true,0.9,0.1,2
 WTT_MEN,8914,0,Moneyline,Moneyline,true,0.9,0.1,2
 England - Premier League Darts,20320,0,Moneyline,Moneyline,true,0.9,0.1,1
-England - Premier League Darts,20320,10001,Puck Line,Spread,true,0.9,0.1,1
-England - Premier League Darts,20320,10002,Total Goals,Total,true,0.9,0.1,2
+England - Premier League Darts,20320,10001,Leg Handicap,Spread,true,0.9,0.1,1
+England - Premier League Darts,20320,10002,Total Legs,Total,true,0.9,0.1,2
