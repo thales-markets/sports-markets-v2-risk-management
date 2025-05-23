@@ -1,7 +1,7 @@
-sportName,sportId,minLimit,pushLimitThreshold,primaryMarket,secondaryMarket,thirdMarket,pushSportCapIfAbove
-ATP Challenger,157,100,250,Moneyline,Game Spread,Total Games,false
-CS2,9977,100,250,Moneyline,Map Handicap,Total Maps,false
-DOTA2,9983,100,250,Moneyline,Map Handicap,Total Maps,false
-League of Legends,10138,100,250,Moneyline,Map Handicap,Total Maps,false
-Call of Duty,20298,50,250,Moneyline,,,false
-Valorant,20300,100,250,Moneyline,Map Handicap,Total Maps,false
+sportName,sportId,minLimit,pushLimitThreshold,primaryMarket,secondaryMarket,thirdMarket,limitMultiplier,pushSportCapIfAbove
+ATP Challenger,157,100,250,Moneyline,Game Spread,Total Games,1.5,false
+CS2,9977,100,250,Moneyline,Map Handicap,Total Maps,1.5,false
+DOTA2,9983,100,250,Moneyline,Map Handicap,Total Maps,1.5,false
+League of Legends,10138,100,250,Moneyline,Map Handicap,Total Maps,1.5,false
+Call of Duty,20298,50,250,Moneyline,,,1.5,false
+Valorant,20300,100,250,Moneyline,Map Handicap,Total Maps,1.5,false
