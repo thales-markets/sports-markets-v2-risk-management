@@ -24,6 +24,7 @@ NBA,4,Player Rebounds + Assists,blue book
 NBA,4,Player Points + Rebounds,blue book
 NBA,4,Player Points + Assists,blue book
 NBA,4,Player Triple Double,blue book
+NBA,4,Player Props,DraftKings
 NBA,4,Player Turnovers,DraftKings
 NHL,6,Player Blocked Shots,DraftKings
 WNBA,8,Player Props,blue book
