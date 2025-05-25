@@ -1,11 +1,11 @@
 name,sportId,marketName,bookmaker
 MLB,3,Player Props,draftkings
-MLB,3,Player Hits Allowed,Pinnacle
-MLB,3,Player Home Runs,Pinnacle
-MLB,3,Player Outs,Pinnacle
-MLB,3,Player Strikeouts,Pinnacle
-MLB,3,Player Bases,Pinnacle
-MLB,3,Player Earned Runs,Pinnacle
+MLB,3,Player Hits Allowed,draftkings
+MLB,3,Player Home Runs,draftkings
+MLB,3,Player Outs,draftkings
+MLB,3,Player Strikeouts,draftkings
+MLB,3,Player Bases,draftkings
+MLB,3,Player Earned Runs,draftkings
 MLB,3,Player Batting Strikeouts,draftkings
 MLB,3,Player Stolen Bases,draftkings
 MLB,3,Player Batting Walks,draftkings
