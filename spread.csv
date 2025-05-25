@@ -2,7 +2,7 @@ sportName,sportId,typeId,minSpread,targetSpread,addedSpread
 General,All Sports,All Markets,0,0,0.5
 MLB Pitcher - Player Hits,3,11012,8,8,0
 MLB Pitcher - Player Batting Walks,3,11218,8,8,0
-MLB Pitcher - Player Batting StrikeOuts,3,11219,9,9,0
+MLB Pitcher - Player Batting StrikeOuts,3,11219,8,8,0
 MLB Pitcher - Player Doubles,3,11217,8,8,0
 MLB Pitcher - Player Stolen Bases,3,11221,8,8,0
 MLB Pitcher - Player RBIs,3,11214,8,8,0
