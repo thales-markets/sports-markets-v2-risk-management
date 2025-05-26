@@ -1,13 +1,13 @@
 name,sportId,marketName,bookmaker
 MLB,3,Player Props,draftkings
-MLB,3,Player Hits Allowed,Pinnacle
-MLB,3,Player Home Runs,Pinnacle
-MLB,3,Player Outs,Pinnacle
-MLB,3,Player Strikeouts,Pinnacle
-MLB,3,Player Bases,Pinnacle
-MLB,3,Player Earned Runs,Pinnacle
-MLB,3,Player Batting Strikeouts,bet365
-MLB,3,Player Stolen Bases,bet365
+MLB,3,Player Hits Allowed,draftkings
+MLB,3,Player Home Runs,draftkings
+MLB,3,Player Outs,draftkings
+MLB,3,Player Strikeouts,draftkings
+MLB,3,Player Bases,draftkings
+MLB,3,Player Earned Runs,draftkings
+MLB,3,Player Batting Strikeouts,draftkings
+MLB,3,Player Stolen Bases,draftkings
 MLB,3,Player Batting Walks,draftkings
 NCAAB,5,Player Props,betmgm
 NCAAB,5,Player Blocks,betano
@@ -25,9 +25,9 @@ NBA,4,Player Points + Rebounds,blue book
 NBA,4,Player Points + Assists,blue book
 NBA,4,Player Triple Double,blue book
 NBA,4,Player Turnovers,DraftKings
-NBA,4,Player Free Throws Attempted,betsson
+NBA,4,Player Free Throws Attemped,betsson
 NBA,4,Player Free Throws Made,bet365
-NBA,4,Player Field Goals Attempted,betsson
+NBA,4,Player Field Goals Attemped,betsson
 NBA,4,Player Field Goals Made,bet365
 NBA,4,Player Threes Attempted,betsson
 NBA,4,Player Two Pointers Attempted,betsson
@@ -39,6 +39,7 @@ NBA,4,Total Steals,espn bet
 NBA,4,Total Blocks,espn bet
 NBA,4,Total Made Threes,espn bet
 NHL,6,Player Blocked Shots,DraftKings
+WNBA,8,Player Props,blue book
 NCAAF,1,Player Props,bet365
 WTA,152,Player Props,blue book
 ATP,156,Player Props,blue book
@@ -61,3 +62,5 @@ USA - AHL,328,Total Goals,Draftkings
 USA - AHL,328,Team Total,Draftkings
 Australia - NRL,9500,Player Props,Draftkings
 England - Super League,9501,Player Props,Draftkings
+UEFA - Champions League,16,To Lift The Cup,blue book
+UEFA - Europa League,17,To Lift The Cup,blue book
