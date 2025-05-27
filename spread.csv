@@ -1,19 +1,7 @@
 sportName,sportId,typeId,minSpread,targetSpread,addedSpread
 General,All Sports,All Markets,0,0,1
-MLB Pitcher - Player Hits,3,11012,8,8,0
-MLB Pitcher - Player Batting Walks,3,11218,8,8,0
-MLB Pitcher - Player Batting StrikeOuts,3,11219,8,8,0
-MLB Pitcher - Player Doubles,3,11217,8,8,0
-MLB Pitcher - Player Stolen Bases,3,11221,8,8,0
-MLB Pitcher - Player RBIs,3,11214,8,8,0
-MLB Pitcher - Player HITS+RBIs,3,11215,8,8,0
-MLB PP,3,Player Props,8,0,0
-NBA PP,4,Player Props,8,0,0
-NHL PP,6,Player Props,8,0,0
-NBA PRA1,4,11225,8,0,0
-NBA PRA2,4,11226,8,0,0
-NBA PRA3,4,11227,8,0,0
-NBA STEALS,4,11228,8,0,0
-NBA STEALS_BLOCKS,4,11230,8,0,0
-NBA TURNOVERS,4,11245,8,0,0
-NBA BLOCKS,4,11246,8,0,0
+MLB PP,3,Player Props,0,0,1
+NBA PP,4,Player Props,0,0,1
+NHL PP,6,Player Props,0,0,1
+WNBA PP,8,Player Props,0,0,2
+UFC PP,7,Player Props,0,0,2
