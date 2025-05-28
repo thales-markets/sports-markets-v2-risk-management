@@ -62,7 +62,7 @@ NFL,2,10312,3rd Quarter Team Total,Total,true,0.9,0.1,1
 NFL,2,10411,4th Quarter Team Total,Total,true,0.9,0.1,1
 NFL,2,10412,4th Quarter Team Total,Total,true,0.9,0.1,1
 MLB,3,0,Moneyline,Moneyline,true,0.9,0.1,0
-MLB,3,10001,Run Line,Spread,true,0.9,0.1,0
+MLB,3,10001,Run Line,Spread,true,0.75,0.25,0
 MLB,3,10002,Total Runs,Total,true,0.9,0.1,2
 MLB,3,10021,1st Inning Moneyline,Moneyline,true,0.9,0.1,0
 MLB,3,10031,1st Inning Total Runs,Total,true,0.9,0.1,2
