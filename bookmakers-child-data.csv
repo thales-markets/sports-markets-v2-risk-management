@@ -24,7 +24,20 @@ NBA,4,Player Rebounds + Assists,blue book
 NBA,4,Player Points + Rebounds,blue book
 NBA,4,Player Points + Assists,blue book
 NBA,4,Player Triple Double,blue book
-NBA,4,Player Turnovers,DraftKings
+NBA,4,Player Turnovers,bet365
+NBA,4,Player Free Throws Attempted,betsson
+NBA,4,Player Free Throws Made,bet365
+NBA,4,Player Field Goals Attempted,betsson
+NBA,4,Player Field Goals Made,bet365
+NBA,4,Player Threes Attempted,betsson
+NBA,4,Player Two Pointers Attempted,betsson
+NBA,4,Player Made Two Pointers,betsson
+NBA,4,Player Fouls,betsson
+NBA,4,Team Total Made Threes,bet365
+NBA,4,Total Assists,espn bet
+NBA,4,Total Steals,espn bet
+NBA,4,Total Blocks,espn bet
+NBA,4,Total Made Threes,espn bet
 NHL,6,Player Blocked Shots,DraftKings
 WNBA,8,Player Props,blue book
 NCAAF,1,Player Props,bet365
