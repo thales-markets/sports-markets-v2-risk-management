@@ -6,3 +6,17 @@ NHL PP,6,Player Props,0,0,1
 WNBA PP,8,Player Props,0,0,2
 UFC PP,7,Player Props,0,0,2
 WNBA,8,All Markets,0,0,2
+NBA TO,4,Player Turnovers,0,0,2
+NBA Free Throws Attempted,4,Player Free Throws Attempted,0,0,2
+NBA Free Throws Made,4,Player Free Throws Made,0,0,2
+NBA FGA,4,Player Field Goals Attempted,0,0,2
+NBA FGM,4,Player Field Goals Made,0,0,2
+NBA TPA,4,Player Threes Attempted,0,0,2
+NBA TPPA,4,Player Two Pointers Attempted,0,0,2
+NBA TPPM,4,Player Made Two Pointers,0,0,2
+NBA FOULS,4,Player Fouls,0,0,2
+NBA TMF,4,Team Total Made Threes,0,0,2
+NBA TA,4,Total Assists,0,0,2
+NBA TS,4,Total Steals,0,0,2
+NBA TB,4,Total Blocks,0,0,2
+NBA TTMT,4,Total Made Threes,0,0,2
