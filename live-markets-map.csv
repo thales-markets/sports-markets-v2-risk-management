@@ -837,6 +837,105 @@ Russia Premier League,20107,10018,Team Total,Total,true,0.9,0.1,0
 Russia Premier League,20107,10031,1st Half Total Goals,Total,true,0.9,0.1,0
 Russia Premier League,20107,10032,2nd Half Total Goals,Total,true,0.9,0.1,0
 Russia Premier League,20107,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+USA - Open Cup,20151,0,Moneyline,Moneyline,true,0.9,0.1,0
+USA - Open Cup,20151,10001,Goal Spread,Spread,true,0.9,0.1,0
+USA - Open Cup,20151,10002,Total Goals,Total,true,0.9,0.1,0
+USA - Open Cup,20151,10100,Correct Score,Correct Score,true,0.99,0.01,2
+USA - Open Cup,20151,10003,Double Chance,Double Chance,true,0.99,0.01,0
+USA - Open Cup,20151,10017,Team Total,Total,true,0.9,0.1,0
+USA - Open Cup,20151,10018,Team Total,Total,true,0.9,0.1,0
+USA - Open Cup,20151,10031,1st Half Total Goals,Total,true,0.9,0.1,0
+USA - Open Cup,20151,10032,2nd Half Total Goals,Total,true,0.9,0.1,0
+USA - Open Cup,20151,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+USA - Open Cup,20151,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+FIFA - Club World Cup,20152,0,Moneyline,Moneyline,true,0.9,0.1,0
+FIFA - Club World Cup,20152,10001,Goal Spread,Spread,true,0.9,0.1,0
+FIFA - Club World Cup,20152,10002,Total Goals,Total,true,0.9,0.1,0
+FIFA - Club World Cup,20152,10100,Correct Score,Correct Score,true,0.99,0.01,2
+FIFA - Club World Cup,20152,10003,Double Chance,Double Chance,true,0.99,0.01,0
+FIFA - Club World Cup,20152,10017,Team Total,Total,true,0.9,0.1,0
+FIFA - Club World Cup,20152,10018,Team Total,Total,true,0.9,0.1,0
+FIFA - Club World Cup,20152,10031,1st Half Total Goals,Total,true,0.9,0.1,0
+FIFA - Club World Cup,20152,10032,2nd Half Total Goals,Total,true,0.9,0.1,0
+FIFA - Club World Cup,20152,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+FIFA - Club World Cup,20152,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+AUSTRIA_BUNDESLIGA,20120,0,Moneyline,Moneyline,true,0.9,0.1,0
+AUSTRIA_BUNDESLIGA,20120,10001,Goal Spread,Spread,true,0.9,0.1,0
+AUSTRIA_BUNDESLIGA,20120,10002,Total Goals,Total,true,0.9,0.1,0
+AUSTRIA_BUNDESLIGA,20120,10100,Correct Score,Correct Score,true,0.99,0.01,2
+AUSTRIA_BUNDESLIGA,20120,10003,Double Chance,Double Chance,true,0.99,0.01,0
+AUSTRIA_BUNDESLIGA,20120,10017,Team Total,Total,true,0.9,0.1,0
+AUSTRIA_BUNDESLIGA,20120,10018,Team Total,Total,true,0.9,0.1,0
+AUSTRIA_BUNDESLIGA,20120,10031,1st Half Total Goals,Total,true,0.9,0.1,0
+AUSTRIA_BUNDESLIGA,20120,10032,2nd Half Total Goals,Total,true,0.9,0.1,0
+AUSTRIA_BUNDESLIGA,20120,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+AUSTRIA_BUNDESLIGA,20120,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+NORWAY_ELITESERIEN,20150,0,Moneyline,Moneyline,true,0.9,0.1,0
+NORWAY_ELITESERIEN,20150,10001,Goal Spread,Spread,true,0.9,0.1,0
+NORWAY_ELITESERIEN,20150,10002,Total Goals,Total,true,0.9,0.1,0
+NORWAY_ELITESERIEN,20150,10100,Correct Score,Correct Score,true,0.99,0.01,2
+NORWAY_ELITESERIEN,20150,10003,Double Chance,Double Chance,true,0.99,0.01,0
+NORWAY_ELITESERIEN,20150,10017,Team Total,Total,true,0.9,0.1,0
+NORWAY_ELITESERIEN,20150,10018,Team Total,Total,true,0.9,0.1,0
+NORWAY_ELITESERIEN,20150,10031,1st Half Total Goals,Total,true,0.9,0.1,0
+NORWAY_ELITESERIEN,20150,10032,2nd Half Total Goals,Total,true,0.9,0.1,0
+NORWAY_ELITESERIEN,20150,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+NORWAY_ELITESERIEN,20150,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+CANADA_PREMIER_LEAGUE,20149,0,Moneyline,Moneyline,true,0.9,0.1,0
+CANADA_PREMIER_LEAGUE,20149,10001,Goal Spread,Spread,true,0.9,0.1,0
+CANADA_PREMIER_LEAGUE,20149,10002,Total Goals,Total,true,0.9,0.1,0
+CANADA_PREMIER_LEAGUE,20149,10100,Correct Score,Correct Score,true,0.99,0.01,2
+CANADA_PREMIER_LEAGUE,20149,10003,Double Chance,Double Chance,true,0.99,0.01,0
+CANADA_PREMIER_LEAGUE,20149,10017,Team Total,Total,true,0.9,0.1,0
+CANADA_PREMIER_LEAGUE,20149,10018,Team Total,Total,true,0.9,0.1,0
+CANADA_PREMIER_LEAGUE,20149,10031,1st Half Total Goals,Total,true,0.9,0.1,0
+CANADA_PREMIER_LEAGUE,20149,10032,2nd Half Total Goals,Total,true,0.9,0.1,0
+CANADA_PREMIER_LEAGUE,20149,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+CANADA_PREMIER_LEAGUE,20149,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+DENMARK_SUPERLIGA,20121,0,Moneyline,Moneyline,true,0.9,0.1,0
+DENMARK_SUPERLIGA,20121,10001,Goal Spread,Spread,true,0.9,0.1,0
+DENMARK_SUPERLIGA,20121,10002,Total Goals,Total,true,0.9,0.1,0
+DENMARK_SUPERLIGA,20121,10100,Correct Score,Correct Score,true,0.99,0.01,2
+DENMARK_SUPERLIGA,20121,10003,Double Chance,Double Chance,true,0.99,0.01,0
+DENMARK_SUPERLIGA,20121,10017,Team Total,Total,true,0.9,0.1,0
+DENMARK_SUPERLIGA,20121,10018,Team Total,Total,true,0.9,0.1,0
+DENMARK_SUPERLIGA,20121,10031,1st Half Total Goals,Total,true,0.9,0.1,0
+DENMARK_SUPERLIGA,20121,10032,2nd Half Total Goals,Total,true,0.9,0.1,0
+DENMARK_SUPERLIGA,20121,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+DENMARK_SUPERLIGA,20121,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+POLAND_EKSTRAKLASA,20122,0,Moneyline,Moneyline,true,0.9,0.1,0
+POLAND_EKSTRAKLASA,20122,10001,Goal Spread,Spread,true,0.9,0.1,0
+POLAND_EKSTRAKLASA,20122,10002,Total Goals,Total,true,0.9,0.1,0
+POLAND_EKSTRAKLASA,20122,10100,Correct Score,Correct Score,true,0.99,0.01,2
+POLAND_EKSTRAKLASA,20122,10003,Double Chance,Double Chance,true,0.99,0.01,0
+POLAND_EKSTRAKLASA,20122,10017,Team Total,Total,true,0.9,0.1,0
+POLAND_EKSTRAKLASA,20122,10018,Team Total,Total,true,0.9,0.1,0
+POLAND_EKSTRAKLASA,20122,10031,1st Half Total Goals,Total,true,0.9,0.1,0
+POLAND_EKSTRAKLASA,20122,10032,2nd Half Total Goals,Total,true,0.9,0.1,0
+POLAND_EKSTRAKLASA,20122,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+POLAND_EKSTRAKLASA,20122,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+FRANCE_LIGUE_2,20119,0,Moneyline,Moneyline,true,0.9,0.1,0
+FRANCE_LIGUE_2,20119,10001,Goal Spread,Spread,true,0.9,0.1,0
+FRANCE_LIGUE_2,20119,10002,Total Goals,Total,true,0.9,0.1,0
+FRANCE_LIGUE_2,20119,10100,Correct Score,Correct Score,true,0.99,0.01,2
+FRANCE_LIGUE_2,20119,10003,Double Chance,Double Chance,true,0.99,0.01,0
+FRANCE_LIGUE_2,20119,10017,Team Total,Total,true,0.9,0.1,0
+FRANCE_LIGUE_2,20119,10018,Team Total,Total,true,0.9,0.1,0
+FRANCE_LIGUE_2,20119,10031,1st Half Total Goals,Total,true,0.9,0.1,0
+FRANCE_LIGUE_2,20119,10032,2nd Half Total Goals,Total,true,0.9,0.1,0
+FRANCE_LIGUE_2,20119,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+FRANCE_LIGUE_2,20119,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+FINLAND_VEIKKAUSLIIGA,20105,0,Moneyline,Moneyline,true,0.9,0.1,0
+FINLAND_VEIKKAUSLIIGA,20105,10001,Goal Spread,Spread,true,0.9,0.1,0
+FINLAND_VEIKKAUSLIIGA,20105,10002,Total Goals,Total,true,0.9,0.1,0
+FINLAND_VEIKKAUSLIIGA,20105,10100,Correct Score,Correct Score,true,0.99,0.01,2
+FINLAND_VEIKKAUSLIIGA,20105,10003,Double Chance,Double Chance,true,0.99,0.01,0
+FINLAND_VEIKKAUSLIIGA,20105,10017,Team Total,Total,true,0.9,0.1,0
+FINLAND_VEIKKAUSLIIGA,20105,10018,Team Total,Total,true,0.9,0.1,0
+FINLAND_VEIKKAUSLIIGA,20105,10031,1st Half Total Goals,Total,true,0.9,0.1,0
+FINLAND_VEIKKAUSLIIGA,20105,10032,2nd Half Total Goals,Total,true,0.9,0.1,0
+FINLAND_VEIKKAUSLIIGA,20105,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+FINLAND_VEIKKAUSLIIGA,20105,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 CS2,9977,0,Moneyline,Moneyline,true,0.9,0.1,0
 CS2,9977,10001,Map Handicap,Spread,true,0.9,0.1,0
 CS2,9977,10002,Total Maps,Total,true,0.9,0.1,0
