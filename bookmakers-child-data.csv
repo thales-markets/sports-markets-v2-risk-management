@@ -1,5 +1,6 @@
 name,sportId,marketName,bookmaker
 MLB,3,Player Props,draftkings
+MLB,3,Player Hits,bluebook
 MLB,3,Player Hits Allowed,draftkings
 MLB,3,Player Home Runs,draftkings
 MLB,3,Player Outs,blue book
