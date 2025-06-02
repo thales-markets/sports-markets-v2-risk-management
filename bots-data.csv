@@ -18,7 +18,7 @@ overtime-puller-opticodds-ucl,UEFA - Champions League,16,7,20s,0x2B5eab064F8B4dB
 overtime-puller-opticodds-europa-league,UEFA - Europa League,17,5,20s,0x05249Ab941CFa4690851c237A467E1e724019394,2m,
 overtime-puller-opticodds-fifa-wc,FIFA - World Cup Qualifiers;FIFA - Club World Cup,18;20152,5,20s,0xECD83Cf92F4977A6a0926da965b0028040531190,2m,
 overtime-puller-opticodds-j1,Japan - J1 League;Australia - A-League,19;20113,5,20s,0x44a8fcfC43b6c82263d4117E33172613DAe0229a,2m,
-overtime-puller-opticodds-cricket,India - IPL;Pakistan - Super League,20;20305,4,20s,0x8B408EfA4A738a749EEfF612778a419B41167f48,2m,
+overtime-puller-opticodds-cricket,India - IPL;Pakistan - Super League;England - T20 Blast,20;20305;21,4,20s,0x8B408EfA4A738a749EEfF612778a419B41167f48,2m,
 overtime-puller-opticodds-copa-libertadores,CONMEBOL - Copa Libertadores,45,5,20s,0x1EfF259E0d1a75F798BEF4Ba2E3e0F48a3A67eD1,2m,
 overtime-puller-opticodds-mx,Mexico - Liga MX,230,5,20s,0x0Ce2051f2EE19610941Cca6A45A7c6662F9f0108,2m,
 overtime-puller-opticodds-bra,Brazil - Serie A,268,5,20s,0xe5fCBb61EcD215152A38dB309CCddDBF1c7E5A37,2m,
