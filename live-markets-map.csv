@@ -1098,37 +1098,37 @@ AFL,9510,10001,Point Spread,Spread,true,0.8,0.2,1
 AFL,9510,10002,Total Points,Total,true,0.8,0.2,2
 AFL,9510,10017,Team Total,Total,true,0.8,0.2,2
 AFL,9510,10018,Team Total,Total,true,0.8,0.2,2
-CFL,9520,,0,Moneyline,Moneyline,true,0.9,0.1,0
-CFL,9520,,10001,Point Spread,Spread,true,0.8,0.2,0
-CFL,9520,,10002,Total Points,Total,true,0.8,0.2,0
-CFL,9520,,10017,Team Total,Total,true,0.8,0.2,0
-CFL,9520,,10018,Team Total,Total,true,0.8,0.2,0
-CFL,9520,,10031,1st Quarter Total Points,Total,true,0.9,0.1,0
-CFL,9520,,10032,2nd Quarter Total Points,Total,true,0.9,0.1,0
-CFL,9520,,10033,3rd Quarter Total Points,Total,true,0.9,0.1,0
-CFL,9520,,10034,4th Quarter Total Points,Total,true,0.9,0.1,0
-CFL,9520,,10041,1st Quarter Point Spread,Spread,true,0.9,0.1,0
-CFL,9520,,10042,2nd Quarter Point Spread,Spread,true,0.9,0.1,0
-CFL,9520,,10043,3rd Quarter Point Spread,Spread,true,0.9,0.1,0
-CFL,9520,,10044,4th Quarter Point Spread,Spread,true,0.9,0.1,0
-CFL,9520,,10071,1st Half Point Spread,Spread,true,0.9,0.1,0
-CFL,9520,,10072,2nd Half Point Spread,Spread,true,0.9,0.1,0
-CFL,9520,,10061,1st Half Total Points Points,Total,true,0.9,0.1,0
-CFL,9520,,10062,2nd Half Total Points,Total,true,0.9,0.1,0
-CFL,9520,,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,0
-CFL,9520,,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,0
-CFL,9520,,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,0
-CFL,9520,,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,0
-CFL,9520,,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-CFL,9520,,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-CFL,9520,,10111,1st Quarter Team Total,Total,true,0.9,0.1,1
-CFL,9520,,10112,1st Quarter Team Total,Total,true,0.9,0.1,1
-CFL,9520,,10211,2nd Quarter Team Total,Total,true,0.9,0.1,1
-CFL,9520,,10212,2nd Quarter Team Total,Total,true,0.9,0.1,1
-CFL,9520,,10311,3rd Quarter Team Total,Total,true,0.9,0.1,1
-CFL,9520,,10312,3rd Quarter Team Total,Total,true,0.9,0.1,1
-CFL,9520,,10411,4th Quarter Team Total,Total,true,0.9,0.1,1
-CFL,9520,,10412,4th Quarter Team Total,Total,true,0.9,0.1,1
+CFL,9520,0,Moneyline,Moneyline,true,0.9,0.1,0
+CFL,9520,10001,Point Spread,Spread,true,0.8,0.2,0
+CFL,9520,10002,Total Points,Total,true,0.8,0.2,0
+CFL,9520,10017,Team Total,Total,true,0.8,0.2,0
+CFL,9520,10018,Team Total,Total,true,0.8,0.2,0
+CFL,9520,10031,1st Quarter Total Points,Total,true,0.9,0.1,0
+CFL,9520,10032,2nd Quarter Total Points,Total,true,0.9,0.1,0
+CFL,9520,10033,3rd Quarter Total Points,Total,true,0.9,0.1,0
+CFL,9520,10034,4th Quarter Total Points,Total,true,0.9,0.1,0
+CFL,9520,10041,1st Quarter Point Spread,Spread,true,0.9,0.1,0
+CFL,9520,10042,2nd Quarter Point Spread,Spread,true,0.9,0.1,0
+CFL,9520,10043,3rd Quarter Point Spread,Spread,true,0.9,0.1,0
+CFL,9520,10044,4th Quarter Point Spread,Spread,true,0.9,0.1,0
+CFL,9520,10071,1st Half Point Spread,Spread,true,0.9,0.1,0
+CFL,9520,10072,2nd Half Point Spread,Spread,true,0.9,0.1,0
+CFL,9520,10061,1st Half Total Points Points,Total,true,0.9,0.1,0
+CFL,9520,10062,2nd Half Total Points,Total,true,0.9,0.1,0
+CFL,9520,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,0
+CFL,9520,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,0
+CFL,9520,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,0
+CFL,9520,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,0
+CFL,9520,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+CFL,9520,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+CFL,9520,10111,1st Quarter Team Total,Total,true,0.9,0.1,1
+CFL,9520,10112,1st Quarter Team Total,Total,true,0.9,0.1,1
+CFL,9520,10211,2nd Quarter Team Total,Total,true,0.9,0.1,1
+CFL,9520,10212,2nd Quarter Team Total,Total,true,0.9,0.1,1
+CFL,9520,10311,3rd Quarter Team Total,Total,true,0.9,0.1,1
+CFL,9520,10312,3rd Quarter Team Total,Total,true,0.9,0.1,1
+CFL,9520,10411,4th Quarter Team Total,Total,true,0.9,0.1,1
+CFL,9520,10412,4th Quarter Team Total,Total,true,0.9,0.1,1
 UFL,9521,,0,Moneyline,Moneyline,true,0.9,0.1,0
 UFL,9521,,10001,Point Spread,Spread,true,0.8,0.2,0
 UFL,9521,,10002,Total Points,Total,true,0.8,0.2,0
