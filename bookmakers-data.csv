@@ -1,6 +1,8 @@
 sportName,sportId,primaryBookmaker,secondaryBookmaker
 NCAAF,1,Pinnacle,
 NFL,2,Pinnacle,
+CFL,9520,Pinnacle,
+UFL,9521,DraftKings,
 MLB,3,Pinnacle,
 NBA,4,Pinnacle,
 NCAAB,5,Pinnacle,
