@@ -1129,9 +1129,9 @@ CFL,9520,10311,3rd Quarter Team Total,Total,true,0.9,0.1,1
 CFL,9520,10312,3rd Quarter Team Total,Total,true,0.9,0.1,1
 CFL,9520,10411,4th Quarter Team Total,Total,true,0.9,0.1,1
 CFL,9520,10412,4th Quarter Team Total,Total,true,0.9,0.1,1
-UFL,9521,,0,Moneyline,Moneyline,true,0.9,0.1,0
-UFL,9521,,10001,Point Spread,Spread,true,0.8,0.2,0
-UFL,9521,,10002,Total Points,Total,true,0.8,0.2,0
+UFL,9521,0,Moneyline,Moneyline,true,0.9,0.1,0
+UFL,9521,10001,Point Spread,Spread,true,0.8,0.2,0
+UFL,9521,10002,Total Points,Total,true,0.8,0.2,0
 CZECH_TT_CUP_MEN,8911,0,Moneyline,Moneyline,true,0.9,0.1,2
 CZECH_TT_LIGA_PRO_MEN,8912,0,Moneyline,Moneyline,true,0.9,0.1,2
 POLAND_TT_ELITE_SERIES_MEN,8913,0,Moneyline,Moneyline,true,0.9,0.1,2
