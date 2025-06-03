@@ -113,7 +113,7 @@ Thai League 1,20134,10018,Team Total,Total,true,0.9,0.1,0
 Thai League 1,20134,10031,1st Half Total Goals,Total,true,0.9,0.1,0
 Thai League 1,20134,10032,2nd Half Total Goals,Total,true,0.9,0.1,0
 Thai League 1,20134,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-Thai League 1,20134,10003,Double Chance,Double Chance,0.999,0.001,0
+Thai League 1,20134,10003,Double Chance,Double Chance,true,0.999,0.001,0
 Thai League 1,20134,10100,Correct Score,Correct Score,true,0.99,0.01,0
 China league 1,20112,0,Moneyline,Moneyline,true,0.9,0.1,0
 China league 1,20112,10001,Goal Spread,Spread,true,0.9,0.1,0
@@ -357,7 +357,7 @@ WTT MEN,8914,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,1
 WTT MEN,8914,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,1
 WTT MEN,8914,10024,4th Set Moneyline,Moneyline,true,0.99,0.01,1
 WTT MEN,8914,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,1
-POLAND_TT_ELITE_SERIES_MEN,8913,0,Moneyline,Moneyline,true,0.9,0.1,1
+POLAND_TT_ELITE_SERIES_MEN,8913,0,Moneyline,Moneyline,true,0.9,0.1,2
 POLAND_TT_ELITE_SERIES_MEN,8913,10001,Point Spread,Spread,true,0.9,0.1,1
 POLAND_TT_ELITE_SERIES_MEN,8913,10002,Total Points,Total,true,0.9,0.1,1
 POLAND_TT_ELITE_SERIES_MEN,8913,10017,Player Points Won,Total,true,0.9,0.1,1
@@ -377,7 +377,7 @@ POLAND_TT_ELITE_SERIES_MEN,8913,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01
 POLAND_TT_ELITE_SERIES_MEN,8913,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,1
 POLAND_TT_ELITE_SERIES_MEN,8913,10024,4th Set Moneyline,Moneyline,true,0.99,0.01,1
 POLAND_TT_ELITE_SERIES_MEN,8913,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,1
-CZECH_TT_LIGA_PRO_MEN1,8912,0,Moneyline,Moneyline,true,0.9,0.1,1
+CZECH_TT_LIGA_PRO_MEN1,8912,0,Moneyline,Moneyline,true,0.9,0.1,2
 CZECH_TT_LIGA_PRO_MEN1,8912,10001,Point Spread,Spread,true,0.9,0.1,1
 CZECH_TT_LIGA_PRO_MEN1,8912,10002,Total Points,Total,true,0.9,0.1,1
 CZECH_TT_LIGA_PRO_MEN1,8912,10017,Player Points Won,Total,true,0.9,0.1,1
@@ -397,7 +397,7 @@ CZECH_TT_LIGA_PRO_MEN1,8912,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,1
 CZECH_TT_LIGA_PRO_MEN1,8912,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,1
 CZECH_TT_LIGA_PRO_MEN1,8912,10024,4th Set Moneyline,Moneyline,true,0.99,0.01,1
 CZECH_TT_LIGA_PRO_MEN1,8912,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,1
-CZECH_TT_CUP_MEN,8911,0,Moneyline,Moneyline,true,0.9,0.1,1
+CZECH_TT_CUP_MEN,8911,0,Moneyline,Moneyline,true,0.9,0.1,2
 CZECH_TT_CUP_MEN,8911,10001,Point Spread,Spread,true,0.9,0.1,1
 CZECH_TT_CUP_MEN,8911,10002,Total Points,Total,true,0.9,0.1,1
 CZECH_TT_CUP_MEN,8911,10017,Player Points Won,Total,true,0.9,0.1,1
