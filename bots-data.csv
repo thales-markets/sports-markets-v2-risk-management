@@ -44,7 +44,7 @@ overtime-puller-opticodds-handball-leagues,France - LNH Division 1;Germany - HBL
 overtime-puller-opticodds-table-tennis,Czech Republic - TT Cup Men;Czech Republic - TT Liga Pro Men;Poland - TT Elite Series Men;WTT Men,8911;8912;8913;8914,2,20s,0x4bAcddCD09235F26FaA9F354fb2Aa2AD33df8F2d,2m,
 overtime-puller-opticodds-tennis,ATP;WTA;ATP Challenger,156;152;157,2,20s,0x0dB6b60db480B7E9db4d0d2ac90608bebD4Da822,2m,
 overtime-puller-opticodds-esports-one,CS2;League of Legends;Valorant,9977;10138;20300,4,20s,0x8561Dc58DaD01D19Fa68966f8006C672de1814Fa,2m,
-overtime-puller-opticodds-esports-two,Dota 2;Call of Duty,9983;20298,4,20s,0x8561Dc58DaD01D19Fa68966f8006C672de1814Fa,2m,
+overtime-puller-opticodds-esports-two,Dota 2;Call of Duty;Overwatch,9983;20298;20296,4,20s,0x8561Dc58DaD01D19Fa68966f8006C672de1814Fa,2m,
 overtime-puller-opticodds-soccer-women-europe,England - Womens Super League;Spain - Liga F;Germany - Frauen Bundesliga;Netherlands - Vrouwen Eredivisie,20137;20141;20140;20142,4,20s,0x29121adFD82A866F5484fcd1dd9201bAf0008d9c,2m,
 overtime-puller-opticodds-soccer-women-other,Australia - A-League Women,20146,4,20s,0xcf4dBeBd891e3365dEF886AA90e9681314cC3dFa,2m,
 overtime-puller-opticodds-rugby,Australia - NRL;England - Super League;Oceania - Super Rugby;International - Six Nations;AFL,9500;9501;9502;9503;9510,3,20s,0xc2478a323A0c84eb040294fE7be0CD46E77234d9,2m,
@@ -55,7 +55,7 @@ overtime-puller-opticodds-futures-football,England - Premier League - Futures;UE
 overtime-players-report-puller-nba,NBA,4,0,20s,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,5m,no wallet needed but used from NBA bot
 overtime-risk-puller-baseball-cricket-rugby,NPB;KBO;College Baseball;India - IPL;Pakistan - Super League;Australia - NRL;England - Super League;Oceania - Super Rugby;International - Six Nations;AFL,301;302;303;20;20305;9500;9501;9502;9503;9510,0,1m,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,3m,
 overtime-risk-puller-hockey,Finland - SM Liiga;Russia - KHL;Sweden - SHL,319;321;324,0,1m,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,3m,
-overtime-risk-puller-esports,CS2;Dota2;League of Legends;Call of Duty;Valorant,9977;9983;10138;20298;20300,0,1m,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,3m,
+overtime-risk-puller-esports,CS2;Dota2;League of Legends;Call of Duty;Valorant;Overwatch,9977;9983;10138;20298;20300;20296,0,1m,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,3m,
 overtime-risk-puller-basketball,Euroleague;Eurocup,399;20200,0,1m,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,3m,
 overtime-risk-puller-tennis-tt,WTA;ATP;ATP Challenger;Czech Republic - TT Cup Men;Czech Republic - TT Liga Pro Men;Poland - TT Elite Series Men;WTT Men;England - Premier League Darts,152;156;157;8911;8912;8913;8914;20320,0,1m,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,3m,
 overtime-risk-puller-usa,NCAAF;NFL;MLB;NBA;NCAAB;NCAAW;NHL;UFC;WNBA,1;2;3;4;5;20211;6;7;8,0,1m,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,3m,
