@@ -145,7 +145,7 @@ WTA Events,152,0,Moneyline,Moneyline,true,0.75,0.25,2
 WTA Events,152,10001,Game Spread,Spread,true,0.75,0.25,2
 WTA Events,152,10002,Total Games,Total,true,0.75,0.25,2
 WTA Events,152,10013,Set Handicap,Spread,true,0.75,0.25,2
-WTA Events,152,10014,Set Totals,Total,true,0.75,0.25,2
+WTA Events,152,10014,Total Sets,Total,true,0.75,0.25,2
 WTA Events,152,10017,Player Games Won,Total,true,0.75,0.25,2
 WTA Events,152,10018,Player Games Won,Total,true,0.75,0.25,2
 WTA Events,152,10031,1st Set Total Games,Total,true,0.75,0.25,2
@@ -181,7 +181,7 @@ Grand Slam,153,0,Moneyline,Moneyline,true,0.75,0.25,2
 Grand Slam,153,10001,Game Spread,Spread,true,0.75,0.25,2
 Grand Slam,153,10002,Total Games,Total,true,0.75,0.25,2
 Grand Slam,153,10013,Set Handicap,Spread,true,0.75,0.25,2
-Grand Slam,153,10014,Set Totals,Total,true,0.75,0.25,2
+Grand Slam,153,10014,Total Sets,Total,true,0.75,0.25,2
 Grand Slam,153,10017,Player Games Won,Total,true,0.75,0.25,2
 Grand Slam,153,10018,Player Games Won,Total,true,0.75,0.25,2
 Grand Slam,153,10031,1st Set Total Games,Total,true,0.75,0.25,2
@@ -217,7 +217,7 @@ ATP Events,156,0,Moneyline,Moneyline,true,0.75,0.25,2
 ATP Events,156,10001,Game Spread,Spread,true,0.75,0.25,2
 ATP Events,156,10002,Total Games,Total,true,0.75,0.25,2
 ATP Events,156,10013,Set Handicap,Spread,true,0.75,0.25,2
-ATP Events,156,10014,Set Totals,Total,true,0.75,0.25,2
+ATP Events,156,10014,Total Sets,Total,true,0.75,0.25,2
 ATP Events,156,10017,Player Games Won,Total,true,0.75,0.25,2
 ATP Events,156,10018,Player Games Won,Total,true,0.75,0.25,2
 ATP Events,156,10031,1st Set Total Games,Total,true,0.75,0.25,2
@@ -253,7 +253,7 @@ ATP Challenger,157,0,Moneyline,Moneyline,true,0.9,0.1,2
 ATP Challenger,157,10001,Game Spread,Spread,true,0.9,0.1,2
 ATP Challenger,157,10002,Total Games,Total,true,0.9,0.1,2
 ATP Challenger,157,10013,Set Handicap,Spread,true,0.75,0.25,2
-ATP Challenger,157,10014,Set Totals,Total,true,0.75,0.25,2
+ATP Challenger,157,10014,Total Sets,Total,true,0.75,0.25,2
 ATP Challenger,157,10017,Player Games Won,Total,true,0.9,0.1,2
 ATP Challenger,157,10018,Player Games Won,Total,true,0.9,0.1,2
 ATP Challenger,157,10031,1st Set Total Games,Total,true,0.9,0.1,2
