@@ -144,13 +144,15 @@ Primeira Liga,61,10002,Total Goals,Total,false,0.75,0.25,2
 WTA Events,152,0,Moneyline,Moneyline,true,0.75,0.25,2
 WTA Events,152,10001,Game Spread,Spread,true,0.75,0.25,2
 WTA Events,152,10002,Total Games,Total,true,0.75,0.25,2
+WTA Events,152,10013,Set Handicap,Spread,true,0.75,0.25,2
+WTA Events,152,10014,Set Totals,Total,true,0.75,0.25,2
 WTA Events,152,10017,Player Games Won,Total,true,0.75,0.25,2
 WTA Events,152,10018,Player Games Won,Total,true,0.75,0.25,2
 WTA Events,152,10031,1st Set Total Games,Total,true,0.75,0.25,2
 WTA Events,152,10032,2nd Set Total Games,Total,true,0.75,0.25,2
 WTA Events,152,10033,3rd Set Total Games,Total,true,0.75,0.25,2
-WTA Events,152,10034,3rd Set Total Games,Total,true,0.75,0.25,2
-WTA Events,152,10035,3rd Set Total Games,Total,true,0.75,0.25,2
+WTA Events,152,10034,4th Set Total Games,Total,true,0.75,0.25,2
+WTA Events,152,10035,5th Set Total Games,Total,true,0.75,0.25,2
 WTA Events,152,10041,1st Set Game Spread,Spread,true,0.75,0.25,2
 WTA Events,152,10042,2nd Set Game Spread,Spread,true,0.75,0.25,2
 WTA Events,152,10043,3rd Set Game Spread,Spread,true,0.75,0.25,2
@@ -161,6 +163,16 @@ WTA Events,152,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,2
 WTA Events,152,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,2
 WTA Events,152,10024,4th Set Moneyline,Moneyline,true,0.99,0.01,2
 WTA Events,152,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,2
+WTA Events,152,10111,1st Set Player Games Won,Total,true,0.75,0.25,2
+WTA Events,152,10112,1st Set Player Games Won,Total,true,0.75,0.25,2
+WTA Events,152,10211,2nd Set Player Games Won,Total,true,0.75,0.25,2
+WTA Events,152,10212,2nd Set Player Games Won,Total,true,0.75,0.25,2
+WTA Events,152,10311,3rd Set Player Games Won,Total,true,0.75,0.25,2
+WTA Events,152,10312,3rd Set Player Games Won,Total,true,0.75,0.25,2
+WTA Events,152,10411,4th Set Player Games Won,Total,true,0.75,0.25,2
+WTA Events,152,10412,4th Set Player Games Won,Total,true,0.75,0.25,2
+WTA Events,152,10511,5th Set Player Games Won,Total,true,0.75,0.25,2
+WTA Events,152,10512,5th Set Player Games Won,Total,true,0.75,0.25,2
 WTA Events,152,10100,Correct Score,Correct Score,true,0.99,0.01,2
 WTA Events,152,10101,1st Set Correct Score,Correct Score,true,0.99,0.01,2
 WTA Events,152,10102,2nd Set Correct Score,Correct Score,true,0.99,0.01,2
@@ -168,9 +180,44 @@ WTA Events,152,10103,3rd Set Correct Score,Correct Score,true,0.99,0.01,2
 Grand Slam,153,0,Moneyline,Moneyline,true,0.75,0.25,2
 Grand Slam,153,10001,Game Spread,Spread,true,0.75,0.25,2
 Grand Slam,153,10002,Total Games,Total,true,0.75,0.25,2
+Grand Slam,153,10013,Set Handicap,Spread,true,0.75,0.25,2
+Grand Slam,153,10014,Set Totals,Total,true,0.75,0.25,2
+Grand Slam,153,10017,Player Games Won,Total,true,0.75,0.25,2
+Grand Slam,153,10018,Player Games Won,Total,true,0.75,0.25,2
+Grand Slam,153,10031,1st Set Total Games,Total,true,0.75,0.25,2
+Grand Slam,153,10032,2nd Set Total Games,Total,true,0.75,0.25,2
+Grand Slam,153,10033,3rd Set Total Games,Total,true,0.75,0.25,2
+Grand Slam,153,10034,4th Set Total Games,Total,true,0.75,0.25,2
+Grand Slam,153,10035,5th Set Total Games,Total,true,0.75,0.25,2
+Grand Slam,153,10041,1st Set Game Spread,Spread,true,0.75,0.25,2
+Grand Slam,153,10042,2nd Set Game Spread,Spread,true,0.75,0.25,2
+Grand Slam,153,10043,3rd Set Game Spread,Spread,true,0.75,0.25,2
+Grand Slam,153,10044,4th Set Game Spread,Spread,true,0.75,0.25,2
+Grand Slam,153,10045,5th Set Game Spread,Spread,true,0.75,0.25,2
+Grand Slam,153,10021,1st Set Moneyline,Moneyline,true,0.99,0.01,2
+Grand Slam,153,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,2
+Grand Slam,153,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,2
+Grand Slam,153,10024,4th Set Moneyline,Moneyline,true,0.99,0.01,2
+Grand Slam,153,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,2
+Grand Slam,153,10111,1st Set Player Games Won,Total,true,0.75,0.25,2
+Grand Slam,153,10112,1st Set Player Games Won,Total,true,0.75,0.25,2
+Grand Slam,153,10211,2nd Set Player Games Won,Total,true,0.75,0.25,2
+Grand Slam,153,10212,2nd Set Player Games Won,Total,true,0.75,0.25,2
+Grand Slam,153,10311,3rd Set Player Games Won,Total,true,0.75,0.25,2
+Grand Slam,153,10312,3rd Set Player Games Won,Total,true,0.75,0.25,2
+Grand Slam,153,10411,4th Set Player Games Won,Total,true,0.75,0.25,2
+Grand Slam,153,10412,4th Set Player Games Won,Total,true,0.75,0.25,2
+Grand Slam,153,10511,5th Set Player Games Won,Total,true,0.75,0.25,2
+Grand Slam,153,10512,5th Set Player Games Won,Total,true,0.75,0.25,2
+Grand Slam,153,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Grand Slam,153,10101,1st Set Correct Score,Correct Score,true,0.99,0.01,2
+Grand Slam,153,10102,2nd Set Correct Score,Correct Score,true,0.99,0.01,2
+Grand Slam,153,10103,3rd Set Correct Score,Correct Score,true,0.99,0.01,2
 ATP Events,156,0,Moneyline,Moneyline,true,0.75,0.25,2
 ATP Events,156,10001,Game Spread,Spread,true,0.75,0.25,2
 ATP Events,156,10002,Total Games,Total,true,0.75,0.25,2
+ATP Events,156,10013,Set Handicap,Spread,true,0.75,0.25,2
+ATP Events,156,10014,Set Totals,Total,true,0.75,0.25,2
 ATP Events,156,10017,Player Games Won,Total,true,0.75,0.25,2
 ATP Events,156,10018,Player Games Won,Total,true,0.75,0.25,2
 ATP Events,156,10031,1st Set Total Games,Total,true,0.75,0.25,2
@@ -188,6 +235,16 @@ ATP Events,156,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,2
 ATP Events,156,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,2
 ATP Events,156,10024,4th Set Moneyline,Moneyline,true,0.99,0.01,2
 ATP Events,156,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,2
+ATP Events,156,10111,1st Set Player Games Won,Total,true,0.75,0.25,2
+ATP Events,156,10112,1st Set Player Games Won,Total,true,0.75,0.25,2
+ATP Events,156,10211,2nd Set Player Games Won,Total,true,0.75,0.25,2
+ATP Events,156,10212,2nd Set Player Games Won,Total,true,0.75,0.25,2
+ATP Events,156,10311,3rd Set Player Games Won,Total,true,0.75,0.25,2
+ATP Events,156,10312,3rd Set Player Games Won,Total,true,0.75,0.25,2
+ATP Events,156,10411,4th Set Player Games Won,Total,true,0.75,0.25,2
+ATP Events,156,10412,4th Set Player Games Won,Total,true,0.75,0.25,2
+ATP Events,156,10511,5th Set Player Games Won,Total,true,0.75,0.25,2
+ATP Events,156,10512,5th Set Player Games Won,Total,true,0.75,0.25,2
 ATP Events,156,10100,Correct Score,Correct Score,true,0.99,0.01,2
 ATP Events,156,10101,1st Set Correct Score,Correct Score,true,0.99,0.01,2
 ATP Events,156,10102,2nd Set Correct Score,Correct Score,true,0.99,0.01,2
@@ -195,6 +252,8 @@ ATP Events,156,10103,3rd Set Correct Score,Correct Score,true,0.99,0.01,2
 ATP Challenger,157,0,Moneyline,Moneyline,true,0.9,0.1,2
 ATP Challenger,157,10001,Game Spread,Spread,true,0.9,0.1,2
 ATP Challenger,157,10002,Total Games,Total,true,0.9,0.1,2
+ATP Challenger,157,10013,Set Handicap,Spread,true,0.75,0.25,2
+ATP Challenger,157,10014,Set Totals,Total,true,0.75,0.25,2
 ATP Challenger,157,10017,Player Games Won,Total,true,0.9,0.1,2
 ATP Challenger,157,10018,Player Games Won,Total,true,0.9,0.1,2
 ATP Challenger,157,10031,1st Set Total Games,Total,true,0.9,0.1,2
@@ -206,6 +265,16 @@ ATP Challenger,157,10043,3rd Set Game Spread,Spread,true,0.9,0.1,2
 ATP Challenger,157,10021,1st Set Moneyline,Moneyline,true,0.99,0.01,2
 ATP Challenger,157,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,2
 ATP Challenger,157,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,2
+ATP Challenger,157,10111,1st Set Player Games Won,Total,true,0.75,0.25,2
+ATP Challenger,157,10112,1st Set Player Games Won,Total,true,0.75,0.25,2
+ATP Challenger,157,10211,2nd Set Player Games Won,Total,true,0.75,0.25,2
+ATP Challenger,157,10212,2nd Set Player Games Won,Total,true,0.75,0.25,2
+ATP Challenger,157,10311,3rd Set Player Games Won,Total,true,0.75,0.25,2
+ATP Challenger,157,10312,3rd Set Player Games Won,Total,true,0.75,0.25,2
+ATP Challenger,157,10411,4th Set Player Games Won,Total,true,0.75,0.25,2
+ATP Challenger,157,10412,4th Set Player Games Won,Total,true,0.75,0.25,2
+ATP Challenger,157,10511,5th Set Player Games Won,Total,true,0.75,0.25,2
+ATP Challenger,157,10512,5th Set Player Games Won,Total,true,0.75,0.25,2
 ATP Challenger,157,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Liga MX,230,0,Moneyline,Moneyline,true,0.75,0.25,2
 Liga MX,230,10001,Goal Spread,Spread,false,0.75,0.25,2
