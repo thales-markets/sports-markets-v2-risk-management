@@ -43,7 +43,7 @@ overtime-puller-opticodds-hockey-euro,Finland - SM Liiga;Russia - KHL;Sweden - S
 overtime-puller-opticodds-handball-europe,EHF - Champions League;EHF - Champions League Women;EHF - European League,383;384;385,4,20s,0x59560b910582C293D204B614AFf4d0b0eac2D3Db,2m,
 overtime-puller-opticodds-handball-leagues,France - LNH Division 1;Germany - HBL;Spain - ASOBAL;Sweden - Handbollsligan;Poland - Superliga,387;386;398;397;392,4,20s,0xA36316c0fCd8c7fA5ccCeB54298ec3b8f9bF4DC8,2m,
 overtime-puller-opticodds-handball-leagues,France - LNH Division 1;Germany - HBL;Spain - ASOBAL;Sweden - Handbollsligan;Poland - Superliga,387;386;398;397;392,4,20s,0xA36316c0fCd8c7fA5ccCeB54298ec3b8f9bF4DC8,2m,
-overtime-puller-opticodds-table-tennis,Czech Republic - TT Cup Men;Czech Republic - TT Liga Pro Men;Poland - TT Elite Series Men;WTT Men,8911;8912;8913;8914,2,20s,0x4bAcddCD09235F26FaA9F354fb2Aa2AD33df8F2d,2m,
+overtime-puller-opticodds-table-tennis,Czech Republic - TT Cup Men;Czech Republic - TT Liga Pro Men;Poland - TT Elite Series Men;WTT Men,8911;8912;8913;8914,2,20s,0x4bAcddCD09235F26FaA9F354fb2Aa2AD33df8F2d,3m,
 overtime-puller-opticodds-tennis,ATP;WTA;ATP Challenger,156;152;157,2,20s,0x0dB6b60db480B7E9db4d0d2ac90608bebD4Da822,2m,
 overtime-puller-opticodds-esports-one,CS2;League of Legends;Valorant,9977;10138;20300,4,20s,0x8561Dc58DaD01D19Fa68966f8006C672de1814Fa,2m,
 overtime-puller-opticodds-esports-two,Dota 2;Call of Duty;Overwatch,9983;20298;20296,4,20s,0x8561Dc58DaD01D19Fa68966f8006C672de1814Fa,2m,
