@@ -197,9 +197,9 @@ IIHF - World Championship,33,10312,3rd Period Team Total,Total,true,0.95,0.05,2
 KHL,321,0,Moneyline,Moneyline,true,0.95,0.05,1
 KHL,321,10001,Puck Line,Spread,true,0.95,0.05,1
 KHL,321,10002,Total Goals,Total,true,0.95,0.05,2
-WNBA,8,0,Moneyline,Moneyline,true,0.95,0.05,0
-WNBA,8,10001,Point Spread,Spread,true,0.95,0.05,0
-WNBA,8,10002,Total Points,Total,true,0.95,0.05,2
+WNBA,8,0,Moneyline,Moneyline,true,0.95,0.05,1
+WNBA,8,10001,Point Spread,Spread,true,0.95,0.05,1
+WNBA,8,10002,Total Points,Total,true,0.95,0.05,2.5
 MLS,10,0,Moneyline,Moneyline,true,0.95,0.05,0
 MLS,10,10001,Goal Spread,Spread,true,0.95,0.05,0
 MLS,10,10002,Total Goals,Total,true,0.95,0.05,0
