@@ -200,6 +200,34 @@ KHL,321,10002,Total Goals,Total,true,0.95,0.05,2
 WNBA,8,0,Moneyline,Moneyline,true,0.95,0.05,1
 WNBA,8,10001,Point Spread,Spread,true,0.95,0.05,1
 WNBA,8,10002,Total Points,Total,true,0.95,0.05,3
+WNBA,8,10017,Team Total,Total,true,0.95,0.05,2
+WNBA,8,10018,Team Total,Total,true,0.95,0.05,2
+WNBA,8,10031,1st Quarter Total Points,Total,true,0.95,0.05,2
+WNBA,8,10032,2nd Quarter Total Points,Total,true,0.95,0.05,2
+WNBA,8,10033,3rd Quarter Total Points,Total,true,0.95,0.05,2
+WNBA,8,10034,4th Quarter Total Points,Total,true,0.95,0.05,2
+WNBA,8,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,1
+WNBA,8,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,1
+WNBA,8,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,1
+WNBA,8,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,1
+WNBA,8,10071,1st Half Point Spread,Spread,true,0.95,0.05,1
+WNBA,8,10072,2nd Half Point Spread,Spread,true,0.95,0.05,1
+WNBA,8,10061,1st Half Total Points,Total,true,0.95,0.05,2
+WNBA,8,10062,2nd Half Total Points,Total,true,0.95,0.05,2
+WNBA,8,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,1
+WNBA,8,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,1
+WNBA,8,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,1
+WNBA,8,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,1
+WNBA,8,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+WNBA,8,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+WNBA,8,10111,1st Quarter Team Total,Total,true,0.95,0.05,2
+WNBA,8,10112,1st Quarter Team Total,Total,true,0.95,0.05,2
+WNBA,8,10211,2nd Quarter Team Total,Total,true,0.95,0.05,2
+WNBA,8,10212,2nd Quarter Team Total,Total,true,0.95,0.05,2
+WNBA,8,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
+WNBA,8,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
+WNBA,8,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
+WNBA,8,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
 MLS,10,0,Moneyline,Moneyline,true,0.95,0.05,0
 MLS,10,10001,Goal Spread,Spread,true,0.95,0.05,0
 MLS,10,10002,Total Goals,Total,true,0.95,0.05,0
