@@ -1021,6 +1021,28 @@ COLOMBIA_PRIMERA_A,20124,10031,1st Half Total Goals,Total,true,0.95,0.05,0
 COLOMBIA_PRIMERA_A,20124,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
 COLOMBIA_PRIMERA_A,20124,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
 COLOMBIA_PRIMERA_A,20124,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+PERU_PRIMERA_DIVISION,20651,0,Moneyline,Moneyline,true,0.95,0.05,0
+PERU_PRIMERA_DIVISION,20651,10001,Goal Spread,Spread,true,0.95,0.05,0
+PERU_PRIMERA_DIVISION,20651,10002,Total Goals,Total,true,0.95,0.05,0
+PERU_PRIMERA_DIVISION,20651,10100,Correct Score,Correct Score,true,0.99,0.01,2
+PERU_PRIMERA_DIVISION,20651,10003,Double Chance,Double Chance,true,0.99,0.01,0
+PERU_PRIMERA_DIVISION,20651,10017,Team Total,Total,true,0.95,0.05,0
+PERU_PRIMERA_DIVISION,20651,10018,Team Total,Total,true,0.95,0.05,0
+PERU_PRIMERA_DIVISION,20651,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+PERU_PRIMERA_DIVISION,20651,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+PERU_PRIMERA_DIVISION,20651,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+PERU_PRIMERA_DIVISION,20651,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+ECUADOR_SERIA_A,20535,0,Moneyline,Moneyline,true,0.95,0.05,0
+ECUADOR_SERIA_A,20535,10001,Goal Spread,Spread,true,0.95,0.05,0
+ECUADOR_SERIA_A,20535,10002,Total Goals,Total,true,0.95,0.05,0
+ECUADOR_SERIA_A,20535,10100,Correct Score,Correct Score,true,0.99,0.01,2
+ECUADOR_SERIA_A,20535,10003,Double Chance,Double Chance,true,0.99,0.01,0
+ECUADOR_SERIA_A,20535,10017,Team Total,Total,true,0.95,0.05,0
+ECUADOR_SERIA_A,20535,10018,Team Total,Total,true,0.95,0.05,0
+ECUADOR_SERIA_A,20535,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+ECUADOR_SERIA_A,20535,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+ECUADOR_SERIA_A,20535,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+ECUADOR_SERIA_A,20535,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 CS2,9977,0,Moneyline,Moneyline,true,0.95,0.05,1
 CS2,9977,10001,Map Handicap,Spread,true,0.95,0.05,1
 CS2,9977,10002,Total Maps,Total,true,0.95,0.05,1
