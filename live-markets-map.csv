@@ -966,6 +966,83 @@ FINLAND_VEIKKAUSLIIGA,20105,10031,1st Half Total Goals,Total,true,0.95,0.05,0
 FINLAND_VEIKKAUSLIIGA,20105,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
 FINLAND_VEIKKAUSLIIGA,20105,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
 FINLAND_VEIKKAUSLIIGA,20105,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+CONCACAF_GOLD_CUP,20516,0,Moneyline,Moneyline,true,0.95,0.05,0
+CONCACAF_GOLD_CUP,20516,10001,Goal Spread,Spread,true,0.95,0.05,0
+CONCACAF_GOLD_CUP,20516,10002,Total Goals,Total,true,0.95,0.05,0
+CONCACAF_GOLD_CUP,20516,10100,Correct Score,Correct Score,true,0.99,0.01,2
+CONCACAF_GOLD_CUP,20516,10003,Double Chance,Double Chance,true,0.99,0.01,0
+CONCACAF_GOLD_CUP,20516,10017,Team Total,Total,true,0.95,0.05,0
+CONCACAF_GOLD_CUP,20516,10018,Team Total,Total,true,0.95,0.05,0
+CONCACAF_GOLD_CUP,20516,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+CONCACAF_GOLD_CUP,20516,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+CONCACAF_GOLD_CUP,20516,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+CONCACAF_GOLD_CUP,20516,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+COSAFA_CUP,20555,0,Moneyline,Moneyline,true,0.95,0.05,0
+COSAFA_CUP,20555,10001,Goal Spread,Spread,true,0.95,0.05,0
+COSAFA_CUP,20555,10002,Total Goals,Total,true,0.95,0.05,0
+COSAFA_CUP,20555,10100,Correct Score,Correct Score,true,0.99,0.01,2
+COSAFA_CUP,20555,10003,Double Chance,Double Chance,true,0.99,0.01,0
+COSAFA_CUP,20555,10017,Team Total,Total,true,0.95,0.05,0
+COSAFA_CUP,20555,10018,Team Total,Total,true,0.95,0.05,0
+COSAFA_CUP,20555,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+COSAFA_CUP,20555,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+COSAFA_CUP,20555,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+COSAFA_CUP,20555,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+KOREA_K1_LEAGUE,20603,0,Moneyline,Moneyline,true,0.95,0.05,0
+KOREA_K1_LEAGUE,20603,10001,Goal Spread,Spread,true,0.95,0.05,0
+KOREA_K1_LEAGUE,20603,10002,Total Goals,Total,true,0.95,0.05,0
+KOREA_K1_LEAGUE,20603,10100,Correct Score,Correct Score,true,0.99,0.01,2
+KOREA_K1_LEAGUE,20603,10003,Double Chance,Double Chance,true,0.99,0.01,0
+KOREA_K1_LEAGUE,20603,10017,Team Total,Total,true,0.95,0.05,0
+KOREA_K1_LEAGUE,20603,10018,Team Total,Total,true,0.95,0.05,0
+KOREA_K1_LEAGUE,20603,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+KOREA_K1_LEAGUE,20603,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+KOREA_K1_LEAGUE,20603,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+KOREA_K1_LEAGUE,20603,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+URUGUAY_PRIMERA_DIVISION,20127,0,Moneyline,Moneyline,true,0.95,0.05,0
+URUGUAY_PRIMERA_DIVISION,20127,10001,Goal Spread,Spread,true,0.95,0.05,0
+URUGUAY_PRIMERA_DIVISION,20127,10002,Total Goals,Total,true,0.95,0.05,0
+URUGUAY_PRIMERA_DIVISION,20127,10100,Correct Score,Correct Score,true,0.99,0.01,2
+URUGUAY_PRIMERA_DIVISION,20127,10003,Double Chance,Double Chance,true,0.99,0.01,0
+URUGUAY_PRIMERA_DIVISION,20127,10017,Team Total,Total,true,0.95,0.05,0
+URUGUAY_PRIMERA_DIVISION,20127,10018,Team Total,Total,true,0.95,0.05,0
+URUGUAY_PRIMERA_DIVISION,20127,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+URUGUAY_PRIMERA_DIVISION,20127,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+URUGUAY_PRIMERA_DIVISION,20127,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+URUGUAY_PRIMERA_DIVISION,20127,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+COLOMBIA_PRIMERA_A,20124,0,Moneyline,Moneyline,true,0.95,0.05,0
+COLOMBIA_PRIMERA_A,20124,10001,Goal Spread,Spread,true,0.95,0.05,0
+COLOMBIA_PRIMERA_A,20124,10002,Total Goals,Total,true,0.95,0.05,0
+COLOMBIA_PRIMERA_A,20124,10100,Correct Score,Correct Score,true,0.99,0.01,2
+COLOMBIA_PRIMERA_A,20124,10003,Double Chance,Double Chance,true,0.99,0.01,0
+COLOMBIA_PRIMERA_A,20124,10017,Team Total,Total,true,0.95,0.05,0
+COLOMBIA_PRIMERA_A,20124,10018,Team Total,Total,true,0.95,0.05,0
+COLOMBIA_PRIMERA_A,20124,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+COLOMBIA_PRIMERA_A,20124,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+COLOMBIA_PRIMERA_A,20124,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+COLOMBIA_PRIMERA_A,20124,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+ECUADOR_SERIA_A,20535,0,Moneyline,Moneyline,true,0.95,0.05,0
+ECUADOR_SERIA_A,20535,10001,Goal Spread,Spread,true,0.95,0.05,0
+ECUADOR_SERIA_A,20535,10002,Total Goals,Total,true,0.95,0.05,0
+ECUADOR_SERIA_A,20535,10100,Correct Score,Correct Score,true,0.99,0.01,2
+ECUADOR_SERIA_A,20535,10003,Double Chance,Double Chance,true,0.99,0.01,0
+ECUADOR_SERIA_A,20535,10017,Team Total,Total,true,0.95,0.05,0
+ECUADOR_SERIA_A,20535,10018,Team Total,Total,true,0.95,0.05,0
+ECUADOR_SERIA_A,20535,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+ECUADOR_SERIA_A,20535,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+ECUADOR_SERIA_A,20535,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+ECUADOR_SERIA_A,20535,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+CHILE_PRIMERA_DIVISION,20104,0,Moneyline,Moneyline,true,0.95,0.05,0
+CHILE_PRIMERA_DIVISION,20104,10001,Goal Spread,Spread,true,0.95,0.05,0
+CHILE_PRIMERA_DIVISION,20104,10002,Total Goals,Total,true,0.95,0.05,0
+CHILE_PRIMERA_DIVISION,20104,10100,Correct Score,Correct Score,true,0.99,0.01,2
+CHILE_PRIMERA_DIVISION,20104,10003,Double Chance,Double Chance,true,0.99,0.01,0
+CHILE_PRIMERA_DIVISION,20104,10017,Team Total,Total,true,0.95,0.05,0
+CHILE_PRIMERA_DIVISION,20104,10018,Team Total,Total,true,0.95,0.05,0
+CHILE_PRIMERA_DIVISION,20104,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+CHILE_PRIMERA_DIVISION,20104,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+CHILE_PRIMERA_DIVISION,20104,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+CHILE_PRIMERA_DIVISION,20104,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 CS2,9977,0,Moneyline,Moneyline,true,0.95,0.05,1
 CS2,9977,10001,Map Handicap,Spread,true,0.95,0.05,1
 CS2,9977,10002,Total Maps,Total,true,0.95,0.05,1
