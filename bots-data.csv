@@ -62,7 +62,7 @@ overtime-risk-puller-handball,EHF - Champions League;EHF - Champions League Wome
 overtime-risk-puller-volleyball,FIVB - Nations League;FIVB - Nations League Women,20421;20420,0,1m,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,3m,
 overtime-risk-puller-futures,NBA - Futures;NHL - Futures,30004;30005,0,1m,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,3m,
 overtime-liveness-puller,,,0,120s,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,,
-overtime-limit-puller,CS2;ATP Challenger;League of Legends;Dota 2;Call of Duty;Valorant;PF:,9977;157;10138;9983;20298;20300;9,0,60s,0x5940b3a0aF3175717DD5D47dAa526E736D1C0313,3m,
+overtime-limit-puller,CS2;ATP Challenger;League of Legends;Dota 2;Call of Duty;Valorant;PFL,9977;157;10138;9983;20298;20300;9,0,60s,0x5940b3a0aF3175717DD5D47dAa526E736D1C0313,3m,
 overtime-resolver-opticodds,3 4 6 7 10 17 19 21 20,,-3,20m,0xcC97993365989c6Cb15503d088A9270Eb39d2FfE,1h,
 overtime-resolver-opticodds-football,3 4 6 7 10 17 19 21 20,,-3,20m,0xcC97993365989c6Cb15503d088A9270Eb39d2FfE,1h,
 overtime-resolver-opticodds-arbi,3 4 6 7 10 17 19 21 20,,-3,20m,0xcC97993365989c6Cb15503d088A9270Eb39d2FfE,1h,
