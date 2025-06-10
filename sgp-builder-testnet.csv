@@ -3,3 +3,4 @@ sport,sportId,typeId,positionIndex,positionName,size,combinedTypeIds,combinedPla
 ,4,90000,1,Moneyline (Home) + Player Assists,2,0;11039,[0]:[],0;null,0;0,true
 ,4,90001,0,Moneyline (Away) + Player Points,2,0;11029,[0]:[],0;null,1;0,true
 ,4,90001,1,Moneyline (Away) + Player Assists,2,0;11039,[0]:[],0;null,1;0,true
+,4,90002,0,Moneyline (Home) + Total Points,2,0;10002,[0]:[],0;null,0;0,true
