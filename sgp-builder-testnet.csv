@@ -4,5 +4,5 @@ sport,sportId,typeId,positionIndex,positionName,size,combinedTypeIds,combinedPla
 ,4,90001,0,Moneyline (Away) + Player Points Over,2,0;11029,[0]:[],0;null,1;0,true
 ,4,90001,1,Moneyline (Away) + Player Assists Over,2,0;11039,[0]:[],0;null,1;0,true
 ,4,90002,0,Moneyline (Home) + Both Teams Total Points Over,2,0;10002,[0]:[],0;null,0;0,true
-,4,90002,1,Moneyline (Home) + 2 x Player Assists Over,3,0;11039;11039,[0]:[]:[],0;null;null,0;0;0,true
+,4,90002,1,Moneyline (Home) + 2 x Player Assists Over,3,0;11039;11039,[0]:[100034]:[100073],0;null;null,0;0;0,true
 ,6,90000,0,Moneyline (Home) + Player Points Over,2,0;11029,[0]:[],0;null,0;0,true
