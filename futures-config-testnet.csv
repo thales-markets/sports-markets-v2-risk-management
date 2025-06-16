@@ -1,2 +1,2 @@
-futures_id,bookmaker,id,date,home_team,away_team,typeId,orderOdds,maxOdds,minOdds,multiFutures
+futures_id,bookmaker,id,start_date,home_team,away_team,typeId,orderOdds,maxOdds,minOdds,multiFutures
 type_indiana_pacers_vs_oklahoma_city_thunder_-_series_winner-sport_basketball-league_nba,Pinnacle,76gle3pkutee6hzsxi3buuvp4q0h05dq,,Indiana Pacers vs Oklahoma City Thunder,Series Winner,13012,Indiana Pacers;Oklahoma City Thunder,105,20000,false
