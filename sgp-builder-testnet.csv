@@ -1,5 +1,5 @@
 sport,sportId,typeId,positionIndex,positionName,size,combinedTypeIds,combinedPlayerIds,combinedLines,combinedPositions,enabled
-,3,90000,0,Home | Moneyline + Strikeouts Thrown Over,2,0;11019,[0]:[],0;null,0;0,true
+,3,90000,0,Home | Moneyline + Strikeouts Thrown Over,2,0;11019,[]:[],0;null,0;0,true
 ,3,90000,1,Home | 2 x Doubles Over,2,11217;11217,[]:[],null;null,0;0,true
 ,3,90001,0,Away | Moneyline + Strikeouts Thrown Over,2,0;11019,[0]:[],0;null,1;0,true
 ,3,90001,1,Away | 2 x Doubles Over,2,11217;11217,[]:[],null;null,0;0,true
