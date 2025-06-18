@@ -198,7 +198,7 @@ KHL,321,0,Moneyline,Moneyline,true,0.95,0.05,1
 KHL,321,10001,Puck Line,Spread,true,0.95,0.05,1
 KHL,321,10002,Total Goals,Total,true,0.95,0.05,2
 WNBA,8,0,Moneyline,Moneyline,true,0.95,0.05,1
-WNBA,8,10001,Point Spread,Spread,true,0.95,0.05,1
+WNBA,8,10001,Point Spread,Spread,true,0.95,0.05,2
 WNBA,8,10002,Total Points,Total,true,0.95,0.05,3
 WNBA,8,10017,Team Total,Total,true,0.95,0.05,2
 WNBA,8,10018,Team Total,Total,true,0.95,0.05,2
@@ -206,20 +206,20 @@ WNBA,8,10031,1st Quarter Total Points,Total,true,0.95,0.05,2
 WNBA,8,10032,2nd Quarter Total Points,Total,true,0.95,0.05,2
 WNBA,8,10033,3rd Quarter Total Points,Total,true,0.95,0.05,2
 WNBA,8,10034,4th Quarter Total Points,Total,true,0.95,0.05,2
-WNBA,8,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,1
-WNBA,8,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,1
-WNBA,8,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,1
-WNBA,8,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,1
-WNBA,8,10071,1st Half Point Spread,Spread,true,0.95,0.05,1
-WNBA,8,10072,2nd Half Point Spread,Spread,true,0.95,0.05,1
+WNBA,8,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,2
+WNBA,8,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,2
+WNBA,8,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,2
+WNBA,8,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,2
+WNBA,8,10071,1st Half Point Spread,Spread,true,0.95,0.05,2
+WNBA,8,10072,2nd Half Point Spread,Spread,true,0.95,0.05,2
 WNBA,8,10061,1st Half Total Points,Total,true,0.95,0.05,2
 WNBA,8,10062,2nd Half Total Points,Total,true,0.95,0.05,2
-WNBA,8,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,1
-WNBA,8,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,1
-WNBA,8,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,1
-WNBA,8,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,1
-WNBA,8,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,1
-WNBA,8,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+WNBA,8,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,2
+WNBA,8,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+WNBA,8,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+WNBA,8,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,2
+WNBA,8,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,2
+WNBA,8,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
 WNBA,8,10111,1st Quarter Team Total,Total,true,0.95,0.05,2
 WNBA,8,10112,1st Quarter Team Total,Total,true,0.95,0.05,2
 WNBA,8,10211,2nd Quarter Team Total,Total,true,0.95,0.05,2
@@ -1079,90 +1079,90 @@ ECUADOR_SERIA_A,20535,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 CS2,9977,0,Moneyline,Moneyline,true,0.95,0.05,1
 CS2,9977,10001,Map Handicap,Spread,true,0.95,0.05,1
 CS2,9977,10002,Total Maps,Total,true,0.95,0.05,1
-CS2,9977,10100,Correct Score,Correct Score,true,0.99,0.01,1
-CS2,9977,10031,1st Map Total Rounds,Total,true,0.95,0.05,1
-CS2,9977,10032,2nd Map Total Rounds,Total,true,0.95,0.05,1
-CS2,9977,10033,3rd Map Total Rounds,Total,true,0.95,0.05,1
-CS2,9977,10034,3rd Map Total Rounds,Total,true,0.95,0.05,1
-CS2,9977,10035,3rd Map Total Rounds,Total,true,0.95,0.05,1
-CS2,9977,10041,1st Map Round Handicap,Spread,true,0.95,0.05,1
-CS2,9977,10042,2nd Map Round Handicap,Spread,true,0.95,0.05,1
-CS2,9977,10043,3rd Map Round Handicap,Spread,true,0.95,0.05,1
-CS2,9977,10044,4th Map Round Handicap,Spread,true,0.95,0.05,1
-CS2,9977,10045,5th Map Round Handicap,Spread,true,0.95,0.05,1
-CS2,9977,10021,1st Map Moneyline,Moneyline,true,0.99,0.01,1
-CS2,9977,10022,2nd Map Moneyline,Moneyline,true,0.99,0.01,1
-CS2,9977,10023,3rd Map Moneyline,Moneyline,true,0.99,0.01,1
-CS2,9977,10024,4th Map Moneyline,Moneyline,true,0.99,0.01,1
-CS2,9977,10025,5th Map Moneyline,Moneyline,true,0.99,0.01,1
-CS2,9977,10111,1st Map Team Total,Total,true,0.95,0.05,1
-CS2,9977,10112,1st Map Team Total,Total,true,0.95,0.05,1
-CS2,9977,10211,2nd Map Team Total,Total,true,0.95,0.05,1
-CS2,9977,10212,2nd Map Team Total,Total,true,0.95,0.05,1
-CS2,9977,10311,3rd Map Team Total,Total,true,0.95,0.05,1
-CS2,9977,10312,3rd Map Team Total,Total,true,0.95,0.05,1
-CS2,9977,10411,4th Map Team Total,Total,true,0.95,0.05,1
-CS2,9977,10412,4th Map Team Total,Total,true,0.95,0.05,1
-CS2,9977,10511,5th Map Team Total,Total,true,0.95,0.05,1
-CS2,9977,10512,5th Map Team Total,Total,true,0.95,0.05,1
+CS2,9977,10100,Correct Score,Correct Score,true,0.99,0.01,2
+CS2,9977,10031,1st Map Total Rounds,Total,true,0.95,0.05,2
+CS2,9977,10032,2nd Map Total Rounds,Total,true,0.95,0.05,2
+CS2,9977,10033,3rd Map Total Rounds,Total,true,0.95,0.05,2
+CS2,9977,10034,3rd Map Total Rounds,Total,true,0.95,0.05,2
+CS2,9977,10035,3rd Map Total Rounds,Total,true,0.95,0.05,2
+CS2,9977,10041,1st Map Round Handicap,Spread,true,0.95,0.05,2
+CS2,9977,10042,2nd Map Round Handicap,Spread,true,0.95,0.05,2
+CS2,9977,10043,3rd Map Round Handicap,Spread,true,0.95,0.05,2
+CS2,9977,10044,4th Map Round Handicap,Spread,true,0.95,0.05,2
+CS2,9977,10045,5th Map Round Handicap,Spread,true,0.95,0.05,2
+CS2,9977,10021,1st Map Moneyline,Moneyline,true,0.99,0.01,2
+CS2,9977,10022,2nd Map Moneyline,Moneyline,true,0.99,0.01,2
+CS2,9977,10023,3rd Map Moneyline,Moneyline,true,0.99,0.01,2
+CS2,9977,10024,4th Map Moneyline,Moneyline,true,0.99,0.01,2
+CS2,9977,10025,5th Map Moneyline,Moneyline,true,0.99,0.01,2
+CS2,9977,10111,1st Map Team Total,Total,true,0.95,0.05,2
+CS2,9977,10112,1st Map Team Total,Total,true,0.95,0.05,2
+CS2,9977,10211,2nd Map Team Total,Total,true,0.95,0.05,2
+CS2,9977,10212,2nd Map Team Total,Total,true,0.95,0.05,2
+CS2,9977,10311,3rd Map Team Total,Total,true,0.95,0.05,2
+CS2,9977,10312,3rd Map Team Total,Total,true,0.95,0.05,2
+CS2,9977,10411,4th Map Team Total,Total,true,0.95,0.05,2
+CS2,9977,10412,4th Map Team Total,Total,true,0.95,0.05,2
+CS2,9977,10511,5th Map Team Total,Total,true,0.95,0.05,2
+CS2,9977,10512,5th Map Team Total,Total,true,0.95,0.05,2
 DOTA2,9983,0,Moneyline,Moneyline,true,0.95,0.05,1
 DOTA2,9983,10001,Map Handicap,Spread,true,0.95,0.05,1
 DOTA2,9983,10002,Total Maps,Total,true,0.95,0.05,1
-DOTA2,9983,10100,Correct Score,Correct Score,true,0.99,0.01,1
-DOTA2,9983,10031,1st Map Total Kills,Total,true,0.95,0.05,1
-DOTA2,9983,10032,2nd Map Total Kills,Total,true,0.95,0.05,1
-DOTA2,9983,10033,3rd Map Total Kills,Total,true,0.95,0.05,1
-DOTA2,9983,10034,3rd Map Total Kills,Total,true,0.95,0.05,1
-DOTA2,9983,10035,3rd Map Total Kills,Total,true,0.95,0.05,1
-DOTA2,9983,10041,1st Map Round Handicap,Spread,true,0.95,0.05,1
-DOTA2,9983,10042,2nd Map Round Handicap,Spread,true,0.95,0.05,1
-DOTA2,9983,10043,3rd Map Round Handicap,Spread,true,0.95,0.05,1
-DOTA2,9983,10044,4th Map Round Handicap,Spread,true,0.95,0.05,1
-DOTA2,9983,10045,5th Map Round Handicap,Spread,true,0.95,0.05,1
-DOTA2,9983,10021,1st Map Moneyline,Moneyline,true,0.99,0.01,1
-DOTA2,9983,10022,2nd Map Moneyline,Moneyline,true,0.99,0.01,1
-DOTA2,9983,10023,3rd Map Moneyline,Moneyline,true,0.99,0.01,1
-DOTA2,9983,10024,4th Map Moneyline,Moneyline,true,0.99,0.01,1
-DOTA2,9983,10025,5th Map Moneyline,Moneyline,true,0.99,0.01,1
-DOTA2,9983,10111,1st Map Team Total,Total,true,0.95,0.05,1
-DOTA2,9983,10112,1st Map Team Total,Total,true,0.95,0.05,1
-DOTA2,9983,10211,2nd Map Team Total,Total,true,0.95,0.05,1
-DOTA2,9983,10212,2nd Map Team Total,Total,true,0.95,0.05,1
-DOTA2,9983,10311,3rd Map Team Total,Total,true,0.95,0.05,1
-DOTA2,9983,10312,3rd Map Team Total,Total,true,0.95,0.05,1
-DOTA2,9983,10411,4th Map Team Total,Total,true,0.95,0.05,1
-DOTA2,9983,10412,4th Map Team Total,Total,true,0.95,0.05,1
-DOTA2,9983,10511,5th Map Team Total,Total,true,0.95,0.05,1
-DOTA2,9983,10512,5th Map Team Total,Total,true,0.95,0.05,1
+DOTA2,9983,10100,Correct Score,Correct Score,true,0.99,0.01,2
+DOTA2,9983,10031,1st Map Total Kills,Total,true,0.95,0.05,2
+DOTA2,9983,10032,2nd Map Total Kills,Total,true,0.95,0.05,2
+DOTA2,9983,10033,3rd Map Total Kills,Total,true,0.95,0.05,2
+DOTA2,9983,10034,3rd Map Total Kills,Total,true,0.95,0.05,2
+DOTA2,9983,10035,3rd Map Total Kills,Total,true,0.95,0.05,2
+DOTA2,9983,10041,1st Map Round Handicap,Spread,true,0.95,0.05,2
+DOTA2,9983,10042,2nd Map Round Handicap,Spread,true,0.95,0.05,2
+DOTA2,9983,10043,3rd Map Round Handicap,Spread,true,0.95,0.05,2
+DOTA2,9983,10044,4th Map Round Handicap,Spread,true,0.95,0.05,2
+DOTA2,9983,10045,5th Map Round Handicap,Spread,true,0.95,0.05,2
+DOTA2,9983,10021,1st Map Moneyline,Moneyline,true,0.99,0.01,2
+DOTA2,9983,10022,2nd Map Moneyline,Moneyline,true,0.99,0.01,2
+DOTA2,9983,10023,3rd Map Moneyline,Moneyline,true,0.99,0.01,2
+DOTA2,9983,10024,4th Map Moneyline,Moneyline,true,0.99,0.01,2
+DOTA2,9983,10025,5th Map Moneyline,Moneyline,true,0.99,0.01,2
+DOTA2,9983,10111,1st Map Team Total,Total,true,0.95,0.05,2
+DOTA2,9983,10112,1st Map Team Total,Total,true,0.95,0.05,2
+DOTA2,9983,10211,2nd Map Team Total,Total,true,0.95,0.05,2
+DOTA2,9983,10212,2nd Map Team Total,Total,true,0.95,0.05,2
+DOTA2,9983,10311,3rd Map Team Total,Total,true,0.95,0.05,2
+DOTA2,9983,10312,3rd Map Team Total,Total,true,0.95,0.05,2
+DOTA2,9983,10411,4th Map Team Total,Total,true,0.95,0.05,2
+DOTA2,9983,10412,4th Map Team Total,Total,true,0.95,0.05,2
+DOTA2,9983,10511,5th Map Team Total,Total,true,0.95,0.05,2
+DOTA2,9983,10512,5th Map Team Total,Total,true,0.95,0.05,2
 LOL,10138,0,Moneyline,Moneyline,true,0.95,0.05,1
 LOL,10138,10001,Map Handicap,Spread,true,0.95,0.05,1
 LOL,10138,10002,Total Maps,Total,true,0.95,0.05,1
-LOL,10138,10100,Correct Score,Correct Score,true,0.99,0.01,1
-LOL,10138,10031,1st Map Total Kills,Total,true,0.95,0.05,1
-LOL,10138,10032,2nd Map Total Kills,Total,true,0.95,0.05,1
-LOL,10138,10033,3rd Map Total Kills,Total,true,0.95,0.05,1
-LOL,10138,10034,3rd Map Total Kills,Total,true,0.95,0.05,1
-LOL,10138,10035,3rd Map Total Kills,Total,true,0.95,0.05,1
-LOL,10138,10041,1st Map Round Handicap,Spread,true,0.95,0.05,1
-LOL,10138,10042,2nd Map Round Handicap,Spread,true,0.95,0.05,1
-LOL,10138,10043,3rd Map Round Handicap,Spread,true,0.95,0.05,1
-LOL,10138,10044,4th Map Round Handicap,Spread,true,0.95,0.05,1
-LOL,10138,10045,5th Map Round Handicap,Spread,true,0.95,0.05,1
-LOL,10138,10021,1st Map Moneyline,Moneyline,true,0.99,0.01,1
-LOL,10138,10022,2nd Map Moneyline,Moneyline,true,0.99,0.01,1
-LOL,10138,10023,3rd Map Moneyline,Moneyline,true,0.99,0.01,1
-LOL,10138,10024,4th Map Moneyline,Moneyline,true,0.99,0.01,1
-LOL,10138,10025,5th Map Moneyline,Moneyline,true,0.99,0.01,1
-LOL,10138,10111,1st Map Team Total,Total,true,0.95,0.05,1
-LOL,10138,10112,1st Map Team Total,Total,true,0.95,0.05,1
-LOL,10138,10211,2nd Map Team Total,Total,true,0.95,0.05,1
-LOL,10138,10212,2nd Map Team Total,Total,true,0.95,0.05,1
-LOL,10138,10311,3rd Map Team Total,Total,true,0.95,0.05,1
-LOL,10138,10312,3rd Map Team Total,Total,true,0.95,0.05,1
-LOL,10138,10411,4th Map Team Total,Total,true,0.95,0.05,1
-LOL,10138,10412,4th Map Team Total,Total,true,0.95,0.05,1
-LOL,10138,10511,5th Map Team Total,Total,true,0.95,0.05,1
-LOL,10138,10512,5th Map Team Total,Total,true,0.95,0.05,1
+LOL,10138,10100,Correct Score,Correct Score,true,0.99,0.01,2
+LOL,10138,10031,1st Map Total Kills,Total,true,0.95,0.05,2
+LOL,10138,10032,2nd Map Total Kills,Total,true,0.95,0.05,2
+LOL,10138,10033,3rd Map Total Kills,Total,true,0.95,0.05,2
+LOL,10138,10034,3rd Map Total Kills,Total,true,0.95,0.05,2
+LOL,10138,10035,3rd Map Total Kills,Total,true,0.95,0.05,2
+LOL,10138,10041,1st Map Round Handicap,Spread,true,0.95,0.05,2
+LOL,10138,10042,2nd Map Round Handicap,Spread,true,0.95,0.05,2
+LOL,10138,10043,3rd Map Round Handicap,Spread,true,0.95,0.05,2
+LOL,10138,10044,4th Map Round Handicap,Spread,true,0.95,0.05,2
+LOL,10138,10045,5th Map Round Handicap,Spread,true,0.95,0.05,2
+LOL,10138,10021,1st Map Moneyline,Moneyline,true,0.99,0.01,2
+LOL,10138,10022,2nd Map Moneyline,Moneyline,true,0.99,0.01,2
+LOL,10138,10023,3rd Map Moneyline,Moneyline,true,0.99,0.01,2
+LOL,10138,10024,4th Map Moneyline,Moneyline,true,0.99,0.01,2
+LOL,10138,10025,5th Map Moneyline,Moneyline,true,0.99,0.01,2
+LOL,10138,10111,1st Map Team Total,Total,true,0.95,0.05,2
+LOL,10138,10112,1st Map Team Total,Total,true,0.95,0.05,2
+LOL,10138,10211,2nd Map Team Total,Total,true,0.95,0.05,2
+LOL,10138,10212,2nd Map Team Total,Total,true,0.95,0.05,2
+LOL,10138,10311,3rd Map Team Total,Total,true,0.95,0.05,2
+LOL,10138,10312,3rd Map Team Total,Total,true,0.95,0.05,2
+LOL,10138,10411,4th Map Team Total,Total,true,0.95,0.05,2
+LOL,10138,10412,4th Map Team Total,Total,true,0.95,0.05,2
+LOL,10138,10511,5th Map Team Total,Total,true,0.95,0.05,2
+LOL,10138,10512,5th Map Team Total,Total,true,0.95,0.05,2
 Valorant,20300,0,Moneyline,Moneyline,true,0.95,0.05,3
 Valorant,20300,10001,Map Handicap,Spread,true,0.95,0.05,3
 Valorant,20300,10002,Total Maps,Total,true,0.95,0.05,3
