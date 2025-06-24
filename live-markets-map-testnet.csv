@@ -368,25 +368,25 @@ CS2,9977,10022,2nd Map Moneyline,Moneyline,true,0.99,0.01,1
 CS2,9977,10023,3rd Map Moneyline,Moneyline,true,0.99,0.01,1
 CS2,9977,10024,4th Map Moneyline,Moneyline,true,0.99,0.01,1
 CS2,9977,10025,5th Map Moneyline,Moneyline,true,0.99,0.01,1
-DOTA2,9983,0,Moneyline,Moneyline,true,0.75,0.25,0
-DOTA2,9983,10001,Map Handicap,Spread,true,0.9,0.1,0
-DOTA2,9983,10002,Total Maps,Total,true,0.9,0.1,0
-DOTA2,9983,10100,Correct Score,Correct Score,true,0.9,0.1,0
-DOTA2,9983,10031,1st Map Total Kills,Total,true,0.75,0.25,1
-DOTA2,9983,10032,2nd Map Total Kills,Total,true,0.75,0.25,1
-DOTA2,9983,10033,3rd Map Total Kills,Total,true,0.75,0.25,1
-DOTA2,9983,10034,3rd Map Total Kills,Total,true,0.75,0.25,1
-DOTA2,9983,10035,3rd Map Total Kills,Total,true,0.75,0.25,1
-DOTA2,9983,10041,1st Map Round Handicap,Spread,true,0.75,0.25,1
-DOTA2,9983,10042,2nd Map Round Handicap,Spread,true,0.75,0.25,1
-DOTA2,9983,10043,3rd Map Round Handicap,Spread,true,0.75,0.25,1
-DOTA2,9983,10044,4th Map Round Handicap,Spread,true,0.75,0.25,1
-DOTA2,9983,10045,5th Map Round Handicap,Spread,true,0.75,0.25,1
-DOTA2,9983,10021,1st Map Moneyline,Moneyline,true,0.99,0.01,1
-DOTA2,9983,10022,2nd Map Moneyline,Moneyline,true,0.99,0.01,1
-DOTA2,9983,10023,3rd Map Moneyline,Moneyline,true,0.99,0.01,1
-DOTA2,9983,10024,4th Map Moneyline,Moneyline,true,0.99,0.01,1
-DOTA2,9983,10025,5th Map Moneyline,Moneyline,true,0.99,0.01,1
+DOTA2,9983,0,Moneyline,Moneyline,true,0.75,0.25,1
+DOTA2,9983,10001,Map Handicap,Spread,true,0.9,0.1,1
+DOTA2,9983,10002,Total Maps,Total,true,0.9,0.1,1
+DOTA2,9983,10100,Correct Score,Correct Score,true,0.9,0.1,2
+DOTA2,9983,10031,1st Map Total Kills,Total,true,0.75,0.25,2
+DOTA2,9983,10032,2nd Map Total Kills,Total,true,0.75,0.25,2
+DOTA2,9983,10033,3rd Map Total Kills,Total,true,0.75,0.25,2
+DOTA2,9983,10034,3rd Map Total Kills,Total,true,0.75,0.25,2
+DOTA2,9983,10035,3rd Map Total Kills,Total,true,0.75,0.25,2
+DOTA2,9983,10041,1st Map Round Handicap,Spread,true,0.75,0.25,2
+DOTA2,9983,10042,2nd Map Round Handicap,Spread,true,0.75,0.25,2
+DOTA2,9983,10043,3rd Map Round Handicap,Spread,true,0.75,0.25,2
+DOTA2,9983,10044,4th Map Round Handicap,Spread,true,0.75,0.25,2
+DOTA2,9983,10045,5th Map Round Handicap,Spread,true,0.75,0.25,2
+DOTA2,9983,10021,1st Map Moneyline,Moneyline,true,0.99,0.01,2
+DOTA2,9983,10022,2nd Map Moneyline,Moneyline,true,0.99,0.01,2
+DOTA2,9983,10023,3rd Map Moneyline,Moneyline,true,0.99,0.01,2
+DOTA2,9983,10024,4th Map Moneyline,Moneyline,true,0.99,0.01,2
+DOTA2,9983,10025,5th Map Moneyline,Moneyline,true,0.99,0.01,2
 LOL,10138,0,Moneyline,Moneyline,true,0.75,0.25,0
 LOL,10138,10001,Map Handicap,Spread,true,0.9,0.1,0
 LOL,10138,10002,Total Maps,Total,true,0.9,0.1,0
