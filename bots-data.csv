@@ -41,6 +41,7 @@ overtime-puller-opticodds-euro-basketball,Euroleague;Eurocup;International - Cha
 overtime-puller-opticodds-basketball-nations,FIBA - Eurobasket Qualifiers;FIBA - Americup Qualifiers;FIBA - Asia Cup Qualifiers;FIBA - Eurobasket Women,20214;20212;20213;20220,2,20s,0x79eCC83D3be3e0c79570A0E4Fa81398688992CcD,2m,
 overtime-puller-opticodds-basketball-leagues-one,Italy - Lega Basket Serie A;Germany - BBL;France - LNB Pro A;Spain - Liga ACB;Greece - A1 League,20202;20203;20204;20201;20217,2,20s,0xF9F46F57C9C55060ED189998971f21f309386A7a,2m,
 overtime-puller-opticodds-basketball-leagues-two,Australia - NBL;China - CBA;Turkey - BSL;Philippines - Phillipine Cup,20206;20205;20219;20221,2,20s,0x0C639782312e296F5d9ed83C65B29f464e6222f4,2m,
+overtime-puller-opticodds-basketball-3x3,BIG3,20210,3,20s,0x525d90AE1f658FDA374b1Ddd8Ed8811F3eF86691,2m,
 overtime-puller-opticodds-hockey-euro,Finland - SM Liiga;Russia - KHL;Sweden - SHL;IIHF - World Championship,319;321;324;33,3,20s,0x0AF1e8D67FED1eb49766c42a28178d805FD24C13,2m,
 overtime-puller-opticodds-handball-europe,EHF - Champions League;EHF - Champions League Women;EHF - European League,383;384;385,4,20s,0x59560b910582C293D204B614AFf4d0b0eac2D3Db,2m,
 overtime-puller-opticodds-handball-leagues,France - LNH Division 1;Germany - HBL;Spain - ASOBAL;Sweden - Handbollsligan;Poland - Superliga,387;386;398;397;392,4,20s,0xA36316c0fCd8c7fA5ccCeB54298ec3b8f9bF4DC8,2m,
