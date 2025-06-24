@@ -427,65 +427,8 @@ WTT MEN,8914,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,1
 WTT MEN,8914,10024,4th Set Moneyline,Moneyline,true,0.99,0.01,1
 WTT MEN,8914,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,1
 POLAND_TT_ELITE_SERIES_MEN,8913,0,Moneyline,Moneyline,true,0.9,0.1,2
-POLAND_TT_ELITE_SERIES_MEN,8913,10001,Point Spread,Spread,true,0.9,0.1,1
-POLAND_TT_ELITE_SERIES_MEN,8913,10002,Total Points,Total,true,0.9,0.1,1
-POLAND_TT_ELITE_SERIES_MEN,8913,10017,Player Points Won,Total,true,0.9,0.1,1
-POLAND_TT_ELITE_SERIES_MEN,8913,10018,Player Points Won,Total,true,0.9,0.1,1
-POLAND_TT_ELITE_SERIES_MEN,8913,10031,1st Set Total Points,Total,true,0.9,0.1,1
-POLAND_TT_ELITE_SERIES_MEN,8913,10032,2nd Set Total Points,Total,true,0.9,0.1,1
-POLAND_TT_ELITE_SERIES_MEN,8913,10033,3rd Set Total Points,Total,true,0.9,0.1,1
-POLAND_TT_ELITE_SERIES_MEN,8913,10034,4th Set Total Points,Total,true,0.9,0.1,1
-POLAND_TT_ELITE_SERIES_MEN,8913,10035,5th Set Total Points,Total,true,0.9,0.1,1
-POLAND_TT_ELITE_SERIES_MEN,8913,10041,1st Set Point Spread,Spread,true,0.9,0.1,1
-POLAND_TT_ELITE_SERIES_MEN,8913,10042,2nd Set Point Spread,Spread,true,0.9,0.1,1
-POLAND_TT_ELITE_SERIES_MEN,8913,10043,3rd Set Point Spread,Spread,true,0.9,0.1,1
-POLAND_TT_ELITE_SERIES_MEN,8913,10044,4th Set Point Spread,Spread,true,0.9,0.1,1
-POLAND_TT_ELITE_SERIES_MEN,8913,10045,5th Set Point Spread,Spread,true,0.9,0.1,1
-POLAND_TT_ELITE_SERIES_MEN,8913,10021,1st Set Moneyline,Moneyline,true,0.99,0.01,1
-POLAND_TT_ELITE_SERIES_MEN,8913,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,1
-POLAND_TT_ELITE_SERIES_MEN,8913,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,1
-POLAND_TT_ELITE_SERIES_MEN,8913,10024,4th Set Moneyline,Moneyline,true,0.99,0.01,1
-POLAND_TT_ELITE_SERIES_MEN,8913,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,1
 CZECH_TT_LIGA_PRO_MEN1,8912,0,Moneyline,Moneyline,true,0.9,0.1,2
-CZECH_TT_LIGA_PRO_MEN1,8912,10001,Point Spread,Spread,true,0.9,0.1,1
-CZECH_TT_LIGA_PRO_MEN1,8912,10002,Total Points,Total,true,0.9,0.1,1
-CZECH_TT_LIGA_PRO_MEN1,8912,10017,Player Points Won,Total,true,0.9,0.1,1
-CZECH_TT_LIGA_PRO_MEN1,8912,10018,Player Points Won,Total,true,0.9,0.1,1
-CZECH_TT_LIGA_PRO_MEN1,8912,10031,1st Set Total Points,Total,true,0.9,0.1,1
-CZECH_TT_LIGA_PRO_MEN1,8912,10032,2nd Set Total Points,Total,true,0.9,0.1,1
-CZECH_TT_LIGA_PRO_MEN1,8912,10033,3rd Set Total Points,Total,true,0.9,0.1,1
-CZECH_TT_LIGA_PRO_MEN1,8912,10034,4th Set Total Points,Total,true,0.9,0.1,1
-CZECH_TT_LIGA_PRO_MEN1,8912,10035,5th Set Total Points,Total,true,0.9,0.1,1
-CZECH_TT_LIGA_PRO_MEN1,8912,10041,1st Set Point Spread,Spread,true,0.9,0.1,1
-CZECH_TT_LIGA_PRO_MEN1,8912,10042,2nd Set Point Spread,Spread,true,0.9,0.1,1
-CZECH_TT_LIGA_PRO_MEN1,8912,10043,3rd Set Point Spread,Spread,true,0.9,0.1,1
-CZECH_TT_LIGA_PRO_MEN1,8912,10044,4th Set Point Spread,Spread,true,0.9,0.1,1
-CZECH_TT_LIGA_PRO_MEN1,8912,10045,5th Set Point Spread,Spread,true,0.9,0.1,1
-CZECH_TT_LIGA_PRO_MEN1,8912,10021,1st Set Moneyline,Moneyline,true,0.99,0.01,1
-CZECH_TT_LIGA_PRO_MEN1,8912,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,1
-CZECH_TT_LIGA_PRO_MEN1,8912,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,1
-CZECH_TT_LIGA_PRO_MEN1,8912,10024,4th Set Moneyline,Moneyline,true,0.99,0.01,1
-CZECH_TT_LIGA_PRO_MEN1,8912,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,1
 CZECH_TT_CUP_MEN,8911,0,Moneyline,Moneyline,true,0.9,0.1,2
-CZECH_TT_CUP_MEN,8911,10001,Point Spread,Spread,true,0.9,0.1,1
-CZECH_TT_CUP_MEN,8911,10002,Total Points,Total,true,0.9,0.1,1
-CZECH_TT_CUP_MEN,8911,10017,Player Points Won,Total,true,0.9,0.1,1
-CZECH_TT_CUP_MEN,8911,10018,Player Points Won,Total,true,0.9,0.1,1
-CZECH_TT_CUP_MEN,8911,10031,1st Set Total Points,Total,true,0.9,0.1,1
-CZECH_TT_CUP_MEN,8911,10032,2nd Set Total Points,Total,true,0.9,0.1,1
-CZECH_TT_CUP_MEN,8911,10033,3rd Set Total Points,Total,true,0.9,0.1,1
-CZECH_TT_CUP_MEN,8911,10034,4th Set Total Points,Total,true,0.9,0.1,1
-CZECH_TT_CUP_MEN,8911,10035,5th Set Total Points,Total,true,0.9,0.1,1
-CZECH_TT_CUP_MEN,8911,10041,1st Set Point Spread,Spread,true,0.9,0.1,1
-CZECH_TT_CUP_MEN,8911,10042,2nd Set Point Spread,Spread,true,0.9,0.1,1
-CZECH_TT_CUP_MEN,8911,10043,3rd Set Point Spread,Spread,true,0.9,0.1,1
-CZECH_TT_CUP_MEN,8911,10044,4th Set Point Spread,Spread,true,0.9,0.1,1
-CZECH_TT_CUP_MEN,8911,10045,5th Set Point Spread,Spread,true,0.9,0.1,1
-CZECH_TT_CUP_MEN,8911,10021,1st Set Moneyline,Moneyline,true,0.99,0.01,1
-CZECH_TT_CUP_MEN,8911,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,1
-CZECH_TT_CUP_MEN,8911,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,1
-CZECH_TT_CUP_MEN,8911,10024,4th Set Moneyline,Moneyline,true,0.99,0.01,1
-CZECH_TT_CUP_MEN,8911,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,1
 AFL,9510,0,Moneyline,Moneyline,true,0.9,0.1,1
 AFL,9510,10001,Point Spread,Spread,true,0.8,0.2,1
 AFL,9510,10002,Total Points,Total,true,0.8,0.2,1
