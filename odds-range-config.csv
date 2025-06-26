@@ -1,1 +1,259 @@
-
+sportName,sportId,typeId,minOdds,maxOdds,description
+NCAAF,1,10001,175,225,Spread
+NCAAF,1,10002,175,225,Totals
+NCAAF,1,10017,175,225,Total Home Team To Score
+NCAAF,1,10018,175,225,Total Away Team To Score
+NCAAF,1,10061,175,225,First Period Total Secondary
+NCAAF,1,10062,175,225,Second Period Total Secondary
+NCAAF,1,10071,175,225,First Period Spread Secondary
+NCAAF,1,10072,175,225,Second Period Spread Secondary
+NCAAF,1,11051,120,500,Player Passing Yards
+NCAAF,1,11052,120,500,Player Passing Touchdowns
+NCAAF,1,11053,120,500,Player Rushing Yards
+NCAAF,1,11055,120,500,Anytime Touchdown Scorer
+NCAAF,1,11057,120,500,Player Receiving Yards
+NFL,2,10001,130,450,Spread
+NFL,2,10002,130,450,Totals
+NFL,2,10017,130,450,Total Home Team To Score
+NFL,2,10018,130,450,Total Away Team To Score
+MLB,3,10001,120,400,Spread
+MLB,3,10002,120,400,Totals
+MLB,3,10017,120,400,Total Home Team To Score
+MLB,3,10018,120,400,Total Away Team To Score
+MLB,3,11214,130,320,Player RBIs
+MLB,3,11215,130,320,Player Hits + Runs + RBIs
+MLB,3,11217,110,600,Player Doubles
+MLB,3,11218,130,320,Player Batting Walks
+MLB,3,11219,130,320,Player Batting Strikeouts
+MLB,3,11220,130,320,Player Singles
+MLB,3,11221,110,600,Player Stolen Bases
+MLB,3,11222,130,320,Player Runs
+NBA,4,10001,150,250,Spread
+NBA,4,10002,150,250,Totals
+NBA,4,10031,150,250,First Period Total
+NBA,4,10032,150,250,Second Period Total
+NBA,4,10033,150,250,Third Period Total
+NBA,4,10034,150,250,Fourth Period Total
+NBA,4,10041,150,250,First Period Spread
+NBA,4,10042,150,250,Second Period Spread
+NBA,4,10043,150,250,Third Period Spread
+NBA,4,10044,150,250,Fourth Period Spread
+NBA,4,10061,150,250,First Period Total Secondary
+NBA,4,10062,150,250,Second Period Total Secondary
+NBA,4,10071,150,250,First Period Spread Secondary
+NBA,4,10072,150,250,Second Period Spread Secondary
+NBA,4,10111,150,250,Total Home Team To Score First Period
+NBA,4,10112,150,250,Total Away Team To Score First Period
+NBA,4,10118,150,250,Total Home Team To Score First Period Secondary
+NBA,4,10119,150,250,Total Away Team To Score First Period Secondary
+NBA,4,10211,150,250,Total Home Team To Score Second Period
+NBA,4,10212,150,250,Total Away Team To Score Second Period
+NBA,4,10218,150,250,Total Home Team To Score Second Period Secondary
+NBA,4,10219,150,250,Total Away Team To Score Second Period Secondary
+NBA,4,11098,120,400,Player Blocks
+NBA,4,11228,120,400,Player Rebounds + Assists
+NBA,4,11229,120,400,Player Steals
+NBA,4,11230,120,400,Player Steals + Blocks
+NCAAB,5,10001,170,220,Spread
+NCAAB,5,10002,170,220,Totals
+NCAAB,5,10017,170,220,Total Home Team To Score
+NCAAB,5,10018,170,220,Total Away Team To Score
+NCAAB,5,10111,170,220,Total Home Team To Score First Period
+NCAAB,5,10112,170,220,Total Away Team To Score First Period
+NCAAB,5,11098,120,400,Player Blocks
+NCAAB,5,11228,120,400,Player Rebounds + Assists
+NCAAB,5,11229,120,400,Player Steals
+NCAAB,5,11230,120,400,Player Steals + Blocks
+NHL,6,10001,120,400,Spread
+NHL,6,10002,130,300,Totals
+NHL,6,11100,115,6000,Player Goals
+WNBA,8,10001,170,230,Spread
+WNBA,8,10002,170,230,Totals
+WNBA,8,11029,120,350,Player Points
+WNBA,8,11035,120,350,Player Rebounds
+WNBA,8,11038,120,350,Player Made Threes
+WNBA,8,11039,120,350,Player Assists
+England - Premier League,11,11039,110,1000,Player Assists
+England - Premier League,11,11097,110,1000,Player Shots On Goal
+England - Premier League,11,11100,110,1000,Player Goals
+England - Premier League,11,11234,110,300,Anytime Card Receiver
+England - Premier League,11,11235,110,3000,Anytime Red Card Receiver
+England - Premier League,11,11238,110,1000,Player Shots On Target
+England - Premier League,11,11239,110,1000,Player Shots
+France - Ligue 1,12,11039,110,1000,Player Assists
+France - Ligue 1,12,11097,110,1000,Player Shots On Goal
+France - Ligue 1,12,11100,110,1000,Player Goals
+France - Ligue 1,12,11234,110,300,Anytime Card Receiver
+France - Ligue 1,12,11235,110,3000,Anytime Red Card Receiver
+France - Ligue 1,12,11238,110,1000,Player Shots On Target
+France - Ligue 1,12,11239,110,1000,Player Shots
+Germany - Bundesliga,13,11039,110,1000,Player Assists
+Germany - Bundesliga,13,11097,110,1000,Player Shots On Goal
+Germany - Bundesliga,13,11100,110,1000,Player Goals
+Germany - Bundesliga,13,11234,110,300,Anytime Card Receiver
+Germany - Bundesliga,13,11235,110,3000,Anytime Red Card Receiver
+Germany - Bundesliga,13,11238,110,1000,Player Shots On Target
+Germany - Bundesliga,13,11239,110,1000,Player Shots
+Spain - La Liga,14,11039,110,1000,Player Assists
+Spain - La Liga,14,11097,110,1000,Player Shots On Goal
+Spain - La Liga,14,11100,110,1000,Player Goals
+Spain - La Liga,14,11234,110,300,Anytime Card Receiver
+Spain - La Liga,14,11235,110,3000,Anytime Red Card Receiver
+Spain - La Liga,14,11238,110,1000,Player Shots On Target
+Spain - La Liga,14,11239,110,1000,Player Shots
+Italy - Serie A,15,11039,110,1000,Player Assists
+Italy - Serie A,15,11097,110,1000,Player Shots On Goal
+Italy - Serie A,15,11100,110,1000,Player Goals
+Italy - Serie A,15,11234,110,300,Anytime Card Receiver
+Italy - Serie A,15,11235,110,3000,Anytime Red Card Receiver
+Italy - Serie A,15,11238,110,1000,Player Shots On Target
+Italy - Serie A,15,11239,110,1000,Player Shots
+UEFA - Champions League,16,11097,110,1000,Player Shots On Goal
+UEFA - Champions League,16,11100,110,1000,Player Goals
+UEFA - Champions League,16,11234,110,300,Anytime Card Receiver
+UEFA - Champions League,16,11235,110,3000,Anytime Red Card Receiver
+UEFA - Champions League,16,11238,110,1000,Player Shots On Target
+UEFA - Champions League,16,11239,110,1000,Player Shots
+UEFA - Champions League,16,11039,110,1000,Player Assists
+WTA,152,10001,130,310,Spread
+WTA,152,10002,130,310,Totals
+WTA,152,10013,130,310,Second Spread
+WTA,152,10014,130,310,Second Total
+WTA,152,10031,130,310,First Period Total
+WTA,152,10032,130,310,Second Period Total
+WTA,152,10033,130,310,Third Period Total
+WTA,152,10041,130,310,First Period Spread
+WTA,152,10042,130,310,Second Period Spread
+WTA,152,10043,130,310,Third Period Spread
+ATP,156,10001,130,310,Spread
+ATP,156,10002,130,310,Totals
+ATP,156,10013,130,310,Second Spread
+ATP,156,10014,130,310,Second Total
+ATP,156,10031,130,310,First Period Total
+ATP,156,10032,130,310,Second Period Total
+ATP,156,10033,130,310,Third Period Total
+ATP,156,10041,130,310,First Period Spread
+ATP,156,10042,130,310,Second Period Spread
+ATP,156,10043,130,310,Third Period Spread
+ATP,157,10001,130,310,Spread
+ATP,157,10002,130,310,Totals
+ATP,157,10013,130,310,Second Spread
+ATP,157,10014,130,310,Second Total
+ATP,157,10031,130,310,First Period Total
+ATP,157,10032,130,310,Second Period Total
+ATP,157,10033,130,310,Third Period Total
+ATP,157,10041,130,310,First Period Spread
+ATP,157,10042,130,310,Second Period Spread
+ATP,157,10043,130,310,Third Period Spread
+Euroleague,399,10001,175,215,Spread
+Euroleague,399,10002,175,215,Totals
+Euroleague,399,10017,180,200,Total Home Team To Score
+Euroleague,399,10018,180,200,Total Away Team To Score
+Euroleague,399,10031,175,215,First Period Total
+Euroleague,399,10032,175,215,Second Period Total
+Euroleague,399,10041,175,215,First Period Spread
+Euroleague,399,10042,175,215,Second Period Spread
+Euroleague,399,10061,175,215,First Period Total Secondary
+Euroleague,399,10062,175,215,Second Period Total Secondary
+Euroleague,399,10071,175,215,First Period Spread Secondary
+Euroleague,399,10072,175,215,Second Period Spread Secondary
+Euroleague,399,10118,180,200,Total Home Team To Score First Period Secondary
+Euroleague,399,10119,180,200,Total Away Team To Score First Period Secondary
+Euroleague,399,10218,180,200,Total Home Team To Score Second Period Secondary
+Euroleague,399,10219,180,200,Total Away Team To Score Second Period Secondary
+Eurocup,20200,10001,175,215,Spread
+Eurocup,20200,10002,175,215,Totals
+Spain - Liga ACB,20201,10001,175,215,Spread
+Spain - Liga ACB,20201,10002,175,215,Totals
+Italy - Lega Basket Serie A,20202,10001,175,215,Spread
+Italy - Lega Basket Serie A,20202,10002,175,215,Totals
+Germany - BBL,20203,10001,175,215,Spread
+Germany - BBL,20203,10002,175,215,Totals
+France - LNB Pro A,20204,10001,175,215,Spread
+France - LNB Pro A,20204,10002,175,215,Totals
+China - CBA,20205,10001,175,215,Spread
+China - CBA,20205,10002,175,215,Totals
+Australia - NBL,20206,10001,175,215,Spread
+Australia - NBL,20206,10002,175,215,Totals
+Greece - A1 League,20217,10001,175,215,Spread
+Greece - A1 League,20217,10002,175,215,Totals
+International - Champions League,20218,10001,175,215,Spread
+International - Champions League,20218,10002,175,215,Totals
+England - Premier League Darts,20320,10001,130,350,Spread
+England - Premier League Darts,20320,10002,130,350,Totals
+Czech Republic - Extraliga,310,10001,120,400,Spread
+Czech Republic - Extraliga,310,10002,145,265,Totals
+Czech Republic - Extraliga,310,10017,145,265,Total Home Team To Score
+Czech Republic - Extraliga,310,10018,145,265,Total Away Team To Score
+Czech Republic - Extraliga,310,10031,120,265,First Period Total
+Czech Republic - Extraliga,310,10041,120,400,First Period Spread
+Finland - SM Liiga,319,10001,120,400,Spread
+Finland - SM Liiga,319,10002,145,265,Totals
+Finland - SM Liiga,319,10017,145,265,Total Home Team To Score
+Finland - SM Liiga,319,10018,145,265,Total Away Team To Score
+Finland - SM Liiga,319,10031,145,265,First Period Total
+Finland - SM Liiga,319,10041,120,400,First Period Spread
+Russia - KHL,321,10001,120,400,Spread
+Russia - KHL,321,10002,145,265,Totals
+Russia - KHL,321,10017,145,265,Total Home Team To Score
+Russia - KHL,321,10018,145,265,Total Away Team To Score
+Russia - KHL,321,10031,145,265,First Period Total
+Russia - KHL,321,10041,120,400,First Period Spread
+Germany - DEL,322,10001,120,400,Spread
+Germany - DEL,322,10002,145,265,Totals
+Germany - DEL,322,10017,145,265,Total Home Team To Score
+Germany - DEL,322,10018,145,265,Total Away Team To Score
+Germany - DEL,322,10031,145,265,First Period Total
+Germany - DEL,322,10041,120,400,First Period Spread
+Austria - Ice Hockey League,323,10001,120,400,Spread
+Austria - Ice Hockey League,323,10002,145,265,Totals
+Austria - Ice Hockey League,323,10017,145,265,Total Home Team To Score
+Austria - Ice Hockey League,323,10018,145,265,Total Away Team To Score
+Austria - Ice Hockey League,323,10031,145,265,First Period Total
+Austria - Ice Hockey League,323,10041,120,400,First Period Spread
+Sweden - SHL,324,10001,120,400,Spread
+Sweden - SHL,324,10002,145,265,Totals
+Sweden - SHL,324,10017,145,265,Total Home Team To Score
+Sweden - SHL,324,10018,145,265,Total Away Team To Score
+Sweden - SHL,324,10031,145,265,First Period Total
+Sweden - SHL,324,10041,120,400,First Period Spread
+Switzerland - National League,327,10001,120,400,Spread
+Switzerland - National League,327,10002,145,265,Totals
+Switzerland - National League,327,10017,145,265,Total Home Team To Score
+Switzerland - National League,327,10018,145,265,Total Away Team To Score
+Switzerland - National League,327,10031,145,265,First Period Total
+Switzerland - National League,327,10041,120,400,First Period Spread
+USA - AHL,328,10001,120,400,Spread
+USA - AHL,328,10002,145,265,Totals
+USA - AHL,328,10017,145,265,Total Home Team To Score
+USA - AHL,328,10018,145,265,Total Away Team To Score
+USA - AHL,328,10031,145,265,First Period Total
+USA - AHL,328,10041,120,400,First Period Spread
+IIHF - World Championship,33,10001,120,400,Spread
+IIHF - World Championship,33,10002,145,265,Totals
+IIHF - World Championship,33,10017,145,265,Total Home Team To Score
+IIHF - World Championship,33,10018,145,265,Total Away Team To Score
+IIHF - World Championship,33,10031,145,265,First Period Total
+IIHF - World Championship,33,10041,120,400,First Period Spread
+AFL,9510,10001,150,250,Spread
+AFL,9510,10002,150,250,Totals
+CS2,9977,10001,120,400,Spread
+CS2,9977,10002,120,400,Totals
+CS2,9977,10031,120,400,First Period Total
+CS2,9977,10032,120,400,Second Period Total
+CS2,9977,10033,120,400,Third Period Total
+CS2,9977,10041,120,400,First Period Spread
+CS2,9977,10042,120,400,Second Period Spread
+CS2,9977,10043,120,400,Third Period Spread
+Dota 2,9983,10001,120,400,Spread
+Dota 2,9983,10002,120,400,Totals
+League of Legends,10138,10001,120,400,Spread
+League of Legends,10138,10002,120,400,Totals
+Valorant,20300,10001,120,400,Spread
+Valorant,20300,10002,120,400,Totals
+Valorant,20300,10031,120,400,First Period Total
+Valorant,20300,10032,120,400,Second Period Total
+Valorant,20300,10033,120,400,Third Period Total
+Valorant,20300,10041,120,400,First Period Spread
+Valorant,20300,10042,120,400,Second Period Spread
+Valorant,20300,10043,120,400,Third Period Spread
