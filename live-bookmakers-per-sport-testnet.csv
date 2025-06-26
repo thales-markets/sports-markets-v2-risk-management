@@ -1,8 +1,8 @@
 sportName,sportId,primaryBookmaker,secondaryBookmaker,tertiaryBookmaker
-Tennis Masters,156,pinnacle,draftkings,
-Tennis Grand Slam,153,pinnacle,draftkings,
-Tennis WTA,152,pinnacle,draftkings,
-Tennis challenger,157,pinnacle,draftkings,
+Tennis Masters,156,pinnacle,1xbet,
+Tennis Grand Slam,153,pinnacle,1xbet,
+Tennis WTA,152,pinnacle,1xbet,
+Tennis challenger,157,pinnacle,1xbet,
 Brazil cup,20002,,,
 MLS,10,draftkings,,
 EPL,11,draftkings,,
