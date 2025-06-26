@@ -73,8 +73,6 @@ WNBA,8,11029,120,350,Player Points
 WNBA,8,11035,120,350,Player Rebounds
 WNBA,8,11038,120,350,Player Made Threes
 WNBA,8,11039,120,350,Player Assists
-League of Legends,10138,10001,120,400,Spread
-League of Legends,10138,10002,120,400,Totals
 England - Premier League,11,11039,110,1000,Player Assists
 England - Premier League,11,11097,110,1000,Player Shots On Goal
 England - Premier League,11,11100,110,1000,Player Goals
@@ -249,6 +247,8 @@ CS2,9977,10042,120,400,Second Period Spread
 CS2,9977,10043,120,400,Third Period Spread
 Dota 2,9983,10001,120,400,Spread
 Dota 2,9983,10002,120,400,Totals
+League of Legends,10138,10001,120,400,Spread
+League of Legends,10138,10002,120,400,Totals
 Valorant,20300,10001,120,400,Spread
 Valorant,20300,10002,120,400,Totals
 Valorant,20300,10031,120,400,First Period Total
