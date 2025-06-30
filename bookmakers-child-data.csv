@@ -1,8 +1,8 @@
 name,sportId,marketName,bookmaker
 MLB,3,Player Props,draftkings
 MLB,3,Player Hits,espn bet
-MLB,3,Player Hits Allowed,draftkings
-MLB,3,Player Home Runs,draftkings
+MLB,3,Player Hits Allowed,pinnacle
+MLB,3,Player Home Runs,pinnacle
 MLB,3,Player Outs,pinnacle
 MLB,3,Player Strikeouts,pinnacle
 MLB,3,Player Bases,pinnacle
