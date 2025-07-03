@@ -1270,10 +1270,10 @@ CFL,9520,10412,4th Quarter Team Total,Total,true,0.95,0.05,1
 UFL,9521,0,Moneyline,Moneyline,true,0.95,0.05,0
 UFL,9521,10001,Point Spread,Spread,true,0.8,0.2,0
 UFL,9521,10002,Total Points,Total,true,0.8,0.2,0
-CZECH_TT_CUP_MEN,8911,0,Moneyline,Moneyline,true,0.95,0.05,2
-CZECH_TT_LIGA_PRO_MEN,8912,0,Moneyline,Moneyline,true,0.95,0.05,2
-POLAND_TT_ELITE_SERIES_MEN,8913,0,Moneyline,Moneyline,true,0.95,0.05,2
-WTT_MEN,8914,0,Moneyline,Moneyline,true,0.95,0.05,2
+CZECH_TT_CUP_MEN,8911,0,Moneyline,Moneyline,true,0.95,0.05,4
+CZECH_TT_LIGA_PRO_MEN,8912,0,Moneyline,Moneyline,true,0.95,0.05,4
+POLAND_TT_ELITE_SERIES_MEN,8913,0,Moneyline,Moneyline,true,0.95,0.05,4
+WTT_MEN,8914,0,Moneyline,Moneyline,true,0.95,0.05,4
 England - Premier League Darts,20320,0,Moneyline,Moneyline,true,0.95,0.05,1
 England - Premier League Darts,20320,10001,Leg Handicap,Spread,true,0.95,0.05,1
 England - Premier League Darts,20320,10002,Total Legs,Total,true,0.95,0.05,2
