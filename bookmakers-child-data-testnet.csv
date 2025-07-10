@@ -1,5 +1,18 @@
 name,sportId,marketName,bookmaker
-MLB,3,Player Props,opticodds AI
+CS2,9977,Player Props,draftkings
+Dota 2,9983,Player Props,draftkings
+League of Legends,10138,Player Props,draftkings
+MLB,3,Player Props,draftkings
+MLB,3,Player Hits,espn bet
+MLB,3,Player Hits Allowed,pinnacle
+MLB,3,Player Home Runs,pinnacle
+MLB,3,Player Outs,pinnacle
+MLB,3,Player Strikeouts,pinnacle
+MLB,3,Player Bases,pinnacle
+MLB,3,Player Earned Runs,draftkings
+MLB,3,Player Batting Strikeouts,bet365
+MLB,3,Player Stolen Bases,bet365
+MLB,3,Player Batting Walks,bet365
 NCAAB,5,Player Props,betmgm
 NCAAB,5,Player Blocks,betano
 NCAAB,5,Player Steals,betano
@@ -32,12 +45,12 @@ NBA,4,Total Made Threes,espn bet
 NHL,6,Player Blocked Shots,DraftKings
 NHL,6,1st Period Moneyline 3-Way,DraftKings
 NHL,6,2nd Period Moneyline 3-Way,DraftKings
-WNBA,8,Player Props,blue book
+WNBA,8,Player Props,DraftKings
 NCAAF,1,Player Props,bet365
 WTA,152,Player Props,blue book
 ATP,156,Player Props,blue book
-WTA,152,Set Betting,Draftkings
-ATP,156,Set Betting,Draftkings
+WTA,152,Correct Score,Draftkings
+ATP,156,Correct Score,Draftkings
 NFL,2,Player Props,Draftkings
 Czech Republic - Extraliga,310,Total Goals,Draftkings
 Czech Republic - Extraliga,310,Team Total,Draftkings
