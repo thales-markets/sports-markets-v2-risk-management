@@ -1114,26 +1114,26 @@ DOTA2,9983,10032,2nd Map Total Kills,Total,true,0.95,0.05,2
 DOTA2,9983,10033,3rd Map Total Kills,Total,true,0.95,0.05,2
 DOTA2,9983,10034,3rd Map Total Kills,Total,true,0.95,0.05,2
 DOTA2,9983,10035,3rd Map Total Kills,Total,true,0.95,0.05,2
-DOTA2,9983,10041,1st Map Round Handicap,Spread,true,0.95,0.05,2
-DOTA2,9983,10042,2nd Map Round Handicap,Spread,true,0.95,0.05,2
-DOTA2,9983,10043,3rd Map Round Handicap,Spread,true,0.95,0.05,2
-DOTA2,9983,10044,4th Map Round Handicap,Spread,true,0.95,0.05,2
-DOTA2,9983,10045,5th Map Round Handicap,Spread,true,0.95,0.05,2
+DOTA2,9983,10041,1st Map Kills Handicap,Spread,true,0.95,0.05,2
+DOTA2,9983,10042,2nd Map Kills Handicap,Spread,true,0.95,0.05,2
+DOTA2,9983,10043,3rd Map Kills Handicap,Spread,true,0.95,0.05,2
+DOTA2,9983,10044,4th Map Kills Handicap,Spread,true,0.95,0.05,2
+DOTA2,9983,10045,5th Map Kills Handicap,Spread,true,0.95,0.05,2
 DOTA2,9983,10021,1st Map Moneyline,Moneyline,true,0.99,0.01,2
 DOTA2,9983,10022,2nd Map Moneyline,Moneyline,true,0.99,0.01,2
 DOTA2,9983,10023,3rd Map Moneyline,Moneyline,true,0.99,0.01,2
 DOTA2,9983,10024,4th Map Moneyline,Moneyline,true,0.99,0.01,2
 DOTA2,9983,10025,5th Map Moneyline,Moneyline,true,0.99,0.01,2
-DOTA2,9983,10111,1st Map Team Total,Total,true,0.95,0.05,2
-DOTA2,9983,10112,1st Map Team Total,Total,true,0.95,0.05,2
-DOTA2,9983,10211,2nd Map Team Total,Total,true,0.95,0.05,2
-DOTA2,9983,10212,2nd Map Team Total,Total,true,0.95,0.05,2
-DOTA2,9983,10311,3rd Map Team Total,Total,true,0.95,0.05,2
-DOTA2,9983,10312,3rd Map Team Total,Total,true,0.95,0.05,2
-DOTA2,9983,10411,4th Map Team Total,Total,true,0.95,0.05,2
-DOTA2,9983,10412,4th Map Team Total,Total,true,0.95,0.05,2
-DOTA2,9983,10511,5th Map Team Total,Total,true,0.95,0.05,2
-DOTA2,9983,10512,5th Map Team Total,Total,true,0.95,0.05,2
+DOTA2,9983,10111,1st Map Team Total Kills,Total,true,0.95,0.05,2
+DOTA2,9983,10112,1st Map Team Total Kills,Total,true,0.95,0.05,2
+DOTA2,9983,10211,2nd Map Team Total Kills,Total,true,0.95,0.05,2
+DOTA2,9983,10212,2nd Map Team Total Kills,Total,true,0.95,0.05,2
+DOTA2,9983,10311,3rd Map Team Total Kills,Total,true,0.95,0.05,2
+DOTA2,9983,10312,3rd Map Team Total Kills,Total,true,0.95,0.05,2
+DOTA2,9983,10411,4th Map Team Total Kills,Total,true,0.95,0.05,2
+DOTA2,9983,10412,4th Map Team Total Kills,Total,true,0.95,0.05,2
+DOTA2,9983,10511,5th Map Team Total Kills,Total,true,0.95,0.05,2
+DOTA2,9983,10512,5th Map Team Total Kills,Total,true,0.95,0.05,2
 LOL,10138,0,Moneyline,Moneyline,true,0.95,0.05,1
 LOL,10138,10001,Map Handicap,Spread,true,0.95,0.05,1
 LOL,10138,10002,Total Maps,Total,true,0.95,0.05,1
@@ -1143,26 +1143,26 @@ LOL,10138,10032,2nd Map Total Kills,Total,true,0.95,0.05,2
 LOL,10138,10033,3rd Map Total Kills,Total,true,0.95,0.05,2
 LOL,10138,10034,3rd Map Total Kills,Total,true,0.95,0.05,2
 LOL,10138,10035,3rd Map Total Kills,Total,true,0.95,0.05,2
-LOL,10138,10041,1st Map Round Handicap,Spread,true,0.95,0.05,2
-LOL,10138,10042,2nd Map Round Handicap,Spread,true,0.95,0.05,2
-LOL,10138,10043,3rd Map Round Handicap,Spread,true,0.95,0.05,2
-LOL,10138,10044,4th Map Round Handicap,Spread,true,0.95,0.05,2
-LOL,10138,10045,5th Map Round Handicap,Spread,true,0.95,0.05,2
+LOL,10138,10041,1st Map Kills Handicap,Spread,true,0.95,0.05,2
+LOL,10138,10042,2nd Map Kills Handicap,Spread,true,0.95,0.05,2
+LOL,10138,10043,3rd Map Kills Handicap,Spread,true,0.95,0.05,2
+LOL,10138,10044,4th Map Kills Handicap,Spread,true,0.95,0.05,2
+LOL,10138,10045,5th Map Kills Handicap,Spread,true,0.95,0.05,2
 LOL,10138,10021,1st Map Moneyline,Moneyline,true,0.99,0.01,2
 LOL,10138,10022,2nd Map Moneyline,Moneyline,true,0.99,0.01,2
 LOL,10138,10023,3rd Map Moneyline,Moneyline,true,0.99,0.01,2
 LOL,10138,10024,4th Map Moneyline,Moneyline,true,0.99,0.01,2
 LOL,10138,10025,5th Map Moneyline,Moneyline,true,0.99,0.01,2
-LOL,10138,10111,1st Map Team Total,Total,true,0.95,0.05,2
-LOL,10138,10112,1st Map Team Total,Total,true,0.95,0.05,2
-LOL,10138,10211,2nd Map Team Total,Total,true,0.95,0.05,2
-LOL,10138,10212,2nd Map Team Total,Total,true,0.95,0.05,2
-LOL,10138,10311,3rd Map Team Total,Total,true,0.95,0.05,2
-LOL,10138,10312,3rd Map Team Total,Total,true,0.95,0.05,2
-LOL,10138,10411,4th Map Team Total,Total,true,0.95,0.05,2
-LOL,10138,10412,4th Map Team Total,Total,true,0.95,0.05,2
-LOL,10138,10511,5th Map Team Total,Total,true,0.95,0.05,2
-LOL,10138,10512,5th Map Team Total,Total,true,0.95,0.05,2
+LOL,10138,10111,1st Map Team Total Kills,Total,true,0.95,0.05,2
+LOL,10138,10112,1st Map Team Total Kills,Total,true,0.95,0.05,2
+LOL,10138,10211,2nd Map Team Total Kills,Total,true,0.95,0.05,2
+LOL,10138,10212,2nd Map Team Total Kills,Total,true,0.95,0.05,2
+LOL,10138,10311,3rd Map Team Total Kills,Total,true,0.95,0.05,2
+LOL,10138,10312,3rd Map Team Total Kills,Total,true,0.95,0.05,2
+LOL,10138,10411,4th Map Team Total Kills,Total,true,0.95,0.05,2
+LOL,10138,10412,4th Map Team Total Kills,Total,true,0.95,0.05,2
+LOL,10138,10511,5th Map Team Total Kills,Total,true,0.95,0.05,2
+LOL,10138,10512,5th Map Team Total Kills,Total,true,0.95,0.05,2
 Valorant,20300,0,Moneyline,Moneyline,true,0.95,0.05,2
 Valorant,20300,10001,Map Handicap,Spread,true,0.95,0.05,2
 Valorant,20300,10002,Total Maps,Total,true,0.95,0.05,2
