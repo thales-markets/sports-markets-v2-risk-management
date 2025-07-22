@@ -1441,3 +1441,136 @@ NATIONAL_LACROSSE_LEAGUE,20310,10002,Total Points,Total,true,0.95,0.05,0
 PREMIER_LACROSSE_LEAGUE,20311,0,Moneyline,Moneyline,true,0.95,0.05,0
 PREMIER_LACROSSE_LEAGUE,20311,10001,Point Spread,Spread,true,0.95,0.05,0
 PREMIER_LACROSSE_LEAGUE,20311,10002,Total Points,Total,true,0.95,0.05,0
+Slovakia - Superliga,20714,0,Moneyline,Moneyline,true,0.95,0.05,0
+Slovakia - Superliga,20714,10001,Goal Spread,Spread,true,0.95,0.05,0
+Slovakia - Superliga,20714,10002,Total Goals,Total,true,0.95,0.05,0
+Slovakia - Superliga,20714,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Slovakia - Superliga,20714,10003,Double Chance,Double Chance,true,0.99,0.01,0
+Slovakia - Superliga,20714,10017,Team Total,Total,true,0.95,0.05,0
+Slovakia - Superliga,20714,10018,Team Total,Total,true,0.95,0.05,0
+Slovakia - Superliga,20714,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+Slovakia - Superliga,20714,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+Slovakia - Superliga,20714,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Slovakia - Superliga,20714,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+China - FA Cup,20715,0,Moneyline,Moneyline,true,0.95,0.05,0
+China - FA Cup,20715,10001,Goal Spread,Spread,true,0.95,0.05,0
+China - FA Cup,20715,10002,Total Goals,Total,true,0.95,0.05,0
+China - FA Cup,20715,10100,Correct Score,Correct Score,true,0.99,0.01,2
+China - FA Cup,20715,10003,Double Chance,Double Chance,true,0.99,0.01,0
+China - FA Cup,20715,10017,Team Total,Total,true,0.95,0.05,0
+China - FA Cup,20715,10018,Team Total,Total,true,0.95,0.05,0
+China - FA Cup,20715,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+China - FA Cup,20715,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+China - FA Cup,20715,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+China - FA Cup,20715,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+Romania - Liga I,20661,0,Moneyline,Moneyline,true,0.95,0.05,0
+Romania - Liga I,20661,10001,Goal Spread,Spread,true,0.95,0.05,0
+Romania - Liga I,20661,10002,Total Goals,Total,true,0.95,0.05,0
+Romania - Liga I,20661,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Romania - Liga I,20661,10003,Double Chance,Double Chance,true,0.99,0.01,0
+Romania - Liga I,20661,10017,Team Total,Total,true,0.95,0.05,0
+Romania - Liga I,20661,10018,Team Total,Total,true,0.95,0.05,0
+Romania - Liga I,20661,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+Romania - Liga I,20661,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+Romania - Liga I,20661,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Romania - Liga I,20661,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+Bulgaria - Parva Liga,20507,0,Moneyline,Moneyline,true,0.95,0.05,0
+Bulgaria - Parva Liga,20507,10001,Goal Spread,Spread,true,0.95,0.05,0
+Bulgaria - Parva Liga,20507,10002,Total Goals,Total,true,0.95,0.05,0
+Bulgaria - Parva Liga,20507,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Bulgaria - Parva Liga,20507,10003,Double Chance,Double Chance,true,0.99,0.01,0
+Bulgaria - Parva Liga,20507,10017,Team Total,Total,true,0.95,0.05,0
+Bulgaria - Parva Liga,20507,10018,Team Total,Total,true,0.95,0.05,0
+Bulgaria - Parva Liga,20507,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+Bulgaria - Parva Liga,20507,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+Bulgaria - Parva Liga,20507,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Bulgaria - Parva Liga,20507,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+Croatia - 1. HNL,20520,0,Moneyline,Moneyline,true,0.95,0.05,0
+Croatia - 1. HNL,20520,10001,Goal Spread,Spread,true,0.95,0.05,0
+Croatia - 1. HNL,20520,10002,Total Goals,Total,true,0.95,0.05,0
+Croatia - 1. HNL,20520,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Croatia - 1. HNL,20520,10003,Double Chance,Double Chance,true,0.99,0.01,0
+Croatia - 1. HNL,20520,10017,Team Total,Total,true,0.95,0.05,0
+Croatia - 1. HNL,20520,10018,Team Total,Total,true,0.95,0.05,0
+Croatia - 1. HNL,20520,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+Croatia - 1. HNL,20520,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+Croatia - 1. HNL,20520,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Croatia - 1. HNL,20520,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+Slovenia - PrvaLiga,20682,0,Moneyline,Moneyline,true,0.95,0.05,0
+Slovenia - PrvaLiga,20682,10001,Goal Spread,Spread,true,0.95,0.05,0
+Slovenia - PrvaLiga,20682,10002,Total Goals,Total,true,0.95,0.05,0
+Slovenia - PrvaLiga,20682,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Slovenia - PrvaLiga,20682,10003,Double Chance,Double Chance,true,0.99,0.01,0
+Slovenia - PrvaLiga,20682,10017,Team Total,Total,true,0.95,0.05,0
+Slovenia - PrvaLiga,20682,10018,Team Total,Total,true,0.95,0.05,0
+Slovenia - PrvaLiga,20682,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+Slovenia - PrvaLiga,20682,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+Slovenia - PrvaLiga,20682,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Slovenia - PrvaLiga,20682,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+Hungary - NB I,20572,0,Moneyline,Moneyline,true,0.95,0.05,0
+Hungary - NB I,20572,10001,Goal Spread,Spread,true,0.95,0.05,0
+Hungary - NB I,20572,10002,Total Goals,Total,true,0.95,0.05,0
+Hungary - NB I,20572,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Hungary - NB I,20572,10003,Double Chance,Double Chance,true,0.99,0.01,0
+Hungary - NB I,20572,10017,Team Total,Total,true,0.95,0.05,0
+Hungary - NB I,20572,10018,Team Total,Total,true,0.95,0.05,0
+Hungary - NB I,20572,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+Hungary - NB I,20572,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+Hungary - NB I,20572,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Hungary - NB I,20572,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+Lithuania - A Lyga,20616,0,Moneyline,Moneyline,true,0.95,0.05,0
+Lithuania - A Lyga,20616,10001,Goal Spread,Spread,true,0.95,0.05,0
+Lithuania - A Lyga,20616,10002,Total Goals,Total,true,0.95,0.05,0
+Lithuania - A Lyga,20616,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Lithuania - A Lyga,20616,10003,Double Chance,Double Chance,true,0.99,0.01,0
+Lithuania - A Lyga,20616,10017,Team Total,Total,true,0.95,0.05,0
+Lithuania - A Lyga,20616,10018,Team Total,Total,true,0.95,0.05,0
+Lithuania - A Lyga,20616,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+Lithuania - A Lyga,20616,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+Lithuania - A Lyga,20616,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Lithuania - A Lyga,20616,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+Latvia - Virsliga,20612,0,Moneyline,Moneyline,true,0.95,0.05,0
+Latvia - Virsliga,20612,10001,Goal Spread,Spread,true,0.95,0.05,0
+Latvia - Virsliga,20612,10002,Total Goals,Total,true,0.95,0.05,0
+Latvia - Virsliga,20612,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Latvia - Virsliga,20612,10003,Double Chance,Double Chance,true,0.99,0.01,0
+Latvia - Virsliga,20612,10017,Team Total,Total,true,0.95,0.05,0
+Latvia - Virsliga,20612,10018,Team Total,Total,true,0.95,0.05,0
+Latvia - Virsliga,20612,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+Latvia - Virsliga,20612,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+Latvia - Virsliga,20612,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Latvia - Virsliga,20612,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+Ireland - Premier League,20590,0,Moneyline,Moneyline,true,0.95,0.05,0
+Ireland - Premier League,20590,10001,Goal Spread,Spread,true,0.95,0.05,0
+Ireland - Premier League,20590,10002,Total Goals,Total,true,0.95,0.05,0
+Ireland - Premier League,20590,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Ireland - Premier League,20590,10003,Double Chance,Double Chance,true,0.99,0.01,0
+Ireland - Premier League,20590,10017,Team Total,Total,true,0.95,0.05,0
+Ireland - Premier League,20590,10018,Team Total,Total,true,0.95,0.05,0
+Ireland - Premier League,20590,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+Ireland - Premier League,20590,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+Ireland - Premier League,20590,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Ireland - Premier League,20590,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+Czech Republic - First League,20529,0,Moneyline,Moneyline,true,0.95,0.05,0
+Czech Republic - First League,20529,10001,Goal Spread,Spread,true,0.95,0.05,0
+Czech Republic - First League,20529,10002,Total Goals,Total,true,0.95,0.05,0
+Czech Republic - First League,20529,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Czech Republic - First League,20529,10003,Double Chance,Double Chance,true,0.99,0.01,0
+Czech Republic - First League,20529,10017,Team Total,Total,true,0.95,0.05,0
+Czech Republic - First League,20529,10018,Team Total,Total,true,0.95,0.05,0
+Czech Republic - First League,20529,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+Czech Republic - First League,20529,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+Czech Republic - First League,20529,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Czech Republic - First League,20529,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+Serbia - Super Liga,20109,0,Moneyline,Moneyline,true,0.95,0.05,0
+Serbia - Super Liga,20109,10001,Goal Spread,Spread,true,0.95,0.05,0
+Serbia - Super Liga,20109,10002,Total Goals,Total,true,0.95,0.05,0
+Serbia - Super Liga,20109,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Serbia - Super Liga,20109,10003,Double Chance,Double Chance,true,0.99,0.01,0
+Serbia - Super Liga,20109,10017,Team Total,Total,true,0.95,0.05,0
+Serbia - Super Liga,20109,10018,Team Total,Total,true,0.95,0.05,0
+Serbia - Super Liga,20109,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+Serbia - Super Liga,20109,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+Serbia - Super Liga,20109,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Serbia - Super Liga,20109,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+
