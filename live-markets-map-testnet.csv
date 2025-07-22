@@ -1083,8 +1083,8 @@ CS2,9977,10100,Correct Score,Correct Score,true,0.99,0.01,2
 CS2,9977,10031,1st Map Total Rounds,Total,true,0.95,0.05,2
 CS2,9977,10032,2nd Map Total Rounds,Total,true,0.95,0.05,2
 CS2,9977,10033,3rd Map Total Rounds,Total,true,0.95,0.05,2
-CS2,9977,10034,3rd Map Total Rounds,Total,true,0.95,0.05,2
-CS2,9977,10035,3rd Map Total Rounds,Total,true,0.95,0.05,2
+CS2,9977,10034,4th Map Total Rounds,Total,true,0.95,0.05,2
+CS2,9977,10035,5th Map Total Rounds,Total,true,0.95,0.05,2
 CS2,9977,10041,1st Map Round Handicap,Spread,true,0.95,0.05,2
 CS2,9977,10042,2nd Map Round Handicap,Spread,true,0.95,0.05,2
 CS2,9977,10043,3rd Map Round Handicap,Spread,true,0.95,0.05,2
@@ -1112,28 +1112,28 @@ DOTA2,9983,10100,Correct Score,Correct Score,true,0.99,0.01,2
 DOTA2,9983,10031,1st Map Total Kills,Total,true,0.95,0.05,2
 DOTA2,9983,10032,2nd Map Total Kills,Total,true,0.95,0.05,2
 DOTA2,9983,10033,3rd Map Total Kills,Total,true,0.95,0.05,2
-DOTA2,9983,10034,3rd Map Total Kills,Total,true,0.95,0.05,2
-DOTA2,9983,10035,3rd Map Total Kills,Total,true,0.95,0.05,2
-DOTA2,9983,10041,1st Map Round Handicap,Spread,true,0.95,0.05,2
-DOTA2,9983,10042,2nd Map Round Handicap,Spread,true,0.95,0.05,2
-DOTA2,9983,10043,3rd Map Round Handicap,Spread,true,0.95,0.05,2
-DOTA2,9983,10044,4th Map Round Handicap,Spread,true,0.95,0.05,2
-DOTA2,9983,10045,5th Map Round Handicap,Spread,true,0.95,0.05,2
+DOTA2,9983,10034,4th Map Total Kills,Total,true,0.95,0.05,2
+DOTA2,9983,10035,5th Map Total Kills,Total,true,0.95,0.05,2
+DOTA2,9983,10041,1st Map Kills Handicap,Spread,true,0.95,0.05,2
+DOTA2,9983,10042,2nd Map Kills Handicap,Spread,true,0.95,0.05,2
+DOTA2,9983,10043,3rd Map Kills Handicap,Spread,true,0.95,0.05,2
+DOTA2,9983,10044,4th Map Kills Handicap,Spread,true,0.95,0.05,2
+DOTA2,9983,10045,5th Map Kills Handicap,Spread,true,0.95,0.05,2
 DOTA2,9983,10021,1st Map Moneyline,Moneyline,true,0.99,0.01,2
 DOTA2,9983,10022,2nd Map Moneyline,Moneyline,true,0.99,0.01,2
 DOTA2,9983,10023,3rd Map Moneyline,Moneyline,true,0.99,0.01,2
 DOTA2,9983,10024,4th Map Moneyline,Moneyline,true,0.99,0.01,2
 DOTA2,9983,10025,5th Map Moneyline,Moneyline,true,0.99,0.01,2
-DOTA2,9983,10111,1st Map Team Total,Total,true,0.95,0.05,2
-DOTA2,9983,10112,1st Map Team Total,Total,true,0.95,0.05,2
-DOTA2,9983,10211,2nd Map Team Total,Total,true,0.95,0.05,2
-DOTA2,9983,10212,2nd Map Team Total,Total,true,0.95,0.05,2
-DOTA2,9983,10311,3rd Map Team Total,Total,true,0.95,0.05,2
-DOTA2,9983,10312,3rd Map Team Total,Total,true,0.95,0.05,2
-DOTA2,9983,10411,4th Map Team Total,Total,true,0.95,0.05,2
-DOTA2,9983,10412,4th Map Team Total,Total,true,0.95,0.05,2
-DOTA2,9983,10511,5th Map Team Total,Total,true,0.95,0.05,2
-DOTA2,9983,10512,5th Map Team Total,Total,true,0.95,0.05,2
+DOTA2,9983,10111,1st Map Team Total Kills,Total,true,0.95,0.05,2
+DOTA2,9983,10112,1st Map Team Total Kills,Total,true,0.95,0.05,2
+DOTA2,9983,10211,2nd Map Team Total Kills,Total,true,0.95,0.05,2
+DOTA2,9983,10212,2nd Map Team Total Kills,Total,true,0.95,0.05,2
+DOTA2,9983,10311,3rd Map Team Total Kills,Total,true,0.95,0.05,2
+DOTA2,9983,10312,3rd Map Team Total Kills,Total,true,0.95,0.05,2
+DOTA2,9983,10411,4th Map Team Total Kills,Total,true,0.95,0.05,2
+DOTA2,9983,10412,4th Map Team Total Kills,Total,true,0.95,0.05,2
+DOTA2,9983,10511,5th Map Team Total Kills,Total,true,0.95,0.05,2
+DOTA2,9983,10512,5th Map Team Total Kills,Total,true,0.95,0.05,2
 LOL,10138,0,Moneyline,Moneyline,true,0.95,0.05,1
 LOL,10138,10001,Map Handicap,Spread,true,0.95,0.05,1
 LOL,10138,10002,Total Maps,Total,true,0.95,0.05,1
@@ -1141,88 +1141,63 @@ LOL,10138,10100,Correct Score,Correct Score,true,0.99,0.01,2
 LOL,10138,10031,1st Map Total Kills,Total,true,0.95,0.05,2
 LOL,10138,10032,2nd Map Total Kills,Total,true,0.95,0.05,2
 LOL,10138,10033,3rd Map Total Kills,Total,true,0.95,0.05,2
-LOL,10138,10034,3rd Map Total Kills,Total,true,0.95,0.05,2
-LOL,10138,10035,3rd Map Total Kills,Total,true,0.95,0.05,2
-LOL,10138,10041,1st Map Round Handicap,Spread,true,0.95,0.05,2
-LOL,10138,10042,2nd Map Round Handicap,Spread,true,0.95,0.05,2
-LOL,10138,10043,3rd Map Round Handicap,Spread,true,0.95,0.05,2
-LOL,10138,10044,4th Map Round Handicap,Spread,true,0.95,0.05,2
-LOL,10138,10045,5th Map Round Handicap,Spread,true,0.95,0.05,2
+LOL,10138,10034,4th Map Total Kills,Total,true,0.95,0.05,2
+LOL,10138,10035,5th Map Total Kills,Total,true,0.95,0.05,2
+LOL,10138,10041,1st Map Kills Handicap,Spread,true,0.95,0.05,2
+LOL,10138,10042,2nd Map Kills Handicap,Spread,true,0.95,0.05,2
+LOL,10138,10043,3rd Map Kills Handicap,Spread,true,0.95,0.05,2
+LOL,10138,10044,4th Map Kills Handicap,Spread,true,0.95,0.05,2
+LOL,10138,10045,5th Map Kills Handicap,Spread,true,0.95,0.05,2
 LOL,10138,10021,1st Map Moneyline,Moneyline,true,0.99,0.01,2
 LOL,10138,10022,2nd Map Moneyline,Moneyline,true,0.99,0.01,2
 LOL,10138,10023,3rd Map Moneyline,Moneyline,true,0.99,0.01,2
 LOL,10138,10024,4th Map Moneyline,Moneyline,true,0.99,0.01,2
 LOL,10138,10025,5th Map Moneyline,Moneyline,true,0.99,0.01,2
-LOL,10138,10111,1st Map Team Total,Total,true,0.95,0.05,2
-LOL,10138,10112,1st Map Team Total,Total,true,0.95,0.05,2
-LOL,10138,10211,2nd Map Team Total,Total,true,0.95,0.05,2
-LOL,10138,10212,2nd Map Team Total,Total,true,0.95,0.05,2
-LOL,10138,10311,3rd Map Team Total,Total,true,0.95,0.05,2
-LOL,10138,10312,3rd Map Team Total,Total,true,0.95,0.05,2
-LOL,10138,10411,4th Map Team Total,Total,true,0.95,0.05,2
-LOL,10138,10412,4th Map Team Total,Total,true,0.95,0.05,2
-LOL,10138,10511,5th Map Team Total,Total,true,0.95,0.05,2
-LOL,10138,10512,5th Map Team Total,Total,true,0.95,0.05,2
-Valorant,20300,0,Moneyline,Moneyline,true,0.95,0.05,1
-Valorant,20300,10001,Map Handicap,Spread,true,0.95,0.05,1
-Valorant,20300,10002,Total Maps,Total,true,0.95,0.05,1
-Valorant,20300,10100,Correct Score,Correct Score,true,0.99,0.01,2
-Valorant,20300,10031,1st Map Total Rounds,Total,true,0.95,0.05,2
-Valorant,20300,10032,2nd Map Total Rounds,Total,true,0.95,0.05,2
-Valorant,20300,10033,3rd Map Total Rounds,Total,true,0.95,0.05,2
-Valorant,20300,10034,3rd Map Total Rounds,Total,true,0.95,0.05,2
-Valorant,20300,10035,3rd Map Total Rounds,Total,true,0.95,0.05,2
-Valorant,20300,10041,1st Map Round Handicap,Spread,true,0.95,0.05,2
-Valorant,20300,10042,2nd Map Round Handicap,Spread,true,0.95,0.05,2
-Valorant,20300,10043,3rd Map Round Handicap,Spread,true,0.95,0.05,2
-Valorant,20300,10044,4th Map Round Handicap,Spread,true,0.95,0.05,2
-Valorant,20300,10045,5th Map Round Handicap,Spread,true,0.95,0.05,2
-Valorant,20300,10021,1st Map Moneyline,Moneyline,true,0.99,0.01,2
-Valorant,20300,10022,2nd Map Moneyline,Moneyline,true,0.99,0.01,2
-Valorant,20300,10023,3rd Map Moneyline,Moneyline,true,0.99,0.01,2
-Valorant,20300,10024,4th Map Moneyline,Moneyline,true,0.99,0.01,2
-Valorant,20300,10025,5th Map Moneyline,Moneyline,true,0.99,0.01,2
-Valorant,20300,10111,1st Map Team Total,Total,true,0.95,0.05,2
-Valorant,20300,10112,1st Map Team Total,Total,true,0.95,0.05,2
-Valorant,20300,10211,2nd Map Team Total,Total,true,0.95,0.05,2
-Valorant,20300,10212,2nd Map Team Total,Total,true,0.95,0.05,2
-Valorant,20300,10311,3rd Map Team Total,Total,true,0.95,0.05,2
-Valorant,20300,10312,3rd Map Team Total,Total,true,0.95,0.05,2
-Valorant,20300,10411,4th Map Team Total,Total,true,0.95,0.05,2
-Valorant,20300,10412,4th Map Team Total,Total,true,0.95,0.05,2
-Valorant,20300,10511,5th Map Team Total,Total,true,0.95,0.05,2
-Valorant,20298,10512,5th Map Team Total,Total,true,0.95,0.05,2
+LOL,10138,10111,1st Map Team Total Kills,Total,true,0.95,0.05,2
+LOL,10138,10112,1st Map Team Total Kills,Total,true,0.95,0.05,2
+LOL,10138,10211,2nd Map Team Total Kills,Total,true,0.95,0.05,2
+LOL,10138,10212,2nd Map Team Total Kills,Total,true,0.95,0.05,2
+LOL,10138,10311,3rd Map Team Total Kills,Total,true,0.95,0.05,2
+LOL,10138,10312,3rd Map Team Total Kills,Total,true,0.95,0.05,2
+LOL,10138,10411,4th Map Team Total Kills,Total,true,0.95,0.05,2
+LOL,10138,10412,4th Map Team Total Kills,Total,true,0.95,0.05,2
+LOL,10138,10511,5th Map Team Total Kills,Total,true,0.95,0.05,2
+LOL,10138,10512,5th Map Team Total Kills,Total,true,0.95,0.05,2
+Valorant,20300,0,Moneyline,Moneyline,true,0.95,0.05,2
+Valorant,20300,10001,Map Handicap,Spread,true,0.95,0.05,2
+Valorant,20300,10002,Total Maps,Total,true,0.95,0.05,2
+Valorant,20300,10100,Correct Score,Correct Score,true,0.99,0.01,3
+Valorant,20300,10031,1st Map Total Rounds,Total,true,0.95,0.05,4
+Valorant,20300,10032,2nd Map Total Rounds,Total,true,0.95,0.05,4
+Valorant,20300,10033,3rd Map Total Rounds,Total,true,0.95,0.05,4
+Valorant,20300,10034,4th Map Total Rounds,Total,true,0.95,0.05,4
+Valorant,20300,10035,5th Map Total Rounds,Total,true,0.95,0.05,4
+Valorant,20300,10041,1st Map Round Handicap,Spread,true,0.95,0.05,4
+Valorant,20300,10042,2nd Map Round Handicap,Spread,true,0.95,0.05,4
+Valorant,20300,10043,3rd Map Round Handicap,Spread,true,0.95,0.05,4
+Valorant,20300,10044,4th Map Round Handicap,Spread,true,0.95,0.05,4
+Valorant,20300,10045,5th Map Round Handicap,Spread,true,0.95,0.05,4
+Valorant,20300,10021,1st Map Moneyline,Moneyline,true,0.99,0.01,4
+Valorant,20300,10022,2nd Map Moneyline,Moneyline,true,0.99,0.01,4
+Valorant,20300,10023,3rd Map Moneyline,Moneyline,true,0.99,0.01,4
+Valorant,20300,10024,4th Map Moneyline,Moneyline,true,0.99,0.01,4
+Valorant,20300,10025,5th Map Moneyline,Moneyline,true,0.99,0.01,4
+Valorant,20300,10111,1st Map Team Total,Total,true,0.95,0.05,4
+Valorant,20300,10112,1st Map Team Total,Total,true,0.95,0.05,4
+Valorant,20300,10211,2nd Map Team Total,Total,true,0.95,0.05,4
+Valorant,20300,10212,2nd Map Team Total,Total,true,0.95,0.05,4
+Valorant,20300,10311,3rd Map Team Total,Total,true,0.95,0.05,4
+Valorant,20300,10312,3rd Map Team Total,Total,true,0.95,0.05,4
+Valorant,20300,10411,4th Map Team Total,Total,true,0.95,0.05,4
+Valorant,20300,10412,4th Map Team Total,Total,true,0.95,0.05,4
+Valorant,20300,10511,5th Map Team Total,Total,true,0.95,0.05,4
+Valorant,20298,10512,5th Map Team Total,Total,true,0.95,0.05,4
 OVERWATCH,20296,0,Moneyline,Moneyline,true,0.95,0.05,2
 COD,20300,0,Moneyline,Moneyline,true,0.95,0.05,2
 Mobile Legends,20295,0,Moneyline,Moneyline,true,0.95,0.05,1
 Mobile Legends,20295,10001,Map Handicap,Spread,true,0.95,0.05,1
 Mobile Legends,20295,10002,Total Maps,Total,true,0.95,0.05,1
 Mobile Legends,20295,10100,Correct Score,Correct Score,true,0.99,0.01,2
-Mobile Legends,20295,10031,1st Map Total Kills,Total,true,0.95,0.05,2
-Mobile Legends,20295,10032,2nd Map Total Kills,Total,true,0.95,0.05,2
-Mobile Legends,20295,10033,3rd Map Total Kills,Total,true,0.95,0.05,2
-Mobile Legends,20295,10034,3rd Map Total Kills,Total,true,0.95,0.05,2
-Mobile Legends,20295,10035,3rd Map Total Kills,Total,true,0.95,0.05,2
-Mobile Legends,20295,10041,1st Map Round Handicap,Spread,true,0.95,0.05,2
-Mobile Legends,20295,10042,2nd Map Round Handicap,Spread,true,0.95,0.05,2
-Mobile Legends,20295,10043,3rd Map Round Handicap,Spread,true,0.95,0.05,2
-Mobile Legends,20295,10044,4th Map Round Handicap,Spread,true,0.95,0.05,2
-Mobile Legends,20295,10045,5th Map Round Handicap,Spread,true,0.95,0.05,2
-Mobile Legends,20295,10021,1st Map Moneyline,Moneyline,true,0.99,0.01,2
-Mobile Legends,20295,10022,2nd Map Moneyline,Moneyline,true,0.99,0.01,2
-Mobile Legends,20295,10023,3rd Map Moneyline,Moneyline,true,0.99,0.01,2
-Mobile Legends,20295,10024,4th Map Moneyline,Moneyline,true,0.99,0.01,2
-Mobile Legends,20295,10025,5th Map Moneyline,Moneyline,true,0.99,0.01,2
-Mobile Legends,20295,10111,1st Map Team Total,Total,true,0.95,0.05,2
-Mobile Legends,20295,10112,1st Map Team Total,Total,true,0.95,0.05,2
-Mobile Legends,20295,10211,2nd Map Team Total,Total,true,0.95,0.05,2
-Mobile Legends,20295,10212,2nd Map Team Total,Total,true,0.95,0.05,2
-Mobile Legends,20295,10311,3rd Map Team Total,Total,true,0.95,0.05,2
-Mobile Legends,20295,10312,3rd Map Team Total,Total,true,0.95,0.05,2
-Mobile Legends,20295,10411,4th Map Team Total,Total,true,0.95,0.05,2
-Mobile Legends,20295,10412,4th Map Team Total,Total,true,0.95,0.05,2
-Mobile Legends,20295,10511,5th Map Team Total,Total,true,0.95,0.05,2
-Mobile Legends,20295,10512,5th Map Team Total,Total,true,0.95,0.05,2
 Starcraft 2,20294,0,Moneyline,Moneyline,true,0.95,0.05,1
 Rainbow Six Siege,20293,0,Moneyline,Moneyline,true,0.95,0.05,1
 Australia - NRL,9500,0,Moneyline,Moneyline,true,0.95,0.05,2
@@ -1457,3 +1432,145 @@ FIBA - World Cup U19,20222,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
 FIBA - World Cup U19,20222,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
 FIBA - World Cup U19,20222,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
 FIBA - World Cup U19,20222,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
+FINA_WORLD_CHAMPIONSHIP_WATERPOLO,20870,0,Moneyline,Moneyline,true,0.95,0.05,0
+FINA_WORLD_CHAMPIONSHIP_WATERPOLO,20870,10001,Point Spread,Spread,true,0.95,0.05,0
+FINA_WORLD_CHAMPIONSHIP_WATERPOLO,20870,10002,Total Points,Total,true,0.95,0.05,0
+NATIONAL_LACROSSE_LEAGUE,20310,0,Moneyline,Moneyline,true,0.95,0.05,0
+NATIONAL_LACROSSE_LEAGUE,20310,10001,Point Spread,Spread,true,0.95,0.05,0
+NATIONAL_LACROSSE_LEAGUE,20310,10002,Total Points,Total,true,0.95,0.05,0
+PREMIER_LACROSSE_LEAGUE,20311,0,Moneyline,Moneyline,true,0.95,0.05,0
+PREMIER_LACROSSE_LEAGUE,20311,10001,Point Spread,Spread,true,0.95,0.05,0
+PREMIER_LACROSSE_LEAGUE,20311,10002,Total Points,Total,true,0.95,0.05,0
+Slovakia - Superliga,20714,0,Moneyline,Moneyline,true,0.95,0.05,0
+Slovakia - Superliga,20714,10001,Goal Spread,Spread,true,0.95,0.05,0
+Slovakia - Superliga,20714,10002,Total Goals,Total,true,0.95,0.05,0
+Slovakia - Superliga,20714,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Slovakia - Superliga,20714,10003,Double Chance,Double Chance,true,0.99,0.01,0
+Slovakia - Superliga,20714,10017,Team Total,Total,true,0.95,0.05,0
+Slovakia - Superliga,20714,10018,Team Total,Total,true,0.95,0.05,0
+Slovakia - Superliga,20714,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+Slovakia - Superliga,20714,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+Slovakia - Superliga,20714,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Slovakia - Superliga,20714,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+China - FA Cup,20715,0,Moneyline,Moneyline,true,0.95,0.05,0
+China - FA Cup,20715,10001,Goal Spread,Spread,true,0.95,0.05,0
+China - FA Cup,20715,10002,Total Goals,Total,true,0.95,0.05,0
+China - FA Cup,20715,10100,Correct Score,Correct Score,true,0.99,0.01,2
+China - FA Cup,20715,10003,Double Chance,Double Chance,true,0.99,0.01,0
+China - FA Cup,20715,10017,Team Total,Total,true,0.95,0.05,0
+China - FA Cup,20715,10018,Team Total,Total,true,0.95,0.05,0
+China - FA Cup,20715,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+China - FA Cup,20715,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+China - FA Cup,20715,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+China - FA Cup,20715,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+Romania - Liga I,20661,0,Moneyline,Moneyline,true,0.95,0.05,0
+Romania - Liga I,20661,10001,Goal Spread,Spread,true,0.95,0.05,0
+Romania - Liga I,20661,10002,Total Goals,Total,true,0.95,0.05,0
+Romania - Liga I,20661,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Romania - Liga I,20661,10003,Double Chance,Double Chance,true,0.99,0.01,0
+Romania - Liga I,20661,10017,Team Total,Total,true,0.95,0.05,0
+Romania - Liga I,20661,10018,Team Total,Total,true,0.95,0.05,0
+Romania - Liga I,20661,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+Romania - Liga I,20661,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+Romania - Liga I,20661,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Romania - Liga I,20661,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+Bulgaria - Parva Liga,20507,0,Moneyline,Moneyline,true,0.95,0.05,0
+Bulgaria - Parva Liga,20507,10001,Goal Spread,Spread,true,0.95,0.05,0
+Bulgaria - Parva Liga,20507,10002,Total Goals,Total,true,0.95,0.05,0
+Bulgaria - Parva Liga,20507,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Bulgaria - Parva Liga,20507,10003,Double Chance,Double Chance,true,0.99,0.01,0
+Bulgaria - Parva Liga,20507,10017,Team Total,Total,true,0.95,0.05,0
+Bulgaria - Parva Liga,20507,10018,Team Total,Total,true,0.95,0.05,0
+Bulgaria - Parva Liga,20507,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+Bulgaria - Parva Liga,20507,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+Bulgaria - Parva Liga,20507,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Bulgaria - Parva Liga,20507,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+Croatia - 1. HNL,20520,0,Moneyline,Moneyline,true,0.95,0.05,0
+Croatia - 1. HNL,20520,10001,Goal Spread,Spread,true,0.95,0.05,0
+Croatia - 1. HNL,20520,10002,Total Goals,Total,true,0.95,0.05,0
+Croatia - 1. HNL,20520,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Croatia - 1. HNL,20520,10003,Double Chance,Double Chance,true,0.99,0.01,0
+Croatia - 1. HNL,20520,10017,Team Total,Total,true,0.95,0.05,0
+Croatia - 1. HNL,20520,10018,Team Total,Total,true,0.95,0.05,0
+Croatia - 1. HNL,20520,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+Croatia - 1. HNL,20520,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+Croatia - 1. HNL,20520,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Croatia - 1. HNL,20520,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+Slovenia - PrvaLiga,20682,0,Moneyline,Moneyline,true,0.95,0.05,0
+Slovenia - PrvaLiga,20682,10001,Goal Spread,Spread,true,0.95,0.05,0
+Slovenia - PrvaLiga,20682,10002,Total Goals,Total,true,0.95,0.05,0
+Slovenia - PrvaLiga,20682,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Slovenia - PrvaLiga,20682,10003,Double Chance,Double Chance,true,0.99,0.01,0
+Slovenia - PrvaLiga,20682,10017,Team Total,Total,true,0.95,0.05,0
+Slovenia - PrvaLiga,20682,10018,Team Total,Total,true,0.95,0.05,0
+Slovenia - PrvaLiga,20682,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+Slovenia - PrvaLiga,20682,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+Slovenia - PrvaLiga,20682,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Slovenia - PrvaLiga,20682,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+Hungary - NB I,20572,0,Moneyline,Moneyline,true,0.95,0.05,0
+Hungary - NB I,20572,10001,Goal Spread,Spread,true,0.95,0.05,0
+Hungary - NB I,20572,10002,Total Goals,Total,true,0.95,0.05,0
+Hungary - NB I,20572,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Hungary - NB I,20572,10003,Double Chance,Double Chance,true,0.99,0.01,0
+Hungary - NB I,20572,10017,Team Total,Total,true,0.95,0.05,0
+Hungary - NB I,20572,10018,Team Total,Total,true,0.95,0.05,0
+Hungary - NB I,20572,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+Hungary - NB I,20572,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+Hungary - NB I,20572,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Hungary - NB I,20572,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+Lithuania - A Lyga,20616,0,Moneyline,Moneyline,true,0.95,0.05,0
+Lithuania - A Lyga,20616,10001,Goal Spread,Spread,true,0.95,0.05,0
+Lithuania - A Lyga,20616,10002,Total Goals,Total,true,0.95,0.05,0
+Lithuania - A Lyga,20616,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Lithuania - A Lyga,20616,10003,Double Chance,Double Chance,true,0.99,0.01,0
+Lithuania - A Lyga,20616,10017,Team Total,Total,true,0.95,0.05,0
+Lithuania - A Lyga,20616,10018,Team Total,Total,true,0.95,0.05,0
+Lithuania - A Lyga,20616,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+Lithuania - A Lyga,20616,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+Lithuania - A Lyga,20616,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Lithuania - A Lyga,20616,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+Latvia - Virsliga,20612,0,Moneyline,Moneyline,true,0.95,0.05,0
+Latvia - Virsliga,20612,10001,Goal Spread,Spread,true,0.95,0.05,0
+Latvia - Virsliga,20612,10002,Total Goals,Total,true,0.95,0.05,0
+Latvia - Virsliga,20612,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Latvia - Virsliga,20612,10003,Double Chance,Double Chance,true,0.99,0.01,0
+Latvia - Virsliga,20612,10017,Team Total,Total,true,0.95,0.05,0
+Latvia - Virsliga,20612,10018,Team Total,Total,true,0.95,0.05,0
+Latvia - Virsliga,20612,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+Latvia - Virsliga,20612,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+Latvia - Virsliga,20612,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Latvia - Virsliga,20612,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+Ireland - Premier League,20590,0,Moneyline,Moneyline,true,0.95,0.05,0
+Ireland - Premier League,20590,10001,Goal Spread,Spread,true,0.95,0.05,0
+Ireland - Premier League,20590,10002,Total Goals,Total,true,0.95,0.05,0
+Ireland - Premier League,20590,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Ireland - Premier League,20590,10003,Double Chance,Double Chance,true,0.99,0.01,0
+Ireland - Premier League,20590,10017,Team Total,Total,true,0.95,0.05,0
+Ireland - Premier League,20590,10018,Team Total,Total,true,0.95,0.05,0
+Ireland - Premier League,20590,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+Ireland - Premier League,20590,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+Ireland - Premier League,20590,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Ireland - Premier League,20590,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+Czech Republic - First League,20529,0,Moneyline,Moneyline,true,0.95,0.05,0
+Czech Republic - First League,20529,10001,Goal Spread,Spread,true,0.95,0.05,0
+Czech Republic - First League,20529,10002,Total Goals,Total,true,0.95,0.05,0
+Czech Republic - First League,20529,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Czech Republic - First League,20529,10003,Double Chance,Double Chance,true,0.99,0.01,0
+Czech Republic - First League,20529,10017,Team Total,Total,true,0.95,0.05,0
+Czech Republic - First League,20529,10018,Team Total,Total,true,0.95,0.05,0
+Czech Republic - First League,20529,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+Czech Republic - First League,20529,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+Czech Republic - First League,20529,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Czech Republic - First League,20529,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+Serbia - Super Liga,20109,0,Moneyline,Moneyline,true,0.95,0.05,0
+Serbia - Super Liga,20109,10001,Goal Spread,Spread,true,0.95,0.05,0
+Serbia - Super Liga,20109,10002,Total Goals,Total,true,0.95,0.05,0
+Serbia - Super Liga,20109,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Serbia - Super Liga,20109,10003,Double Chance,Double Chance,true,0.99,0.01,0
+Serbia - Super Liga,20109,10017,Team Total,Total,true,0.95,0.05,0
+Serbia - Super Liga,20109,10018,Team Total,Total,true,0.95,0.05,0
+Serbia - Super Liga,20109,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+Serbia - Super Liga,20109,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+Serbia - Super Liga,20109,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Serbia - Super Liga,20109,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+
