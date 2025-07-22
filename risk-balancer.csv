@@ -1,119 +1,119 @@
 sportName,sportId,typeIdsOnePositions,typeIdsTwoPositions,typeIdsThreePositions,lowerPercentageRisk,higherPercentageRisk,lowerPercentageRiskRebalance,higherPercentageRiskRebalance
-NCAAF,1,,0;10001;10002,,33,66,1,2
-NFL,2,,0;10001;10002,,33,66,1,2
-CFL,9520,,0;10001;10002,,33,66,1,2
-UFL,9521,,0;10001;10002,,33,66,1,2
-MLB,3,,0;10001;10002,,33,66,1,2
+NCAAF,1,,0;10001;10002,,20,40,1,2
+NFL,2,,0;10001;10002,,20,40,1,2
+CFL,9520,,0;10001;10002,,20,40,1,2
+UFL,9521,,0;10001;10002,,20,40,1,2
+MLB,3,,0;10001;10002,,20,40,1,2
 MLB,3,,11011;11012;11019;11047;11213;11214;11215;11216;11217;11218;11219;11221;11222,,33,66,2,3
-NPB,301,,0;10001;10002,,33,66,1,2
-KBO,302,,0;10001;10002,,33,66,1,2
-Collage Baseball,303,,0;10001;10002,,33,66,1,2
-CPBL,304,,0;10001;10002,,33,66,1,2
-NBA,4,,0;10001;10002,,33,66,1,2
+NPB,301,,0;10001;10002,,20,40,1,2
+KBO,302,,0;10001;10002,,20,40,1,2
+Collage Baseball,303,,0;10001;10002,,20,40,1,2
+CPBL,304,,0;10001;10002,,20,40,1,2
+NBA,4,,0;10001;10002,,20,40,1,2
 NBA,4,,11029;11035;11038;11039;11098;11225;11226;11227;11228;11229;11246;11255;11256;11257;11258;11259;11260;11261;11262,,33,66,2,3
-USA - NBA Summer League,400,,0;10001;10002,,33,66,1,2
-WNBA,8,,0;10001;10002,,33,66,1,2
-NCAAB,5,,0;10001;10002,,33,66,1,2
-NCAAW,20211,,0;10001;10002,,33,66,1,2
-NHL,6,,0;10001;10002,,33,66,1,2
-India - IPL,20,,0;10001;10002,,33,66,1,2
-Pakistan - Super League,20305,,0;10001;10002,,33,66,1,2
-Finland - SM Liiga,319,,0;10001;10002,,33,66,1,2
-Russia - KHL,321,,0;10001;10002,,33,66,1,2
-Sweden - SHL,324,,0;10001;10002,,33,66,1,2
-UFC,7,,0;10001;10002,,33,66,1,2
-PFL,9,,0;10001;10002,,33,66,1,2
-WTA,152,,0;10001;10002,,33,66,1,2
-ATP,156,,0;10001;10002,,33,66,1,2
-ATP Challenger,157,,0;10001;10002,,33,66,1,2
-Euroleague,399,,0;10001;10002,,33,66,1,2
-Eurocup,20200,,0;10001;10002,,33,66,1,2
-CS2,9977,,0;10001;10002,,33,66,1,2
-Dota2,9983,,0;10001;10002,,33,66,1,2
-League of Legends,10138,,0;10001;10002,,33,66,1,2
-Rainbow Six Siege,20293,,0;10001;10002,,33,66,1,2
-Starcraft 2,20294,,0;10001;10002,,33,66,1,2
-Mobile Legends Bang Bang,20295,,0;10001;10002,,33,66,1,2
-Call of Duty,20298,,0;10001;10002,,33,66,1,2
-Valorant,20300,,0;10001;10002,,33,66,1,2
-Overwatch,20296,,0;10001;10002,,33,66,1,2
-North Macedonia - Super Liga,379,,0;10001;10002,,33,66,1,2
-Croatia - HB Premijer Liga,382,,0;10001;10002,,33,66,1,2
-EHF - Champions League,383,,0;10001;10002,,33,66,1,2
-EHF - Champions League Women,384,,0;10001;10002,,33,66,1,2
-EHF - European League,385,,0;10001;10002,,33,66,1,2
-France - LNH Division 1,386,,0;10001;10002,,33,66,1,2
-Germany - HBL,387,,0;10001;10002,,33,66,1,2
-Hungary - HNB I,388,,0;10001;10002,,33,66,1,2
-Iceland - Urvalsdeild,389,,0;10001;10002,,33,66,1,2
-IHF - World Championship,390,,0;10001;10002,,33,66,1,2
-Norway - HB 1. Divisjon,391,,0;10001;10002,,33,66,1,2
-Poland - Superliga,392,,0;10001;10002,,33,66,1,2
-Russia - Super League,393,,0;10001;10002,,33,66,1,2
-Serbia - Superliga,394,,0;10001;10002,,33,66,1,2
-Slovakia - HB Extraliga,395,,0;10001;10002,,33,66,1,2
-Slovenia - 1. Liga,396,,0;10001;10002,,33,66,1,2
-Spain - ASOBAL,397,,0;10001;10002,,33,66,1,2
-Sweden - Handbollsligan,398,,0;10001;10002,,33,66,1,2
-Olympics Table Tennis Women,8909,,0;10001;10002,,33,66,1,2
-Olympics Table Tennis Men,8910,,0;10001;10002,,33,66,1,2
-Czech Republic - TT Cup Men,8911,,0;10001;10002,,33,66,1,2
-Czech Republic - TT Liga Pro Men,8912,,0;10001;10002,,33,66,1,2
-Poland - TT Elite Series Men,8913,,0;10001;10002,,33,66,1,2
-WTT Men,8914,,0;10001;10002,,33,66,1,2
-Australia - NRL,9500,,0;10001;10002,,33,66,1,2
-England - Super League,9501,,0;10001;10002,,33,66,1,2
-Oceania - Super Rugby,9502,,0;10001;10002,,33,66,1,2
-International - Six Nations,9503,,0;10001;10002,,33,66,1,2
-AFL,9510,,0;10001;10002,,33,66,1,2
-England - Premier League Darts,20320,,0;10001;10002,,33,66,1,2
-PDC - World Cup of Darts,20321,,0;10001;10002,,33,66,1,2
-NBA - Futures,30004,,13012,,33,66,1,2
-NHL - Futures,30006,,13012,,33,66,1,2
-Olympics Volleyball Women,8893,,0;10001;10002,,33,66,1,2
-Olympics Volleyball Men,8894,,0;10001;10002,,33,66,1,2
-Argentina - Liga Argentina,20400,,0;10001;10002,,33,66,1,2
-Argentina - Liga Argentina Women,20401,,0;10001;10002,,33,66,1,2
-Austria - AVL,20402,,0;10001;10002,,33,66,1,2
-Austria - WVL,20403,,0;10001;10002,,33,66,1,2
-Belgium - Liga Dames,20404,,0;10001;10002,,33,66,1,2
-Belgium - Liga Heren,20405,,0;10001;10002,,33,66,1,2
-Brazil - Superliga,20406,,0;10001;10002,,33,66,1,2
-Brazil - Superliga Women,20407,,0;10001;10002,,33,66,1,2
-CEV - Champions League,20408,,0;10001;10002,,33,66,1,2
-CEV - Champions League Women,20409,,0;10001;10002,,33,66,1,2
-CEV - Cup,20410,,0;10001;10002,,33,66,1,2
-CEV - Cup Women,20411,,0;10001;10002,,33,66,1,2
-China - CVL,20412,,0;10001;10002,,33,66,1,2
-China - CVL Women,20413,,0;10001;10002,,33,66,1,2
-Czech Republic - VEL,20414,,0;10001;10002,,33,66,1,2
-Czech Republic - VEL Women,20415,,0;10001;10002,,33,66,1,2
-Denmark - Volleyligaen,20416,,0;10001;10002,,33,66,1,2
-Denmark - Volleyligaen Women,20417,,0;10001;10002,,33,66,1,2
-Finland - Mestaruusliiga,20418,,0;10001;10002,,33,66,1,2
-Finland - Mestaruusliiga Women,20419,,0;10001;10002,,33,66,1,2
-FIVB - Nations League,20420,,0;10001;10002,,33,66,1,2
-FIVB - Nations League Women,20421,,0;10001;10002,,33,66,1,2
-France - Ligue A,20422,,0;10001;10002,,33,66,1,2
-France - Ligue A Women,20423,,0;10001;10002,,33,66,1,2
-Germany - 1st Bundesliga,20424,,0;10001;10002,,33,66,1,2
-Germany - 1st Bundesliga Women,20425,,0;10001;10002,,33,66,1,2
-Iran - Super League,20426,,0;10001;10002,,33,66,1,2
-Italy - Coppa Italia A1 Women,20427,,0;10001;10002,,33,66,1,2
-Italy - Coppa Italia Superlega,20428,,0;10001;10002,,33,66,1,2
-Italy - Serie A1 Women,20429,,0;10001;10002,,33,66,1,2
-Italy - Superlega,20430,,0;10001;10002,,33,66,1,2
-Japan - SV League,20431,,0;10001;10002,,33,66,1,2
-Japan - SV League Women,20432,,0;10001;10002,,33,66,1,2
-Norway - NVBF,20433,,0;10001;10002,,33,66,1,2
-Philippines - PVL Women,20434,,0;10001;10002,,33,66,1,2
-Poland - PlusLiga,20435,,0;10001;10002,,33,66,1,2
-Russia - Superliga,20436,,0;10001;10002,,33,66,1,2
-Russia - Superliga Women,20437,,0;10001;10002,,33,66,1,2
-South Korea - V League,20438,,0;10001;10002,,33,66,1,2
-South Korea - V League Women,20439,,0;10001;10002,,33,66,1,2
-BIG3,20210,,0;10001;10002,,33,66,1,2
-FIBA - Eurobasket Women,20220,,0;10001;10002,,33,66,1,2
-Philippines - Phillipine Cup,20221,,0;10001;10002,,33,66,1,2
-FIBA - World Cup U19,20222,,0;10001;10002,,33,66,1,2
-FIBA - Americup Women,20223,,0;10001;10002,,33,66,1,2
+USA - NBA Summer League,400,,0;10001;10002,,20,40,1,2
+WNBA,8,,0;10001;10002,,20,40,1,2
+NCAAB,5,,0;10001;10002,,20,40,1,2
+NCAAW,20211,,0;10001;10002,,20,40,1,2
+NHL,6,,0;10001;10002,,20,40,1,2
+India - IPL,20,,0;10001;10002,,20,40,1,2
+Pakistan - Super League,20305,,0;10001;10002,,20,40,1,2
+Finland - SM Liiga,319,,0;10001;10002,,20,40,1,2
+Russia - KHL,321,,0;10001;10002,,20,40,1,2
+Sweden - SHL,324,,0;10001;10002,,20,40,1,2
+UFC,7,,0;10001;10002,,20,40,1,2
+PFL,9,,0;10001;10002,,20,40,1,2
+WTA,152,,0;10001;10002,,20,40,1,2
+ATP,156,,0;10001;10002,,20,40,1,2
+ATP Challenger,157,,0;10001;10002,,20,40,1,2
+Euroleague,399,,0;10001;10002,,20,40,1,2
+Eurocup,20200,,0;10001;10002,,20,40,1,2
+CS2,9977,,0;10001;10002,,20,40,1,2
+Dota2,9983,,0;10001;10002,,20,40,1,2
+League of Legends,10138,,0;10001;10002,,20,40,1,2
+Rainbow Six Siege,20293,,0;10001;10002,,20,40,1,2
+Starcraft 2,20294,,0;10001;10002,,20,40,1,2
+Mobile Legends Bang Bang,20295,,0;10001;10002,,20,40,1,2
+Call of Duty,20298,,0;10001;10002,,20,40,1,2
+Valorant,20300,,0;10001;10002,,20,40,1,2
+Overwatch,20296,,0;10001;10002,,20,40,1,2
+North Macedonia - Super Liga,379,,0;10001;10002,,20,40,1,2
+Croatia - HB Premijer Liga,382,,0;10001;10002,,20,40,1,2
+EHF - Champions League,383,,0;10001;10002,,20,40,1,2
+EHF - Champions League Women,384,,0;10001;10002,,20,40,1,2
+EHF - European League,385,,0;10001;10002,,20,40,1,2
+France - LNH Division 1,386,,0;10001;10002,,20,40,1,2
+Germany - HBL,387,,0;10001;10002,,20,40,1,2
+Hungary - HNB I,388,,0;10001;10002,,20,40,1,2
+Iceland - Urvalsdeild,389,,0;10001;10002,,20,40,1,2
+IHF - World Championship,390,,0;10001;10002,,20,40,1,2
+Norway - HB 1. Divisjon,391,,0;10001;10002,,20,40,1,2
+Poland - Superliga,392,,0;10001;10002,,20,40,1,2
+Russia - Super League,393,,0;10001;10002,,20,40,1,2
+Serbia - Superliga,394,,0;10001;10002,,20,40,1,2
+Slovakia - HB Extraliga,395,,0;10001;10002,,20,40,1,2
+Slovenia - 1. Liga,396,,0;10001;10002,,20,40,1,2
+Spain - ASOBAL,397,,0;10001;10002,,20,40,1,2
+Sweden - Handbollsligan,398,,0;10001;10002,,20,40,1,2
+Olympics Table Tennis Women,8909,,0;10001;10002,,20,40,1,2
+Olympics Table Tennis Men,8910,,0;10001;10002,,20,40,1,2
+Czech Republic - TT Cup Men,8911,,0;10001;10002,,20,40,1,2
+Czech Republic - TT Liga Pro Men,8912,,0;10001;10002,,20,40,1,2
+Poland - TT Elite Series Men,8913,,0;10001;10002,,20,40,1,2
+WTT Men,8914,,0;10001;10002,,20,40,1,2
+Australia - NRL,9500,,0;10001;10002,,20,40,1,2
+England - Super League,9501,,0;10001;10002,,20,40,1,2
+Oceania - Super Rugby,9502,,0;10001;10002,,20,40,1,2
+International - Six Nations,9503,,0;10001;10002,,20,40,1,2
+AFL,9510,,0;10001;10002,,20,40,1,2
+England - Premier League Darts,20320,,0;10001;10002,,20,40,1,2
+PDC - World Cup of Darts,20321,,0;10001;10002,,20,40,1,2
+NBA - Futures,30004,,13012,,20,40,1,2
+NHL - Futures,30006,,13012,,20,40,1,2
+Olympics Volleyball Women,8893,,0;10001;10002,,20,40,1,2
+Olympics Volleyball Men,8894,,0;10001;10002,,20,40,1,2
+Argentina - Liga Argentina,20400,,0;10001;10002,,20,40,1,2
+Argentina - Liga Argentina Women,20401,,0;10001;10002,,20,40,1,2
+Austria - AVL,20402,,0;10001;10002,,20,40,1,2
+Austria - WVL,20403,,0;10001;10002,,20,40,1,2
+Belgium - Liga Dames,20404,,0;10001;10002,,20,40,1,2
+Belgium - Liga Heren,20405,,0;10001;10002,,20,40,1,2
+Brazil - Superliga,20406,,0;10001;10002,,20,40,1,2
+Brazil - Superliga Women,20407,,0;10001;10002,,20,40,1,2
+CEV - Champions League,20408,,0;10001;10002,,20,40,1,2
+CEV - Champions League Women,20409,,0;10001;10002,,20,40,1,2
+CEV - Cup,20410,,0;10001;10002,,20,40,1,2
+CEV - Cup Women,20411,,0;10001;10002,,20,40,1,2
+China - CVL,20412,,0;10001;10002,,20,40,1,2
+China - CVL Women,20413,,0;10001;10002,,20,40,1,2
+Czech Republic - VEL,20414,,0;10001;10002,,20,40,1,2
+Czech Republic - VEL Women,20415,,0;10001;10002,,20,40,1,2
+Denmark - Volleyligaen,20416,,0;10001;10002,,20,40,1,2
+Denmark - Volleyligaen Women,20417,,0;10001;10002,,20,40,1,2
+Finland - Mestaruusliiga,20418,,0;10001;10002,,20,40,1,2
+Finland - Mestaruusliiga Women,20419,,0;10001;10002,,20,40,1,2
+FIVB - Nations League,20420,,0;10001;10002,,20,40,1,2
+FIVB - Nations League Women,20421,,0;10001;10002,,20,40,1,2
+France - Ligue A,20422,,0;10001;10002,,20,40,1,2
+France - Ligue A Women,20423,,0;10001;10002,,20,40,1,2
+Germany - 1st Bundesliga,20424,,0;10001;10002,,20,40,1,2
+Germany - 1st Bundesliga Women,20425,,0;10001;10002,,20,40,1,2
+Iran - Super League,20426,,0;10001;10002,,20,40,1,2
+Italy - Coppa Italia A1 Women,20427,,0;10001;10002,,20,40,1,2
+Italy - Coppa Italia Superlega,20428,,0;10001;10002,,20,40,1,2
+Italy - Serie A1 Women,20429,,0;10001;10002,,20,40,1,2
+Italy - Superlega,20430,,0;10001;10002,,20,40,1,2
+Japan - SV League,20431,,0;10001;10002,,20,40,1,2
+Japan - SV League Women,20432,,0;10001;10002,,20,40,1,2
+Norway - NVBF,20433,,0;10001;10002,,20,40,1,2
+Philippines - PVL Women,20434,,0;10001;10002,,20,40,1,2
+Poland - PlusLiga,20435,,0;10001;10002,,20,40,1,2
+Russia - Superliga,20436,,0;10001;10002,,20,40,1,2
+Russia - Superliga Women,20437,,0;10001;10002,,20,40,1,2
+South Korea - V League,20438,,0;10001;10002,,20,40,1,2
+South Korea - V League Women,20439,,0;10001;10002,,20,40,1,2
+BIG3,20210,,0;10001;10002,,20,40,1,2
+FIBA - Eurobasket Women,20220,,0;10001;10002,,20,40,1,2
+Philippines - Phillipine Cup,20221,,0;10001;10002,,20,40,1,2
+FIBA - World Cup U19,20222,,0;10001;10002,,20,40,1,2
+FIBA - Americup Women,20223,,0;10001;10002,,20,40,1,2
