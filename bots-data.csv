@@ -16,7 +16,7 @@ overtime-puller-opticodds-fra,France - Ligue 1;France - Ligue 2;France - Super C
 overtime-puller-opticodds-germany,Germany - Bundesliga;Germany - Bundesliga 2;Germany - DFB Pokal;Germany - Super Cup,13;20115;209;20132,6,20s,0x18bEa3f2391ff4E3b6c4Ad9ff11f30f16d8A34d6,2m,
 overtime-puller-opticodds-esp,Spain - La Liga;Spain - La Liga 2;Spain - Copa del Rey;Spain - Supercopa,14;20116;138;20131,6,20s,0x5FcA00fdaaD9E4B8c6Ae8a4264C61dF54e022833,2m,
 overtime-puller-opticodds-ita,Italy - Serie A;Italy - Serie B;Italy - Coppa Italia;Italy - Supercoppa,15;20117;141;20129,6,20s,0xD667eD25A7b3f8629Fece1A1cCE2FD591A6731D1,2m,
-overtime-puller-opticodds-uefa-club,UEFA - Champions League;UEFA - Europa League;UEFA - Europa Conference League,16;17;10216,7,20s,0x2B5eab064F8B4dB23aAab03365D120c839124413,2m,
+overtime-puller-opticodds-uefa-club,UEFA - Champions League;UEFA - Europa League;UEFA - Europa Conference League;International - Club Friendlies;International - Friendlies,16;17;10216;20584;20585,7,20s,0x2B5eab064F8B4dB23aAab03365D120c839124413,2m,
 overtime-puller-opticodds-fifa-wc,FIFA - World Cup Qualifiers;FIFA - Club World Cup,18;20152,5,20s,0xECD83Cf92F4977A6a0926da965b0028040531190,2m,
 overtime-puller-opticodds-world-nations,CONCACAF - Gold Cup;COSAFA - Cup,20516;20555,5,20s,0xe7e408df0148673ed963fe2e32b72638277ec158,2m,
 overtime-puller-opticodds-asia,Japan - J1 League;Korea - K1 League,19;20603,5,20s,0x44a8fcfC43b6c82263d4117E33172613DAe0229a,2m,
