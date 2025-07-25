@@ -1573,4 +1573,91 @@ Serbia - Super Liga,20109,10031,1st Half Total Goals,Total,true,0.95,0.05,0
 Serbia - Super Liga,20109,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
 Serbia - Super Liga,20109,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
 Serbia - Super Liga,20109,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-
+North America - Leagues Cup,20637,0,Moneyline,Moneyline,true,0.95,0.05,0
+North America - Leagues Cup,20637,10001,Goal Spread,Spread,true,0.95,0.05,0
+North America - Leagues Cup,20637,10002,Total Goals,Total,true,0.95,0.05,0
+North America - Leagues Cup,20637,10100,Correct Score,Correct Score,true,0.99,0.01,2
+North America - Leagues Cup,20637,10003,Double Chance,Double Chance,true,0.99,0.01,0
+North America - Leagues Cup,20637,10017,Team Total,Total,true,0.95,0.05,0
+North America - Leagues Cup,20637,10018,Team Total,Total,true,0.95,0.05,0
+North America - Leagues Cup,20637,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+North America - Leagues Cup,20637,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+North America - Leagues Cup,20637,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+North America - Leagues Cup,20637,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+Brazil - Serie B,20503,0,Moneyline,Moneyline,true,0.95,0.05,0
+Brazil - Serie B,20503,10001,Goal Spread,Spread,true,0.95,0.05,0
+Brazil - Serie B,20503,10002,Total Goals,Total,true,0.95,0.05,0
+Brazil - Serie B,20503,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Brazil - Serie B,20503,10003,Double Chance,Double Chance,true,0.99,0.01,0
+Brazil - Serie B,20503,10017,Team Total,Total,true,0.95,0.05,0
+Brazil - Serie B,20503,10018,Team Total,Total,true,0.95,0.05,0
+Brazil - Serie B,20503,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+Brazil - Serie B,20503,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+Brazil - Serie B,20503,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Brazil - Serie B,20503,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+Australia - Cup,20166,0,Moneyline,Moneyline,true,0.95,0.05,0
+Australia - Cup,20166,10001,Goal Spread,Spread,true,0.95,0.05,0
+Australia - Cup,20166,10002,Total Goals,Total,true,0.95,0.05,0
+Australia - Cup,20166,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Australia - Cup,20166,10003,Double Chance,Double Chance,true,0.99,0.01,0
+Australia - Cup,20166,10017,Team Total,Total,true,0.95,0.05,0
+Australia - Cup,20166,10018,Team Total,Total,true,0.95,0.05,0
+Australia - Cup,20166,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+Australia - Cup,20166,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+Australia - Cup,20166,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Australia - Cup,20166,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+Kazakhstan - Premier League,20600,0,Moneyline,Moneyline,true,0.95,0.05,0
+Kazakhstan - Premier League,20600,10001,Goal Spread,Spread,true,0.95,0.05,0
+Kazakhstan - Premier League,20600,10002,Total Goals,Total,true,0.95,0.05,0
+Kazakhstan - Premier League,20600,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Kazakhstan - Premier League,20600,10003,Double Chance,Double Chance,true,0.99,0.01,0
+Kazakhstan - Premier League,20600,10017,Team Total,Total,true,0.95,0.05,0
+Kazakhstan - Premier League,20600,10018,Team Total,Total,true,0.95,0.05,0
+Kazakhstan - Premier League,20600,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+Kazakhstan - Premier League,20600,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+Kazakhstan - Premier League,20600,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Kazakhstan - Premier League,20600,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+Estonia - Premium Liiga,20549,0,Moneyline,Moneyline,true,0.95,0.05,0
+Estonia - Premium Liiga,20549,10001,Goal Spread,Spread,true,0.95,0.05,0
+Estonia - Premium Liiga,20549,10002,Total Goals,Total,true,0.95,0.05,0
+Estonia - Premium Liiga,20549,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Estonia - Premium Liiga,20549,10003,Double Chance,Double Chance,true,0.99,0.01,0
+Estonia - Premium Liiga,20549,10017,Team Total,Total,true,0.95,0.05,0
+Estonia - Premium Liiga,20549,10018,Team Total,Total,true,0.95,0.05,0
+Estonia - Premium Liiga,20549,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+Estonia - Premium Liiga,20549,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+Estonia - Premium Liiga,20549,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Estonia - Premium Liiga,20549,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+USA - USL Championship,20702,0,Moneyline,Moneyline,true,0.95,0.05,0
+USA - USL Championship,20702,10001,Goal Spread,Spread,true,0.95,0.05,0
+USA - USL Championship,20702,10002,Total Goals,Total,true,0.95,0.05,0
+USA - USL Championship,20702,10100,Correct Score,Correct Score,true,0.99,0.01,2
+USA - USL Championship,20702,10003,Double Chance,Double Chance,true,0.99,0.01,0
+USA - USL Championship,20702,10017,Team Total,Total,true,0.95,0.05,0
+USA - USL Championship,20702,10018,Team Total,Total,true,0.95,0.05,0
+USA - USL Championship,20702,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+USA - USL Championship,20702,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+USA - USL Championship,20702,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+USA - USL Championship,20702,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+Costa Rica - Primera Division,20519,0,Moneyline,Moneyline,true,0.95,0.05,0
+Costa Rica - Primera Division,20519,10001,Goal Spread,Spread,true,0.95,0.05,0
+Costa Rica - Primera Division,20519,10002,Total Goals,Total,true,0.95,0.05,0
+Costa Rica - Primera Division,20519,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Costa Rica - Primera Division,20519,10003,Double Chance,Double Chance,true,0.99,0.01,0
+Costa Rica - Primera Division,20519,10017,Team Total,Total,true,0.95,0.05,0
+Costa Rica - Primera Division,20519,10018,Team Total,Total,true,0.95,0.05,0
+Costa Rica - Primera Division,20519,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+Costa Rica - Primera Division,20519,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+Costa Rica - Primera Division,20519,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Costa Rica - Primera Division,20519,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
+Russia - Cup,20663,0,Moneyline,Moneyline,true,0.95,0.05,0
+Russia - Cup,20663,10001,Goal Spread,Spread,true,0.95,0.05,0
+Russia - Cup,20663,10002,Total Goals,Total,true,0.95,0.05,0
+Russia - Cup,20663,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Russia - Cup,20663,10003,Double Chance,Double Chance,true,0.99,0.01,0
+Russia - Cup,20663,10017,Team Total,Total,true,0.95,0.05,0
+Russia - Cup,20663,10018,Team Total,Total,true,0.95,0.05,0
+Russia - Cup,20663,10031,1st Half Total Goals,Total,true,0.95,0.05,0
+Russia - Cup,20663,10032,2nd Half Total Goals,Total,true,0.95,0.05,0
+Russia - Cup,20663,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
+Russia - Cup,20663,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
