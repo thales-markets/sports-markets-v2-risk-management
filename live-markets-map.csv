@@ -1,4 +1,5 @@
 name,sportId,typeId,marketName,type,enabled,minOdds,maxOdds,addedSpread
+UFC,7,0,Moneyline,Moneyline,true,0.95,0.05,0
 NCAAF,1,0,Moneyline,Moneyline,true,0.95,0.05,0
 NCAAF,1,10001,Point Spread,Spread,true,0.95,0.05,0
 NCAAF,1,10002,Total Points,Total,true,0.95,0.05,0
