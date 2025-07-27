@@ -1,15 +1,15 @@
 name,sportId,marketName,bookmaker
-MLB,3,Player Props,draftkings
-MLB,3,Player Hits,espn bet
-MLB,3,Player Hits Allowed,pinnacle
-MLB,3,Player Home Runs,pinnacle
-MLB,3,Player Outs,pinnacle
-MLB,3,Player Strikeouts,pinnacle
-MLB,3,Player Bases,pinnacle
-MLB,3,Player Earned Runs,draftkings
-MLB,3,Player Batting Strikeouts,draftkings
-MLB,3,Player Stolen Bases,draftkings
-MLB,3,Player Batting Walks,draftkings
+MLB,3,Player Props,blue book
+MLB,3,Player Hits,blue book
+MLB,3,Player Hits Allowed,blue book
+MLB,3,Player Home Runs,blue book
+MLB,3,Player Outs,blue book
+MLB,3,Player Strikeouts,blue book
+MLB,3,Player Bases,blue book
+MLB,3,Player Earned Runs,blue book
+MLB,3,Player Batting Strikeouts,blue book
+MLB,3,Player Stolen Bases,blue book
+MLB,3,Player Batting Walks,blue book
 NCAAB,5,Player Props,betmgm
 NCAAB,5,Player Blocks,betano
 NCAAB,5,Player Steals,betano
