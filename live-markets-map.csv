@@ -459,7 +459,7 @@ UEFA Nations League women,20148,0,Moneyline,Moneyline,true,0.95,0.05,0
 UEFA Nations League women,20148,10002,Total Goals,Total,true,0.95,0.05,0
 UEFA Conference League,10216,0,Moneyline,Moneyline,true,0.95,0.05,0
 UEFA Conference League,10216,10001,Goal Spread,Spread,false,0.9,0.1,0
-UEFA Conference League,10216,10002,Total Goals,Total,false,0.9,0.1,0
+UEFA Conference League,10216,10002,Total Goals,Total,true,0.9,0.1,0
 UEFA Conference League,10216,10100,Correct Score,Correct Score,true,0.99,0.01,2
 UEFA Conference League,10216,10003,Double Chance,Double Chance,true,0.99,0.01,0
 UEFA Conference League,10216,10017,Team Total,Total,true,0.95,0.05,0
@@ -1640,7 +1640,7 @@ Russia - Cup,20663,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0
 Russia - Cup,20663,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
 Saudi Professional League,536,0,Moneyline,Moneyline,true,0.95,0.05,0
 Saudi Professional League,536,10001,Goal Spread,Spread,false,0.9,0.1,0
-Saudi Professional League,536,10002,Total Goals,Total,false,0.9,0.1,0
+Saudi Professional League,536,10002,Total Goals,Total,true,0.9,0.1,0
 Saudi Professional League,536,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Saudi Professional League,536,10003,Double Chance,Double Chance,true,0.99,0.01,0
 Saudi Professional League,536,10017,Team Total,Total,true,0.95,0.05,0
@@ -1655,7 +1655,7 @@ Saudi Professional League,536,10211,2nd Half Team Total,Total,true,0.95,0.05,1
 Saudi Professional League,536,10212,2nd Half Team Total,Total,true,0.95,0.05,1
 Copa do Brasil,20002,0,Moneyline,Moneyline,true,0.95,0.05,0
 Copa do Brasil,20002,10001,Goal Spread,Spread,false,0.9,0.1,0
-Copa do Brasil,20002,10002,Total Goals,Total,false,0.9,0.1,0
+Copa do Brasil,20002,10002,Total Goals,Total,true,0.9,0.1,0
 Copa do Brasil,20002,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Copa do Brasil,20002,10003,Double Chance,Double Chance,true,0.99,0.01,0
 Copa do Brasil,20002,10017,Team Total,Total,true,0.95,0.05,0
@@ -1670,7 +1670,7 @@ Copa do Brasil,20002,10211,2nd Half Team Total,Total,true,0.95,0.05,1
 Copa do Brasil,20002,10212,2nd Half Team Total,Total,true,0.95,0.05,1
 Copa America,44,0,Moneyline,Moneyline,true,0.95,0.05,0
 Copa America,44,10001,Goal Spread,Spread,false,0.9,0.1,0
-Copa America,44,10002,Total Goals,Total,false,0.9,0.1,0
+Copa America,44,10002,Total Goals,Total,true,0.9,0.1,0
 Copa America,44,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Copa America,44,10003,Double Chance,Double Chance,true,0.99,0.01,0
 Copa America,44,10017,Team Total,Total,true,0.95,0.05,0
@@ -1685,7 +1685,7 @@ Copa America,44,10211,2nd Half Team Total,Total,true,0.95,0.05,1
 Copa America,44,10212,2nd Half Team Total,Total,true,0.95,0.05,1
 UEFA EURO 2024,50,0,Moneyline,Moneyline,true,0.95,0.05,0
 UEFA EURO 2024,50,10001,Goal Spread,Spread,false,0.9,0.1,0
-UEFA EURO 2024,50,10002,Total Goals,Total,false,0.9,0.1,0
+UEFA EURO 2024,50,10002,Total Goals,Total,true,0.9,0.1,0
 UEFA EURO 2024,50,10100,Correct Score,Correct Score,true,0.99,0.01,2
 UEFA EURO 2024,50,10003,Double Chance,Double Chance,true,0.99,0.01,0
 UEFA EURO 2024,50,10017,Team Total,Total,true,0.95,0.05,0
@@ -1700,7 +1700,7 @@ UEFA EURO 2024,50,10211,2nd Half Team Total,Total,true,0.95,0.05,1
 UEFA EURO 2024,50,10212,2nd Half Team Total,Total,true,0.95,0.05,1
 FIFA World Cup Qualifiers,18,0,Moneyline,Moneyline,true,0.95,0.05,0
 FIFA World Cup Qualifiers,18,10001,Goal Spread,Spread,false,0.9,0.1,0
-FIFA World Cup Qualifiers,18,10002,Total Goals,Total,false,0.9,0.1,0
+FIFA World Cup Qualifiers,18,10002,Total Goals,Total,true,0.9,0.1,0
 FIFA World Cup Qualifiers,18,10100,Correct Score,Correct Score,true,0.99,0.01,2
 FIFA World Cup Qualifiers,18,10003,Double Chance,Double Chance,true,0.99,0.01,0
 FIFA World Cup Qualifiers,18,10017,Team Total,Total,true,0.95,0.05,0
@@ -1715,7 +1715,7 @@ FIFA World Cup Qualifiers,18,10211,2nd Half Team Total,Total,true,0.95,0.05,1
 FIFA World Cup Qualifiers,18,10212,2nd Half Team Total,Total,true,0.95,0.05,1
 UEFA Super Cup,20001,0,Moneyline,Moneyline,true,0.95,0.05,0
 UEFA Super Cup,20001,10001,Goal Spread,Spread,false,0.9,0.1,0
-UEFA Super Cup,20001,10002,Total Goals,Total,false,0.9,0.1,0
+UEFA Super Cup,20001,10002,Total Goals,Total,true,0.9,0.1,0
 UEFA Super Cup,20001,10100,Correct Score,Correct Score,true,0.99,0.01,2
 UEFA Super Cup,20001,10003,Double Chance,Double Chance,true,0.99,0.01,0
 UEFA Super Cup,20001,10017,Team Total,Total,true,0.95,0.05,0
@@ -1730,7 +1730,7 @@ UEFA Super Cup,20001,10211,2nd Half Team Total,Total,true,0.95,0.05,1
 UEFA Super Cup,20001,10212,2nd Half Team Total,Total,true,0.95,0.05,1
 Sweden - Superettan,20686,0,Moneyline,Moneyline,true,0.95,0.05,0
 Sweden - Superettan,20686,10001,Goal Spread,Spread,false,0.9,0.1,0
-Sweden - Superettan,20686,10002,Total Goals,Total,false,0.9,0.1,0
+Sweden - Superettan,20686,10002,Total Goals,Total,true,0.9,0.1,0
 Sweden - Superettan,20686,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Sweden - Superettan,20686,10003,Double Chance,Double Chance,true,0.99,0.01,0
 Sweden - Superettan,20686,10017,Team Total,Total,true,0.95,0.05,0
@@ -1745,7 +1745,7 @@ Sweden - Superettan,20686,10211,2nd Half Team Total,Total,true,0.95,0.05,1
 Sweden - Superettan,20686,10212,2nd Half Team Total,Total,true,0.95,0.05,1
 Switzerland - Challenge League,20688,0,Moneyline,Moneyline,true,0.95,0.05,0
 Switzerland - Challenge League,20688,10001,Goal Spread,Spread,false,0.9,0.1,0
-Switzerland - Challenge League,20688,10002,Total Goals,Total,false,0.9,0.1,0
+Switzerland - Challenge League,20688,10002,Total Goals,Total,true,0.9,0.1,0
 Switzerland - Challenge League,20688,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Switzerland - Challenge League,20688,10003,Double Chance,Double Chance,true,0.99,0.01,0
 Switzerland - Challenge League,20688,10017,Team Total,Total,true,0.95,0.05,0
@@ -1760,7 +1760,7 @@ Switzerland - Challenge League,20688,10211,2nd Half Team Total,Total,true,0.95,0
 Switzerland - Challenge League,20688,10212,2nd Half Team Total,Total,true,0.95,0.05,1
 Portugal - Super Cup,20658,0,Moneyline,Moneyline,true,0.95,0.05,0
 Portugal - Super Cup,20658,10001,Goal Spread,Spread,false,0.9,0.1,0
-Portugal - Super Cup,20658,10002,Total Goals,Total,false,0.9,0.1,0
+Portugal - Super Cup,20658,10002,Total Goals,Total,true,0.9,0.1,0
 Portugal - Super Cup,20658,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Portugal - Super Cup,20658,10003,Double Chance,Double Chance,true,0.99,0.01,0
 Portugal - Super Cup,20658,10017,Team Total,Total,true,0.95,0.05,0
@@ -1775,7 +1775,7 @@ Portugal - Super Cup,20658,10211,2nd Half Team Total,Total,true,0.95,0.05,1
 Portugal - Super Cup,20658,10212,2nd Half Team Total,Total,true,0.95,0.05,1
 Netherlands - Super Cup,20716,0,Moneyline,Moneyline,true,0.95,0.05,0
 Netherlands - Super Cup,20716,10001,Goal Spread,Spread,false,0.9,0.1,0
-Netherlands - Super Cup,20716,10002,Total Goals,Total,false,0.9,0.1,0
+Netherlands - Super Cup,20716,10002,Total Goals,Total,true,0.9,0.1,0
 Netherlands - Super Cup,20716,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Netherlands - Super Cup,20716,10003,Double Chance,Double Chance,true,0.99,0.01,0
 Netherlands - Super Cup,20716,10017,Team Total,Total,true,0.95,0.05,0
@@ -1790,7 +1790,7 @@ Netherlands - Super Cup,20716,10211,2nd Half Team Total,Total,true,0.95,0.05,1
 Netherlands - Super Cup,20716,10212,2nd Half Team Total,Total,true,0.95,0.05,1
 Argentina - Copa Argentina,20160,0,Moneyline,Moneyline,true,0.95,0.05,0
 Argentina - Copa Argentina,20160,10001,Goal Spread,Spread,false,0.9,0.1,0
-Argentina - Copa Argentina,20160,10002,Total Goals,Total,false,0.9,0.1,0
+Argentina - Copa Argentina,20160,10002,Total Goals,Total,true,0.9,0.1,0
 Argentina - Copa Argentina,20160,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Argentina - Copa Argentina,20160,10003,Double Chance,Double Chance,true,0.99,0.01,0
 Argentina - Copa Argentina,20160,10017,Team Total,Total,true,0.95,0.05,0
@@ -1805,7 +1805,7 @@ Argentina - Copa Argentina,20160,10211,2nd Half Team Total,Total,true,0.95,0.05,
 Argentina - Copa Argentina,20160,10212,2nd Half Team Total,Total,true,0.95,0.05,1
 Norway - 1. Divisjon,20642,0,Moneyline,Moneyline,true,0.95,0.05,0
 Norway - 1. Divisjon,20642,10001,Goal Spread,Spread,false,0.9,0.1,0
-Norway - 1. Divisjon,20642,10002,Total Goals,Total,false,0.9,0.1,0
+Norway - 1. Divisjon,20642,10002,Total Goals,Total,true,0.9,0.1,0
 Norway - 1. Divisjon,20642,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Norway - 1. Divisjon,20642,10003,Double Chance,Double Chance,true,0.99,0.01,0
 Norway - 1. Divisjon,20642,10017,Team Total,Total,true,0.95,0.05,0
@@ -1820,7 +1820,7 @@ Norway - 1. Divisjon,20642,10211,2nd Half Team Total,Total,true,0.95,0.05,1
 Norway - 1. Divisjon,20642,10212,2nd Half Team Total,Total,true,0.95,0.05,1
 Denmark - 1st Division,20531,0,Moneyline,Moneyline,true,0.95,0.05,0
 Denmark - 1st Division,20531,10001,Goal Spread,Spread,false,0.9,0.1,0
-Denmark - 1st Division,20531,10002,Total Goals,Total,false,0.9,0.1,0
+Denmark - 1st Division,20531,10002,Total Goals,Total,true,0.9,0.1,0
 Denmark - 1st Division,20531,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Denmark - 1st Division,20531,10003,Double Chance,Double Chance,true,0.99,0.01,0
 Denmark - 1st Division,20531,10017,Team Total,Total,true,0.95,0.05,0
@@ -1835,7 +1835,7 @@ Denmark - 1st Division,20531,10211,2nd Half Team Total,Total,true,0.95,0.05,1
 Denmark - 1st Division,20531,10212,2nd Half Team Total,Total,true,0.95,0.05,1
 USA - NWSL,20145,0,Moneyline,Moneyline,true,0.95,0.05,0
 USA - NWSL,20145,10001,Goal Spread,Spread,false,0.9,0.1,0
-USA - NWSL,20145,10002,Total Goals,Total,false,0.9,0.1,0
+USA - NWSL,20145,10002,Total Goals,Total,true,0.9,0.1,0
 USA - NWSL,20145,10100,Correct Score,Correct Score,true,0.99,0.01,2
 USA - NWSL,20145,10003,Double Chance,Double Chance,true,0.99,0.01,0
 USA - NWSL,20145,10017,Team Total,Total,true,0.95,0.05,0
