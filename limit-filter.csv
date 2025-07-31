@@ -3,7 +3,7 @@ PFL,9,100,250,Moneyline,Total Rounds,,false,2,1,0;10001
 ATP Challenger,157,100,350,Moneyline,Game Spread,Total Games,true,2,1,0;10001;10002
 CS2,9977,50,500,Moneyline,Map Handicap,Total Maps,true,4,1,0;10001;10002
 DOTA2,9983,50,500,Moneyline,Map Handicap,Total Maps,true,3,1,0;10001;10002
-League of Legends,10138,50,1500,Moneyline,Map Handicap,Total Maps,false,2,1,0;10001;10002
+League of Legends,10138,50,1000,Moneyline,Map Handicap,Total Maps,false,3,1,0;10001;10002
 Rainbow Six Siege,20293,50,150,Moneyline,,,true,2,1,0
 Starcraft 2,20294,50,150,Moneyline,Map Handicap,Total Maps,true,2,1,0;10001;10002
 Mobile Legends Bang Bang,20295,50,150,Moneyline,Map Handicap,Total Maps,true,2,1,0;10001;10002
