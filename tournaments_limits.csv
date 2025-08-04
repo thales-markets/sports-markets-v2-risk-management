@@ -1,33 +1,33 @@
 sportName,sportId,season_type,season_year,limitToPush
 League of Legends,10138,Worlds,,2000
-League of Legends,10138,LCS,,2000
 League of Legends,10138,LPL,,2000
 League of Legends,10138,LEC,,2000
 League of Legends,10138,LCK,,2000
-League of Legends,10138,Mid-Season Invitational,,2000
 League of Legends,10138,Esports World Cup,,2000
-League of Legends,10138,LTA North,,800
+League of Legends,10138,LTA North,,2000
+League of Legends,10138,Mid-Season Invitational,,2000
+League of Legends,10138,LCK Challengers League,,1000
+League of Legends,10138,LCP,,1000
+League of Legends,10138,LCS,,800
+League of Legends,10138,North American Challengers League,,800
+League of Legends,10138,NNO Cup,,800
+League of Legends,10138,LVP SL,,800
+League of Legends,10138,Prime League 1st Division,,800
+League of Legends,10138,Prime Pokal,,800
+League of Legends,10138,LFL,,800
+League of Legends,10138,TCL,,800
+League of Legends,10138,EMEA Masters,,800
+League of Legends,10138,Asia Masters,,800
 League of Legends,10138,LTA South,,800
-League of Legends,10138,NLC,,800
-League of Legends,10138,Asia Masters,,700
-League of Legends,10138,EMEA Masters,,700
-League of Legends,10138,LCP,,500
-League of Legends,10138,TCL,,500
-League of Legends,10138,LPLOL,,500
-League of Legends,10138,Prime Pokal,,500
 League of Legends,10138,Circuito Desafiante,,500
-League of Legends,10138,Prime League 1st Division,,500
-League of Legends,10138,LCK Challengers League,,500
-League of Legends,10138,LVP SL,,500
-League of Legends,10138,NNO Cup,,500
-League of Legends,10138,LJL,,500
-League of Legends,10138,LIT,,500
-League of Legends,10138,Rift Legends,,500
-League of Legends,10138,Road Of Legends,,500
-League of Legends,10138,North American Challengers League,,500
-League of Legends,10138,EBL,,500
-League of Legends,10138,Hitpoint Masters,,500
-League of Legends,10138,LFL,,500
+League of Legends,10138,NLC,,500
+League of Legends,10138,LJL,,400
+League of Legends,10138,LIT,,400
+League of Legends,10138,Rift Legends,,400
+League of Legends,10138,Road Of Legends,,400
+League of Legends,10138,EBL,,400
+League of Legends,10138,Hitpoint Masters,,400
+League of Legends,10138,LPLOL,,400
 CS2,9977,BLAST Premier,,2000
 CS2,9977,PGL Major,,2000
 CS2,9977,IEM,,2000
