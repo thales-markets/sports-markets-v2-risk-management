@@ -88,8 +88,8 @@ MLB,3,10047,7th Inning Run Line,Spread,true,0.95,0.05,0
 MLB,3,10028,8th Inning Moneyline,Moneyline,true,0.95,0.05,0
 MLB,3,10038,8th Inning Total Runs,Total,true,0.95,0.05,3
 MLB,3,10048,8th Inning Run Line,Spread,true,0.95,0.05,0
-MLB,3,10071,1st Half Run Line,Spread,false,0.9,0.1,0
-MLB,3,10061,1st Half Total Runs,Total,false,0.9,0.1,2
+MLB,3,10071,1st Half Run Line,Spread,true,0.9,0.1,0
+MLB,3,10061,1st Half Total Runs,Total,true,0.9,0.1,2
 MLB,3,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,1
 MLB,3,10111,1st Inning Team Total,Total,true,0.95,0.05,3
 MLB,3,10112,1st Inning Team Total,Total,true,0.95,0.05,3
@@ -1213,7 +1213,7 @@ ICC - T20 World Cup,20301,0,Moneyline,Moneyline,true,0.95,0.05,2
 Australia - Big Bash League,20302,0,Moneyline,Moneyline,true,0.95,0.05,2
 USA - Major League Cricket,20303,0,Moneyline,Moneyline,true,0.95,0.05,2
 Australia - Big Bash League Women,20304,0,Moneyline,Moneyline,true,0.95,0.05,2
-Pakistan Cricket,20305,0,Moneyline,Moneyline,false,0.9,0.1,2
+Pakistan Cricket,20305,0,Moneyline,Moneyline,true,0.9,0.1,2
 AFL,9510,0,Moneyline,Moneyline,true,0.95,0.05,1
 AFL,9510,10001,Point Spread,Spread,true,0.8,0.2,1
 AFL,9510,10002,Total Points,Total,true,0.8,0.2,2
