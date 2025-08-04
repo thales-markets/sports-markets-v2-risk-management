@@ -1,2 +1,2 @@
-tournament_season_type,tournament_season_year,sportName,sportId,limitToPush
-lck,2025,10038,LOL,500
+sportName,sportId,season_type,season_year,limitToPush
+League of Legends,10138,LCK Challengers League,2025,500
