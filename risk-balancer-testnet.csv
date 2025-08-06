@@ -1,4 +1,4 @@
 sportName,sportId,typeIds,lowerPercentageRisk,higherPercentageRisk,lowerPercentageRiskRebalance,higherPercentageRiskRebalance
 ALL_SPORTS,,,20,40,2,3
-NFL,2,,0;10001;10002,,33,66,1,2
-NFL,2,,10001;10002,,50,75,2,4
+NFL,2,0;10001;10002,33,66,1,2
+NFL,2,10001;10002,50,75,2,4
