@@ -1,30 +1,4 @@
 sport,sportId,typeId,positionIndex,positionName,size,combinedTypeIds,combinedPlayerIds,combinedLines,combinedPositions,enabled
-,3,90000,0,Home | Moneyline + Strikeouts Thrown Over,2,0;11019,[]:[],0;null,0;0,true
-,3,90000,1,Home | 2 x Doubles Over,2,11217;11217,[]:[],null;null,0;0,true
-,3,90001,0,Away | Moneyline + Strikeouts Thrown Over,2,0;11019,[0]:[],0;null,1;0,true
-,3,90001,1,Away | 2 x Doubles Over,2,11217;11217,[]:[],null;null,0;0,true
-,4,90000,0,Home | Moneyline + Player Points Over,2,0;11029,[0]:[],0;null,0;0,true
-,4,90000,1,Home | Moneyline + Player Assists Over,2,0;11039,[0]:[],0;null,0;0,true
-,4,90000,2,Home | Moneyline + Player Points Over + Player Assists Over,3,0;11029;11039,[0]:[]:[],0;null;null,0;0;0,true
-,4,90000,3,Home | Total Over + Player Points Over + Player Threes Over,3,10002;11029;11038,[]:[]:[],null;null;null,0;0;0,true
-,4,90001,0,Away | Moneyline + Player Points Over,2,0;11029,[0]:[],0;null,1;0,true
-,4,90001,1,Away | Moneyline + Player Assists Over,2,0;11039,[0]:[],0;null,1;0,true
-,4,90001,2,Away | Moneyline + Player Points Over + Player Assists Over,3,0;11029;11039,[0]:[]:[],0;null;null,1;0;0,true
-,4,90001,3,Away | Total Over + Player Points Over + Player Threes Over,3,10002;11029;11038,[]:[]:[],null;null;null,0;0;0,true
-,4,90002,0,Mixed | Moneyline (Home) + Both Teams Total Points Over,2,0;10002,[0]:[],0;null,0;0,true
-,4,90002,1,Mixed | Moneyline (Home) + 2 x Player Assists Over,3,0;11039;11039,[0]:[]:[],0;null;null,0;0;0,true
-,4,90002,2,Mixed | Moneyline (Home) + 2 x Player Points Over,3,0;11029;11029,[0]:[]:[],0;null;null,0;0;0,true
-,4,90002,3,Mixed | Moneyline (Away) + Both Teams Total Points Over,2,0;10002,[0]:[],0;null,1;0,true
-,4,90002,4,Mixed | Moneyline (Away) + 2 x Player Assists Over,3,0;11039;11039,[0]:[]:[],0;null;null,1;0;0,true
-,4,90002,5,Mixed | Moneyline (Away) + 2 x Player Points Over,3,0;11029;11029,[0]:[]:[],0;null;null,1;0;0,true
-,6,90000,0,Home | Moneyline + Home Total Over,2,0;10017,[0]:[],0;null,0;0,true
-,6,90000,1,Home | Moneyline + 1st Period Moneyline 3-Way + Home Total Over,3,0;10021;10017,[]:[]:[],0;null;null,0;0;0,true
-,6,90001,0,Away | Moneyline + Away Total Over,2,0;10018,[0]:[],0;null,1;0,true
-,6,90001,1,Away | Moneyline + 1st Period Moneyline 3-Way + Away Total Over,3,0;10021;10018,[]:[]:[],0;null;null,1;1;0,true
-,6,90002,0,Mixed | Moneyline (Home) + Total Over,2,0;10002,[0]:[],0;null,0;0,true
-,6,90002,1,Mixed | Moneyline (Away) + Total Over,2,0;10002,[0]:[],0;null,1;0,true
-,6,90002,2,Mixed | Moneyline (Home) + 1st Period Moneyline 3-Way (Home) + Total Over,3,0;10021;10002,[]:[]:[],0;null;null,0;0;0,true
-,6,90002,3,Mixed | Moneyline (Away) + 1st Period Moneyline 3-Way (Away) + Total Over,3,0;10021;10002,[]:[]:[],0;null;null,1;1;0,true
 ,11,90000,0,Home | Moneyline + Team Total Over,2,0;10017,[]:[],0;null,0;0,true
 ,11,90000,1,Home | Moneyline + Total Goals Over + Player Goals Over,3,0;10002;11100,[]:[]:[],null;null,0;0;0,true
 ,11,90000,0,Away | Moneyline + Team Total Over,2,0;10017,[]:[],0;null,0;0,true
