@@ -3,7 +3,7 @@ sport,sportId,typeId,positionIndex,positionName,size,combinedTypeIds,combinedPla
 ,11,90000,1,Home | Moneyline + Total Goals Over + Player Goals Over,3,0;10002;11100,[]:[]:[],0;null;null,0;0;0,true
 ,11,90000,2,Home | 1st Half Moneyline + 1st Half Total Goals Over,2,10021;10031,[]:[],0;null,0;0,true
 ,11,90000,3,Home | Moneyline + Total Goals Over + Total Goals Under,3,0;10002;10002,[]:[]:[],0;null;null,0;0;1,true
-,11,90001,0,Away | Moneyline + Team Total Over,2,0;10017,[]:[],0;null,1;0,true
+,11,90001,0,Away | Moneyline + Team Total Over,2,0;10018,[]:[],0;null,1;0,true
 ,11,90001,1,Away | Moneyline + Total Goals Over + Player Goals Over,3,0;10002;11100,[]:[]:[],0;null;null,1;0;0,true
 ,11,90002,0,Mixed | Moneyline (Home) + Both Teams To Score (Yes),2,0;10009,[]:[],0;null,0;0,true
 ,11,90002,1,Mixed | Moneyline (Away) + Both Teams To Score (Yes),2,0;10009,[]:[],0;null,1;0,true
