@@ -53,7 +53,7 @@ overtime-puller-opticodds-handball-leagues,France - LNH Division 1;Germany - HBL
 overtime-puller-opticodds-table-tennis,Czech Republic - TT Cup Men;Czech Republic - TT Liga Pro Men;Poland - TT Elite Series Men;WTT Men,8911;8912;8913;8914,2,30s,0x4bAcddCD09235F26FaA9F354fb2Aa2AD33df8F2d,3m,
 overtime-puller-opticodds-tennis,ATP;WTA;ATP Challenger,156;152;157,2,30s,0x0dB6b60db480B7E9db4d0d2ac90608bebD4Da822,2m,
 overtime-puller-opticodds-esports-one,CS2;Valorant;Rainbow Six Siege,9977;20300;20293,3,30s,0x8561Dc58DaD01D19Fa68966f8006C672de1814Fa,2m,
-overtime-puller-opticodds-esports-two,Dota 2;Call of Duty;Overwatch,9983;20298;20296,3,30s,0xF832a18dCb77A197BD52C9c859C0a3a3cacd443D,2m,
+overtime-puller-opticodds-esports-two,Dota 2;Call of Duty;Overwatch;Rocket League,9983;20298;20296;20297,3,30s,0xF832a18dCb77A197BD52C9c859C0a3a3cacd443D,2m,
 overtime-puller-opticodds-esports-three,League of Legends;Starcraft 2;Mobile Legends Bang Bang,10138;20294;20295,2,30s,0xb5F3d8c6a2e5839f3843EdA1b9b096feE025F80a,2m,
 overtime-puller-opticodds-rugby,Australia - NRL;England - Super League;Oceania - Super Rugby;International - Six Nations;AFL,9500;9501;9502;9503;9510,3,30s,0xc2478a323A0c84eb040294fE7be0CD46E77234d9,2m,
 overtime-puller-opticodds-darts,England - Premier League Darts;PDC - World Cup of Darts,20320;20321,4,30s,0xd4de0eb56e0b3CD2c38f7aA83dD1612ADCD039a7,2m,
