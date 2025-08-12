@@ -1,6 +1,6 @@
 name,sportId,marketName,bookmaker
 MLB,3,Player Props,draftkings
-MLB,3,Player Hits,blue book
+MLB,3,Player Hits,draftkings
 MLB,3,Player Hits Allowed,draftkings
 MLB,3,Player Home Runs,pinnacle
 MLB,3,Player Outs,draftkings
@@ -65,7 +65,6 @@ USA - AHL,328,Total Goals,Draftkings
 USA - AHL,328,Team Total,Draftkings
 Australia - NRL,9500,Player Props,Draftkings
 England - Super League,9501,Player Props,Draftkings
-UEFA - Champions League,16,Player Props,Draftkings
 UEFA - Champions League,16,To Lift The Cup,blue book
 UEFA - Europa League,17,To Lift The Cup,blue book
 UEFA - Europa Conference League,10216,To Lift The Cup,blue book
@@ -74,5 +73,22 @@ CS2,9977,Player Props,rimble
 Dota 2,9983,Player Props,rimble
 League of Legends,10138,Player Props,rimble
 Valorant,20300,Player Props,rimble
-UEFA - Champions League,16,Player Props,1xbet
+USA - Major League Soccer,10,Player Props,1xbet
 England - Premier League,11,Player Props,1xbet
+France - Ligue 1,12,Player Props,1xbet
+Germany - Bundesliga,13,Player Props,1xbet
+Spain - La Liga,14,Player Props,1xbet
+Italy - Serie A,15,Player Props,1xbet
+UEFA - Champions League,16,Player Props,1xbet
+UEFA - Europa League,17,Player Props,1xbet
+FIFA - World Cup Qualifiers,18,Player Props,1xbet
+FIFA - World Cup,22,Player Props,1xbet
+Netherlands - Eredivisie,57,Player Props,1xbet
+Portugal - Primeira Liga,61,Player Props,1xbet
+Mexico - Liga MX,230,Player Props,1xbet
+Brazil - Serie A,268,Player Props,1xbet
+Saudi Arabia - Saudi League,536,Player Props,1xbet
+UEFA - Nations League,9806,Player Props,1xbet
+UEFA - Europa Conference League,10216,Player Props,1xbet
+England - Championship,20011,Player Props,1xbet
+Scotland - Premiership,20101,Player Props,1xbet
