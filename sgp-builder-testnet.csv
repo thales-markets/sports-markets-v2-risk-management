@@ -27,22 +27,3 @@ sport,sportId,typeId,positionIndex,positionName,size,combinedTypeIds,combinedPla
 ,6,90002,3,Mixed | Moneyline (Away) + 1st Period Moneyline 3-Way (Away) + Total Over,3,0;10021;10002,[]:[]:[],0;null;null,1;1;0,true
 ,11,90000,0,Home | Moneyline + Team Total Over,2,0;10017,[]:[],0;null,0;0,true
 ,11,90000,1,Home | 1st Half Moneyline + 1st Half Total Goals Over,2,10021;10031,[]:[],null;null,0;0,true
-,11,90000,2,Home | Moneyline + Total Goals Over + Total Goals Under,3,0;10002;10002,[]:[]:[],0;null;null,0;0;1,true
-,11,90000,3,Home | Moneyline + Player to Score,2,0;11100,[0]:[],0;null,0;0,true
-,11,90000,4,Home | Moneyline + Total Goals Over + Player to Score,3,0;10002;11100,[]:[]:[],null;null,0;0;0,true
-,11,90001,0,Away | Moneyline + Team Total Over,2,0;10018,[]:[],0;null,1;0,true
-,11,90001,1,Away | 1st Half Moneyline + 1st Half Total Goals Over,2,10021;10031,[]:[],null;null,1;0,true
-,11,90001,2,Away | Moneyline + Total Goals Over + Total Goals Under,3,0;10002;10002,[]:[]:[],0;null;null,1;0;1,true
-,11,90001,3,Away | Moneyline + Player to Score,2,0;11100,[1]:[],0;null,1;0,true
-,11,90001,4,Away | Moneyline + Total Goals Over + Player to Score,3,0;10002;11100,[]:[]:[],null;null,1;0;0,true
-,11,90002,0,Mixed | Moneyline (Home) + Both Teams To Score (Yes),2,0;10009,[]:[],0;null,0;0,true
-,11,90002,1,Mixed | Moneyline (Away) + Both Teams To Score (Yes),2,0;10009,[]:[],0;null,1;0,true
-,11,90002,2,Mixed | Moneyline (Home) + Total Goals Over + Total Goals Under,3,0;10002;10002,[]:[]:[],0;null;null,0;0;1,true
-,11,90002,3,Mixed | Moneyline (Away) + Total Goals Over + Total Goals Under,3,0;10002;10002,[]:[]:[],0;null;null,1;0;1,true
-,11,90002,4,Mixed | Moneyline (Home) + Player to Score,2,0;11100,[0]:[],0;null,0;0,true
-,11,90002,5,Mixed | Moneyline (Away) + Player to Score,2,0;11100,[1]:[],0;null,1;0,true
-,11,90002,6,Mixed | Total Goals Over + Total Corners Over,2,10002;10222,[]:[]:[],null;null,0;0,true
-,11,90002,7,Mixed | Moneyline (Home) + Total Corners Over,2,0;10222,[]:[],0;null,0;0,true
-,11,90002,8,Mixed | Moneyline (Away) + Total Corners Over,2,0;10222,[]:[],0;null,1;0,true
-
-
