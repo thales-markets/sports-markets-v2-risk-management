@@ -8,7 +8,7 @@ NCAAB,5,5
 NCAAW,20211,5
 NHL,6,5
 WNBA,8,5
-MLS,5,5
+MLS,10,5
 EPL,11,5
 FRA1,12,5
 GER1,13,5
@@ -16,12 +16,12 @@ ESP1,14,5
 ITA1,15,5
 UEFA CL,16,5
 UEFA EL,17,5
-UEFA Conference,5216,5
+UEFA Conference,10216,5
 FIFA Q,18,5
 NET1,57,5
 POR1,61,5
 Brazil,268,5
-UEFA Nations League,5806,5
+UEFA Nations League,9806,5
 Copa Libertadores,45,5
 Brazil - Copa do Brasil,20002,5
 England - Championship,20011,5
@@ -60,9 +60,9 @@ Canada - Premier League,20149,5
 France Cup,134,5
 EURO 2024,50,5
 Copa America,44,5
-UCL Qualification,5611,5
-Europe League Qualification,5613,5
-COnference League Qualification,5615,5
+UCL Qualification,10611,5
+Europe League Qualification,10613,5
+COnference League Qualification,10615,5
 Australia A League,20113,5
 China Super League,20112,5
 Eurocup,20200,5
@@ -81,16 +81,16 @@ FIBA - Asia Cup Qualifiers,20213,5
 FIBA - Eurobasket Qualifiers,20214,5
 Greece - A1 League,20217,5
 International - Champions League,20218,5
-UFC PPV,501,5
-UFC Non-Main,502,5
-UFC APEX,503,5
-UFC DW Contender,504,5
-Boxing,5595,5
-CS2,5977,5
-DOTA2,5983,5
-LOL,5138,5
+UFC PPV,901,5
+UFC Non-Main,902,5
+UFC APEX,703,5
+UFC DW Contender,704,5
+Boxing,10595,5
+CS2,9977,5
+DOTA2,9983,5
+LOL,10138,5
 Call of Duty,20298,5
-Valorant,20300,12
+Valorant,20300,5
 Overwatch,20296,5
 Tennis ATP GS unknown round,15610,5
 Tennis ATP GS Qualification,15611,5
@@ -119,15 +119,15 @@ Tennis ATP500 4th round,15635,5
 Tennis ATP500 quarterfinals,15636,5
 Tennis ATP500 semifinals,15637,5
 Tennis ATP500 finals,15638,5
-Tennis ATP250 unknown round,15640,8
-Tennis ATP250 Qualification,15641,8
-Tennis ATP250 1st round,15642,8
-Tennis ATP250 2nd round,15643,8
-Tennis ATP250 3rt round,15644,8
-Tennis ATP250 4th round,15645,8
-Tennis ATP250 quarterfinals,15646,8
-Tennis ATP250 semifinals,15647,8
-Tennis ATP250 finals,15648,8
+Tennis ATP250 unknown round,15640,5
+Tennis ATP250 Qualification,15641,5
+Tennis ATP250 1st round,15642,5
+Tennis ATP250 2nd round,15643,5
+Tennis ATP250 3rt round,15644,5
+Tennis ATP250 4th round,15645,5
+Tennis ATP250 quarterfinals,15646,5
+Tennis ATP250 semifinals,15647,5
+Tennis ATP250 finals,15648,5
 ATP Challenger,157,5
 Tennis WTA GS unknown round,15210,5
 Tennis WTA GS Qualification,15211,5
@@ -149,13 +149,13 @@ Tennis WTA1000 semifinals,15227,5
 Tennis WTA1000 finals,15228,5
 Tennis WTA500 unknown round,15230,5
 Tennis WTA500 Qualification,15231,5
-Tennis WTA500 1st round,15232,8
-Tennis WTA500 2nd round,15233,8
-Tennis WTA500 3rt round,15234,8
-Tennis WTA500 4th round,15235,8
-Tennis WTA500 quarterfinals,15236,8
-Tennis WTA500 semifinals,15237,8
-Tennis WTA500 finals,15238,8
+Tennis WTA500 1st round,15232,5
+Tennis WTA500 2nd round,15233,5
+Tennis WTA500 3rt round,15234,5
+Tennis WTA500 4th round,15235,5
+Tennis WTA500 quarterfinals,15236,5
+Tennis WTA500 semifinals,15237,5
+Tennis WTA500 finals,15238,5
 Tennis WTA250 unknown round,15240,5
 Tennis WTA250 Qualification,15241,5
 Tennis WTA250 1st round,15242,5
@@ -176,20 +176,20 @@ Austria - Ice Hockey League,323,5
 Sweden - SHL,324,5
 Switzerland - National League,327,5
 USA - AHL,328,5
-Australia - NRL,5500,5
-England - Super League,5501,5
-Oceania - Super Rugby,5502,5
-International - Six Nations,5503,5
-AFL,5510,5
+Australia - NRL,9500,5
+England - Super League,9501,5
+Oceania - Super Rugby,9502,5
+International - Six Nations,9503,5
+AFL,9510,5
 College Baseball,303,5
 KBO,302,5
 NPB,301,5
 Olympics Table Tennis Women,8909,5
 Olympics Table Tennis Men,8910,5
-Czech Republic - TT Cup Men,8911,12
-Czech Republic - TT Liga Pro Men,8912,12
-Poland - TT Elite Series Men,8913,12
-WTT Men,8914,12
+Czech Republic - TT Cup Men,8911,5
+Czech Republic - TT Liga Pro Men,8912,5
+Poland - TT Elite Series Men,8913,5
+WTT Men,8914,5
 North Macedonia - Super Liga,379,5
 Croatia - HB Premijer Liga,382,5
 EHF - Champions League,383,5
@@ -209,5 +209,5 @@ Slovenia - 1. Liga,396,5
 Spain - ASOBAL,397,5
 Sweden - Handbollsligan,398,5
 ATP Challenger,157,5
-Fina Waterpolo Men,20870,12
-CFL,5520,5
+Fina Waterpolo Men,20870,5
+CFL,9520,5
