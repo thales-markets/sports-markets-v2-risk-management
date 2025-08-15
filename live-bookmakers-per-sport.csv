@@ -1,4 +1,6 @@
 sportName,sportId,primaryBookmaker,secondaryBookmaker,tertiaryBookmaker
+MLB,3,pinnacle,,
+WNBA,8,pinnacle,,
 Tennis Masters,156,pinnacle,,
 Tennis Grand Slam,153,pinnacle,,
 Tennis WTA,152,pinnacle,,
