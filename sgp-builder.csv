@@ -136,4 +136,4 @@ sport,sportId,typeId,positionIndex,positionName,size,combinedTypeIds,combinedPla
 ,17,90002,4,Mixed | Total Goals Over + Total Goals Under,2,10002;10002,[]:[],1.5;3.5,0;1,true
 ,17,90002,5,Mixed | Total Goals Over + Both Teams To Score (Yes),2,10002;10009,[]:[],2.5;null,0;0,true
 ,17,90002,6,Mixed | Total Goals Over + Both Teams To Score (Yes),2,10002;10009,[]:[],3.5;null,0;0,true
-,17,90002,7,Mixed | Moneyline (Draw) + Both Teams To Score (Yes),2,0;10009,[]
+,17,90002,7,Mixed | Moneyline (Draw) + Both Teams To Score (Yes),2,0;10009,[]:[],0;null,2;0,true
