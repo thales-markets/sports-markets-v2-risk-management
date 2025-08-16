@@ -245,7 +245,7 @@ MLS,10,10112,1st Half Team Total,Total,true,0.95,0.05,1
 MLS,10,10211,2nd Half Team Total,Total,true,0.95,0.05,1
 MLS,10,10212,2nd Half Team Total,Total,true,0.95,0.05,1
 EPL,11,0,Moneyline,Moneyline,true,0.95,0.05,0
-EPL,11,10001,Goal Spread,Spread,true,0.95,0.05,0
+EPL,11,10001,Asian Handicap,Spread,true,0.95,0.05,0
 EPL,11,10002,Total Goals,Total,true,0.95,0.05,0
 EPL,11,10100,Correct Score,Correct Score,true,0.99,0.01,2
 EPL,11,10003,Double Chance,Double Chance,true,0.99,0.01,0
