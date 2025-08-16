@@ -260,7 +260,7 @@ EPL,11,10112,1st Half Team Total,Total,true,0.95,0.05,1
 EPL,11,10211,2nd Half Team Total,Total,true,0.95,0.05,1
 EPL,11,10212,2nd Half Team Total,Total,true,0.95,0.05,1
 Ligue 1,12,0,Moneyline,Moneyline,true,0.95,0.05,0
-Ligue 1,12,10001,Goal Spread,Spread,true,0.95,0.05,0
+Ligue 1,12,10001,Asian Handicap,Spread,true,0.95,0.05,0
 Ligue 1,12,10002,Total Goals,Total,true,0.95,0.05,0
 Ligue 1,12,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Ligue 1,12,10003,Double Chance,Double Chance,true,0.99,0.01,0
@@ -275,7 +275,7 @@ Ligue 1,12,10112,1st Half Team Total,Total,true,0.95,0.05,1
 Ligue 1,12,10211,2nd Half Team Total,Total,true,0.95,0.05,1
 Ligue 1,12,10212,2nd Half Team Total,Total,true,0.95,0.05,1
 Bundesliga,13,0,Moneyline,Moneyline,true,0.95,0.05,0
-Bundesliga,13,10001,Goal Spread,Spread,true,0.95,0.05,0
+Bundesliga,13,10001,Asian Handicap,Spread,true,0.95,0.05,0
 Bundesliga,13,10002,Total Goals,Total,true,0.95,0.05,0
 Bundesliga,13,10100,Correct Score,Correct Score,true,0.99,0.01,2
 Bundesliga,13,10003,Double Chance,Double Chance,true,0.99,0.01,0
@@ -290,7 +290,7 @@ Bundesliga,13,10112,1st Half Team Total,Total,true,0.95,0.05,1
 Bundesliga,13,10211,2nd Half Team Total,Total,true,0.95,0.05,1
 Bundesliga,13,10212,2nd Half Team Total,Total,true,0.95,0.05,1
 La Liga,14,0,Moneyline,Moneyline,true,0.95,0.05,0
-La Liga,14,10001,Goal Spread,Spread,true,0.95,0.05,0
+La Liga,14,10001,Asian Handicap,Spread,true,0.95,0.05,0
 La Liga,14,10002,Total Goals,Total,true,0.95,0.05,0
 La Liga,14,10100,Correct Score,Correct Score,true,0.99,0.01,2
 La Liga,14,10003,Double Chance,Double Chance,true,0.99,0.01,0
@@ -305,7 +305,7 @@ La Liga,14,10112,1st Half Team Total,Total,true,0.95,0.05,1
 La Liga,14,10211,2nd Half Team Total,Total,true,0.95,0.05,1
 La Liga,14,10212,2nd Half Team Total,Total,true,0.95,0.05,1
 Serie A,15,0,Moneyline,Moneyline,true,0.95,0.05,0
-Serie A,15,10001,Goal Spread,Spread,true,0.95,0.05,0
+Serie A,15,10001,Asian Handicap,Spread,true,0.95,0.05,0
 Serie A,15,10002,Total Goals,Total,true,0.95,0.05,0
 Serie A,15,10017,Team Total,Total,true,0.95,0.05,0
 Serie A,15,10018,Team Total,Total,true,0.95,0.05,0
@@ -320,7 +320,7 @@ Serie A,15,10112,1st Half Team Total,Total,true,0.95,0.05,1
 Serie A,15,10211,2nd Half Team Total,Total,true,0.95,0.05,1
 Serie A,15,10212,2nd Half Team Total,Total,true,0.95,0.05,1
 UEFA Champions League,16,0,Moneyline,Moneyline,true,0.95,0.05,0
-UEFA Champions League,16,10001,Goal Spread,Spread,true,0.95,0.05,0
+UEFA Champions League,16,10001,Asian Handicap,Spread,true,0.95,0.05,0
 UEFA Champions League,16,10002,Total Goals,Total,true,0.95,0.05,0
 UEFA Champions League,16,10017,Team Total,Total,true,0.95,0.05,0
 UEFA Champions League,16,10018,Team Total,Total,true,0.95,0.05,0
@@ -335,7 +335,7 @@ UEFA Champions League,16,10112,1st Half Team Total,Total,true,0.95,0.05,1
 UEFA Champions League,16,10211,2nd Half Team Total,Total,true,0.95,0.05,1
 UEFA Champions League,16,10212,2nd Half Team Total,Total,true,0.95,0.05,1
 UEFA Europa League,17,0,Moneyline,Moneyline,true,0.95,0.05,0
-UEFA Europa League,17,10001,Goal Spread,Spread,true,0.95,0.05,0
+UEFA Europa League,17,10001,Asian Handicap,Spread,true,0.95,0.05,0
 UEFA Europa League,17,10002,Total Goals,Total,true,0.95,0.05,0
 UEFA Europa League,17,10017,Team Total,Total,true,0.95,0.05,0
 UEFA Europa League,17,10018,Team Total,Total,true,0.95,0.05,0
@@ -441,7 +441,7 @@ Euroleague,399,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
 Euroleague,399,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
 Euroleague,399,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
 UEFA Nations League,9806,0,Moneyline,Moneyline,true,0.95,0.05,0
-UEFA Nations League,9806,10001,Goal Spread,Spread,true,0.95,0.05,0
+UEFA Nations League,9806,10001,Asian Handicap,Spread,true,0.95,0.05,0
 UEFA Nations League,9806,10002,Total Goals,Total,true,0.95,0.05,0
 UEFA Nations League,9806,10100,Correct Score,Correct Score,true,0.99,0.01,2
 UEFA Nations League,9806,10003,Double Chance,Double Chance,true,0.99,0.01,0
@@ -458,7 +458,7 @@ UEFA Nations League,9806,10212,2nd Half Team Total,Total,true,0.95,0.05,1
 UEFA Nations League women,20148,0,Moneyline,Moneyline,true,0.95,0.05,0
 UEFA Nations League women,20148,10002,Total Goals,Total,true,0.95,0.05,0
 UEFA Conference League,10216,0,Moneyline,Moneyline,true,0.95,0.05,0
-UEFA Conference League,10216,10001,Goal Spread,Spread,true,0.9,0.1,0
+UEFA Conference League,10216,10001,Asian Handicap,Spread,true,0.9,0.1,0
 UEFA Conference League,10216,10002,Total Goals,Total,true,0.9,0.1,0
 UEFA Conference League,10216,10100,Correct Score,Correct Score,true,0.99,0.01,2
 UEFA Conference League,10216,10003,Double Chance,Double Chance,true,0.99,0.01,0
