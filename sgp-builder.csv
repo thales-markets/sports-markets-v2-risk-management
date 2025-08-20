@@ -140,14 +140,22 @@ sport,sportId,typeId,positionIndex,positionName,size,combinedTypeIds,combinedPla
 ,2,90000,0,Home | Moneyline + Total Points Over,2,0;10002,[]:[],0;null,0;0,true
 ,2,90000,1,Home | Moneyline + Total Points Over + Player Touchdowns Over,3,0;10002;11055,[]:[]:[],0;null;null,0;0;0,true
 ,2,90000,2,Home | Moneyline + Total Goals Over + Player Passing Yards Over,3,0;10002;11051,[]:[]:[],0;null;null,0;0;0,true
+,2,90000,3,Home | Moneyline + Player Passing Yards Over + Player Rushing Yards Over,3,0;11051;11053,[]:[]:[],0;null;null,0;0;0,true
+,2,90000,4,Home | Moneyline + Player Passing Yards Over + Player Receiving Yards Over,3,0;11051;11057,[]:[]:[],0;null;null,0;0;0,true
 ,2,90001,0,Away | Moneyline + Total Points Over,2,0;10002,[]:[],0;null,1;0,true
 ,2,90001,1,Away | Moneyline + Total Points Over + Player Touchdowns Over,3,0;10002;11055,[]:[]:[],0;null;null,1;0;0,true
 ,2,90001,2,Away | Moneyline + Total Goals Over + Player Passing Yards Over,3,0;10002;11051,[]:[]:[],0;null;null,1;0;0,true
+,2,90001,3,Away | Moneyline + Player Passing Yards Over + Player Rushing Yards Over,3,0;11051;11053,[]:[]:[],0;null;null,1;0;0,true
+,2,90001,4,Away | Moneyline + Player Passing Yards Over + Player Receiving Yards Over,3,0;11051;11057,[]:[]:[],0;null;null,1;0;0,true
 ,2,90002,0,Mixed | Total Points Over + Player Touchdowns Over,2,10002;11055,[]:[],0;null,0;0,true
 ,1,90000,0,Home | Moneyline + Total Points Over,2,0;10002,[]:[],0;null,0;0,true
 ,1,90000,1,Home | Moneyline + Total Points Over + Player Touchdowns Over,3,0;10002;11055,[]:[]:[],0;null;null,0;0;0,true
 ,1,90000,2,Home | Moneyline + Total Goals Over + Player Passing Yards Over,3,0;10002;11051,[]:[]:[],0;null;null,0;0;0,true
+,1,90000,3,Home | Moneyline + Player Passing Yards Over + Player Rushing Yards Over,3,0;11051;11053,[]:[]:[],0;null;null,0;0;0,true
+,1,90000,4,Home | Moneyline + Player Passing Yards Over + Player Receiving Yards Over,3,0;11051;11057,[]:[]:[],0;null;null,0;0;0,true
 ,1,90001,0,Away | Moneyline + Total Points Over,2,0;10002,[]:[],0;null,1;0,true
 ,1,90001,1,Away | Moneyline + Total Points Over + Player Touchdowns Over,3,0;10002;11055,[]:[]:[],0;null;null,1;0;0,true
 ,1,90001,2,Away | Moneyline + Total Goals Over + Player Passing Yards Over,3,0;10002;11051,[]:[]:[],0;null;null,1;0;0,true
+,1,90001,3,Away | Moneyline + Player Passing Yards Over + Player Rushing Yards Over,3,0;11051;11053,[]:[]:[],0;null;null,1;0;0,true
+,1,90001,4,Away | Moneyline + Player Passing Yards Over + Player Receiving Yards Over,3,0;11051;11057,[]:[]:[],0;null;null,1;0;0,true
 ,1,90002,0,Mixed | Total Points Over + Player Touchdowns Over,2,10002;11055,[]:[],0;null,0;0,true
