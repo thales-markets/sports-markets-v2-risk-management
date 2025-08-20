@@ -2057,3 +2057,65 @@ USA - NWSL,20145,10111,1st Half Team Total,Total,true,0.95,0.05,1
 USA - NWSL,20145,10112,1st Half Team Total,Total,true,0.95,0.05,1
 USA - NWSL,20145,10211,2nd Half Team Total,Total,true,0.95,0.05,1
 USA - NWSL,20145,10212,2nd Half Team Total,Total,true,0.95,0.05,1
+FIBA - EuroBasket,20224,0,Moneyline,Moneyline,true,0.95,0.05,2
+FIBA - EuroBasket,20224,10001,Point Spread,Spread,true,0.95,0.05,2
+FIBA - EuroBasket,20224,10002,Total Points,Total,true,0.95,0.05,2
+FIBA - EuroBasket,20224,10017,Team Total,Total,true,0.95,0.05,2
+FIBA - EuroBasket,20224,10018,Team Total,Total,true,0.95,0.05,2
+FIBA - EuroBasket,20224,10031,1st Quarter Total Points,Total,true,0.95,0.05,2
+FIBA - EuroBasket,20224,10032,2nd Quarter Total Points,Total,true,0.95,0.05,2
+FIBA - EuroBasket,20224,10033,3rd Quarter Total Points,Total,true,0.95,0.05,2
+FIBA - EuroBasket,20224,10034,4th Quarter Total Points,Total,true,0.95,0.05,2
+FIBA - EuroBasket,20224,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,2
+FIBA - EuroBasket,20224,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,2
+FIBA - EuroBasket,20224,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,2
+FIBA - EuroBasket,20224,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,2
+FIBA - EuroBasket,20224,10071,1st Half Point Spread,Spread,true,0.95,0.05,2
+FIBA - EuroBasket,20224,10072,2nd Half Point Spread,Spread,true,0.95,0.05,2
+FIBA - EuroBasket,20224,10061,1st Half Total Points,Total,true,0.95,0.05,2
+FIBA - EuroBasket,20224,10062,2nd Half Total Points,Total,true,0.95,0.05,2
+FIBA - EuroBasket,20224,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,2
+FIBA - EuroBasket,20224,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+FIBA - EuroBasket,20224,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+FIBA - EuroBasket,20224,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,2
+FIBA - EuroBasket,20224,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,2
+FIBA - EuroBasket,20224,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
+FIBA - EuroBasket,20224,10111,1st Quarter Team Total,Total,true,0.95,0.05,2
+FIBA - EuroBasket,20224,10112,1st Quarter Team Total,Total,true,0.95,0.05,2
+FIBA - EuroBasket,20224,10211,2nd Quarter Team Total,Total,true,0.95,0.05,2
+FIBA - EuroBasket,20224,10212,2nd Quarter Team Total,Total,true,0.95,0.05,2
+FIBA - EuroBasket,20224,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
+FIBA - EuroBasket,20224,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
+FIBA - EuroBasket,20224,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
+FIBA - EuroBasket,20224,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
+FIBA - AfroBasket,20225,0,Moneyline,Moneyline,true,0.95,0.05,2
+FIBA - AfroBasket,20225,10001,Point Spread,Spread,true,0.95,0.05,2
+FIBA - AfroBasket,20225,10002,Total Points,Total,true,0.95,0.05,2
+FIBA - AfroBasket,20225,10017,Team Total,Total,true,0.95,0.05,2
+FIBA - AfroBasket,20225,10018,Team Total,Total,true,0.95,0.05,2
+FIBA - AfroBasket,20225,10031,1st Quarter Total Points,Total,true,0.95,0.05,2
+FIBA - AfroBasket,20225,10032,2nd Quarter Total Points,Total,true,0.95,0.05,2
+FIBA - AfroBasket,20225,10033,3rd Quarter Total Points,Total,true,0.95,0.05,2
+FIBA - AfroBasket,20225,10034,4th Quarter Total Points,Total,true,0.95,0.05,2
+FIBA - AfroBasket,20225,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,2
+FIBA - AfroBasket,20225,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,2
+FIBA - AfroBasket,20225,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,2
+FIBA - AfroBasket,20225,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,2
+FIBA - AfroBasket,20225,10071,1st Half Point Spread,Spread,true,0.95,0.05,2
+FIBA - AfroBasket,20225,10072,2nd Half Point Spread,Spread,true,0.95,0.05,2
+FIBA - AfroBasket,20225,10061,1st Half Total Points,Total,true,0.95,0.05,2
+FIBA - AfroBasket,20225,10062,2nd Half Total Points,Total,true,0.95,0.05,2
+FIBA - AfroBasket,20225,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,2
+FIBA - AfroBasket,20225,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+FIBA - AfroBasket,20225,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+FIBA - AfroBasket,20225,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,2
+FIBA - AfroBasket,20225,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,2
+FIBA - AfroBasket,20225,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
+FIBA - AfroBasket,20225,10111,1st Quarter Team Total,Total,true,0.95,0.05,2
+FIBA - AfroBasket,20225,10112,1st Quarter Team Total,Total,true,0.95,0.05,2
+FIBA - AfroBasket,20225,10211,2nd Quarter Team Total,Total,true,0.95,0.05,2
+FIBA - AfroBasket,20225,10212,2nd Quarter Team Total,Total,true,0.95,0.05,2
+FIBA - AfroBasket,20225,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
+FIBA - AfroBasket,20225,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
+FIBA - AfroBasket,20225,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
+FIBA - AfroBasket,20225,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
