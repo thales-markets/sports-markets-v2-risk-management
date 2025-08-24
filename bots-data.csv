@@ -37,7 +37,7 @@ overtime-puller-opticodds-middle-east,Saudi Arabia - Saudi League;Kazakhstan - P
 overtime-puller-opticodds-africa-one,Egypt - Premier League;South Africa - Premier League,20538;20683,5,29s,0x926af636fc4221866a25e1cAF963381f3C175927,2m,
 overtime-puller-opticodds-portugal,Portugal - Primeira Liga;Portugal - League Cup;Portugal - Taca de Portugal;Portugal - Super Cup;Portugal - Segunda Liga,61;20133;20136;20658;20657,5,29s,0x25632fb184dA434eae4107d862b10Ec1B29083FA,2m,
 overtime-puller-opticodds-holland,Netherlands - Eredivisie;Netherlands - KNVB Beker;Netherlands - Super Cup;Netherlands - Eerste Divisie,57;20135;20716;20634,5,29s,0x4ef22b2132eF6b497e8Da56EFc1e440FbA6B24e9,2m,
-overtime-puller-opticodds-north-eu-one,Sweden - Allsvenskan;Norway - Eliteserien;Norway - 1. Divisjon;Sweden - Superettan,20123;20150;20642;20686,5,49s,0x6ec7dc7121c0eb671704c96a049189e5de2a0307,2m,
+overtime-puller-opticodds-north-eu-one,Sweden - Allsvenskan;Norway - Eliteserien;Norway - 1. Divisjon;Sweden - Superettan,20123;20150;20642;20686,5,29s,0x6ec7dc7121c0eb671704c96a049189e5de2a0307,2m,
 overtime-puller-opticodds-north-eu-two,Iceland - Besta Deild Karla;Lithuania - A Lyga;Latvia - Virsliga,20578;20616;20612,5,29s,0xeeAb97032499008452c161A6137DBE42b8894371,2m,
 overtime-puller-opticodds-north-eu-three,Finland - Veikkausliiga;Denmark - Superliga;Denmark - 1st Division,20105;20121;20531,5,29s,0x2C53aa2c7F678F1D3A0BF6e3273f7793D6b0fe74,2m,
 overtime-puller-opticodds-china,China - Super League;Thailand - Thai League 1;China - FA Cup;Indonesia - Liga 1;Vietnam - V League 1,20112;;20134;20715;20583;20709,5,29s,0x0d92cc47d04a4683bacab034d757cd8b4c2fa2d7,2m,
