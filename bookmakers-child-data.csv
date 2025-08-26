@@ -44,6 +44,22 @@ NHL,6,Player Blocked Shots,DraftKings
 NHL,6,1st Period Moneyline 3-Way,DraftKings
 NHL,6,2nd Period Moneyline 3-Way,DraftKings
 WNBA,8,Player Props,blue book
+WNBA,8,Player Blocks,betano
+WNBA,8,Player Steals,betano
+WNBA,8,Player Steals + Blocks,betano
+WNBA,8,Player Rebounds + Assists,betano
+WNBA,8,Player Points + Rebounds,betano
+WNBA,8,Player Points + Assists,betano
+WNBA,8,Player Triple Double,betano
+WNBA,8,Player Turnovers,betano
+WNBA,8,Player Free Throws Attempted,betano
+WNBA,8,Player Free Throws Made,betano
+WNBA,8,Player Field Goals Attempted,betano
+WNBA,8,Player Field Goals Made,betano
+WNBA,8,Player Threes Attempted,betano
+WNBA,8,Player Two Pointers Attempted,betano
+WNBA,8,Player Made Two Pointers,betano
+WNBA,8,Player Fouls,betano
 NCAAF,1,Player Props,blue book
 NCAAF,1,Player Passing Attempts,bet365
 NCAAF,1,Player Passing Completions,bet365
