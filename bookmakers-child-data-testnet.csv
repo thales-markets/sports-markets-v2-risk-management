@@ -44,7 +44,34 @@ NHL,6,Player Blocked Shots,DraftKings
 NHL,6,1st Period Moneyline 3-Way,DraftKings
 NHL,6,2nd Period Moneyline 3-Way,DraftKings
 WNBA,8,Player Props,blue book
+WNBA,8,Player Blocks,betano
+WNBA,8,Player Steals,betano
+WNBA,8,Player Steals + Blocks,betano
+WNBA,8,Player Rebounds + Assists,betano
+WNBA,8,Player Points + Rebounds,betano
+WNBA,8,Player Points + Assists,betano
+WNBA,8,Player Triple Double,betano
+WNBA,8,Player Turnovers,betano
+WNBA,8,Player Free Throws Attempted,betano
+WNBA,8,Player Free Throws Made,betano
+WNBA,8,Player Field Goals Attempted,betano
+WNBA,8,Player Field Goals Made,betano
+WNBA,8,Player Threes Attempted,betano
+WNBA,8,Player Two Pointers Attempted,betano
+WNBA,8,Player Made Two Pointers,betano
+WNBA,8,Player Fouls,betano
 NCAAF,1,Player Props,blue book
+NCAAF,1,Player Passing Attempts,bet365
+NCAAF,1,Player Passing Completions,bet365
+NCAAF,1,Player Interceptions,bet365
+NCAAF,1,Player Longest Passing Completion,bet365
+NCAAF,1,Player Longest Reception,bet365
+NCAAF,1,Player Longest Rush,bet365
+NCAAF,1,Player Receptions,bet365
+NCAAF,1,Player Rushing Attempts,bet365
+NCAAF,1,Player Extra Points Made,bet365
+NCAAF,1,Player Field Goals Made,bet365
+NCAAF,1,Player Kicking Points,bet365
 WTA,152,Player Props,blue book
 ATP,156,Player Props,blue book
 WTA,152,Correct Score,Draftkings
@@ -74,12 +101,12 @@ CS2,9977,Player Props,rimble
 Dota 2,9983,Player Props,rimble
 League of Legends,10138,Player Props,rimble
 Valorant,20300,Player Props,rimble
-England - Premier League,11,Player Props,1xbet
+England - Premier League,11,Player Props,XXX
 France - Ligue 1,12,Player Props,XXX
 Germany - Bundesliga,13,Player Props,XXX
-Spain - La Liga,14,Player Props,1xbet
+Spain - La Liga,14,Player Props,XXX
 Italy - Serie A,15,Player Props,XXX
-UEFA - Champions League,16,Player Props,1xbet
+UEFA - Champions League,16,Player Props,XXX
 UEFA - Europa League,17,Player Props,XXX
 USA - Major League Soccer,10,Player Props,XXX
 FIFA - World Cup Qualifiers,18,Player Props,XXX
@@ -93,3 +120,24 @@ UEFA - Nations League,9806,Player Props,XXX
 UEFA - Europa Conference League,10216,Player Props,XXX
 England - Championship,20011,Player Props,XXX
 Scotland - Premiership,20101,Player Props,XXX
+England - Premier League,11,Player Goals,1xbet
+England - Premier League,11,Player Assists,1xbet
+England - Premier League,11,Player Shots On Target,1xbet
+France - Ligue 1,12,Player Goals,1xbet
+France - Ligue 1,12,Player Assists,1xbet
+France - Ligue 1,12,Player Shots On Target,1xbet
+Germany - Bundesliga,13,Player Goals,1xbet
+Germany - Bundesliga,13,Player Assists,1xbet
+Germany - Bundesliga,13,Player Shots On Target,1xbet
+Spain - La Liga,14,Player Goals,1xbet
+Spain - La Liga,14,Player Assists,1xbet
+Spain - La Liga,14,Player Shots On Target,1xbet
+Italy - Serie A,15,Player Goals,1xbet
+Italy - Serie A,15,Player Assists,1xbet
+Italy - Serie A,15,Player Shots On Target,1xbet
+UEFA - Champions League,16,Player Goals,1xbet
+UEFA - Champions League,16,Player Assists,1xbet
+UEFA - Champions League,16,Player Shots On Target,1xbet
+UEFA - Europa League,17,Player Goals,1xbet
+UEFA - Europa League,17,Player Assists,XXX
+UEFA - Europa League,17,Player Shots On Target,XXX
