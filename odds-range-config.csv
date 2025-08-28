@@ -115,36 +115,36 @@ UEFA - Champions League,16,11235,110,3000,Anytime Red Card Receiver
 UEFA - Champions League,16,11238,110,1000,Player Shots On Target
 UEFA - Champions League,16,11239,110,1000,Player Shots
 UEFA - Champions League,16,11039,110,1000,Player Assists
-WTA,152,10001,120,600,Spread
-WTA,152,10002,120,600,Totals
-WTA,152,10013,120,600,Second Spread
-WTA,152,10014,120,600,Second Total
-WTA,152,10031,120,600,First Period Total
-WTA,152,10032,120,600,Second Period Total
-WTA,152,10033,120,600,Third Period Total
-WTA,152,10041,120,600,First Period Spread
-WTA,152,10042,120,600,Second Period Spread
-WTA,152,10043,120,600,Third Period Spread
-ATP,156,10001,120,600,Spread
-ATP,156,10002,120,600,Totals
-ATP,156,10013,120,600,Second Spread
-ATP,156,10014,120,600,Second Total
-ATP,156,10031,120,600,First Period Total
-ATP,156,10032,120,600,Second Period Total
-ATP,156,10033,120,600,Third Period Total
-ATP,156,10041,120,600,First Period Spread
-ATP,156,10042,120,600,Second Period Spread
-ATP,156,10043,120,600,Third Period Spread
-ATP Challenger,157,10001,120,600,Spread
-ATP Challenger,157,10002,120,600,Totals
-ATP Challenger,157,10013,120,600,Second Spread
-ATP Challenger,157,10014,120,600,Second Total
-ATP Challenger,157,10031,120,600,First Period Total
-ATP Challenger,157,10032,120,600,Second Period Total
-ATP Challenger,157,10033,120,600,Third Period Total
-ATP Challenger,157,10041,120,600,First Period Spread
-ATP Challenger,157,10042,120,600,Second Period Spread
-ATP Challenger,157,10043,120,600,Third Period Spread
+WTA,152,10001,120,500,Spread
+WTA,152,10002,120,500,Totals
+WTA,152,10013,120,500,Second Spread
+WTA,152,10014,120,500,Second Total
+WTA,152,10031,120,500,First Period Total
+WTA,152,10032,120,500,Second Period Total
+WTA,152,10033,120,500,Third Period Total
+WTA,152,10041,120,500,First Period Spread
+WTA,152,10042,120,500,Second Period Spread
+WTA,152,10043,120,500,Third Period Spread
+ATP,156,10001,120,500,Spread
+ATP,156,10002,120,500,Totals
+ATP,156,10013,120,500,Second Spread
+ATP,156,10014,120,500,Second Total
+ATP,156,10031,120,500,First Period Total
+ATP,156,10032,120,500,Second Period Total
+ATP,156,10033,120,500,Third Period Total
+ATP,156,10041,120,500,First Period Spread
+ATP,156,10042,120,500,Second Period Spread
+ATP,156,10043,120,500,Third Period Spread
+ATP Challenger,157,10001,120,500,Spread
+ATP Challenger,157,10002,120,500,Totals
+ATP Challenger,157,10013,120,500,Second Spread
+ATP Challenger,157,10014,120,500,Second Total
+ATP Challenger,157,10031,120,500,First Period Total
+ATP Challenger,157,10032,120,500,Second Period Total
+ATP Challenger,157,10033,120,500,Third Period Total
+ATP Challenger,157,10041,120,500,First Period Spread
+ATP Challenger,157,10042,120,500,Second Period Spread
+ATP Challenger,157,10043,120,500,Third Period Spread
 Euroleague,399,10001,175,215,Spread
 Euroleague,399,10002,175,215,Totals
 Euroleague,399,10017,180,200,Total Home Team To Score
