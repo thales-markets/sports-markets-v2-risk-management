@@ -3,7 +3,7 @@ overtime-puller-opticodds-ncaaf,NCAAF,1,5,49s,0xECB7e6B4Fbc7abB1979AF46388D4c764
 overtime-puller-opticodds-nfl,NFL,2,5,49s,0xfF238Ff05A383449ceECf4Bce525B71B7bc09e4a,2m,
 overtime-puller-opticodds-american-football,CFL;UFL,9520;9521,5,49s,0xA635170ceA886BD548117e662D42Eb28d78F0d83,2m,
 overtime-puller-opticodds-mlb,MLB;USA - MLB All Star,3;305,1,49s,0x13a680721c56038C81B1aa39f4d1D79ca22B12b3,2m,
-overtime-puller-opticodds-baseball,NPB;KBO;College Baseball;CPBL,301;302;303;304,1,49s,0xD29314E32dBa3b8564abDDc0d5781d4Bd173FD90,2m,
+overtime-puller-opticodds-baseball,NPB;KBO;College Baseball;CPBL;Mexico - LMB,301;302;303;304;306,1,49s,0xD29314E32dBa3b8564abDDc0d5781d4Bd173FD90,2m,
 overtime-puller-opticodds-nba,NBA;USA - NBA Summer League,4;400,2,49s,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,2m,
 overtime-puller-opticodds-ncaab,NCAAB;NCAAW,5;20211,2,49s,0xDD747F32ADd26b1C1DBCe16ea53A68dD7aB5Aa29,2m,
 overtime-puller-opticodds-nhl,NHL,6,4,49s,0xB1194db809c35e6259c504328F07424FB983e812,2m,
