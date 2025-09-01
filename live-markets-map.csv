@@ -353,6 +353,7 @@ WTA Events,152,0,Moneyline,Moneyline,true,0.95,0.05,2
 WTA Events,152,10001,Game Spread,Spread,true,0.95,0.05,2
 WTA Events,152,10002,Total Games,Total,true,0.95,0.05,2
 WTA Events,152,10100,Correct Score,Correct Score,true,0.99,0.01,2
+WTA Events,152,10013,Set Handicap,Spread,true,0.95,0.05,2
 WTA Events,152,10017,Player Games Won,Total,true,0.95,0.05,2
 WTA Events,152,10018,Player Games Won,Total,true,0.95,0.05,2
 WTA Events,152,10031,1st Set Total Games,Total,true,0.95,0.05,2
@@ -377,6 +378,7 @@ ATP Events,156,0,Moneyline,Moneyline,true,0.95,0.05,2
 ATP Events,156,10001,Game Spread,Spread,true,0.95,0.05,2
 ATP Events,156,10002,Total Games,Total,true,0.95,0.05,2
 ATP Events,156,10100,Correct Score,Correct Score,true,0.99,0.01,2
+ATP Events,156,10013,Set Handicap,Spread,true,0.95,0.05,2
 ATP Events,156,10017,Player Games Won,Total,true,0.95,0.05,2
 ATP Events,156,10018,Player Games Won,Total,true,0.95,0.05,2
 ATP Events,156,10031,1st Set Total Games,Total,true,0.95,0.05,2
@@ -398,6 +400,7 @@ ATP Challenger,157,0,Moneyline,Moneyline,true,0.95,0.05,2
 ATP Challenger,157,10001,Game Spread,Spread,true,0.95,0.05,2
 ATP Challenger,157,10002,Total Games,Total,true,0.95,0.05,2
 ATP Challenger,157,10100,Correct Score,Correct Score,true,0.99,0.01,2
+ATP Challenger,157,10013,Set Handicap,Spread,true,0.95,0.05,2
 ATP Challenger,157,10017,Player Games Won,Total,true,0.95,0.05,2
 ATP Challenger,157,10018,Player Games Won,Total,true,0.95,0.05,2
 ATP Challenger,157,10031,1st Set Total Games,Total,true,0.95,0.05,2
