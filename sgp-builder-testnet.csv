@@ -49,3 +49,19 @@ sport,sportId,typeId,positionIndex,positionName,size,combinedTypeIds,combinedPla
 ,152,90000,1,Home | Moneyline + 1st Set Total Games Over + Player Games Won Over,3,0;10031;10017,[]:[]:[],0;null;null,0;0;0,true
 ,152,90001,0,Away | Moneyline + Total Games Over,2,0;10002,[]:[],0;null,1;0,true
 ,152,90001,1,Away | Moneyline + 1st Set Total Games Over + Player Games Won Over,3,0;10031;10018,[]:[]:[],0;null;null,1;0;0,true
+,9977,90000,0,Home | Moneyline + Total Maps Over,2,0;10002,[]:[],0;null,0;0,true
+,9977,90000,1,Home | 1st Map Moneyline + 1st Map Player Kills Over,2,10021;11264,[]:[],0;null,0;0,true
+,9977,90001,0,Away | Moneyline + Total Maps Over,2,0;10002,[]:[],0;null,1;0,true
+,9977,90001,1,Away | 1st Map Moneyline + 1st Map Player Kills Over,2,10021;11264,[]:[],0;null,1;0,true
+,9983,90000,0,Home | Moneyline + Total Maps Over,2,0;10002,[]:[],0;null,0;0,true
+,9983,90000,1,Home | 1st Map Moneyline + 1st Map Player Kills Over,2,10021;11264,[]:[],0;null,0;0,true
+,9983,90001,0,Away | Moneyline + Total Maps Over,2,0;10002,[]:[],0;null,1;0,true
+,9983,90001,1,Away | 1st Map Moneyline + 1st Map Player Kills Over,2,10021;11264,[]:[],0;null,1;0,true
+,10138,90000,0,Home | Moneyline + Total Maps Over,2,0;10002,[]:[],0;null,0;0,true
+,10138,90000,1,Home | 1st Map Moneyline + 1st Map Player Kills Over,2,10021;11264,[]:[],0;null,0;0,true
+,10138,90001,0,Away | Moneyline + Total Maps Over,2,0;10002,[]:[],0;null,1;0,true
+,10138,90001,1,Away | 1st Map Moneyline + 1st Map Player Kills Over,2,10021;11264,[]:[],0;null,1;0,true
+,20300,90000,0,Home | Moneyline + Total Maps Over,2,0;10002,[]:[],0;null,0;0,true
+,20300,90000,1,Home | 1st Map Moneyline + 1st Map Player Kills Over,2,10021;11264,[]:[],0;null,0;0,true
+,20300,90001,0,Away | Moneyline + Total Maps Over,2,0;10002,[]:[],0;null,1;0,true
+,20300,90001,1,Away | 1st Map Moneyline + 1st Map Player Kills Over,2,10021;11264,[]:[],0;null,1;0,true
