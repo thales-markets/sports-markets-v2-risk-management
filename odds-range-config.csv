@@ -1,12 +1,12 @@
 sportName,sportId,typeId,minOdds,maxOdds,description
-NCAAF,1,10001,175,225,Spread
-NCAAF,1,10002,175,225,Totals
-NCAAF,1,10017,175,225,Total Home Team To Score
-NCAAF,1,10018,175,225,Total Away Team To Score
-NCAAF,1,10061,175,225,First Period Total Secondary
-NCAAF,1,10062,175,225,Second Period Total Secondary
-NCAAF,1,10071,175,225,First Period Spread Secondary
-NCAAF,1,10072,175,225,Second Period Spread Secondary
+NCAAF,1,10001,130,450,Spread
+NCAAF,1,10002,130,450,Totals
+NCAAF,1,10017,130,450,Total Home Team To Score
+NCAAF,1,10018,130,450,Total Away Team To Score
+NCAAF,1,10061,130,450,First Period Total Secondary
+NCAAF,1,10062,130,450,Second Period Total Secondary
+NCAAF,1,10071,130,450,First Period Spread Secondary
+NCAAF,1,10072,130,450,Second Period Spread Secondary
 NCAAF,1,11051,120,500,Player Passing Yards
 NCAAF,1,11052,120,500,Player Passing Touchdowns
 NCAAF,1,11053,120,500,Player Rushing Yards
