@@ -1,0 +1,349 @@
+id,leagueName,sport
+1,NCAAF,Football
+2,NFL,Football
+3,MLB,Baseball
+4,NBA,Basketball
+5,NCAAB,Basketball
+6,NHL,Hockey
+7,UFC,Fighting
+8,WNBA,Basketball
+9,PFL,Fighting
+10,USA - Major League Soccer,Soccer
+11,England - Premier League,Soccer
+12,France - Ligue 1,Soccer
+13,Germany - Bundesliga,Soccer
+14,Spain - La Liga,Soccer
+15,Italy - Serie A,Soccer
+16,UEFA - Champions League,Soccer
+17,UEFA - Europa League,Soccer
+18,FIFA - World Cup Qualifiers,Soccer
+19,Japan - J1 League,Soccer
+20,India - IPL,Cricket
+21,England - T20 Blast,Cricket
+33,IIHF - World Championship,Hockey
+44,CONMEBOL - Copa America,Soccer
+45,CONMEBOL - Copa Libertadores,Soccer
+50,UEFA - European Championship,Soccer
+57,Netherlands - Eredivisie,Soccer
+61,Portugal - Primeira Liga,Soccer
+65,Olympics Soccer Women,Soccer
+66,Olympics Soccer Men,Soccer
+76,FIFA World Cup Women,Soccer
+132,England - FA Cup,Soccer
+134,France - Coupe de France,Soccer
+138,Spain - Copa del Rey,Soccer
+141,Italy - Coppa Italia,Soccer
+152,WTA,Tennis
+153,"ATP,WTA",Tennis
+156,ATP,Tennis
+157,ATP Challenger,Tennis
+158,Olympic Games Tennis,Tennis
+209,Germany - DFB Pokal,Soccer
+230,Mexico - Liga MX,Soccer
+268,Brazil - Serie A,Soccer
+288,UEFA EURO U21,Soccer
+296,FIFA World Cup U20,Soccer
+301,NPB,Baseball
+302,KBO,Baseball
+303,College Baseball,Baseball
+304,CPBL,Baseball
+305,USA - MLB All Star,Baseball
+306,Mexico - LMB,Baseball
+310,Czech Republic - Extraliga,Hockey
+319,Finland - SM Liiga,Hockey
+321,Russia - KHL,Hockey
+322,Germany - DEL,Hockey
+323,Austria - Ice Hockey League,Hockey
+324,Sweden - SHL,Hockey
+327,Switzerland - National League,Hockey
+328,USA - AHL,Hockey
+379,North Macedonia - Super Liga,Handball
+380,Olympics Handball Women,Handball
+381,Olympics Handball Men,Handball
+382,Croatia - HB Premijer Liga,Handball
+383,EHF - Champions League,Handball
+384,EHF - Champions League Women,Handball
+385,EHF - European League,Handball
+386,France - LNH Division 1,Handball
+387,Germany - HBL,Handball
+388,Hungary - HNB I,Handball
+389,Iceland - Urvalsdeild,Handball
+390,IHF - World Championship,Handball
+391,Norway - HB 1. Divisjon,Handball
+392,Poland - Superliga,Handball
+393,Russia - Super League,Handball
+394,Serbia - Superliga,Handball
+395,Slovakia - HB Extraliga,Handball
+396,Slovenia - 1. Liga,Handball
+397,Spain - ASOBAL,Handball
+398,Sweden - Handbollsligan,Handball
+399,Euroleague,Basketball
+400,USA - NBA Summer League,Basketball
+406,Olympics Basketball Men,Basketball
+407,Olympics Basketball Women,Basketball
+409,FIFA World Cup U20,Basketball
+445,Formula 1,Motosport
+453,Olympic Games Beach Voleyball Women,Volleyball
+454,Olympic Games Beach Voleyball,Volleyball
+497,MotoGP,Motosport
+536,Saudi Arabia - Saudi League,Soccer
+8881,Summer Olympics Water Polo,Waterpolo
+8893,Olympics Volleyball Women,Volleyball
+8894,Olympics Volleyball Men,Volleyball
+8909,Summer Olympics Table Tennis Women,TableTennis
+8910,Summer Olympics Table Tennis,TableTennis
+8911,Czech Republic - TT Cup Men,TableTennis
+8912,Czech Republic - TT Liga Pro Men,TableTennis
+8913,Poland - TT Elite Series Men,TableTennis
+8914,WTT Men,TableTennis
+9196,Boxing,Fighting
+9500,Australia - NRL,Rugby
+9501,England - Super League,Rugby
+9502,Oceania - Super Rugby,Rugby
+9503,International - Six Nations,Rugby
+9510,AFL,AussieRules
+9520,CFL,Football
+9521,UFL,Football
+9578,Olympics Rugby 7s Men,Rugby
+9588,Olympics Rugby 7s Women,Rugby
+9698,Olympic Games Hockey Women,Hockey
+9699,Olympic Games Hockey,Hockey
+9806,UEFA - Nations League,Soccer
+9821,Olympic Games Hockey,Soccer
+9977,CS2,eSports
+9983,Dota 2,eSports
+10071,Olympics Basketball 3x3 Men,Basketball
+10072,Olympics Basketball 3x3 Women,Basketball
+10138,League of Legends,eSports
+10199,CONMEBOL World Cup Qualification,Soccer
+10216,UEFA - Europa Conference League,Soccer
+10502,Summer Olympics Qualification,Basketball
+10595,Boxing Non Title,Fighting
+10611,UEFA - Champions League,Soccer
+10613,UEFA - Europa League,Soccer
+10615,UEFA - Europa Conference League,Soccer
+20000,US Election 2024,Politics
+20001,UEFA - Super Cup,Soccer
+20002,Brazil - Copa do Brasil,Soccer
+20011,England - Championship,Soccer
+20101,Scotland - Premiership,Soccer
+20102,Belgium - Jupiler Pro League,Soccer
+20103,Czech Republic - FNL,Soccer
+20104,Chile - Primera Division,Soccer
+20105,Finland - Veikkausliiga,Soccer
+20106,Argentina - Primera Division,Soccer
+20107,Russia - Premier League,Soccer
+20108,Turkey - Super Lig,Soccer
+20109,Serbia - Super Liga,Soccer
+20110,Greece - Super League,Soccer
+20111,India - Calcutta Premier Division,Soccer
+20112,China - Super League,Soccer
+20113,Australia - A-League,Soccer
+20114,Switzerland - Super League,Soccer
+20115,Germany - Bundesliga 2,Soccer
+20116,Spain - La Liga 2,Soccer
+20117,Italy - Serie B,Soccer
+20118,India - Super League,Soccer
+20119,France - Ligue 2,Soccer
+20120,Austria - Bundesliga,Soccer
+20121,Denmark - Superliga,Soccer
+20122,Poland - Ekstraklasa,Soccer
+20123,Sweden - Allsvenskan,Soccer
+20124,Colombia - Primera A,Soccer
+20125,England - EFL Cup,Soccer
+20126,England - League 1,Soccer
+20127,Uruguay - Primera Division,Soccer
+20128,AFC - Champions League,Soccer
+20129,Italy - Supercoppa,Soccer
+20130,France - Super Cup,Soccer
+20131,Spain - Supercopa,Soccer
+20132,Germany - Super Cup,Soccer
+20133,Portugal - League Cup,Soccer
+20134,Thailand - Thai League 1,Soccer
+20135,Netherlands - KNVB Beker,Soccer
+20136,Portugal - Taca de Portugal,Soccer
+20137,England - Womens Super League,Soccer
+20138,Italy - Serie A Femminile,Soccer
+20139,France - Premiere Ligue,Soccer
+20140,Germany - Frauen Bundesliga,Soccer
+20141,Spain - Liga F,Soccer
+20142,Netherlands - Vrouwen Eredivisie,Soccer
+20143,Belgium - Womens Super League,Soccer
+20144,UEFA - Champions League Women,Soccer
+20145,USA - NWSL,Soccer
+20146,Australia - A-League Women,Soccer
+20147,CONCACAF - Champions Cup,Soccer
+20148,UEFA - Nations League Women,Soccer
+20149,Canada - Premier League,Soccer
+20150,Norway - Eliteserien,Soccer
+20151,USA - Open Cup,Soccer
+20152,FIFA - Club World Cup,Soccer
+20160,Argentina - Copa Argentina,Soccer
+20166,Australia - Cup,Soccer
+20175,Austria - 2. Liga,Soccer
+20183,Belarus - Premier League,Soccer
+20184,Belgium - Challenger Pro League,Soccer
+20200,Eurocup,Basketball
+20201,Spain - Liga ACB,Basketball
+20202,Italy - Lega Basket Serie A,Basketball
+20203,Germany - BBL,Basketball
+20204,France - LNB Pro A,Basketball
+20205,China - CBA,Basketball
+20206,Australia - NBL,Basketball
+20210,BIG3,Basketball
+20211,NCAAW,Basketball
+20212,FIBA - Americup Qualifiers,Basketball
+20213,FIBA - Asia Cup Qualifiers,Basketball
+20214,FIBA - Eurobasket Qualifiers,Basketball
+20215,FIBA - World Cup Qualifiers,Basketball
+20216,FIBA - AfroBasket Qualifiers,Basketball
+20217,Greece - A1 League,Basketball
+20218,International - Champions League,Basketball
+20219,Turkey - BSL,Basketball
+20220,FIBA - Eurobasket Women,Basketball
+20221,Philippines - Phillipine Cup,Basketball
+20222,FIBA - World Cup U19,Basketball
+20223,FIBA - Americup Women,Basketball
+20224,FIBA - EuroBasket,Basketball
+20225,FIBA - AfroBasket,Basketball
+20226,FIBA - Americup,Basketball
+20293,Rainbow Six Siege,eSports
+20294,Starcraft 2,eSports
+20295,Mobile Legends Bang Bang,eSports
+20296,Overwatch,eSports
+20297,Rocket League,eSports
+20298,Call of Duty,eSports
+20299,Starcraft,eSports
+20300,Valorant,eSports
+20301,ICC - T20 World Cup,Cricket
+20302,Australia - Big Bash League,Cricket
+20303,USA - Major League Cricket,Cricket
+20304,Australia - Big Bash League Women,Cricket
+20305,Pakistan - Super League,Cricket
+20310,USA - National Lacrosse League,Lacrosse
+20311,USA - Premier Lacrosse League,Lacrosse
+20320,England - Premier League Darts,Darts
+20321,PDC - World Cup of Darts,Darts
+20400,Argentina - Liga Argentina,Volleyball
+20401,Argentina - Liga Argentina Women,Volleyball
+20402,Austria - AVL,Volleyball
+20403,Austria - WVL,Volleyball
+20404,Belgium - Liga Dames,Volleyball
+20405,Belgium - Liga Heren,Volleyball
+20406,Brazil - Superliga,Volleyball
+20407,Brazil - Superliga Women,Volleyball
+20408,CEV - Champions League,Volleyball
+20409,CEV - Champions League Women,Volleyball
+20410,CEV - Cup,Volleyball
+20411,CEV - Cup Women,Volleyball
+20412,China - CVL,Volleyball
+20413,China - CVL Women,Volleyball
+20414,Czech Republic - VEL,Volleyball
+20415,Czech Republic - VEL Women,Volleyball
+20416,Denmark - Volleyligaen,Volleyball
+20417,Denmark - Volleyligaen Women,Volleyball
+20418,Finland - Mestaruusliiga,Volleyball
+20419,Finland - Mestaruusliiga Women,Volleyball
+20420,FIVB - Nations League,Volleyball
+20421,FIVB - Nations League Women,Volleyball
+20422,France - Ligue A,Volleyball
+20423,France - Ligue A Women,Volleyball
+20424,Germany - 1st Bundesliga,Volleyball
+20425,Germany - 1st Bundesliga Women,Volleyball
+20426,Iran - Super League,Volleyball
+20427,Italy - Coppa Italia A1 Women,Volleyball
+20428,Italy - Coppa Italia Superlega,Volleyball
+20429,Italy - Serie A1 Women,Volleyball
+20430,Italy - Superlega,Volleyball
+20431,Japan - SV League,Volleyball
+20432,Japan - SV League Women,Volleyball
+20433,Norway - NVBF,Volleyball
+20434,Philippines - PVL Women,Volleyball
+20435,Poland - PlusLiga,Volleyball
+20436,Russia - Superliga,Volleyball
+20437,Russia - Superliga Women,Volleyball
+20438,South Korea - V League,Volleyball
+20439,South Korea - V League Women,Volleyball
+20440,FIVB - World Championship Women,Volleyball
+20503,Brazil - Serie B,Soccer
+20507,Bulgaria - Parva Liga,Soccer
+20516,CONCACAF - Gold Cup,Soccer
+20517,Wales - Cymru Premier,Soccer
+20519,Costa Rica - Primera Division,Soccer
+20520,Croatia - 1. HNL,Soccer
+20529,Czech Republic - First League,Soccer
+20531,Denmark - 1st Division,Soccer
+20535,Ecuador - Serie A,Soccer
+20538,Egypt - Premier League,Soccer
+20540,England - Community Shield,Soccer
+20543,England - League 2,Soccer
+20549,Estonia - Premium Liiga,Soccer
+20555,COSAFA - Cup,Soccer
+20561,Georgia - Erovnuli Liga,Soccer
+20563,Germany - Bundesliga 3,Soccer
+20572,Hungary - NB I,Soccer
+20578,Iceland - Besta Deild Karla,Soccer
+20583,Indonesia - Liga 1,Soccer
+20584,International - Club Friendlies,Soccer
+20585,International - Friendlies,Soccer
+20586,International - Friendlies Women,Soccer
+20588,Ireland - Division 1,Soccer
+20590,Ireland - Premier League,Soccer
+20600,Kazakhstan - Premier League,Soccer
+20603,Korea - K1 League,Soccer
+20612,Latvia - Virsliga,Soccer
+20616,Lithuania - A Lyga,Soccer
+20621,Malaysia - Super League,Soccer
+20634,Netherlands - Eerste Divisie,Soccer
+20637,North America - Leagues Cup,Soccer
+20639,Northern Ireland - Premiership,Soccer
+20642,Norway - 1. Divisjon,Soccer
+20651,Peru - Primera Division,Soccer
+20656,Portugal - Liga 3,Soccer
+20657,Portugal - Segunda Liga,Soccer
+20658,Portugal - Super Cup,Soccer
+20659,Qatar - Stars League,Soccer
+20661,Romania - Liga I,Soccer
+20662,Romania - Liga II,Soccer
+20663,Russia - Cup,Soccer
+20664,Russia - First League,Soccer
+20669,Scotland - Championship,Soccer
+20682,Slovenia - PrvaLiga,Soccer
+20683,South Africa - Premier League,Soccer
+20686,Sweden - Superettan,Soccer
+20688,Switzerland - Challenge League,Soccer
+20692,Turkey - 1. Lig,Soccer
+20702,USA - USL Championship,Soccer
+20707,Uzbekistan - Super League,Soccer
+20709,Vietnam - V League 1,Soccer
+20712,UEFA - European Championship U21,Soccer
+20713,UEFA - European Championship Women,Soccer
+20714,Slovakia - Superliga,Soccer
+20715,China - FA Cup,Soccer
+20716,Netherlands - Super Cup,Soccer
+20717,Ukraine - Premier League,Soccer
+20718,Italy - Serie C,Soccer
+20719,Japan - Emperor Cup,Soccer
+20870,FINA - World Championship,Waterpolo
+20871,FINA - World Championship Women,Waterpolo
+30001,NCAAF Futures,Futures
+30002,NFL Futures,Futures
+30003,MLB Futures,Futures
+30004,NBA Futures,Futures
+30005,NCAAB Futures,Futures
+30006,NHL Futures,Futures
+30011,EPL Futures,Futures
+30012,Ligue 1 Futures,Futures
+30013,Bundesliga Futures,Futures
+30014,La Liga Futures,Futures
+30015,Serie A Futures,Futures
+30016,UEFA Champions League Futures,Futures
+30152,WTA Futures,Futures
+30156,ATP Futures,Futures
+30224,FIBA EuroBasket Futures,Futures
+30399,Euroleague Futures,Futures
+39997,FIFA - Club World Cup - Futures,Futures
+39998,PGA Futures,Futures
+39999,Formula 1 Futures,Futures
+100021,Golf head-to-head,Golf
+100121,Golf Tournament Winner,Golf
