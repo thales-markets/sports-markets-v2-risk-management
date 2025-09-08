@@ -1,66 +1,66 @@
 name,sportId,typeId,marketName,type,enabled,minOdds,maxOdds,addedSpread
-NCAAF,1,0,Moneyline,Moneyline,true,0.95,0.05,0
-NCAAF,1,10001,Point Spread,Spread,true,0.95,0.05,0
-NCAAF,1,10002,Total Points,Total,true,0.95,0.05,0
-NCAAF,1,10017,Team Total,Total,true,0.95,0.05,0
-NCAAF,1,10018,Team Total,Total,true,0.95,0.05,0
-NCAAF,1,10031,1st Quarter Total Points,Total,true,0.95,0.05,0
-NCAAF,1,10032,2nd Quarter Total Points,Total,true,0.95,0.05,0
-NCAAF,1,10033,3rd Quarter Total Points,Total,true,0.95,0.05,0
-NCAAF,1,10034,4th Quarter Total Points,Total,true,0.95,0.05,0
-NCAAF,1,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,0
-NCAAF,1,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,0
-NCAAF,1,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,0
-NCAAF,1,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,0
-NCAAF,1,10071,1st Half Point Spread,Spread,true,0.95,0.05,0
-NCAAF,1,10072,2nd Half Point Spread,Spread,true,0.95,0.05,0
-NCAAF,1,10061,1st Half Total Points Points,Total,true,0.95,0.05,0
-NCAAF,1,10062,2nd Half Total Points,Total,true,0.95,0.05,0
-NCAAF,1,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,0
-NCAAF,1,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,0
-NCAAF,1,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,0
-NCAAF,1,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,0
-NCAAF,1,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-NCAAF,1,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-NCAAF,1,10111,1st Quarter Team Total,Total,true,0.95,0.05,1
-NCAAF,1,10112,1st Quarter Team Total,Total,true,0.95,0.05,1
-NCAAF,1,10211,2nd Quarter Team Total,Total,true,0.95,0.05,1
-NCAAF,1,10212,2nd Quarter Team Total,Total,true,0.95,0.05,1
-NCAAF,1,10311,3rd Quarter Team Total,Total,true,0.95,0.05,1
-NCAAF,1,10312,3rd Quarter Team Total,Total,true,0.95,0.05,1
-NCAAF,1,10411,4th Quarter Team Total,Total,true,0.95,0.05,1
-NCAAF,1,10412,4th Quarter Team Total,Total,true,0.95,0.05,1
-NFL,2,0,Moneyline,Moneyline,true,0.95,0.05,0
-NFL,2,10001,Point Spread,Spread,true,0.8,0.2,0
-NFL,2,10002,Total Points,Total,true,0.8,0.2,0
-NFL,2,10017,Team Total,Total,true,0.8,0.2,0
-NFL,2,10018,Team Total,Total,true,0.8,0.2,0
-NFL,2,10031,1st Quarter Total Points,Total,true,0.95,0.05,0
-NFL,2,10032,2nd Quarter Total Points,Total,true,0.95,0.05,0
-NFL,2,10033,3rd Quarter Total Points,Total,true,0.95,0.05,0
-NFL,2,10034,4th Quarter Total Points,Total,true,0.95,0.05,0
-NFL,2,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,0
-NFL,2,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,0
-NFL,2,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,0
-NFL,2,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,0
-NFL,2,10071,1st Half Point Spread,Spread,true,0.95,0.05,0
-NFL,2,10072,2nd Half Point Spread,Spread,true,0.95,0.05,0
-NFL,2,10061,1st Half Total Points Points,Total,true,0.95,0.05,0
-NFL,2,10062,2nd Half Total Points,Total,true,0.95,0.05,0
-NFL,2,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,0
-NFL,2,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,0
-NFL,2,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,0
-NFL,2,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,0
-NFL,2,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,0
-NFL,2,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,0
-NFL,2,10111,1st Quarter Team Total,Total,true,0.95,0.05,1
-NFL,2,10112,1st Quarter Team Total,Total,true,0.95,0.05,1
-NFL,2,10211,2nd Quarter Team Total,Total,true,0.95,0.05,1
-NFL,2,10212,2nd Quarter Team Total,Total,true,0.95,0.05,1
-NFL,2,10311,3rd Quarter Team Total,Total,true,0.95,0.05,1
-NFL,2,10312,3rd Quarter Team Total,Total,true,0.95,0.05,1
-NFL,2,10411,4th Quarter Team Total,Total,true,0.95,0.05,1
-NFL,2,10412,4th Quarter Team Total,Total,true,0.95,0.05,1
+NCAAF,1,0,Moneyline,Moneyline,true,0.95,0.05,1
+NCAAF,1,10001,Point Spread,Spread,true,0.95,0.05,1
+NCAAF,1,10002,Total Points,Total,true,0.95,0.05,1
+NCAAF,1,10017,Team Total,Total,true,0.95,0.05,1
+NCAAF,1,10018,Team Total,Total,true,0.95,0.05,1
+NCAAF,1,10031,1st Quarter Total Points,Total,true,0.95,0.05,1
+NCAAF,1,10032,2nd Quarter Total Points,Total,true,0.95,0.05,1
+NCAAF,1,10033,3rd Quarter Total Points,Total,true,0.95,0.05,1
+NCAAF,1,10034,4th Quarter Total Points,Total,true,0.95,0.05,1
+NCAAF,1,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,1
+NCAAF,1,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,1
+NCAAF,1,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,1
+NCAAF,1,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,1
+NCAAF,1,10071,1st Half Point Spread,Spread,true,0.95,0.05,1
+NCAAF,1,10072,2nd Half Point Spread,Spread,true,0.95,0.05,1
+NCAAF,1,10061,1st Half Total Points Points,Total,true,0.95,0.05,1
+NCAAF,1,10062,2nd Half Total Points,Total,true,0.95,0.05,1
+NCAAF,1,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,1
+NCAAF,1,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,1
+NCAAF,1,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,1
+NCAAF,1,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,1
+NCAAF,1,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+NCAAF,1,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+NCAAF,1,10111,1st Quarter Team Total,Total,true,0.95,0.05,2
+NCAAF,1,10112,1st Quarter Team Total,Total,true,0.95,0.05,2
+NCAAF,1,10211,2nd Quarter Team Total,Total,true,0.95,0.05,2
+NCAAF,1,10212,2nd Quarter Team Total,Total,true,0.95,0.05,2
+NCAAF,1,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
+NCAAF,1,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
+NCAAF,1,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
+NCAAF,1,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
+NFL,2,0,Moneyline,Moneyline,true,0.95,0.05,1
+NFL,2,10001,Point Spread,Spread,true,0.8,0.2,1
+NFL,2,10002,Total Points,Total,true,0.8,0.2,1
+NFL,2,10017,Team Total,Total,true,0.8,0.2,1
+NFL,2,10018,Team Total,Total,true,0.8,0.2,1
+NFL,2,10031,1st Quarter Total Points,Total,true,0.95,0.05,1
+NFL,2,10032,2nd Quarter Total Points,Total,true,0.95,0.05,1
+NFL,2,10033,3rd Quarter Total Points,Total,true,0.95,0.05,1
+NFL,2,10034,4th Quarter Total Points,Total,true,0.95,0.05,1
+NFL,2,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,1
+NFL,2,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,1
+NFL,2,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,1
+NFL,2,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,1
+NFL,2,10071,1st Half Point Spread,Spread,true,0.95,0.05,1
+NFL,2,10072,2nd Half Point Spread,Spread,true,0.95,0.05,1
+NFL,2,10061,1st Half Total Points Points,Total,true,0.95,0.05,1
+NFL,2,10062,2nd Half Total Points,Total,true,0.95,0.05,1
+NFL,2,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,1
+NFL,2,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,1
+NFL,2,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,1
+NFL,2,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,1
+NFL,2,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+NFL,2,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+NFL,2,10111,1st Quarter Team Total,Total,true,0.95,0.05,2
+NFL,2,10112,1st Quarter Team Total,Total,true,0.95,0.05,2
+NFL,2,10211,2nd Quarter Team Total,Total,true,0.95,0.05,2
+NFL,2,10212,2nd Quarter Team Total,Total,true,0.95,0.05,2
+NFL,2,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
+NFL,2,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
+NFL,2,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
+NFL,2,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
 MLB,3,0,Moneyline,Moneyline,true,0.95,0.05,0
 MLB,3,10001,Run Line,Spread,true,0.75,0.25,0
 MLB,3,10002,Total Runs,Total,true,0.95,0.05,2
