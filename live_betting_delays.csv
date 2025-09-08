@@ -1,214 +1,214 @@
-sportName,sportId,delayInSeconds
-NCAAF,1,8
-NFL,2,7
-MLB,3,5
-NBA,4,5
-Euroleague,399,5
-NCAAB,5,5
-NCAAW,20211,5
-NHL,6,5
-WNBA,8,5
-MLS,10,5
-eurobasket,20224,5
-EPL,11,5
-FRA1,12,5
-GER1,13,5
-ESP1,14,5
-ITA1,15,5
-UEFA CL,16,5
-UEFA EL,17,5
-UEFA Conference,10216,5
-FIFA Q,18,5
-NET1,57,5
-POR1,61,5
-Brazil,268,5
-UEFA Nations League,9806,5
-Copa Libertadores,45,5
-Brazil - Copa do Brasil,20002,5
-England - Championship,20011,5
-England - League 1,20126,5
-Austria league 1,20120,5
-JPN1,19,5
-Liga MX,230,5
-Saudi League,536,5
-Swiss superleague,20114,5
-Belgium league 1,20102,5
-Sweden - Allsvenskan,20123,5
-Turkey league 1,20108,5
-Argentina league 1,20106,5
-China league 1,20012,5
-Scotland league 1,20101,5
-Greece - Super League,20110,5
-England EFL cup,20125,5
-England FA cup,132,5
-Spain - La Liga 2,20116,5
-Germany - Bundesliga 2,20115,5
-AFC - Champions League,20128,5
-CONCACAF - Champions Cup,20147,5
-UEFA - Nations League Women,20148,5
-Spain - Copa del Rey,138,5
-DFB Pokal,209,5
-Coppa Italia,141,5
-Super Coppa Italia,20129,5
-France Super Cup,20130,5
-Spain supercopa,20131,5
-German Super cup,20132,5
-Portugal League Cup,20133,5
-Portugal Taka Cup,20136,5
-Thai League 1,20134,5
-Netherlands Cup,20135,5
-Canada - Premier League,20149,5
-France Cup,134,5
-EURO 2024,50,5
-Copa America,44,5
-UCL Qualification,10611,5
-Europe League Qualification,10613,5
-COnference League Qualification,10615,5
-Australia A League,20113,5
-China Super League,20112,5
-Eurocup,20200,5
-SPAIN_LIGA_ACB,20201,5
-ITALY_LEGA_BASKET_SERIA_A,20202,5
-GERMANY_BBL,20203,5
-FRANCE_LNB_PRO_A,20204,5
-CHINA_CBA,20205,5
-AUSTRALIA_NBL,20206,5
-JAPAN_B1_LEAGUE,20207,5
-KOREA_BBL,20208,5
-ENGLAND_BBL,20209,5
-BIG3,20210,5
-FIBA - Americup Qualifiers,20212,5
-FIBA - Asia Cup Qualifiers,20213,5
-FIBA - Eurobasket Qualifiers,20214,5
-Greece - A1 League,20217,5
-International - Champions League,20218,5
-UFC PPV,901,5
-UFC Non-Main,902,5
-UFC APEX,703,5
-UFC DW Contender,704,5
-Boxing,10595,5
-CS2,9977,5
-DOTA2,9983,5
-LOL,10138,5
-Call of Duty,20298,5
-Valorant,20300,5
-Overwatch,20296,5
-Tennis ATP GS unknown round,15610,5
-Tennis ATP GS Qualification,15611,5
-Tennis ATP GS 1st round,15612,5
-Tennis ATP GS 2nd round,15613,5
-Tennis ATP GS 3rt round,15614,5
-Tennis ATP GS 4th round,15615,5
-Tennis ATP GS quarterfinals,15616,5
-Tennis ATP GS semifinals,15617,5
-Tennis ATP GS finals,15618,5
-Tennis ATP1000 unknown round,15620,5
-Tennis ATP1000 Qualification,15621,5
-Tennis ATP1000 1st round,15622,5
-Tennis ATP1000 2nd round,15623,5
-Tennis ATP1000 3rt round,15624,5
-Tennis ATP1000 4th round,15625,5
-Tennis ATP1000 quarterfinals,15626,5
-Tennis ATP1000 semifinals,15627,5
-Tennis ATP1000 finals,15628,5
-Tennis ATP500 unknown round,15630,5
-Tennis ATP500 Qualification,15631,5
-Tennis ATP500 1st round,15632,5
-Tennis ATP500 2nd round,15633,5
-Tennis ATP500 3rt round,15634,5
-Tennis ATP500 4th round,15635,5
-Tennis ATP500 quarterfinals,15636,5
-Tennis ATP500 semifinals,15637,5
-Tennis ATP500 finals,15638,5
-Tennis ATP250 unknown round,15640,5
-Tennis ATP250 Qualification,15641,5
-Tennis ATP250 1st round,15642,5
-Tennis ATP250 2nd round,15643,5
-Tennis ATP250 3rt round,15644,5
-Tennis ATP250 4th round,15645,5
-Tennis ATP250 quarterfinals,15646,5
-Tennis ATP250 semifinals,15647,5
-Tennis ATP250 finals,15648,5
-ATP Challenger,157,5
-Tennis WTA GS unknown round,15210,5
-Tennis WTA GS Qualification,15211,5
-Tennis WTA GS 1st round,15212,5
-Tennis WTA GS 2nd round,15213,5
-Tennis WTA GS 3rd round,15214,5
-Tennis WTA GS 4th round,15215,5
-Tennis WTA GS quarterfinals,15216,5
-Tennis WTA GS semifinals,15217,5
-Tennis WTA GS finals,15218,5
-Tennis WTA1000 unknown round,15220,5
-Tennis WTA1000 Qualification,15221,5
-Tennis WTA1000 1st round,15222,5
-Tennis WTA1000 2nd round,15223,5
-Tennis WTA1000 3rt round,15224,5
-Tennis WTA1000 4th round,15225,5
-Tennis WTA1000 quarterfinals,15226,5
-Tennis WTA1000 semifinals,15227,5
-Tennis WTA1000 finals,15228,5
-Tennis WTA500 unknown round,15230,5
-Tennis WTA500 Qualification,15231,5
-Tennis WTA500 1st round,15232,5
-Tennis WTA500 2nd round,15233,5
-Tennis WTA500 3rt round,15234,5
-Tennis WTA500 4th round,15235,5
-Tennis WTA500 quarterfinals,15236,5
-Tennis WTA500 semifinals,15237,5
-Tennis WTA500 finals,15238,5
-Tennis WTA250 unknown round,15240,5
-Tennis WTA250 Qualification,15241,5
-Tennis WTA250 1st round,15242,5
-Tennis WTA250 2nd round,15243,5
-Tennis WTA250 3rt round,15244,5
-Tennis WTA250 4th round,15245,5
-Tennis WTA250 quarterfinals,15246,5
-Tennis WTA250 semifinals,15247,5
-Tennis WTA250 finals,15248,5
-India - IPL,20,5
-Pakistan - Super League,20305,5
-England - T20 Blast,21,5
-Czech Republic - Extraliga,310,5
-Finland - SM Liiga,319,5
-Russia - KHL,321,5
-Germany - DEL,322,5
-Austria - Ice Hockey League,323,5
-Sweden - SHL,324,5
-Switzerland - National League,327,5
-USA - AHL,328,5
-Australia - NRL,9500,5
-England - Super League,9501,5
-Oceania - Super Rugby,9502,5
-International - Six Nations,9503,5
-AFL,9510,5
-College Baseball,303,5
-KBO,302,5
-NPB,301,5
-Olympics Table Tennis Women,8909,5
-Olympics Table Tennis Men,8910,5
-Czech Republic - TT Cup Men,8911,5
-Czech Republic - TT Liga Pro Men,8912,5
-Poland - TT Elite Series Men,8913,5
-WTT Men,8914,5
-North Macedonia - Super Liga,379,5
-Croatia - HB Premijer Liga,382,5
-EHF - Champions League,383,5
-EHF - Champions League Women,384,5
-EHF - European League,385,5
-France - LNH Division 1,386,5
-Germany - HBL,387,5
-Hungary - HNB I,388,5
-Iceland - Urvalsdeild,389,5
-IHF - World Championship,390,5
-Norway - HB 1. Divisjon,391,5
-Poland - Superliga,392,5
-Russia - Super League,393,5
-Serbia - Superliga,394,5
-Slovakia - HB Extraliga,395,5
-Slovenia - 1. Liga,396,5
-Spain - ASOBAL,397,5
-Sweden - Handbollsligan,398,5
-ATP Challenger,157,5
-Fina Waterpolo Men,20870,5
-CFL,9520,5
+﻿sportName,sportId,delayInSeconds,delayInSecondsOptimism,delayInSecondsArbitrum,delayInSecondsBase
+NCAAF,1,8,8,8,8
+NFL,2,7,7,7,7
+MLB,3,5,5,5,5
+NBA,4,5,5,5,5
+Euroleague,399,5,5,5,5
+NCAAB,5,5,5,5,5
+NCAAW,20211,5,5,5,5
+NHL,6,5,5,5,5
+WNBA,8,5,5,5,5
+MLS,10,5,5,5,5
+eurobasket,20224,5,5,5,5
+EPL,11,5,5,5,5
+FRA1,12,5,5,5,5
+GER1,13,5,5,5,5
+ESP1,14,5,5,5,5
+ITA1,15,5,5,5,5
+UEFA CL,16,5,5,5,5
+UEFA EL,17,5,5,5,5
+UEFA Conference,10216,5,5,5,5
+FIFA Q,18,5,5,5,5
+NET1,57,5,5,5,5
+POR1,61,5,5,5,5
+Brazil,268,5,5,5,5
+UEFA Nations League,9806,5,5,5,5
+Copa Libertadores,45,5,5,5,5
+Brazil - Copa do Brasil,20002,5,5,5,5
+England - Championship,20011,5,5,5,5
+England - League 1,20126,5,5,5,5
+Austria league 1,20120,5,5,5,5
+JPN1,19,5,5,5,5
+Liga MX,230,5,5,5,5
+Saudi League,536,5,5,5,5
+Swiss superleague,20114,5,5,5,5
+Belgium league 1,20102,5,5,5,5
+Sweden - Allsvenskan,20123,5,5,5,5
+Turkey league 1,20108,5,5,5,5
+Argentina league 1,20106,5,5,5,5
+China league 1,20012,5,5,5,5
+Scotland league 1,20101,5,5,5,5
+Greece - Super League,20110,5,5,5,5
+England EFL cup,20125,5,5,5,5
+England FA cup,132,5,5,5,5
+Spain - La Liga 2,20116,5,5,5,5
+Germany - Bundesliga 2,20115,5,5,5,5
+AFC - Champions League,20128,5,5,5,5
+CONCACAF - Champions Cup,20147,5,5,5,5
+UEFA - Nations League Women,20148,5,5,5,5
+Spain - Copa del Rey,138,5,5,5,5
+DFB Pokal,209,5,5,5,5
+Coppa Italia,141,5,5,5,5
+Super Coppa Italia,20129,5,5,5,5
+France Super Cup,20130,5,5,5,5
+Spain supercopa,20131,5,5,5,5
+German Super cup,20132,5,5,5,5
+Portugal League Cup,20133,5,5,5,5
+Portugal Taka Cup,20136,5,5,5,5
+Thai League 1,20134,5,5,5,5
+Netherlands Cup,20135,5,5,5,5
+Canada - Premier League,20149,5,5,5,5
+France Cup,134,5,5,5,5
+EURO 2024,50,5,5,5,5
+Copa America,44,5,5,5,5
+UCL Qualification,10611,5,5,5,5
+Europe League Qualification,10613,5,5,5,5
+COnference League Qualification,10615,5,5,5,5
+Australia A League,20113,5,5,5,5
+China Super League,20112,5,5,5,5
+Eurocup,20200,5,5,5,5
+SPAIN_LIGA_ACB,20201,5,5,5,5
+ITALY_LEGA_BASKET_SERIA_A,20202,5,5,5,5
+GERMANY_BBL,20203,5,5,5,5
+FRANCE_LNB_PRO_A,20204,5,5,5,5
+CHINA_CBA,20205,5,5,5,5
+AUSTRALIA_NBL,20206,5,5,5,5
+JAPAN_B1_LEAGUE,20207,5,5,5,5
+KOREA_BBL,20208,5,5,5,5
+ENGLAND_BBL,20209,5,5,5,5
+BIG3,20210,5,5,5,5
+FIBA - Americup Qualifiers,20212,5,5,5,5
+FIBA - Asia Cup Qualifiers,20213,5,5,5,5
+FIBA - Eurobasket Qualifiers,20214,5,5,5,5
+Greece - A1 League,20217,5,5,5,5
+International - Champions League,20218,5,5,5,5
+UFC PPV,901,5,5,5,5
+UFC Non-Main,902,5,5,5,5
+UFC APEX,703,5,5,5,5
+UFC DW Contender,704,5,5,5,5
+Boxing,10595,5,5,5,5
+CS2,9977,5,5,5,5
+DOTA2,9983,5,5,5,5
+LOL,10138,5,5,5,5
+Call of Duty,20298,5,5,5,5
+Valorant,20300,5,5,5,5
+Overwatch,20296,5,5,5,5
+Tennis ATP GS unknown round,15610,5,5,5,5
+Tennis ATP GS Qualification,15611,5,5,5,5
+Tennis ATP GS 1st round,15612,5,5,5,5
+Tennis ATP GS 2nd round,15613,5,5,5,5
+Tennis ATP GS 3rt round,15614,5,5,5,5
+Tennis ATP GS 4th round,15615,5,5,5,5
+Tennis ATP GS quarterfinals,15616,5,5,5,5
+Tennis ATP GS semifinals,15617,5,5,5,5
+Tennis ATP GS finals,15618,5,5,5,5
+Tennis ATP1000 unknown round,15620,5,5,5,5
+Tennis ATP1000 Qualification,15621,5,5,5,5
+Tennis ATP1000 1st round,15622,5,5,5,5
+Tennis ATP1000 2nd round,15623,5,5,5,5
+Tennis ATP1000 3rt round,15624,5,5,5,5
+Tennis ATP1000 4th round,15625,5,5,5,5
+Tennis ATP1000 quarterfinals,15626,5,5,5,5
+Tennis ATP1000 semifinals,15627,5,5,5,5
+Tennis ATP1000 finals,15628,5,5,5,5
+Tennis ATP500 unknown round,15630,5,5,5,5
+Tennis ATP500 Qualification,15631,5,5,5,5
+Tennis ATP500 1st round,15632,5,5,5,5
+Tennis ATP500 2nd round,15633,5,5,5,5
+Tennis ATP500 3rt round,15634,5,5,5,5
+Tennis ATP500 4th round,15635,5,5,5,5
+Tennis ATP500 quarterfinals,15636,5,5,5,5
+Tennis ATP500 semifinals,15637,5,5,5,5
+Tennis ATP500 finals,15638,5,5,5,5
+Tennis ATP250 unknown round,15640,5,5,5,5
+Tennis ATP250 Qualification,15641,5,5,5,5
+Tennis ATP250 1st round,15642,5,5,5,5
+Tennis ATP250 2nd round,15643,5,5,5,5
+Tennis ATP250 3rt round,15644,5,5,5,5
+Tennis ATP250 4th round,15645,5,5,5,5
+Tennis ATP250 quarterfinals,15646,5,5,5,5
+Tennis ATP250 semifinals,15647,5,5,5,5
+Tennis ATP250 finals,15648,5,5,5,5
+ATP Challenger,157,5,5,5,5
+Tennis WTA GS unknown round,15210,5,5,5,5
+Tennis WTA GS Qualification,15211,5,5,5,5
+Tennis WTA GS 1st round,15212,5,5,5,5
+Tennis WTA GS 2nd round,15213,5,5,5,5
+Tennis WTA GS 3rd round,15214,5,5,5,5
+Tennis WTA GS 4th round,15215,5,5,5,5
+Tennis WTA GS quarterfinals,15216,5,5,5,5
+Tennis WTA GS semifinals,15217,5,5,5,5
+Tennis WTA GS finals,15218,5,5,5,5
+Tennis WTA1000 unknown round,15220,5,5,5,5
+Tennis WTA1000 Qualification,15221,5,5,5,5
+Tennis WTA1000 1st round,15222,5,5,5,5
+Tennis WTA1000 2nd round,15223,5,5,5,5
+Tennis WTA1000 3rt round,15224,5,5,5,5
+Tennis WTA1000 4th round,15225,5,5,5,5
+Tennis WTA1000 quarterfinals,15226,5,5,5,5
+Tennis WTA1000 semifinals,15227,5,5,5,5
+Tennis WTA1000 finals,15228,5,5,5,5
+Tennis WTA500 unknown round,15230,5,5,5,5
+Tennis WTA500 Qualification,15231,5,5,5,5
+Tennis WTA500 1st round,15232,5,5,5,5
+Tennis WTA500 2nd round,15233,5,5,5,5
+Tennis WTA500 3rt round,15234,5,5,5,5
+Tennis WTA500 4th round,15235,5,5,5,5
+Tennis WTA500 quarterfinals,15236,5,5,5,5
+Tennis WTA500 semifinals,15237,5,5,5,5
+Tennis WTA500 finals,15238,5,5,5,5
+Tennis WTA250 unknown round,15240,5,5,5,5
+Tennis WTA250 Qualification,15241,5,5,5,5
+Tennis WTA250 1st round,15242,5,5,5,5
+Tennis WTA250 2nd round,15243,5,5,5,5
+Tennis WTA250 3rt round,15244,5,5,5,5
+Tennis WTA250 4th round,15245,5,5,5,5
+Tennis WTA250 quarterfinals,15246,5,5,5,5
+Tennis WTA250 semifinals,15247,5,5,5,5
+Tennis WTA250 finals,15248,5,5,5,5
+India - IPL,20,5,5,5,5
+Pakistan - Super League,20305,5,5,5,5
+England - T20 Blast,21,5,5,5,5
+Czech Republic - Extraliga,310,5,5,5,5
+Finland - SM Liiga,319,5,5,5,5
+Russia - KHL,321,5,5,5,5
+Germany - DEL,322,5,5,5,5
+Austria - Ice Hockey League,323,5,5,5,5
+Sweden - SHL,324,5,5,5,5
+Switzerland - National League,327,5,5,5,5
+USA - AHL,328,5,5,5,5
+Australia - NRL,9500,5,5,5,5
+England - Super League,9501,5,5,5,5
+Oceania - Super Rugby,9502,5,5,5,5
+International - Six Nations,9503,5,5,5,5
+AFL,9510,5,5,5,5
+College Baseball,303,5,5,5,5
+KBO,302,5,5,5,5
+NPB,301,5,5,5,5
+Olympics Table Tennis Women,8909,5,5,5,5
+Olympics Table Tennis Men,8910,5,5,5,5
+Czech Republic - TT Cup Men,8911,5,5,5,5
+Czech Republic - TT Liga Pro Men,8912,5,5,5,5
+Poland - TT Elite Series Men,8913,5,5,5,5
+WTT Men,8914,5,5,5,5
+North Macedonia - Super Liga,379,5,5,5,5
+Croatia - HB Premijer Liga,382,5,5,5,5
+EHF - Champions League,383,5,5,5,5
+EHF - Champions League Women,384,5,5,5,5
+EHF - European League,385,5,5,5,5
+France - LNH Division 1,386,5,5,5,5
+Germany - HBL,387,5,5,5,5
+Hungary - HNB I,388,5,5,5,5
+Iceland - Urvalsdeild,389,5,5,5,5
+IHF - World Championship,390,5,5,5,5
+Norway - HB 1. Divisjon,391,5,5,5,5
+Poland - Superliga,392,5,5,5,5
+Russia - Super League,393,5,5,5,5
+Serbia - Superliga,394,5,5,5,5
+Slovakia - HB Extraliga,395,5,5,5,5
+Slovenia - 1. Liga,396,5,5,5,5
+Spain - ASOBAL,397,5,5,5,5
+Sweden - Handbollsligan,398,5,5,5,5
+ATP Challenger,157,5,5,5,5
+Fina Waterpolo Men,20870,5,5,5,5
+CFL,9520,5,5,5,5
