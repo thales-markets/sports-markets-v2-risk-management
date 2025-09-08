@@ -185,8 +185,6 @@ AFL,9510,5,5,5,5
 College Baseball,303,5,5,5,5
 KBO,302,5,5,5,5
 NPB,301,5,5,5,5
-Olympics Table Tennis Women,8909,5,5,5,5
-Olympics Table Tennis Men,8910,5,5,5,5
 Czech Republic - TT Cup Men,8911,5,5,5,5
 Czech Republic - TT Liga Pro Men,8912,5,5,5,5
 Poland - TT Elite Series Men,8913,5,5,5,5
@@ -216,10 +214,7 @@ CPBL,304,5,5,5,5
 USA - MLB All Star,305,5,5,5,5
 Mexico - LMB,306,5,5,5,5
 USA - NBA Summer League,400,5,5,5,5
-Olympics Basketball Men,406,5,5,5,5
-Olympics Basketball Women,407,5,5,5,5
-Olympics Basketball 3x3 Men,409,5,5,5,5
-Olympics Basketball 3x3 Women,10072,5,5,5,5
+FIBA - World Cup Qualifiers,409,5,5,5,5
 FIBA - EuroBasket,10502,5,5,5,5
 FIBA - AfroBasket,20225,5,5,5,5
 FIBA - Americup,20226,5,5,5,5
@@ -244,15 +239,9 @@ Mobile Legends Bang Bang,20295,5,5,5,5
 UFC,7,5,5,5,5
 PFL,9,5,5,5,5
 UFL,9521,5,5,5,5
-Olympics Handball Women,380,5,5,5,5
-Olympics Handball Men,381,5,5,5,5
 IIHF - World Championship,33,5,5,5,5
 USA - National Lacrosse League,20310,5,5,5,5
 USA - Premier Lacrosse League,20311,5,5,5,5
-Olympics Rugby 7s Men,9578,5,5,5,5
-Olympics Rugby 7s Women,9588,5,5,5,5
-Olympics Soccer Women,65,5,5,5,5
-Olympics Soccer Men,66,5,5,5,5
 England - FA Cup,76,5,5,5,5
 Saudi Arabia - Saudi League,288,5,5,5,5
 Norway - Eliteserien,20150,5,5,5,5
@@ -350,8 +339,6 @@ Japan - Emperor Cup,20719,5,5,5,5
 WTA,152,5,5,5,5
 ATP,153,5,5,5,5
 ATP,156,5,5,5,5
-Olympics Volleyball Women,453,5,5,5,5
-Olympics Volleyball Men,8894,5,5,5,5
 Argentina - Liga Argentina,20400,5,5,5,5
 Argentina - Liga Argentina Women,20401,5,5,5,5
 Austria - AVL,20402,5,5,5,5
