@@ -1,4 +1,6 @@
 name,sportId,marketName,bookmaker
+NFL,2,Moneyline 3-Way,draftkings
+NFL,2,1st Quarter Both Teams To Score,draftkings
 NFL,2,Moneyline 3-Way,betano
 MLB,3,Player Props,draftkings
 MLB,3,Player Hits,draftkings
