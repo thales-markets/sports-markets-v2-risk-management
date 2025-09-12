@@ -1,6 +1,7 @@
 name,sportId,marketName,bookmaker
 NFL,2,1st Half Team Total Touchdowns,blue book
 NFL,2,1st Half Total Touchdowns,blue book
+NFL,2,1st Half Moneyline 3-Way,blue book
 MLB,3,Player Props,draftkings
 MLB,3,Player Hits,draftkings
 MLB,3,Player Hits Allowed,draftkings
