@@ -1,5 +1,5 @@
 ﻿sportName,sportId,delayInSeconds,delayInSecondsOptimism,delayInSecondsArbitrum,delayInSecondsBase
-NCAAF,1,8,8,8,9
+NCAAF,1,9,9,9,9
 NFL,2,7,7,7,7
 MLB,3,5,5,5,5
 NBA,4,5,5,5,5
