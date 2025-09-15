@@ -1,4 +1,5 @@
 name,sportId,marketName,bookmaker
+NFL,2,Player Props,draftkings
 NFL,2,Player Passing Attempts,pinnacle
 NFL,2,Player Passing Completions,pinnacle
 NFL,2,Player Passing Touchdowns,pinnacle
