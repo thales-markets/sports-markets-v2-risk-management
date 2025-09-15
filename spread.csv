@@ -1,11 +1,12 @@
 sportName,sportId,typeId,minSpread,targetSpread,addedSpread
 General,All Sports,All Markets,0,0,1.5
+NCAAF,1,All Markets,0,0,2
 MLB Futures,30003,All Markets,0,0,2
-NCAAF PP,1,Player Props,0,0,2
-NFL PP,1,Player Props,0,0,2
+NCAAF PP,1,Player Props,0,0,2.5
+NFL PP,1,Player Props,0,0,2.5
 MLB PP,3,Player Props,0,0,2.5
-NBA PP,4,Player Props,0,0,1.5
-NHL PP,6,Player Props,0,0,1.5
+NBA PP,4,Player Props,0,0,2.5
+NHL PP,6,Player Props,0,0,2.5
 WNBA PP,8,Player Props,0,0,2.5
 FIBA Eurobasket,20224,Player Props,0,0,2.5
 WTA,152,All Markets,0,0,2
@@ -15,23 +16,23 @@ ATP PP,156,Player Props,0,0,3
 UFC PP,7,Player Props,0,0,2
 WNBA,8,All Markets,0,0,2
 NBA TO,4,11246,0,0,2
-NBA Free Throws Attempted,4,11255,0,0,2
-NBA Free Throws Made,4,11256,0,0,2
-NBA FGA,4,11257,0,0,2
-NBA FGM,4,11258,0,0,2
-NBA TPA,4,11260,0,0,2
-NBA TPPA,4,11261,0,0,2
-NBA TPPM,4,11262,0,0,2
-NBA FOULS,4,11259,0,0,2
-NBA TMF,4,10271,0,0,2
-NBA TA,4,10270,0,0,2
-NBA TS,4,10268,0,0,2
-NBA TB,4,10269,0,0,2
-NBA TTMTH,4,10272,0,0,2
-NBA TTMTA,4,10273,0,0,2
-LOL,10138,All Markets,0,0,0
-CS2,9977,All Markets,0,0,0
-DOTA2,9983,All Markets,0,0,0
+NBA Free Throws Attempted,4,11255,0,0,2.5
+NBA Free Throws Made,4,11256,0,0,2.5
+NBA FGA,4,11257,0,0,2.5
+NBA FGM,4,11258,0,0,2.5
+NBA TPA,4,11260,0,0,2.5
+NBA TPPA,4,11261,0,0,2.5
+NBA TPPM,4,11262,0,0,2.5
+NBA FOULS,4,11259,0,0,2.5
+NBA TMF,4,10271,0,0,2.5
+NBA TA,4,10270,0,0,2.5
+NBA TS,4,10268,0,0,2.5
+NBA TB,4,10269,0,0,2.5
+NBA TTMTH,4,10272,0,0,2.5
+NBA TTMTA,4,10273,0,0,2.5
+LOL,10138,All Markets,0,0,1
+CS2,9977,All Markets,0,0,1
+DOTA2,9983,All Markets,0,0,1
 Valorant,20300,All Markets,0,0,2
 Overwatch,20296,All Markets,0,0,2
 Mobile legends,20295,All Markets,0,0,2
