@@ -1,4 +1,13 @@
 name,sportId,marketName,bookmaker
+NFL,2,Player Passing Attempts,pinnacle
+NFL,2,Player Passing Completions,pinnacle
+NFL,2,Player Passing Touchdowns,pinnacle
+NFL,2,Player Passing Yards,pinnacle
+NFL,2,Player Receiving Yards,pinnacle
+NFL,2,Player Receptions,pinnacle
+NFL,2,Player Rushing Attempts,pinnacle
+NFL,2,Player Rushing Yards,pinnacle
+NFL,2,Player Touchdowns,pinnacle
 NFL,2,Will There Be Overtime,draftkings
 NFL,2,1st Quarter Both Teams To Score,draftkings
 NFL,2,Moneyline 3-Way,betano
