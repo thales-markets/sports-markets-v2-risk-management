@@ -1,4 +1,14 @@
 name,sportId,marketName,bookmaker
+NFL,2,Player Props,draftkings
+NFL,2,Player Passing Attempts,pinnacle
+NFL,2,Player Passing Completions,pinnacle
+NFL,2,Player Passing Touchdowns,pinnacle
+NFL,2,Player Passing Yards,pinnacle
+NFL,2,Player Receiving Yards,pinnacle
+NFL,2,Player Receptions,pinnacle
+NFL,2,Player Rushing Attempts,pinnacle
+NFL,2,Player Rushing Yards,pinnacle
+NFL,2,Player Touchdowns,pinnacle
 NFL,2,Will There Be Overtime,draftkings
 NFL,2,1st Quarter Both Teams To Score,draftkings
 NFL,2,Moneyline 3-Way,betano
@@ -91,6 +101,7 @@ Austria - Ice Hockey League,323,Total Goals,Draftkings
 Austria - Ice Hockey League,323,Team Total,Draftkings
 Sweden - SHL,324,Total Goals,Draftkings
 Sweden - SHL,324,Team Total,Draftkings
+Sweden - SHL,324,Moneyline 3-Way,betmgm
 Switzerland - National League,327,Total Goals,betsson
 Switzerland - National League,327,Team Total,betsson
 USA - AHL,328,Total Goals,Draftkings
