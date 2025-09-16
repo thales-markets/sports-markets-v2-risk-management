@@ -412,22 +412,22 @@ ATP Challenger,157,10043,3rd Set Game Spread,Spread,true,0.95,0.05,2
 ATP Challenger,157,10021,1st Set Moneyline,Moneyline,true,0.99,0.01,2
 ATP Challenger,157,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,2
 ATP Challenger,157,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,2
-Davis Cup.154,0,Moneyline,Moneyline,true,0.95,0.05,2
-Davis Cup.154,10001,Game Spread,Spread,true,0.95,0.05,2
-Davis Cup.154,10002,Total Games,Total,true,0.95,0.05,2
-Davis Cup.154,10100,Correct Score,Correct Score,true,0.99,0.01,2
-Davis Cup.154,10013,Set Handicap,Spread,true,0.95,0.05,2
-Davis Cup.154,10017,Player Games Won,Total,true,0.95,0.05,2
-Davis Cup.154,10018,Player Games Won,Total,true,0.95,0.05,2
-Davis Cup.154,10031,1st Set Total Games,Total,true,0.95,0.05,2
-Davis Cup.154,10032,2nd Set Total Games,Total,true,0.95,0.05,2
-Davis Cup.154,10033,3rd Set Total Games,Total,true,0.95,0.05,2
-Davis Cup.154,10041,1st Set Game Spread,Spread,true,0.95,0.05,2
-Davis Cup.154,10042,2nd Set Game Spread,Spread,true,0.95,0.05,2
-Davis Cup.154,10043,3rd Set Game Spread,Spread,true,0.95,0.05,2
-Davis Cup.154,10021,1st Set Moneyline,Moneyline,true,0.99,0.01,2
-Davis Cup.154,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,2
-Davis Cup.154,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,2
+Davis Cup,154,0,Moneyline,Moneyline,true,0.95,0.05,2
+Davis Cup,154,10001,Game Spread,Spread,true,0.95,0.05,2
+Davis Cup,154,10002,Total Games,Total,true,0.95,0.05,2
+Davis Cup,154,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Davis Cup,154,10013,Set Handicap,Spread,true,0.95,0.05,2
+Davis Cup,154,10017,Player Games Won,Total,true,0.95,0.05,2
+Davis Cup,154,10018,Player Games Won,Total,true,0.95,0.05,2
+Davis Cup,154,10031,1st Set Total Games,Total,true,0.95,0.05,2
+Davis Cup,154,10032,2nd Set Total Games,Total,true,0.95,0.05,2
+Davis Cup,154,10033,3rd Set Total Games,Total,true,0.95,0.05,2
+Davis Cup,154,10041,1st Set Game Spread,Spread,true,0.95,0.05,2
+Davis Cup,154,10042,2nd Set Game Spread,Spread,true,0.95,0.05,2
+Davis Cup,154,10043,3rd Set Game Spread,Spread,true,0.95,0.05,2
+Davis Cup,154,10021,1st Set Moneyline,Moneyline,true,0.99,0.01,2
+Davis Cup,154,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,2
+Davis Cup,154,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,2
 ITF Men,159,0,Moneyline,Moneyline,true,0.95,0.05,2
 ITF Men,159,10001,Game Spread,Spread,true,0.95,0.05,2
 ITF Men,159,10002,Total Games,Total,true,0.95,0.05,2
