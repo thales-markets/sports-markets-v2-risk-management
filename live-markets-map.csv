@@ -14,7 +14,7 @@ NCAAF,1,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,2
 NCAAF,1,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,2
 NCAAF,1,10071,1st Half Point Spread,Spread,true,0.95,0.05,2
 NCAAF,1,10072,2nd Half Point Spread,Spread,true,0.95,0.05,2
-NCAAF,1,10061,1st Half Total Points Points,Total,true,0.95,0.05,2
+NCAAF,1,10061,1st Half Total Points,Total,true,0.95,0.05,2
 NCAAF,1,10062,2nd Half Total Points,Total,true,0.95,0.05,2
 NCAAF,1,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,2
 NCAAF,1,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,2
@@ -45,7 +45,7 @@ NFL,2,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,1
 NFL,2,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,1
 NFL,2,10071,1st Half Point Spread,Spread,true,0.95,0.05,1
 NFL,2,10072,2nd Half Point Spread,Spread,true,0.95,0.05,1
-NFL,2,10061,1st Half Total Points Points,Total,true,0.95,0.05,1
+NFL,2,10061,1st Half Total Points,Total,true,0.95,0.05,1
 NFL,2,10062,2nd Half Total Points,Total,true,0.95,0.05,1
 NFL,2,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,1
 NFL,2,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,1
@@ -598,7 +598,7 @@ Spain Copa del Rey,138,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
 Spain Copa del Rey,138,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
 DFB Pokal,209,0,Moneyline,Moneyline,true,0.95,0.05,1
 DFB Pokal,209,10001,Asian Handicap,Spread,true,0.95,0.05,1
-DFB Pokal,209,10002,Total Goals,Total,true,0.95,0.05,
+DFB Pokal,209,10002,Total Goals,Total,true,0.95,0.05,1
 DFB Pokal,209,10100,Correct Score,Correct Score,true,0.99,0.01,2
 DFB Pokal,209,10003,Double Chance,Double Chance,true,0.99,0.01,1
 DFB Pokal,209,10017,Team Total,Total,true,0.95,0.05,1
@@ -807,16 +807,6 @@ Netherlands Cup,20135,10018,Team Total,Total,true,0.95,0.05,1
 Netherlands Cup,20135,10031,1st Half Total Goals,Total,true,0.95,0.05,1
 Netherlands Cup,20135,10032,2nd Half Total Goals,Total,true,0.95,0.05,1
 Netherlands Cup,20135,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
-China Super League,20112,0,Moneyline,Moneyline,true,0.95,0.05,1
-China Super League,20112,10001,Asian Handicap,Spread,true,0.95,0.05,1
-China Super League,20112,10002,Total Goals,Total,true,0.95,0.05,1
-China Super League,20112,10100,Correct Score,Correct Score,true,0.99,0.01,2
-China super League,20112,10003,Double Chance,Double Chance,true,0.99,0.01,1
-China Super League,20112,10017,Team Total,Total,true,0.95,0.05,1
-China Super League,20112,10018,Team Total,Total,true,0.95,0.05,1
-China Super League,20112,10031,1st Half Total Goals,Total,true,0.95,0.05,1
-China Super League,20112,10032,2nd Half Total Goals,Total,true,0.95,0.05,1
-China Super League,20112,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
 Australia A League,20113,0,Moneyline,Moneyline,true,0.95,0.05,1
 Australia A League,20113,10001,Asian Handicap,Spread,true,0.95,0.05,1
 Australia A League,20113,10002,Total Goals,Total,true,0.95,0.05,1
@@ -1446,7 +1436,7 @@ CFL,9520,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,1
 CFL,9520,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,1
 CFL,9520,10071,1st Half Point Spread,Spread,true,0.95,0.05,1
 CFL,9520,10072,2nd Half Point Spread,Spread,true,0.95,0.05,1
-CFL,9520,10061,1st Half Total Points Points,Total,true,0.95,0.05,1
+CFL,9520,10061,1st Half Total Points,Total,true,0.95,0.05,1
 CFL,9520,10062,2nd Half Total Points,Total,true,0.95,0.05,1
 CFL,9520,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,1
 CFL,9520,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,1
