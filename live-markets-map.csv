@@ -1451,6 +1451,7 @@ Finland - SM Liiga,319,10002,Total Points,Total,true,0.95,0.05,2
 NPB,301,0,Moneyline,Moneyline,true,0.95,0.05,2
 NPB,301,10001,Run Line,Spread,true,0.95,0.05,2
 NPB,301,10002,Total Runs,Total,true,0.95,0.05,2
+NPB,301,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
 KBO,302,0,Moneyline,Moneyline,true,0.95,0.05,2
 KBO,302,10001,Run Line,Spread,true,0.95,0.05,2
 KBO,302,10002,Total Runs,Total,true,0.95,0.05,2
