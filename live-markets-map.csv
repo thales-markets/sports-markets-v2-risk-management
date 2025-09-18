@@ -30,6 +30,7 @@ NCAAF,1,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
 NCAAF,1,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
 NCAAF,1,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
 NCAAF,1,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
+NCAAF,1,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
 NFL,2,0,Moneyline,Moneyline,true,0.95,0.05,1
 NFL,2,10001,Point Spread,Spread,true,0.8,0.2,1
 NFL,2,10002,Total Points,Total,true,0.8,0.2,1
@@ -61,6 +62,7 @@ NFL,2,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
 NFL,2,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
 NFL,2,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
 NFL,2,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
+NFL,2,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
 MLB,3,0,Moneyline,Moneyline,true,0.95,0.05,1
 MLB,3,10001,Run Line,Spread,true,0.75,0.25,1
 MLB,3,10002,Total Runs,Total,true,0.95,0.05,2
@@ -107,6 +109,7 @@ MLB,3,10711,7th Inning Team Total,Total,true,0.95,0.05,3
 MLB,3,10712,7th Inning Team Total,Total,true,0.95,0.05,3
 MLB,3,10811,8th Inning Team Total,Total,true,0.95,0.05,3
 MLB,3,10812,8th Inning Team Total,Total,true,0.95,0.05,3
+MLB,3,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
 NBA,4,0,Moneyline,Moneyline,true,0.95,0.05,1
 NBA,4,10001,Point Spread,Spread,true,0.95,0.05,1
 NBA,4,10002,Total Points,Total,true,0.95,0.05,2
@@ -138,6 +141,7 @@ NBA,4,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
 NBA,4,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
 NBA,4,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
 NBA,4,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
+NBA,4,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
 NCAAB,5,0,Moneyline,Moneyline,true,0.95,0.05,1
 NCAAB,5,10001,Point Spread,Spread,true,0.95,0.05,1
 NCAAB,5,10002,Total Points,Total,true,0.95,0.05,2
@@ -153,6 +157,7 @@ NCAAB,5,10111,1st Half Team Total,Total,true,0.95,0.05,2
 NCAAB,5,10112,1st Half Team Total,Total,true,0.95,0.05,2
 NCAAB,5,10211,2nd Half Team Total,Total,true,0.95,0.05,2
 NCAAB,5,10212,2nd Half Team Total,Total,true,0.95,0.05,2
+NCAAB,5,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
 NHL,6,0,Moneyline,Moneyline,true,0.95,0.05,1
 NHL,6,10011,Moneyline 3-Way,Moneyline,true,0.95,0.05,1
 NHL,6,10001,Puck Line,Spread,true,0.95,0.05,1
@@ -174,6 +179,7 @@ NHL,6,10211,2nd Period Team Total,Total,true,0.95,0.05,2
 NHL,6,10212,2nd Period Team Total,Total,true,0.95,0.05,2
 NHL,6,10311,3rd Period Team Total,Total,true,0.95,0.05,2
 NHL,6,10312,3rd Period Team Total,Total,true,0.95,0.05,2
+NHL,6,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
 IIHF - World Championship,33,0,Moneyline,Moneyline,true,0.95,0.05,1
 IIHF - World Championship,33,10011,Moneyline 3-Way,Moneyline,true,0.95,0.05,1
 IIHF - World Championship,33,10001,Puck Line,Spread,true,0.95,0.05,1
@@ -229,6 +235,7 @@ WNBA,8,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
 WNBA,8,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
 WNBA,8,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
 WNBA,8,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
+WNBA,8,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
 MLS,10,0,Moneyline,Moneyline,true,0.95,0.05,1
 MLS,10,10001,Asian Handicap,Spread,true,0.95,0.05,1
 MLS,10,10002,Total Goals,Total,true,0.95,0.05,1
@@ -1451,7 +1458,6 @@ Finland - SM Liiga,319,10002,Total Points,Total,true,0.95,0.05,2
 NPB,301,0,Moneyline,Moneyline,true,0.95,0.05,2
 NPB,301,10001,Run Line,Spread,true,0.95,0.05,2
 NPB,301,10002,Total Runs,Total,true,0.95,0.05,2
-NPB,301,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
 KBO,302,0,Moneyline,Moneyline,true,0.95,0.05,2
 KBO,302,10001,Run Line,Spread,true,0.95,0.05,2
 KBO,302,10002,Total Runs,Total,true,0.95,0.05,2
