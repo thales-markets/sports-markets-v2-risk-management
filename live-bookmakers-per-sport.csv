@@ -1,5 +1,5 @@
 sportName,sportId,primaryBookmaker,secondaryBookmaker,tertiaryBookmaker
-NCAAF,1,draftkings,,
+NCAAF,1,blue book,,
 NFL,2,pinnacle,,
 MLB,3,pinnacle,,
 WNBA,8,pinnacle,,
@@ -34,3 +34,4 @@ FIBA - Eurobasket Women,20220,pinnacle,,
 Philippines - Phillipine Cup,20221,pinnacle,,
 FIBA - World Cup U19,20222,pinnacle,,
 NPB,301,pinnacle,,
+Net1,57,pinnacle,,
