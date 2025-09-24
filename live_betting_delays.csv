@@ -87,9 +87,9 @@ UFC Non-Main,902,5,5,7,5
 UFC APEX,703,5,5,7,5
 UFC DW Contender,704,5,5,7,5
 Boxing,10595,5,5,7,5
-CS2,9977,7,7,7,7
-DOTA2,9983,7,7,7,7
-LOL,10138,7,7,7,7
+CS2,9977,5,5,7,5
+DOTA2,9983,5,5,7,5
+LOL,10138,5,5,7,5
 Call of Duty,20298,5,5,7,5
 Valorant,20300,5,5,7,5
 Overwatch,20296,5,5,7,5
@@ -98,7 +98,7 @@ Tennis ATP GS Qualification,15611,5,5,7,5
 Tennis ATP GS 1st round,15612,5,5,7,5
 Tennis ATP GS 2nd round,15613,5,5,7,5
 Tennis ATP GS 3rt round,15614,5,5,7,5
-Tennis ATP GS 4th round,15615,5,7,5,5
+Tennis ATP GS 4th round,15615,5,5,7,5
 Tennis ATP GS quarterfinals,15616,5,5,7,5
 Tennis ATP GS semifinals,15617,5,5,7,5
 Tennis ATP GS finals,15618,5,5,7,5
@@ -107,7 +107,7 @@ Tennis ATP1000 Qualification,15621,5,5,7,5
 Tennis ATP1000 1st round,15622,5,5,7,5
 Tennis ATP1000 2nd round,15623,5,5,7,5
 Tennis ATP1000 3rt round,15624,5,5,7,5
-Tennis ATP1000 4th round,15625,5,7,5,5
+Tennis ATP1000 4th round,15625,5,5,7,5
 Tennis ATP1000 quarterfinals,15626,5,5,7,5
 Tennis ATP1000 semifinals,15627,5,5,7,5
 Tennis ATP1000 finals,15628,5,5,7,5
@@ -116,7 +116,7 @@ Tennis ATP500 Qualification,15631,5,5,7,5
 Tennis ATP500 1st round,15632,5,5,7,5
 Tennis ATP500 2nd round,15633,5,5,7,5
 Tennis ATP500 3rt round,15634,5,5,7,5
-Tennis ATP500 4th round,15635,5,7,5,5
+Tennis ATP500 4th round,15635,5,5,7,5
 Tennis ATP500 quarterfinals,15636,5,5,7,5
 Tennis ATP500 semifinals,15637,5,5,7,5
 Tennis ATP500 finals,15638,5,5,7,5
@@ -125,7 +125,7 @@ Tennis ATP250 Qualification,15641,5,5,7,5
 Tennis ATP250 1st round,15642,5,5,7,5
 Tennis ATP250 2nd round,15643,5,5,7,5
 Tennis ATP250 3rt round,15644,5,5,7,5
-Tennis ATP250 4th round,15645,5,7,5,5
+Tennis ATP250 4th round,15645,5,5,7,5
 Tennis ATP250 quarterfinals,15646,5,5,7,5
 Tennis ATP250 semifinals,15647,5,5,7,5
 Tennis ATP250 finals,15648,5,5,7,5
