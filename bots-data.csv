@@ -153,4 +153,4 @@ overtime-resolver-opticodds-football-arbi,3 4 6 7 10 17 19 21 20,,-3,20m,0xcC979
 overtime-resolver-opticodds-base,3 4 6 7 10 17 19 21 20,,-3,20m,0xcC97993365989c6Cb15503d088A9270Eb39d2FfE,1h,
 overtime-resolver-opticodds-football-base,3 4 6 7 10 17 19 21 20,,-3,20m,0xcC97993365989c6Cb15503d088A9270Eb39d2FfE,1h,
 overtime-price-collateral-updater,,,0,24h,0xb39c9b3ff7421e86d6244d8De573Ba0265012cA1,48h,
-overtime-risk-puller-test,MLB;England - Premier League;FIBA - EuroBasket,,0,1m,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,,
+overtime-risk-puller-test,NFL;MLB;England - Premier League,,0,1m,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,,
