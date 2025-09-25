@@ -1,136 +1,136 @@
-sportName,sportId,season_type,season_year,limitToPush
-League of Legends,10138,Worlds,,2000
-League of Legends,10138,LPL,,2000
-League of Legends,10138,LEC,,2000
-League of Legends,10138,LCK,,2000
-League of Legends,10138,LTA,,2000
-League of Legends,10138,Esports World Cup,,2000
-League of Legends,10138,LTA North,,2000
-League of Legends,10138,Mid-Season Invitational,,2000
-League of Legends,10138,LCK Challengers League,,1000
-League of Legends,10138,LCP,,800
-League of Legends,10138,North American Challengers League,,800
-League of Legends,10138,LCS,,600
-League of Legends,10138,Arabian League,,450
-League of Legends,10138,NNO Cup,,450
-League of Legends,10138,LVP SL,,450
-League of Legends,10138,Prime League 1st Division,,450
-League of Legends,10138,LFL,,450
-League of Legends,10138,TCL,,450
-League of Legends,10138,EMEA Masters,,450
-League of Legends,10138,Asia Masters,,450
-League of Legends,10138,LTA South,,600
-League of Legends,10138,Circuito Desafiante,,400
-League of Legends,10138,NLC,,400
-League of Legends,10138,LJL,,400
-League of Legends,10138,LIT,,400
-League of Legends,10138,Prime Pokal,,400
-League of Legends,10138,Rift Legends,,400
-League of Legends,10138,Road Of Legends,,400
-League of Legends,10138,EBL,,350
-League of Legends,10138,Hitpoint Masters,,350
-League of Legends,10138,LPLOL,,350
-League of Legends,10138,HLL,,300
-League of Legends,10138,LRS,,300
-CS2,9977,BLAST Premier,,2000
-CS2,9977,PGL Major,,2000
-CS2,9977,IEM,,2000
-CS2,9977,Perfect World Major,,2000
-CS2,9977,ESL Pro League,,2000
-CS2,9977,BLAST.tv Major,,2000
-CS2,9977,Esports World Cup,,2000
-CS2,9977,FISSURE PLAYGROUND,,1200
-CS2,9977,BLAST Bounty,,1200
-CS2,9977,CCT Global Finals,,1200
-CS2,9977,YaLLa Compass,,1100
-CS2,9977,MESA Nomadic Masters,,1100
-CS2,9977,CCT Europe,,700
-CS2,9977,CCT South America,,700
-CS2,9977,FiReLEAGUE,,700
-CS2,9977,Galaxy Battle,,700
-CS2,9977,Thunderpick World Championship,,700
-CS2,9977,CCT Oceania,,700
-CS2,9977,Rainbet Cup,,700
-CS2,9977,ESL Challenger League,,500
-CS2,9977,Dust2.us,,300
-CS2,9977,Gamers Club Liga Série A,,300
-CS2,9977,Winline Insight,,300
-CS2,9977,Odyssey Cup,,300
-CS2,9977,United21,,300
-CS2,9977,Whale.io Cup,,300
-CS2,9977,Y-Games PRO Series,,300
-CS2,9977,ESEA,,300
-CS2,9977,Exort The Proving Grounds,,300
-CS2,9977,BtcTurk GameFest,,300
-CS2,9977,European Pro League,,300
-CS2,9977,IESF World Championship,,300
-CS2,9977,Exort Series,,300
-CS2,9977,PGL,,300
-CS2,9977,StarLadder StarSeries,,300
-CS2,9977,CCT North America,,300
-CS2,9977,Circuito FERJEE,,300
-CS2,9977,DraculaN,,300
-CS2,9977,Tipsport Cup,,300
-CS2,9977,ESL Impact League,,250
-DOTA,9983,ESL One,,400
-DOTA,9983,Riyadh Masters,,400
-DOTA,9983,The International,,400
-DOTA,9983,Esports World Cup,,400
-DOTA,9983,BetBoom Dacha,,400
-DOTA,9983,BLAST Slam,,400
-DOTA,9983,PGL,,400
-DOTA,9983,Clavision Snow Ruyi Invitational,,400
-DOTA,9983,Elite League,,400
-DOTA,9983,European Pro League,,400
-DOTA,9983,CCT,,400
-DOTA,9983,CIS Battle,,400
-DOTA,9983,EPL World Series,,400
-DOTA,9983,DreamLeague,,400
-DOTA,9983,FISSURE PLAYGROUND,,400
-Valorant,20300,VCT,Masters Bangkok 2025,300
-Valorant,20300,VCT,Americas 2025,300
-Valorant,20300,VCT,EMEA Qualifier 2025,300
-Valorant,20300,VCT,Masters Toronto 2025,300
-Valorant,20300,Esports World Cup,2025,300
-Valorant,20300,VCT,Korea 2025,300
-Valorant,20300,VCT,China 2025,300
-Valorant,20300,VCT,EMEA 2025,300
-Valorant,20300,VCT,Japan 2025,300
-Valorant,20300,VCT,Pacific 2025,300
-Valorant,20300,VCT,Pacific Qualifier 2025,300
-Valorant,20300,VCT,China Stage 1 2025,300
-Valorant,20300,VCT,Americas Stage 1 2025,300
-Valorant,20300,VCT,EMEA Stage 1 2025,300
-Valorant,20300,VCT,Champions 2025,300
-Valorant,20300,VCT,Game Changers North America Stage 2 2025,300
-Valorant,20300,VCT,Game Changers Latin America South Main Event 2025,300
-Valorant,20300,VCT,Americas Qualifier 2025,300
-Valorant,20300,VCL,North America 2025,200
-Valorant,20300,VCL,DACH: Evolution 2025,200
-Valorant,20300,VCL,Japan Season Finals 2025,200
-Valorant,20300,VCL,Southeast Asia 2025,200
-Valorant,20300,VCL,NORTH//EAST 2025,200
-Valorant,20300,VCL,France: Revolution 2025,200
-Valorant,20300,VCL,Türkiye: Birlik 2025,200
-Valorant,20300,VCL,Brazil 2025,200
-Valorant,20300,VCL,Latin America North: 2025,200
-Valorant,20300,VCL,Latin America South 2025,200
-Valorant,20300,VCL,Latin America North 2025,200
-Valorant,20300,VCL,Latin America South: 2025,200
-Valorant,20300,VCL,Brazil: Stage 2 2025,200
-Valorant,20300,VCL,Korea 2025,200
-Valorant,20300,VCL,South Asia 2025,200
-Valorant,20300,VCL,Spain: Rising 2025,200
-Valorant,20300,NORTH//EAST 2025,Korea 2025,200
-Valorant,20300,BtcTurk GameFest,Türkiye: Birlik 2025,100
-Valorant,20300,BtcTurk GameFest,2025,100
-Valorant,20300,A1 Esport Valorant Cup,2025,100
-Valorant,20300,Tixinha & Sacy Invitational By Bonoxs,2025,100
-Valorant,20300,VCL,Game Changers EMEA Stage 2 2025,100
-Valorant,20300,VCL,Game Changers Latin America North 2025,100
-Valorant,20300,VCL,Game Changers Latin America South 2025,100
-Valorant,20300,VCL,Game Changers SEA 2025,100
-Valorant,20300,VCL,Game Changers Latin America North Main Event 2025,100
-Valorant,20300,VCL,Korea Road to Ascension 2025,100
-Valorant,20300,VCL,Southeast Asia 2025,100
-Valorant,20300,VCL,Latin America 2025,100
+sportName,sportId,season_type,season_year,limitToPush,limitForQualifications
+League of Legends,10138,Worlds,,2000,
+League of Legends,10138,LPL,,2000,
+League of Legends,10138,LEC,,2000,
+League of Legends,10138,LCK,,2000,
+League of Legends,10138,LTA,,2000,
+League of Legends,10138,Esports World Cup,,2000,
+League of Legends,10138,LTA North,,2000,
+League of Legends,10138,Mid-Season Invitational,,2000,
+League of Legends,10138,LCK Challengers League,,1000,
+League of Legends,10138,LCP,,800,
+League of Legends,10138,North American Challengers League,,800,
+League of Legends,10138,LCS,,600,
+League of Legends,10138,Arabian League,,450,
+League of Legends,10138,NNO Cup,,450,
+League of Legends,10138,LVP SL,,450,
+League of Legends,10138,Prime League 1st Division,,450,
+League of Legends,10138,LFL,,450,
+League of Legends,10138,TCL,,450,
+League of Legends,10138,EMEA Masters,,450,
+League of Legends,10138,Asia Masters,,450,
+League of Legends,10138,LTA South,,600,
+League of Legends,10138,Circuito Desafiante,,400,
+League of Legends,10138,NLC,,400,
+League of Legends,10138,LJL,,400,
+League of Legends,10138,LIT,,400,
+League of Legends,10138,Prime Pokal,,400,
+League of Legends,10138,Rift Legends,,400,
+League of Legends,10138,Road Of Legends,,400,
+League of Legends,10138,EBL,,350,
+League of Legends,10138,Hitpoint Masters,,350,
+League of Legends,10138,LPLOL,,350,
+League of Legends,10138,HLL,,300,
+League of Legends,10138,LRS,,300,
+CS2,9977,BLAST Premier,,2000,
+CS2,9977,PGL Major,,2000,
+CS2,9977,IEM,,2000,
+CS2,9977,Perfect World Major,,2000,
+CS2,9977,ESL Pro League,,2000,
+CS2,9977,BLAST.tv Major,,2000,
+CS2,9977,Esports World Cup,,2000,
+CS2,9977,FISSURE PLAYGROUND,,1200,
+CS2,9977,BLAST Bounty,,1200,
+CS2,9977,CCT Global Finals,,1200,
+CS2,9977,YaLLa Compass,,1100,
+CS2,9977,MESA Nomadic Masters,,1100,
+CS2,9977,CCT Europe,,700,
+CS2,9977,CCT South America,,700,
+CS2,9977,FiReLEAGUE,,700,
+CS2,9977,Galaxy Battle,,700,
+CS2,9977,Thunderpick World Championship,,700,
+CS2,9977,CCT Oceania,,700,
+CS2,9977,Rainbet Cup,,700,
+CS2,9977,ESL Challenger League,,500,
+CS2,9977,Dust2.us,,300,
+CS2,9977,Gamers Club Liga Série A,,300,
+CS2,9977,Winline Insight,,300,
+CS2,9977,Odyssey Cup,,300,
+CS2,9977,United21,,300,
+CS2,9977,Whale.io Cup,,300,
+CS2,9977,Y-Games PRO Series,,300,
+CS2,9977,ESEA,,300,
+CS2,9977,Exort The Proving Grounds,,300,
+CS2,9977,BtcTurk GameFest,,300,
+CS2,9977,European Pro League,,300,
+CS2,9977,IESF World Championship,,300,
+CS2,9977,Exort Series,,300,
+CS2,9977,PGL,,300,
+CS2,9977,StarLadder StarSeries,,300,
+CS2,9977,CCT North America,,300,
+CS2,9977,Circuito FERJEE,,300,
+CS2,9977,DraculaN,,300,
+CS2,9977,Tipsport Cup,,300,
+CS2,9977,ESL Impact League,,250,
+DOTA,9983,ESL One,,400,
+DOTA,9983,Riyadh Masters,,400,
+DOTA,9983,The International,,400,
+DOTA,9983,Esports World Cup,,400,
+DOTA,9983,BetBoom Dacha,,400,
+DOTA,9983,BLAST Slam,,400,
+DOTA,9983,PGL,,400,
+DOTA,9983,Clavision Snow Ruyi Invitational,,400,
+DOTA,9983,Elite League,,400,
+DOTA,9983,European Pro League,,400,
+DOTA,9983,CCT,,400,
+DOTA,9983,CIS Battle,,400,
+DOTA,9983,EPL World Series,,400,
+DOTA,9983,DreamLeague,,400,
+DOTA,9983,FISSURE PLAYGROUND,,400,
+Valorant,20300,VCT,Masters Bangkok 2025,300,
+Valorant,20300,VCT,Americas 2025,300,
+Valorant,20300,VCT,EMEA Qualifier 2025,300,
+Valorant,20300,VCT,Masters Toronto 2025,300,
+Valorant,20300,Esports World Cup,2025,300,
+Valorant,20300,VCT,Korea 2025,300,
+Valorant,20300,VCT,China 2025,300,
+Valorant,20300,VCT,EMEA 2025,300,
+Valorant,20300,VCT,Japan 2025,300,
+Valorant,20300,VCT,Pacific 2025,300,
+Valorant,20300,VCT,Pacific Qualifier 2025,300,
+Valorant,20300,VCT,China Stage 1 2025,300,
+Valorant,20300,VCT,Americas Stage 1 2025,300,
+Valorant,20300,VCT,EMEA Stage 1 2025,300,
+Valorant,20300,VCT,Champions 2025,300,
+Valorant,20300,VCT,Game Changers North America Stage 2 2025,300,
+Valorant,20300,VCT,Game Changers Latin America South Main Event 2025,300,
+Valorant,20300,VCT,Americas Qualifier 2025,300,
+Valorant,20300,VCL,North America 2025,200,
+Valorant,20300,VCL,DACH: Evolution 2025,200,
+Valorant,20300,VCL,Japan Season Finals 2025,200,
+Valorant,20300,VCL,Southeast Asia 2025,200,
+Valorant,20300,VCL,NORTH//EAST 2025,200,
+Valorant,20300,VCL,France: Revolution 2025,200,
+Valorant,20300,VCL,Türkiye: Birlik 2025,200,
+Valorant,20300,VCL,Brazil 2025,200,
+Valorant,20300,VCL,Latin America North: 2025,200,
+Valorant,20300,VCL,Latin America South 2025,200,
+Valorant,20300,VCL,Latin America North 2025,200,
+Valorant,20300,VCL,Latin America South: 2025,200,
+Valorant,20300,VCL,Brazil: Stage 2 2025,200,
+Valorant,20300,VCL,Korea 2025,200,
+Valorant,20300,VCL,South Asia 2025,200,
+Valorant,20300,VCL,Spain: Rising 2025,200,
+Valorant,20300,NORTH//EAST 2025,Korea 2025,200,
+Valorant,20300,BtcTurk GameFest,Türkiye: Birlik 2025,100,
+Valorant,20300,BtcTurk GameFest,2025,100,
+Valorant,20300,A1 Esport Valorant Cup,2025,100,
+Valorant,20300,Tixinha & Sacy Invitational By Bonoxs,2025,100,
+Valorant,20300,VCL,Game Changers EMEA Stage 2 2025,100,
+Valorant,20300,VCL,Game Changers Latin America North 2025,100,
+Valorant,20300,VCL,Game Changers Latin America South 2025,100,
+Valorant,20300,VCL,Game Changers SEA 2025,100,
+Valorant,20300,VCL,Game Changers Latin America North Main Event 2025,100,
+Valorant,20300,VCL,Korea Road to Ascension 2025,100,
+Valorant,20300,VCL,Southeast Asia 2025,100,
+Valorant,20300,VCL,Latin America 2025,100,
