@@ -2,7 +2,6 @@ sportName,sportId,minLimit,pushLimitThreshold,primaryMarket,secondaryMarket,thir
 PFL,9,100,250,Moneyline,Total Rounds,,false,2,1,0;10001
 Davis Cup,154,300,400,Moneyline,Game Spread,Total Games,true,1.5,1,0;10001;10002
 ITF Women,155,300,400,Moneyline,Game Spread,Total Games,true,1.5,1,0;10001;10002
-ATP Challenger,157,100,350,Moneyline,Game Spread,Total Games,true,2,1,0;10001;10002
 ITF Men,159,300,400,Moneyline,Game Spread,Total Games,true,1.5,1,0;10001;10002
 CS2,9977,50,500,Moneyline,Map Handicap,Total Maps,true,4,3,0;10001;10002
 DOTA2,9983,50,500,Moneyline,Map Handicap,Total Maps,true,3,3,0;10001;10002
