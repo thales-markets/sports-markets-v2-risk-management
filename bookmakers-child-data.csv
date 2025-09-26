@@ -1,9 +1,9 @@
 name,sportId,marketName,bookmaker
 NFL,2,Player Props,blue book
 MLB,3,Player Props,blue book
-MLB,3,Player Home Runs,pinnacle
-MLB,3,Player Outs,pinnacle
-MLB,3,Player Hits Allowed,pinnacle
+MLB,3,Player Home Runs,draftkings
+MLB,3,Player Outs,draftkings
+MLB,3,Player Hits Allowed,draftkings
 MLB,3,Player Earned Runs,draftkings
 MLB,3,Player Batting Strikeouts,draftkings
 MLB,3,Player Batting Walks,draftkings
