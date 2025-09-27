@@ -1,5 +1,5 @@
 sportName,sportId,primaryBookmaker,secondaryBookmaker,tertiaryBookmaker
-NCAAF,1,draftkings,,
+NCAAF,1,draftkings,betmgm,
 NFL,2,draftkings,,
 MLB,3,draftkings,,
 WNBA,8,draftkings,,
