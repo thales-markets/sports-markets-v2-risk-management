@@ -141,21 +141,46 @@ England - Premier League,11,Player Saves,draftkings
 France - Ligue 1,12,Player Goals,blue book
 France - Ligue 1,12,Player Assists,blue book
 France - Ligue 1,12,Player Shots On Target,blue book
+France - Ligue 1,12,Player Fouls,draftkings
+France - Ligue 1,12,Player Fouls Drawn,draftkings
+France - Ligue 1,12,Player Tackles,draftkings
+France - Ligue 1,12,Player Saves,draftkings
 Germany - Bundesliga,13,Player Goals,blue book
 Germany - Bundesliga,13,Player Assists,blue book
 Germany - Bundesliga,13,Player Shots On Target,blue book
+Germany - Bundesliga,13,Player Fouls,draftkings
+Germany - Bundesliga,13,Player Fouls Drawn,draftkings
+Germany - Bundesliga,13,Player Tackles,draftkings
+Germany - Bundesliga,13,Player Saves,draftkings
 Spain - La Liga,14,Player Goals,blue book
 Spain - La Liga,14,Player Assists,blue book
 Spain - La Liga,14,Player Shots On Target,blue book
+Spain - La Liga,14,Player Fouls,draftkings
+Spain - La Liga,14,Player Fouls Drawn,draftkings
+Spain - La Liga,14,Player Tackles,draftkings
+Spain - La Liga,14,Player Saves,draftkings
 Italy - Serie A,15,Player Goals,blue book
 Italy - Serie A,15,Player Assists,blue book
 Italy - Serie A,15,Player Shots On Target,blue book
+Italy - Serie A,15,Player Fouls,draftkings
+Italy - Serie A,15,Player Fouls Drawn,draftkings
+Italy - Serie A,15,Player Tackles,draftkings
+Italy - Serie A,15,Player Saves,draftkings
 UEFA - Champions League,16,Player Goals,blue book
 UEFA - Champions League,16,Player Assists,blue book
 UEFA - Champions League,16,Player Shots On Target,blue book
+UEFA - Champions League,16,Player Fouls,draftkings
+UEFA - Champions League,16,Player Fouls Drawn,draftkings
+UEFA - Champions League,16,Player Tackles,draftkings
+UEFA - Champions League,16,Player Saves,draftkings
+UEFA - Champions League,16,Player Offsides,draftkings
 UEFA - Europa League,17,Player Goals,blue book
 UEFA - Europa League,17,Player Assists,blue book
 UEFA - Europa League,17,Player Shots On Target,blue book
+UEFA - Europa League,17,Player Fouls,draftkings
+UEFA - Europa League,17,Player Fouls Drawn,draftkings
+UEFA - Europa League,17,Player Tackles,draftkings
+UEFA - Europa League,17,Player Saves,draftkings
 FIFA World Cup,18,Player Goals,blue book
 FIFA World Cup,18,Player Assists,blue book
 FIFA World Cup,18,Player Shots On Target,blue book
