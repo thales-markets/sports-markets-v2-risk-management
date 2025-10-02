@@ -258,3 +258,255 @@ Valorant,20300,10041,105,800,First Period Spread
 Valorant,20300,10042,105,800,Second Period Spread
 Valorant,20300,10043,105,800,Third Period Spread
 FIBA - EuroBasket,20224,11087,110,1000,Player Double Double
+USA - Major League Soccer,10,11100,110,1000,Player Goals
+USA - Major League Soccer,10,11039,110,1000,Player Assists
+USA - Major League Soccer,10,11239,110,1000,Player Shots
+USA - Major League Soccer,10,11238,110,1000,Player Shots On Target
+USA - Major League Soccer,10,11259,110,1000,Player Fouls
+USA - Major League Soccer,10,11212,110,1000,Player Tackles
+USA - Major League Soccer,10,11298,110,1000,Player Fouls Drawn
+USA - Major League Soccer,10,11299,110,1000,Player Goals + Assists
+USA - Major League Soccer,10,11300,110,1000,Player Offsides
+USA - Major League Soccer,10,11301,110,1000,Player Saves
+USA - Major League Soccer,10,11302,110,1000,Player To Score And Assist
+USA - Major League Soccer,10,11303,110,1000,Player To Score Or Assist
+USA - Major League Soccer,10,11234,110,1000,Anytime Card Receiver
+USA - Major League Soccer,10,11235,110,1000,Anytime Red Card Receiver
+England - Premier League,11,11100,110,1000,Player Goals
+England - Premier League,11,11039,110,1000,Player Assists
+England - Premier League,11,11239,110,1000,Player Shots
+England - Premier League,11,11238,110,1000,Player Shots On Target
+England - Premier League,11,11259,110,1000,Player Fouls
+England - Premier League,11,11212,110,1000,Player Tackles
+England - Premier League,11,11298,110,1000,Player Fouls Drawn
+England - Premier League,11,11299,110,1000,Player Goals + Assists
+England - Premier League,11,11300,110,1000,Player Offsides
+England - Premier League,11,11301,110,1000,Player Saves
+England - Premier League,11,11302,110,1000,Player To Score And Assist
+England - Premier League,11,11303,110,1000,Player To Score Or Assist
+England - Premier League,11,11234,110,1000,Anytime Card Receiver
+England - Premier League,11,11235,110,1000,Anytime Red Card Receiver
+France - Ligue 1,12,11100,110,1000,Player Goals
+France - Ligue 1,12,11039,110,1000,Player Assists
+France - Ligue 1,12,11239,110,1000,Player Shots
+France - Ligue 1,12,11238,110,1000,Player Shots On Target
+France - Ligue 1,12,11259,110,1000,Player Fouls
+France - Ligue 1,12,11212,110,1000,Player Tackles
+France - Ligue 1,12,11298,110,1000,Player Fouls Drawn
+France - Ligue 1,12,11299,110,1000,Player Goals + Assists
+France - Ligue 1,12,11300,110,1000,Player Offsides
+France - Ligue 1,12,11301,110,1000,Player Saves
+France - Ligue 1,12,11302,110,1000,Player To Score And Assist
+France - Ligue 1,12,11303,110,1000,Player To Score Or Assist
+France - Ligue 1,12,11234,110,1000,Anytime Card Receiver
+France - Ligue 1,12,11235,110,1000,Anytime Red Card Receiver
+Germany - Bundesliga,13,11100,110,1000,Player Goals
+Germany - Bundesliga,13,11039,110,1000,Player Assists
+Germany - Bundesliga,13,11239,110,1000,Player Shots
+Germany - Bundesliga,13,11238,110,1000,Player Shots On Target
+Germany - Bundesliga,13,11259,110,1000,Player Fouls
+Germany - Bundesliga,13,11212,110,1000,Player Tackles
+Germany - Bundesliga,13,11298,110,1000,Player Fouls Drawn
+Germany - Bundesliga,13,11299,110,1000,Player Goals + Assists
+Germany - Bundesliga,13,11300,110,1000,Player Offsides
+Germany - Bundesliga,13,11301,110,1000,Player Saves
+Germany - Bundesliga,13,11302,110,1000,Player To Score And Assist
+Germany - Bundesliga,13,11303,110,1000,Player To Score Or Assist
+Germany - Bundesliga,13,11234,110,1000,Anytime Card Receiver
+Germany - Bundesliga,13,11235,110,1000,Anytime Red Card Receiver
+Spain - La Liga,14,11100,110,1000,Player Goals
+Spain - La Liga,14,11039,110,1000,Player Assists
+Spain - La Liga,14,11239,110,1000,Player Shots
+Spain - La Liga,14,11238,110,1000,Player Shots On Target
+Spain - La Liga,14,11259,110,1000,Player Fouls
+Spain - La Liga,14,11212,110,1000,Player Tackles
+Spain - La Liga,14,11298,110,1000,Player Fouls Drawn
+Spain - La Liga,14,11299,110,1000,Player Goals + Assists
+Spain - La Liga,14,11300,110,1000,Player Offsides
+Spain - La Liga,14,11301,110,1000,Player Saves
+Spain - La Liga,14,11302,110,1000,Player To Score And Assist
+Spain - La Liga,14,11303,110,1000,Player To Score Or Assist
+Spain - La Liga,14,11234,110,1000,Anytime Card Receiver
+Spain - La Liga,14,11235,110,1000,Anytime Red Card Receiver
+Italy - Serie A,15,11100,110,1000,Player Goals
+Italy - Serie A,15,11039,110,1000,Player Assists
+Italy - Serie A,15,11239,110,1000,Player Shots
+Italy - Serie A,15,11238,110,1000,Player Shots On Target
+Italy - Serie A,15,11259,110,1000,Player Fouls
+Italy - Serie A,15,11212,110,1000,Player Tackles
+Italy - Serie A,15,11298,110,1000,Player Fouls Drawn
+Italy - Serie A,15,11299,110,1000,Player Goals + Assists
+Italy - Serie A,15,11300,110,1000,Player Offsides
+Italy - Serie A,15,11301,110,1000,Player Saves
+Italy - Serie A,15,11302,110,1000,Player To Score And Assist
+Italy - Serie A,15,11303,110,1000,Player To Score Or Assist
+Italy - Serie A,15,11234,110,1000,Anytime Card Receiver
+Italy - Serie A,15,11235,110,1000,Anytime Red Card Receiver
+UEFA - Champions League,16,11100,110,1000,Player Goals
+UEFA - Champions League,16,11039,110,1000,Player Assists
+UEFA - Champions League,16,11239,110,1000,Player Shots
+UEFA - Champions League,16,11238,110,1000,Player Shots On Target
+UEFA - Champions League,16,11259,110,1000,Player Fouls
+UEFA - Champions League,16,11212,110,1000,Player Tackles
+UEFA - Champions League,16,11298,110,1000,Player Fouls Drawn
+UEFA - Champions League,16,11299,110,1000,Player Goals + Assists
+UEFA - Champions League,16,11300,110,1000,Player Offsides
+UEFA - Champions League,16,11301,110,1000,Player Saves
+UEFA - Champions League,16,11302,110,1000,Player To Score And Assist
+UEFA - Champions League,16,11303,110,1000,Player To Score Or Assist
+UEFA - Champions League,16,11234,110,1000,Anytime Card Receiver
+UEFA - Champions League,16,11235,110,1000,Anytime Red Card Receiver
+UEFA - Europa League,17,11100,110,1000,Player Goals
+UEFA - Europa League,17,11039,110,1000,Player Assists
+UEFA - Europa League,17,11239,110,1000,Player Shots
+UEFA - Europa League,17,11238,110,1000,Player Shots On Target
+UEFA - Europa League,17,11259,110,1000,Player Fouls
+UEFA - Europa League,17,11212,110,1000,Player Tackles
+UEFA - Europa League,17,11298,110,1000,Player Fouls Drawn
+UEFA - Europa League,17,11299,110,1000,Player Goals + Assists
+UEFA - Europa League,17,11300,110,1000,Player Offsides
+UEFA - Europa League,17,11301,110,1000,Player Saves
+UEFA - Europa League,17,11302,110,1000,Player To Score And Assist
+UEFA - Europa League,17,11303,110,1000,Player To Score Or Assist
+UEFA - Europa League,17,11234,110,1000,Anytime Card Receiver
+UEFA - Europa League,17,11235,110,1000,Anytime Red Card Receiver
+UEFA - Europa Conference League,10216,11100,110,1000,Player Goals
+UEFA - Europa Conference League,10216,11039,110,1000,Player Assists
+UEFA - Europa Conference League,10216,11239,110,1000,Player Shots
+UEFA - Europa Conference League,10216,11238,110,1000,Player Shots On Target
+UEFA - Europa Conference League,10216,11259,110,1000,Player Fouls
+UEFA - Europa Conference League,10216,11212,110,1000,Player Tackles
+UEFA - Europa Conference League,10216,11298,110,1000,Player Fouls Drawn
+UEFA - Europa Conference League,10216,11299,110,1000,Player Goals + Assists
+UEFA - Europa Conference League,10216,11300,110,1000,Player Offsides
+UEFA - Europa Conference League,10216,11301,110,1000,Player Saves
+UEFA - Europa Conference League,10216,11302,110,1000,Player To Score And Assist
+UEFA - Europa Conference League,10216,11303,110,1000,Player To Score Or Assist
+UEFA - Europa Conference League,10216,11234,110,1000,Anytime Card Receiver
+UEFA - Europa Conference League,10216,11235,110,1000,Anytime Red Card Receiver
+FIFA - World Cup Qualifiers,18,11100,110,1000,Player Goals
+FIFA - World Cup Qualifiers,18,11039,110,1000,Player Assists
+FIFA - World Cup Qualifiers,18,11239,110,1000,Player Shots
+FIFA - World Cup Qualifiers,18,11238,110,1000,Player Shots On Target
+FIFA - World Cup Qualifiers,18,11259,110,1000,Player Fouls
+FIFA - World Cup Qualifiers,18,11212,110,1000,Player Tackles
+FIFA - World Cup Qualifiers,18,11298,110,1000,Player Fouls Drawn
+FIFA - World Cup Qualifiers,18,11299,110,1000,Player Goals + Assists
+FIFA - World Cup Qualifiers,18,11300,110,1000,Player Offsides
+FIFA - World Cup Qualifiers,18,11301,110,1000,Player Saves
+FIFA - World Cup Qualifiers,18,11302,110,1000,Player To Score And Assist
+FIFA - World Cup Qualifiers,18,11303,110,1000,Player To Score Or Assist
+FIFA - World Cup Qualifiers,18,11234,110,1000,Anytime Card Receiver
+FIFA - World Cup Qualifiers,18,11235,110,1000,Anytime Red Card Receiver
+FIFA - World Cup,22,11100,110,1000,Player Goals
+FIFA - World Cup,22,11039,110,1000,Player Assists
+FIFA - World Cup,22,11239,110,1000,Player Shots
+FIFA - World Cup,22,11238,110,1000,Player Shots On Target
+FIFA - World Cup,22,11259,110,1000,Player Fouls
+FIFA - World Cup,22,11212,110,1000,Player Tackles
+FIFA - World Cup,22,11298,110,1000,Player Fouls Drawn
+FIFA - World Cup,22,11299,110,1000,Player Goals + Assists
+FIFA - World Cup,22,11300,110,1000,Player Offsides
+FIFA - World Cup,22,11301,110,1000,Player Saves
+FIFA - World Cup,22,11302,110,1000,Player To Score And Assist
+FIFA - World Cup,22,11303,110,1000,Player To Score Or Assist
+FIFA - World Cup,22,11234,110,1000,Anytime Card Receiver
+FIFA - World Cup,22,11235,110,1000,Anytime Red Card Receiver
+Netherlands - Eredivisie,57,11100,110,1000,Player Goals
+Netherlands - Eredivisie,57,11039,110,1000,Player Assists
+Netherlands - Eredivisie,57,11239,110,1000,Player Shots
+Netherlands - Eredivisie,57,11238,110,1000,Player Shots On Target
+Netherlands - Eredivisie,57,11259,110,1000,Player Fouls
+Netherlands - Eredivisie,57,11212,110,1000,Player Tackles
+Netherlands - Eredivisie,57,11298,110,1000,Player Fouls Drawn
+Netherlands - Eredivisie,57,11299,110,1000,Player Goals + Assists
+Netherlands - Eredivisie,57,11300,110,1000,Player Offsides
+Netherlands - Eredivisie,57,11301,110,1000,Player Saves
+Netherlands - Eredivisie,57,11302,110,1000,Player To Score And Assist
+Netherlands - Eredivisie,57,11303,110,1000,Player To Score Or Assist
+Netherlands - Eredivisie,57,11234,110,1000,Anytime Card Receiver
+Netherlands - Eredivisie,57,11235,110,1000,Anytime Red Card Receiver
+Portugal - Primeira Liga,61,11100,110,1000,Player Goals
+Portugal - Primeira Liga,61,11039,110,1000,Player Assists
+Portugal - Primeira Liga,61,11239,110,1000,Player Shots
+Portugal - Primeira Liga,61,11238,110,1000,Player Shots On Target
+Portugal - Primeira Liga,61,11259,110,1000,Player Fouls
+Portugal - Primeira Liga,61,11212,110,1000,Player Tackles
+Portugal - Primeira Liga,61,11298,110,1000,Player Fouls Drawn
+Portugal - Primeira Liga,61,11299,110,1000,Player Goals + Assists
+Portugal - Primeira Liga,61,11300,110,1000,Player Offsides
+Portugal - Primeira Liga,61,11301,110,1000,Player Saves
+Portugal - Primeira Liga,61,11302,110,1000,Player To Score And Assist
+Portugal - Primeira Liga,61,11303,110,1000,Player To Score Or Assist
+Portugal - Primeira Liga,61,11234,110,1000,Anytime Card Receiver
+Portugal - Primeira Liga,61,11235,110,1000,Anytime Red Card Receiver
+Mexico - Liga MX,230,11100,110,1000,Player Goals
+Mexico - Liga MX,230,11039,110,1000,Player Assists
+Mexico - Liga MX,230,11239,110,1000,Player Shots
+Mexico - Liga MX,230,11238,110,1000,Player Shots On Target
+Mexico - Liga MX,230,11259,110,1000,Player Fouls
+Mexico - Liga MX,230,11212,110,1000,Player Tackles
+Mexico - Liga MX,230,11298,110,1000,Player Fouls Drawn
+Mexico - Liga MX,230,11299,110,1000,Player Goals + Assists
+Mexico - Liga MX,230,11300,110,1000,Player Offsides
+Mexico - Liga MX,230,11301,110,1000,Player Saves
+Mexico - Liga MX,230,11302,110,1000,Player To Score And Assist
+Mexico - Liga MX,230,11303,110,1000,Player To Score Or Assist
+Mexico - Liga MX,230,11234,110,1000,Anytime Card Receiver
+Mexico - Liga MX,230,11235,110,1000,Anytime Red Card Receiver
+Brazil - Serie A,268,11100,110,1000,Player Goals
+Brazil - Serie A,268,11039,110,1000,Player Assists
+Brazil - Serie A,268,11239,110,1000,Player Shots
+Brazil - Serie A,268,11238,110,1000,Player Shots On Target
+Brazil - Serie A,268,11259,110,1000,Player Fouls
+Brazil - Serie A,268,11212,110,1000,Player Tackles
+Brazil - Serie A,268,11298,110,1000,Player Fouls Drawn
+Brazil - Serie A,268,11299,110,1000,Player Goals + Assists
+Brazil - Serie A,268,11300,110,1000,Player Offsides
+Brazil - Serie A,268,11301,110,1000,Player Saves
+Brazil - Serie A,268,11302,110,1000,Player To Score And Assist
+Brazil - Serie A,268,11303,110,1000,Player To Score Or Assist
+Brazil - Serie A,268,11234,110,1000,Anytime Card Receiver
+Brazil - Serie A,268,11235,110,1000,Anytime Red Card Receiver
+UEFA - Nations League,9806,11100,110,1000,Player Goals
+UEFA - Nations League,9806,11039,110,1000,Player Assists
+UEFA - Nations League,9806,11239,110,1000,Player Shots
+UEFA - Nations League,9806,11238,110,1000,Player Shots On Target
+UEFA - Nations League,9806,11259,110,1000,Player Fouls
+UEFA - Nations League,9806,11212,110,1000,Player Tackles
+UEFA - Nations League,9806,11298,110,1000,Player Fouls Drawn
+UEFA - Nations League,9806,11299,110,1000,Player Goals + Assists
+UEFA - Nations League,9806,11300,110,1000,Player Offsides
+UEFA - Nations League,9806,11301,110,1000,Player Saves
+UEFA - Nations League,9806,11302,110,1000,Player To Score And Assist
+UEFA - Nations League,9806,11303,110,1000,Player To Score Or Assist
+UEFA - Nations League,9806,11234,110,1000,Anytime Card Receiver
+UEFA - Nations League,9806,11235,110,1000,Anytime Red Card Receiver
+England - Championship,20011,11100,110,1000,Player Goals
+England - Championship,20011,11039,110,1000,Player Assists
+England - Championship,20011,11239,110,1000,Player Shots
+England - Championship,20011,11238,110,1000,Player Shots On Target
+England - Championship,20011,11259,110,1000,Player Fouls
+England - Championship,20011,11212,110,1000,Player Tackles
+England - Championship,20011,11298,110,1000,Player Fouls Drawn
+England - Championship,20011,11299,110,1000,Player Goals + Assists
+England - Championship,20011,11300,110,1000,Player Offsides
+England - Championship,20011,11301,110,1000,Player Saves
+England - Championship,20011,11302,110,1000,Player To Score And Assist
+England - Championship,20011,11303,110,1000,Player To Score Or Assist
+England - Championship,20011,11234,110,1000,Anytime Card Receiver
+England - Championship,20011,11235,110,1000,Anytime Red Card Receiver
+Scotland - Premiership,20101,11100,110,1000,Player Goals
+Scotland - Premiership,20101,11039,110,1000,Player Assists
+Scotland - Premiership,20101,11239,110,1000,Player Shots
+Scotland - Premiership,20101,11238,110,1000,Player Shots On Target
+Scotland - Premiership,20101,11259,110,1000,Player Fouls
+Scotland - Premiership,20101,11212,110,1000,Player Tackles
+Scotland - Premiership,20101,11298,110,1000,Player Fouls Drawn
+Scotland - Premiership,20101,11299,110,1000,Player Goals + Assists
+Scotland - Premiership,20101,11300,110,1000,Player Offsides
+Scotland - Premiership,20101,11301,110,1000,Player Saves
+Scotland - Premiership,20101,11302,110,1000,Player To Score And Assist
+Scotland - Premiership,20101,11303,110,1000,Player To Score Or Assist
+Scotland - Premiership,20101,11234,110,1000,Anytime Card Receiver
+Scotland - Premiership,20101,11235,110,1000,Anytime Red Card Receiver
