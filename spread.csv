@@ -1,6 +1,7 @@
 sportName,sportId,typeId,minSpread,targetSpread,addedSpread
 General,All Sports,All Markets,0,0,1
-NFL,1,All Markets,0,0,0.5
+NCAAF,1,All Markets,0,0,0.5
+NFL,2,All Markets,0,0,0.5
 MLB Futures,30003,All Markets,0,0,2
 NCAAF PP,1,Player Props,0,0,2
 NFL PP,1,Player Props,0,0,2
