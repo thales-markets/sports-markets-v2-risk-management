@@ -1,56 +1,56 @@
 sportName,sportId,season_type,season_year,limitToPush,limitForQualifications
 League of Legends,10138,Worlds,,2000,
-League of Legends,10138,LPL,,2000,
-League of Legends,10138,LEC,,2000,
-League of Legends,10138,LCK,,2000,
-League of Legends,10138,LTA,,2000,
-League of Legends,10138,Esports World Cup,,2000,
-League of Legends,10138,LTA North,,2000,
-League of Legends,10138,Mid-Season Invitational,,2000,
-League of Legends,10138,LCK Challengers League,,1000,
-League of Legends,10138,LCP,,800,
-League of Legends,10138,North American Challengers League,,800,
-League of Legends,10138,LCS,,600,
-League of Legends,10138,Arabian League,,450,
-League of Legends,10138,NNO Cup,,450,
-League of Legends,10138,LVP SL,,450,
-League of Legends,10138,Prime League 1st Division,,450,
-League of Legends,10138,LFL,,450,
-League of Legends,10138,TCL,,450,
-League of Legends,10138,EMEA Masters,,450,
-League of Legends,10138,Asia Masters,,450,
-League of Legends,10138,LTA South,,600,
-League of Legends,10138,Circuito Desafiante,,400,
-League of Legends,10138,NLC,,400,
-League of Legends,10138,LJL,,400,
-League of Legends,10138,LIT,,400,
-League of Legends,10138,Prime Pokal,,400,
-League of Legends,10138,Rift Legends,,400,
-League of Legends,10138,Road Of Legends,,400,
-League of Legends,10138,EBL,,350,
-League of Legends,10138,Hitpoint Masters,,350,
-League of Legends,10138,LPLOL,,350,
-League of Legends,10138,HLL,,300,
-League of Legends,10138,LRS,,300,
-CS2,9977,BLAST Premier,,2000,
-CS2,9977,PGL Major,,2000,
-CS2,9977,IEM,,2000,
-CS2,9977,Perfect World Major,,2000,
-CS2,9977,ESL Pro League,,2000,
-CS2,9977,BLAST.tv Major,,2000,
-CS2,9977,Esports World Cup,,2000,
+League of Legends,10138,LPL,,1500,
+League of Legends,10138,LEC,,1500,
+League of Legends,10138,LCK,,1500,
+League of Legends,10138,LTA,,1500,
+League of Legends,10138,Esports World Cup,,1500,
+League of Legends,10138,LTA North,,1500,
+League of Legends,10138,Mid-Season Invitational,,1500,
+League of Legends,10138,LCK Challengers League,,800,
+League of Legends,10138,LCP,,600,
+League of Legends,10138,North American Challengers League,,600,
+League of Legends,10138,LCS,,500,
+League of Legends,10138,Arabian League,,350,
+League of Legends,10138,NNO Cup,,350,
+League of Legends,10138,LVP SL,,350,
+League of Legends,10138,Prime League 1st Division,,350,
+League of Legends,10138,LFL,,350,
+League of Legends,10138,TCL,,350,
+League of Legends,10138,EMEA Masters,,350,
+League of Legends,10138,Asia Masters,,350,
+League of Legends,10138,LTA South,,500,
+League of Legends,10138,Circuito Desafiante,,300,
+League of Legends,10138,NLC,,300,
+League of Legends,10138,LJL,,300,
+League of Legends,10138,LIT,,300,
+League of Legends,10138,Prime Pokal,,300,
+League of Legends,10138,Rift Legends,,300,
+League of Legends,10138,Road Of Legends,,300,
+League of Legends,10138,EBL,,250,
+League of Legends,10138,Hitpoint Masters,,250,
+League of Legends,10138,LPLOL,,250,
+League of Legends,10138,HLL,,250,
+League of Legends,10138,LRS,,250,
+CS2,9977,BLAST Premier,,1500,
+CS2,9977,PGL Major,,1500,
+CS2,9977,IEM,,1500,
+CS2,9977,Perfect World Major,,1500,
+CS2,9977,ESL Pro League,,1500,
+CS2,9977,BLAST.tv Major,,1500,
+CS2,9977,Esports World Cup,,1500,
 CS2,9977,FISSURE PLAYGROUND,,1200,
-CS2,9977,BLAST Bounty,,1200,
-CS2,9977,CCT Global Finals,,1200,
-CS2,9977,YaLLa Compass,,1100,
-CS2,9977,MESA Nomadic Masters,,1100,
-CS2,9977,CCT Europe,,700,
-CS2,9977,CCT South America,,700,
-CS2,9977,FiReLEAGUE,,700,
-CS2,9977,Galaxy Battle,,700,
-CS2,9977,Thunderpick World Championship,,700,
-CS2,9977,CCT Oceania,,700,
-CS2,9977,Rainbet Cup,,700,
+CS2,9977,BLAST Bounty,,100,
+CS2,9977,CCT Global Finals,,800,
+CS2,9977,YaLLa Compass,,800,
+CS2,9977,MESA Nomadic Masters,,800,
+CS2,9977,CCT Europe,,500,
+CS2,9977,CCT South America,,500,
+CS2,9977,FiReLEAGUE,,500,
+CS2,9977,Galaxy Battle,,500,
+CS2,9977,Thunderpick World Championship,,500,
+CS2,9977,CCT Oceania,,500,
+CS2,9977,Rainbet Cup,,500,
 CS2,9977,ESL Challenger League,,500,
 CS2,9977,Dust2.us,,300,
 CS2,9977,Gamers Club Liga Série A,,300,
@@ -61,34 +61,34 @@ CS2,9977,Whale.io Cup,,300,
 CS2,9977,Y-Games PRO Series,,300,
 CS2,9977,NODWIN Clutch Series,,300,
 CS2,9977,ESEA,,300,
-CS2,9977,Exort The Proving Grounds,,300,
-CS2,9977,BtcTurk GameFest,,300,
-CS2,9977,European Pro League,,300,
-CS2,9977,IESF World Championship,,300,
-CS2,9977,Exort Series,,300,
-CS2,9977,PGL,,300,
-CS2,9977,StarLadder StarSeries,,300,
-CS2,9977,CCT North America,,300,
-CS2,9977,Circuito FERJEE,,300,
-CS2,9977,DraculaN,,300,
-CS2,9977,Tipsport Cup,,300,
-CS2,9977,ESL Impact League,,220,100
+CS2,9977,Exort The Proving Grounds,,300,150
+CS2,9977,BtcTurk GameFest,,300,150
+CS2,9977,European Pro League,,300,150
+CS2,9977,IESF World Championship,,300,150
+CS2,9977,Exort Series,,300,150
+CS2,9977,PGL,,300,150
+CS2,9977,StarLadder StarSeries,,300,150
+CS2,9977,CCT North America,,300,150
+CS2,9977,Circuito FERJEE,,300,150
+CS2,9977,DraculaN,,300,150
+CS2,9977,Tipsport Cup,,300,150
 CS2,9977,Birch Cup,,300,150
+CS2,9977,ESL Impact League,,220,100
 DOTA,9983,DreamLeague,,1000,300
 DOTA,9983,FISSURE PLAYGROUND,,1000,300
 DOTA,9983,The International,,1000,300
 DOTA,9983,Esports World Cup,,1000,300
 DOTA,9983,BetBoom Dacha,,1000,300
 DOTA,9983,BLAST Slam,,1000,300
-DOTA,9983,PGL,,1000,300
-DOTA,9983,ESL One,,1000,300
-DOTA,9983,Riyadh Masters,,1000,300
-DOTA,9983,Clavision Snow Ruyi Invitational,,1000,300
-DOTA,9983,Elite League,,600,250
-DOTA,9983,European Pro League,,500,250
-DOTA,9983,CCT,,400,250
-DOTA,9983,CIS Battle,,400,250
-DOTA,9983,EPL World Series,,400,250
+DOTA,9983,PGL,,600,300
+DOTA,9983,ESL One,,600,300
+DOTA,9983,Riyadh Masters,,600,300
+DOTA,9983,Clavision Snow Ruyi Invitational,,600,300
+DOTA,9983,Elite League,,500,250
+DOTA,9983,European Pro League,,100,250
+DOTA,9983,CCT,,300,250
+DOTA,9983,CIS Battle,,300,250
+DOTA,9983,EPL World Series,,300,250
 Valorant,20300,VCT,Masters Bangkok 2025,300,
 Valorant,20300,VCT,Americas 2025,300,
 Valorant,20300,VCT,EMEA Qualifier 2025,300,
