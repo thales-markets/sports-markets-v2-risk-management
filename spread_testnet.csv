@@ -1,1 +1,7 @@
 sportName,sportId,typeId,minSpread,targetSpread,addedSpread
+LOL,10138,All Markets,0,0,1
+CS2,9977,All Markets,0,0,1
+DOTA2,9983,All Markets,0,0,1
+Valorant,20300,All Markets,0,0,2
+Overwatch,20296,All Markets,0,0,2
+Mobile legends,20295,All Markets,0,0,2
