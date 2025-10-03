@@ -1,5 +1,5 @@
 botName,sportIds,mappedSportIds,daysInFront,frequency,wallet,livenesThreshold,comment
-overtime-puller-opticodds-ncaaf,NCAAF,1,2,17s,0xECB7e6B4Fbc7abB1979AF46388D4c764b55B7dd6,2m,
+overtime-puller-opticodds-ncaaf,NCAAF,1,2,17s,0xECB7e6B4Fbc7abB1979AF46388D4c764b55B7dd6,3m,
 overtime-puller-opticodds-nfl,NFL,2,4,17s,0xfF238Ff05A383449ceECf4Bce525B71B7bc09e4a,2m,
 overtime-puller-opticodds-american-football,CFL;UFL,9520;9521,2,17s,0xA635170ceA886BD548117e662D42Eb28d78F0d83,2m,
 overtime-puller-opticodds-mlb,MLB;USA - MLB All Star,3;305,1,17s,0x13a680721c56038C81B1aa39f4d1D79ca22B12b3,2m,
