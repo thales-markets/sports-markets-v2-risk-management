@@ -1,4 +1,5 @@
 name,sportId,marketName,bookmaker
+NCAAF,1,Player Props,espn bet
 NFL,2,Player Props,pinnacle
 MLB,3,Player Props,blue book
 MLB,3,Player Home Runs,draftkings
@@ -25,7 +26,6 @@ NHL,6,1st Period Moneyline 3-Way,DraftKings
 NHL,6,2nd Period Moneyline 3-Way,DraftKings
 WNBA,8,Player Props,blue book
 WNBA,8,Will There Be Overtime,draftkings
-NCAAF,1,Player Props,blue book
 WTA,152,Player Props,blue book
 ATP,156,Player Props,blue book
 WTA,152,Correct Score,Draftkings
