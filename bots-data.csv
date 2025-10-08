@@ -151,7 +151,7 @@ overtime-risk-puller-rugby,Australia - NRL;England - Super League;Oceania - Supe
 overtime-risk-puller-darts,England - Premier League Darts;PDC - World Cup of Darts,,0,30s,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,4m,
 overtime-risk-puller-volleyball-countries,FIVB - Nations League;FIVB - Nations League Women;FIVB - World Championship Women;FIVB - World Championship,,0,30s,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,4m,
 overtime-liveness-puller,,,0,15s,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,,
-overtime-limit-puller,CS2;ATP Challenger;League of Legends;Dota 2;Call of Duty;Valorant;PFL;Rainbow Six Siege;Starcraft 2;Mobile Legends Bang Bang,9977;157;10138;9983;20298;20300;9;20293;20294;20295,0,60s,0x5940b3a0aF3175717DD5D47dAa526E736D1C0313,3m,
+overtime-limit-puller,CS2;ATP Challenger;League of Legends;Dota 2;Call of Duty;Valorant;PFL;Rainbow Six Siege;Starcraft 2;Mobile Legends Bang Bang;FIFA - World Cup Qualifiers;UEFA - Nations League,9977;157;10138;9983;20298;20300;9;20293;20294;20295;18;9806,0,60s,0x5940b3a0aF3175717DD5D47dAa526E736D1C0313,3m,
 overtime-resolver-opticodds,3 4 6 7 10 17 19 21 20,,-3,20m,0xcC97993365989c6Cb15503d088A9270Eb39d2FfE,1h,
 overtime-resolver-opticodds-football,3 4 6 7 10 17 19 21 20,,-3,20m,0xcC97993365989c6Cb15503d088A9270Eb39d2FfE,1h,
 overtime-resolver-opticodds-arbi,3 4 6 7 10 17 19 21 20,,-3,20m,0xcC97993365989c6Cb15503d088A9270Eb39d2FfE,1h,
