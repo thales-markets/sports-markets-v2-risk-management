@@ -180,6 +180,7 @@ NHL,6,10212,2nd Period Team Total,Total,true,0.95,0.05,2
 NHL,6,10311,3rd Period Team Total,Total,true,0.95,0.05,2
 NHL,6,10312,3rd Period Team Total,Total,true,0.95,0.05,2
 NHL,6,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
+NHL,6,10100,Correct Score,Correct Score,true,0.99,0.01,2
 IIHF - World Championship,33,0,Moneyline,Moneyline,true,0.95,0.05,1
 IIHF - World Championship,33,10011,Moneyline 3-Way,Moneyline,true,0.95,0.05,1
 IIHF - World Championship,33,10001,Puck Line,Spread,true,0.95,0.05,1
@@ -2241,6 +2242,17 @@ Venezuela - Primera Division,20722,10031,1st Half Total Goals,Total,true,0.95,0.
 Venezuela - Primera Division,20722,10032,2nd Half Total Goals,Total,true,0.95,0.05,1
 Venezuela - Primera Division,20722,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
 Venezuela - Primera Division,20722,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+FIFA WC20,296,0,Moneyline,Moneyline,true,0.95,0.05,1
+FIFA WC20,296,10001,Asian Handicap,Spread,true,0.95,0.05,1
+FIFA WC20,296,10002,Total Goals,Total,true,0.95,0.05,1
+FIFA WC20,296,10100,Correct Score,Correct Score,true,0.99,0.01,2
+FIFA WC20,296,10003,Double Chance,Double Chance,true,0.99,0.01,1
+FIFA WC20,296,10017,Team Total,Total,true,0.95,0.05,1
+FIFA WC20,296,10018,Team Total,Total,true,0.95,0.05,1
+FIFA WC20,296,10031,1st Half Total Goals,Total,true,0.95,0.05,1
+FIFA WC20,296,10032,2nd Half Total Goals,Total,true,0.95,0.05,1
+FIFA WC20,296,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+FIFA WC20,296,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
 FIBA - EuroBasket,20224,0,Moneyline,Moneyline,true,0.95,0.05,2
 FIBA - EuroBasket,20224,10001,Point Spread,Spread,true,0.95,0.05,2
 FIBA - EuroBasket,20224,10002,Total Points,Total,true,0.95,0.05,2
@@ -2303,3 +2315,96 @@ FIBA - AfroBasket,20225,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
 FIBA - AfroBasket,20225,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
 FIBA - AfroBasket,20225,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
 FIBA - AfroBasket,20225,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
+ABA League,20227,0,Moneyline,Moneyline,true,0.95,0.05,2
+ABA League,20227,10001,Point Spread,Spread,true,0.95,0.05,2
+ABA League,20227,10002,Total Points,Total,true,0.95,0.05,2
+ABA League,20227,10017,Team Total,Total,true,0.95,0.05,2
+ABA League,20227,10018,Team Total,Total,true,0.95,0.05,2
+ABA League,20227,10031,1st Quarter Total Points,Total,true,0.95,0.05,2
+ABA League,20227,10032,2nd Quarter Total Points,Total,true,0.95,0.05,2
+ABA League,20227,10033,3rd Quarter Total Points,Total,true,0.95,0.05,2
+ABA League,20227,10034,4th Quarter Total Points,Total,true,0.95,0.05,2
+ABA League,20227,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,2
+ABA League,20227,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,2
+ABA League,20227,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,2
+ABA League,20227,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,2
+ABA League,20227,10071,1st Half Point Spread,Spread,true,0.95,0.05,2
+ABA League,20227,10072,2nd Half Point Spread,Spread,true,0.95,0.05,2
+ABA League,20227,10061,1st Half Total Points,Total,true,0.95,0.05,2
+ABA League,20227,10062,2nd Half Total Points,Total,true,0.95,0.05,2
+ABA League,20227,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,2
+ABA League,20227,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+ABA League,20227,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+ABA League,20227,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,2
+ABA League,20227,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,2
+ABA League,20227,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
+ABA League,20227,10111,1st Quarter Team Total,Total,true,0.95,0.05,2
+ABA League,20227,10112,1st Quarter Team Total,Total,true,0.95,0.05,2
+ABA League,20227,10211,2nd Quarter Team Total,Total,true,0.95,0.05,2
+ABA League,20227,10212,2nd Quarter Team Total,Total,true,0.95,0.05,2
+ABA League,20227,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
+ABA League,20227,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
+ABA League,20227,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
+ABA League,20227,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
+Eurocup,20200,0,Moneyline,Moneyline,true,0.95,0.05,2
+Eurocup,20200,10001,Point Spread,Spread,true,0.95,0.05,2
+Eurocup,20200,10002,Total Points,Total,true,0.95,0.05,2
+Eurocup,20200,10017,Team Total,Total,true,0.95,0.05,2
+Eurocup,20200,10018,Team Total,Total,true,0.95,0.05,2
+Eurocup,20200,10031,1st Quarter Total Points,Total,true,0.95,0.05,2
+Eurocup,20200,10032,2nd Quarter Total Points,Total,true,0.95,0.05,2
+Eurocup,20200,10033,3rd Quarter Total Points,Total,true,0.95,0.05,2
+Eurocup,20200,10034,4th Quarter Total Points,Total,true,0.95,0.05,2
+Eurocup,20200,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,2
+Eurocup,20200,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,2
+Eurocup,20200,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,2
+Eurocup,20200,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,2
+Eurocup,20200,10071,1st Half Point Spread,Spread,true,0.95,0.05,2
+Eurocup,20200,10072,2nd Half Point Spread,Spread,true,0.95,0.05,2
+Eurocup,20200,10061,1st Half Total Points,Total,true,0.95,0.05,2
+Eurocup,20200,10062,2nd Half Total Points,Total,true,0.95,0.05,2
+Eurocup,20200,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,2
+Eurocup,20200,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+Eurocup,20200,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+Eurocup,20200,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,2
+Eurocup,20200,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,2
+Eurocup,20200,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
+Eurocup,20200,10111,1st Quarter Team Total,Total,true,0.95,0.05,2
+Eurocup,20200,10112,1st Quarter Team Total,Total,true,0.95,0.05,2
+Eurocup,20200,10211,2nd Quarter Team Total,Total,true,0.95,0.05,2
+Eurocup,20200,10212,2nd Quarter Team Total,Total,true,0.95,0.05,2
+Eurocup,20200,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
+Eurocup,20200,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
+Eurocup,20200,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
+Eurocup,20200,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
+International Champions League,20218,0,Moneyline,Moneyline,true,0.95,0.05,2
+International Champions League,20218,10001,Point Spread,Spread,true,0.95,0.05,2
+International Champions League,20218,10002,Total Points,Total,true,0.95,0.05,2
+International Champions League,20218,10017,Team Total,Total,true,0.95,0.05,2
+International Champions League,20218,10018,Team Total,Total,true,0.95,0.05,2
+International Champions League,20218,10031,1st Quarter Total Points,Total,true,0.95,0.05,2
+International Champions League,20218,10032,2nd Quarter Total Points,Total,true,0.95,0.05,2
+International Champions League,20218,10033,3rd Quarter Total Points,Total,true,0.95,0.05,2
+International Champions League,20218,10034,4th Quarter Total Points,Total,true,0.95,0.05,2
+International Champions League,20218,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,2
+International Champions League,20218,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,2
+International Champions League,20218,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,2
+International Champions League,20218,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,2
+International Champions League,20218,10071,1st Half Point Spread,Spread,true,0.95,0.05,2
+International Champions League,20218,10072,2nd Half Point Spread,Spread,true,0.95,0.05,2
+International Champions League,20218,10061,1st Half Total Points,Total,true,0.95,0.05,2
+International Champions League,20218,10062,2nd Half Total Points,Total,true,0.95,0.05,2
+International Champions League,20218,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,2
+International Champions League,20218,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+International Champions League,20218,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+International Champions League,20218,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,2
+International Champions League,20218,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,2
+International Champions League,20218,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
+International Champions League,20218,10111,1st Quarter Team Total,Total,true,0.95,0.05,2
+International Champions League,20218,10112,1st Quarter Team Total,Total,true,0.95,0.05,2
+International Champions League,20218,10211,2nd Quarter Team Total,Total,true,0.95,0.05,2
+International Champions League,20218,10212,2nd Quarter Team Total,Total,true,0.95,0.05,2
+International Champions League,20218,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
+International Champions League,20218,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
+International Champions League,20218,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
+International Champions League,20218,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
