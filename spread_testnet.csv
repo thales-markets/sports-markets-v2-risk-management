@@ -1,4 +1,5 @@
 sportName,sportId,typeId,minSpread,targetSpread,addedSpread
+General,All Sports,All Markets,0,0,1
 LOL,10138,All Markets,0,0,1
 CS2,9977,All Markets,0,0,1
 DOTA2,9983,All Markets,0,0,1
