@@ -1,6 +1,20 @@
 name,sportId,marketName,bookmaker
 NCAAF,1,Player Props,espn bet
+NCAAF,1,Player Kicking Points,betano
+NCAAF,1,Player Interceptions,betano
 NFL,2,Player Props,pinnacle
+NFL,2,Player Tackles,betmgm
+NFL,2,Player Sacks,betmgm
+NFL,2,Player Touchdowns,draftkings
+NFL,2,Anytime Touchdown Scorer,draftkings
+NFL,2,Player Kicking Points,betmgm
+NFL,2,Player Interceptions,draftkings
+NFL,2,Player Field Goals Made,betmgm
+NFL,2,Player Extra Points Made,betmgm
+NFL,2,Player Longest Passing Completion,betmgm
+NFL,2,Player Longest Reception,betmgm
+NFL,2,Player Longest Rush,betmgm
+NFL,2,Player Rushing + Receiving Yards,betmgm
 MLB,3,Player Props,blue book
 MLB,3,Player Home Runs,draftkings
 MLB,3,Player Outs,draftkings
@@ -14,7 +28,7 @@ NFL,2,Will There Be Overtime,draftkings
 NFL,2,1st Quarter Both Teams To Score,draftkings
 NFL,2,Moneyline 3-Way,betano
 MLB,3,Will There Be Overtime,draftkings
-Euroleague,399,Player Props,blue book
+Euroleague,399,Player Props,betsson
 NBA,4,Player Props,blue book
 NBA,4,Total Assists,espn bet
 NBA,4,Total Steals,espn bet
