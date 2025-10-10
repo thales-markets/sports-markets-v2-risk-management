@@ -1,38 +1,38 @@
 sportName,sportId,season_type,season_year,limitToPush,limitForQualifications
-League of Legends,10138,Worlds,,1500,
-League of Legends,10138,LPL,,1000,
-League of Legends,10138,LEC,,1000,
-League of Legends,10138,LCK,,1000,
-League of Legends,10138,LTA,,1000,
-League of Legends,10138,Esports World Cup,,1000,
-League of Legends,10138,LTA North,,1000,
-League of Legends,10138,Mid-Season Invitational,,1000,
-League of Legends,10138,Asia Invitational,,1000,
-League of Legends,10138,LCK Challengers League,,800,
-League of Legends,10138,LCP,,600,
-League of Legends,10138,North American Challengers League,,600,
-League of Legends,10138,LCS,,500,
-League of Legends,10138,Arabian League,,350,
-League of Legends,10138,NNO Cup,,350,
-League of Legends,10138,LVP SL,,350,
-League of Legends,10138,Prime League 1st Division,,350,
-League of Legends,10138,LFL,,350,
-League of Legends,10138,TCL,,350,
-League of Legends,10138,EMEA Masters,,350,
-League of Legends,10138,Asia Masters,,350,
-League of Legends,10138,LTA South,,500,
-League of Legends,10138,Circuito Desafiante,,300,
-League of Legends,10138,NLC,,300,
-League of Legends,10138,LJL,,300,
-League of Legends,10138,LIT,,300,
-League of Legends,10138,Prime Pokal,,300,
-League of Legends,10138,Rift Legends,,300,
-League of Legends,10138,Road Of Legends,,300,
-League of Legends,10138,EBL,,250,
-League of Legends,10138,Hitpoint Masters,,250,
-League of Legends,10138,LPLOL,,250,
-League of Legends,10138,HLL,,250,
-League of Legends,10138,LRS,,250,
+League of Legends,10138,Worlds,,1500,1500
+League of Legends,10138,LPL,,1000,1000
+League of Legends,10138,LEC,,1000,1000
+League of Legends,10138,LCK,,1000,1000
+League of Legends,10138,LTA,,1000,1000
+League of Legends,10138,Esports World Cup,,1000,1000
+League of Legends,10138,LTA North,,1000,1000
+League of Legends,10138,Mid-Season Invitational,,1000,1000
+League of Legends,10138,Asia Invitational,,1000,1000
+League of Legends,10138,LCK Challengers League,,800,800
+League of Legends,10138,LCP,,600,600
+League of Legends,10138,North American Challengers League,,600,600
+League of Legends,10138,LCS,,500,500
+League of Legends,10138,LTA South,,500,500
+League of Legends,10138,Arabian League,,300,300
+League of Legends,10138,NNO Cup,,300,300
+League of Legends,10138,LVP SL,,300,300
+League of Legends,10138,Prime League 1st Division,,300,300
+League of Legends,10138,LFL,,300,300
+League of Legends,10138,TCL,,300,300
+League of Legends,10138,EMEA Masters,,300,300
+League of Legends,10138,Asia Masters,,300,300
+League of Legends,10138,Circuito Desafiante,,250,250
+League of Legends,10138,NLC,,250,250
+League of Legends,10138,LJL,,250,250
+League of Legends,10138,LIT,,250,250
+League of Legends,10138,Prime Pokal,,250,250
+League of Legends,10138,Rift Legends,,250,250
+League of Legends,10138,Road Of Legends,,250,250
+League of Legends,10138,EBL,,250,250
+League of Legends,10138,Hitpoint Masters,,250,250
+League of Legends,10138,LPLOL,,250,250
+League of Legends,10138,HLL,,250,250
+League of Legends,10138,LRS,,250,250
 CS2,9977,BLAST Premier,,1000,
 CS2,9977,PGL Major,,1000,
 CS2,9977,IEM,,1000,
