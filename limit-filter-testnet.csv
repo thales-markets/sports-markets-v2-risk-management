@@ -2,7 +2,6 @@ sportName,sportId,minLimit,pushLimitThreshold,primaryMarket,secondaryMarket,thir
 PFL,9,100,250,Moneyline,Total Rounds,,false,2,1,0;10001
 Davis Cup,154,300,400,Moneyline,Game Spread,Total Games,true,1.5,1,0;10001;10002
 ITF Women,155,300,400,Moneyline,Game Spread,Total Games,true,1.5,1,0;10001;10002
-ATP Challenger,157,100,350,Moneyline,Game Spread,Total Games,true,2,1,0;10001;10002
 ITF Men,159,300,400,Moneyline,Game Spread,Total Games,true,1.5,1,0;10001;10002
 CS2,9977,50,500,Moneyline,Map Handicap,Total Maps,true,4,3,0;10001;10002
 DOTA2,9983,50,500,Moneyline,Map Handicap,Total Maps,true,3,3,0;10001;10002
@@ -14,5 +13,7 @@ Overwatch,20296,50,150,Moneyline,,,true,2,1,0
 Rocket League,20297,50,150,Moneyline,,,true,2,1,0
 Call of Duty,20298,50,150,Moneyline,,,true,3,1,0
 Valorant,20300,50,200,Moneyline,Map Handicap,Total Maps,true,2,3,0;10001;10002
-International - Club Friendlies,20584,100,500,Moneyline,Total Goals,,false,2,1,0;10001
-International - Friendlies,20585,100,500,Moneyline,Total Goals,,false,2,1,0;10001
+International - Club Friendlies,20584,100,500,Moneyline,Total Goals,Asian Handicap,false,2,1,0;10001
+International - Friendlies,20585,100,500,Moneyline,Total Goals,Asian Handicap,false,2,1,0;10001
+FIFA - World Cup Qualifiers,18,100,3000,Moneyline,Total Goals,Asian Handicap,false,1,1,0;10001;10002
+UEFA - Nations League,9806,100,3000,Moneyline,Total Goals,Asian Handicap,false,1,1,0;10001;10002
