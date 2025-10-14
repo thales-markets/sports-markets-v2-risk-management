@@ -115,10 +115,10 @@ MLB,3,10164,2nd Inning Correct Score,Correct Score,true,0.99,0.01,2
 MLB,3,10165,3rd Inning Correct Score,Correct Score,true,0.99,0.01,2
 MLB,3,10166,4th Inning Correct Score,Correct Score,true,0.99,0.01,2
 MLB,3,10167,5th Inning Correct Score,Correct Score,true,0.99,0.01,2
-MLB,3,10165,6th Inning Correct Score,Correct Score,true,0.99,0.01,2
-MLB,3,10166,7th Inning Correct Score,Correct Score,true,0.99,0.01,2
-MLB,3,10167,8th Inning Correct Score,Correct Score,true,0.99,0.01,2
-MLB,3,10167,9th Inning Correct Score,Correct Score,true,0.99,0.01,2
+MLB,3,10168,6th Inning Correct Score,Correct Score,true,0.99,0.01,2
+MLB,3,10169,7th Inning Correct Score,Correct Score,true,0.99,0.01,2
+MLB,3,10197,8th Inning Correct Score,Correct Score,true,0.99,0.01,2
+MLB,3,10198,9th Inning Correct Score,Correct Score,true,0.99,0.01,2
 NBA,4,0,Moneyline,Moneyline,true,0.95,0.05,1
 NBA,4,10001,Point Spread,Spread,true,0.95,0.05,1
 NBA,4,10002,Total Points,Total,true,0.95,0.05,2
