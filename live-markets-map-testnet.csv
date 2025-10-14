@@ -1,35 +1,36 @@
 name,sportId,typeId,marketName,type,enabled,minOdds,maxOdds,addedSpread
-NCAAF,1,0,Moneyline,Moneyline,true,0.95,0.05,2
-NCAAF,1,10001,Point Spread,Spread,true,0.95,0.05,2
-NCAAF,1,10002,Total Points,Total,true,0.95,0.05,2
-NCAAF,1,10017,Team Total,Total,true,0.95,0.05,2
-NCAAF,1,10018,Team Total,Total,true,0.95,0.05,2
-NCAAF,1,10031,1st Quarter Total Points,Total,true,0.95,0.05,2
-NCAAF,1,10032,2nd Quarter Total Points,Total,true,0.95,0.05,2
-NCAAF,1,10033,3rd Quarter Total Points,Total,true,0.95,0.05,2
-NCAAF,1,10034,4th Quarter Total Points,Total,true,0.95,0.05,2
-NCAAF,1,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,2
-NCAAF,1,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,2
-NCAAF,1,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,2
-NCAAF,1,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,2
-NCAAF,1,10071,1st Half Point Spread,Spread,true,0.95,0.05,2
-NCAAF,1,10072,2nd Half Point Spread,Spread,true,0.95,0.05,2
-NCAAF,1,10061,1st Half Total Points,Total,true,0.95,0.05,2
-NCAAF,1,10062,2nd Half Total Points,Total,true,0.95,0.05,2
-NCAAF,1,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,2
-NCAAF,1,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,2
-NCAAF,1,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,2
-NCAAF,1,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,2
-NCAAF,1,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,2
-NCAAF,1,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
-NCAAF,1,10111,1st Quarter Team Total,Total,true,0.95,0.05,2
-NCAAF,1,10112,1st Quarter Team Total,Total,true,0.95,0.05,2
-NCAAF,1,10211,2nd Quarter Team Total,Total,true,0.95,0.05,2
-NCAAF,1,10212,2nd Quarter Team Total,Total,true,0.95,0.05,2
-NCAAF,1,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
-NCAAF,1,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
-NCAAF,1,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
-NCAAF,1,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
+NCAAF,1,0,Moneyline,Moneyline,true,0.95,0.05,3
+NCAAF,1,10001,Point Spread,Spread,true,0.95,0.05,3
+NCAAF,1,10002,Total Points,Total,true,0.95,0.05,3
+NCAAF,1,10017,Team Total,Total,true,0.95,0.05,3
+NCAAF,1,10018,Team Total,Total,true,0.95,0.05,3
+NCAAF,1,10031,1st Quarter Total Points,Total,true,0.95,0.05,3
+NCAAF,1,10032,2nd Quarter Total Points,Total,true,0.95,0.05,3
+NCAAF,1,10033,3rd Quarter Total Points,Total,true,0.95,0.05,3
+NCAAF,1,10034,4th Quarter Total Points,Total,true,0.95,0.05,3
+NCAAF,1,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,3
+NCAAF,1,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,3
+NCAAF,1,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,3
+NCAAF,1,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,3
+NCAAF,1,10071,1st Half Point Spread,Spread,true,0.95,0.05,3
+NCAAF,1,10072,2nd Half Point Spread,Spread,true,0.95,0.05,3
+NCAAF,1,10061,1st Half Total Points,Total,true,0.95,0.05,3
+NCAAF,1,10062,2nd Half Total Points,Total,true,0.95,0.05,3
+NCAAF,1,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,3
+NCAAF,1,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,3
+NCAAF,1,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,3
+NCAAF,1,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,3
+NCAAF,1,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,3
+NCAAF,1,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,3
+NCAAF,1,10111,1st Quarter Team Total,Total,true,0.95,0.05,3
+NCAAF,1,10112,1st Quarter Team Total,Total,true,0.95,0.05,3
+NCAAF,1,10211,2nd Quarter Team Total,Total,true,0.95,0.05,3
+NCAAF,1,10212,2nd Quarter Team Total,Total,true,0.95,0.05,3
+NCAAF,1,10311,3rd Quarter Team Total,Total,true,0.95,0.05,3
+NCAAF,1,10312,3rd Quarter Team Total,Total,true,0.95,0.05,3
+NCAAF,1,10411,4th Quarter Team Total,Total,true,0.95,0.05,3
+NCAAF,1,10412,4th Quarter Team Total,Total,true,0.95,0.05,3
+NCAAF,1,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,3
 NFL,2,0,Moneyline,Moneyline,true,0.95,0.05,1
 NFL,2,10001,Point Spread,Spread,true,0.8,0.2,1
 NFL,2,10002,Total Points,Total,true,0.8,0.2,1
@@ -61,31 +62,32 @@ NFL,2,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
 NFL,2,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
 NFL,2,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
 NFL,2,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
+NFL,2,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
 MLB,3,0,Moneyline,Moneyline,true,0.95,0.05,1
 MLB,3,10001,Run Line,Spread,true,0.75,0.25,1
 MLB,3,10002,Total Runs,Total,true,0.95,0.05,2
-MLB,3,10021,1st Inning Moneyline,Moneyline,true,0.95,0.05,1
+MLB,3,10021,1st Inning Moneyline 3-Way,Moneyline,true,0.95,0.05,1
 MLB,3,10031,1st Inning Total Runs,Total,true,0.95,0.05,3
 MLB,3,10041,1st Inning Run Line,Spread,true,0.95,0.05,1
-MLB,3,10022,2nd Inning Moneyline,Moneyline,true,0.95,0.05,1
+MLB,3,10022,2nd Inning Moneyline 3-Way,Moneyline,true,0.95,0.05,1
 MLB,3,10032,2nd Inning Total Runs,Total,true,0.95,0.05,3
 MLB,3,10042,2nd Inning Run Line,Spread,true,0.95,0.05,1
-MLB,3,10023,3rd Inning Moneyline,Moneyline,true,0.95,0.05,1
+MLB,3,10023,3rd Inning Moneyline 3-Way,Moneyline,true,0.95,0.05,1
 MLB,3,10033,3rd Inning Total Runs,Total,true,0.95,0.05,3
 MLB,3,10043,3rd Inning Run Line,Spread,true,0.95,0.05,1
-MLB,3,10024,4th Inning Moneyline,Moneyline,true,0.95,0.05,1
+MLB,3,10024,4th Inning Moneyline 3-Way,Moneyline,true,0.95,0.05,1
 MLB,3,10034,4th Inning Total Runs,Total,true,0.95,0.05,3
 MLB,3,10044,4th Inning Run Line,Spread,true,0.95,0.05,1
-MLB,3,10025,5th Inning Moneyline,Moneyline,true,0.95,0.05,1
+MLB,3,10025,5th Inning Moneyline 3-Way,Moneyline,true,0.95,0.05,1
 MLB,3,10035,5th Inning Total Runs,Total,true,0.95,0.05,3
 MLB,3,10045,5th Inning Run Line,Spread,true,0.95,0.05,1
-MLB,3,10026,6th Inning Moneyline,Moneyline,true,0.95,0.05,1
+MLB,3,10026,6th Inning Moneyline 3-Way,Moneyline,true,0.95,0.05,1
 MLB,3,10036,6th Inning Total Runs,Total,true,0.95,0.05,3
 MLB,3,10046,6th Inning Run Line,Spread,true,0.95,0.05,1
-MLB,3,10027,7th Inning Moneyline,Moneyline,true,0.95,0.05,1
+MLB,3,10027,7th Inning Moneyline 3-Way,Moneyline,true,0.95,0.05,1
 MLB,3,10037,7th Inning Total Runs,Total,true,0.95,0.05,3
 MLB,3,10047,7th Inning Run Line,Spread,true,0.95,0.05,1
-MLB,3,10028,8th Inning Moneyline,Moneyline,true,0.95,0.05,1
+MLB,3,10028,8th Inning Moneyline 3-Way,Moneyline,true,0.95,0.05,1
 MLB,3,10038,8th Inning Total Runs,Total,true,0.95,0.05,3
 MLB,3,10048,8th Inning Run Line,Spread,true,0.95,0.05,1
 MLB,3,10071,1st Half Run Line,Spread,true,0.9,0.1,1
@@ -107,11 +109,7 @@ MLB,3,10711,7th Inning Team Total,Total,true,0.95,0.05,3
 MLB,3,10712,7th Inning Team Total,Total,true,0.95,0.05,3
 MLB,3,10811,8th Inning Team Total,Total,true,0.95,0.05,3
 MLB,3,10812,8th Inning Team Total,Total,true,0.95,0.05,3
-MLB,3,10163,1st Inning Correct Score,Correct Score,true,0.99,0.01,2
-MLB,3,10164,2nd Inning Correct Score,Correct Score,true,0.99,0.01,2
-MLB,3,10165,3rd Inning Correct Score,Correct Score,true,0.99,0.01,2
-MLB,3,10166,4th Inning Correct Score,Correct Score,true,0.99,0.01,2
-MLB,3,10167,5th Inning Correct Score,Correct Score,true,0.99,0.01,2
+MLB,3,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
 NBA,4,0,Moneyline,Moneyline,true,0.95,0.05,1
 NBA,4,10001,Point Spread,Spread,true,0.95,0.05,1
 NBA,4,10002,Total Points,Total,true,0.95,0.05,2
@@ -143,6 +141,7 @@ NBA,4,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
 NBA,4,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
 NBA,4,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
 NBA,4,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
+NBA,4,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
 NCAAB,5,0,Moneyline,Moneyline,true,0.95,0.05,1
 NCAAB,5,10001,Point Spread,Spread,true,0.95,0.05,1
 NCAAB,5,10002,Total Points,Total,true,0.95,0.05,2
@@ -158,6 +157,7 @@ NCAAB,5,10111,1st Half Team Total,Total,true,0.95,0.05,2
 NCAAB,5,10112,1st Half Team Total,Total,true,0.95,0.05,2
 NCAAB,5,10211,2nd Half Team Total,Total,true,0.95,0.05,2
 NCAAB,5,10212,2nd Half Team Total,Total,true,0.95,0.05,2
+NCAAB,5,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
 NHL,6,0,Moneyline,Moneyline,true,0.95,0.05,1
 NHL,6,10011,Moneyline 3-Way,Moneyline,true,0.95,0.05,1
 NHL,6,10001,Puck Line,Spread,true,0.95,0.05,1
@@ -179,9 +179,8 @@ NHL,6,10211,2nd Period Team Total,Total,true,0.95,0.05,2
 NHL,6,10212,2nd Period Team Total,Total,true,0.95,0.05,2
 NHL,6,10311,3rd Period Team Total,Total,true,0.95,0.05,2
 NHL,6,10312,3rd Period Team Total,Total,true,0.95,0.05,2
-NHL,6,10163,1st Period Correct Score,Correct Score,true,0.99,0.01,2
-NHL,6,10164,2nd Period Correct Score,Correct Score,true,0.99,0.01,2
-NHL,6,10165,3rd Period Correct Score,Correct Score,true,0.99,0.01,2
+NHL,6,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
+NHL,6,10100,Correct Score,Correct Score,true,0.99,0.01,2
 IIHF - World Championship,33,0,Moneyline,Moneyline,true,0.95,0.05,1
 IIHF - World Championship,33,10011,Moneyline 3-Way,Moneyline,true,0.95,0.05,1
 IIHF - World Championship,33,10001,Puck Line,Spread,true,0.95,0.05,1
@@ -237,6 +236,7 @@ WNBA,8,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
 WNBA,8,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
 WNBA,8,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
 WNBA,8,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
+WNBA,8,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
 MLS,10,0,Moneyline,Moneyline,true,0.95,0.05,1
 MLS,10,10001,Asian Handicap,Spread,true,0.95,0.05,1
 MLS,10,10002,Total Goals,Total,true,0.95,0.05,1
@@ -404,11 +404,6 @@ ATP Events,156,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,2
 ATP Events,156,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,2
 ATP Events,156,10024,4th Set Moneyline,Moneyline,true,0.99,0.01,2
 ATP Events,156,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,2
-ATP Events,156,10163,1st Set Correct Score,Correct Score,true,0.99,0.01,2
-ATP Events,156,10164,2nd Set Correct Score,Correct Score,true,0.99,0.01,2
-ATP Events,156,10165,3rd Set Correct Score,Correct Score,true,0.99,0.01,2
-ATP Events,156,10166,4th Set Correct Score,Correct Score,true,0.99,0.01,2
-ATP Events,156,10167,5th Set Correct Score,Correct Score,true,0.99,0.01,2
 ATP Challenger,157,0,Moneyline,Moneyline,true,0.95,0.05,2
 ATP Challenger,157,10001,Game Spread,Spread,true,0.95,0.05,2
 ATP Challenger,157,10002,Total Games,Total,true,0.95,0.05,2
@@ -1345,11 +1340,6 @@ CS2,9977,10411,4th Map Team Total,Total,true,0.95,0.05,2
 CS2,9977,10412,4th Map Team Total,Total,true,0.95,0.05,2
 CS2,9977,10511,5th Map Team Total,Total,true,0.95,0.05,2
 CS2,9977,10512,5th Map Team Total,Total,true,0.95,0.05,2
-CS2,9977,10163,1st Map Correct Score,Correct Score,true,0.99,0.01,2
-CS2,9977,10164,2nd Map Correct Score,Correct Score,true,0.99,0.01,2
-CS2,9977,10165,3rd Map Correct Score,Correct Score,true,0.99,0.01,2
-CS2,9977,10166,4th Map Correct Score,Correct Score,true,0.99,0.01,2
-CS2,9977,10167,5th Map Correct Score,Correct Score,true,0.99,0.01,2
 DOTA2,9983,0,Moneyline,Moneyline,true,0.95,0.05,1
 DOTA2,9983,10001,Map Handicap,Spread,true,0.95,0.05,1
 DOTA2,9983,10002,Total Maps,Total,true,0.95,0.05,1
@@ -2175,6 +2165,94 @@ USA - NWSL,20145,10111,1st Half Team Total,Total,true,0.95,0.05,1
 USA - NWSL,20145,10112,1st Half Team Total,Total,true,0.95,0.05,1
 USA - NWSL,20145,10211,2nd Half Team Total,Total,true,0.95,0.05,1
 USA - NWSL,20145,10212,2nd Half Team Total,Total,true,0.95,0.05,1
+Israel - Premier League,20593,0,Moneyline,Moneyline,true,0.95,0.05,1
+Israel - Premier League,20593,10001,Asian Handicap,Spread,true,0.95,0.05,1
+Israel - Premier League,20593,10002,Total Goals,Total,true,0.95,0.05,1
+Israel - Premier League,20593,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Israel - Premier League,20593,10003,Double Chance,Double Chance,true,0.99,0.01,1
+Israel - Premier League,20593,10017,Team Total,Total,true,0.95,0.05,1
+Israel - Premier League,20593,10018,Team Total,Total,true,0.95,0.05,1
+Israel - Premier League,20593,10031,1st Half Total Goals,Total,true,0.95,0.05,1
+Israel - Premier League,20593,10032,2nd Half Total Goals,Total,true,0.95,0.05,1
+Israel - Premier League,20593,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Israel - Premier League,20593,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+Paraguay - Primera Division,20649,0,Moneyline,Moneyline,true,0.95,0.05,1
+Paraguay - Primera Division,20649,10001,Asian Handicap,Spread,true,0.95,0.05,1
+Paraguay - Primera Division,20649,10002,Total Goals,Total,true,0.95,0.05,1
+Paraguay - Primera Division,20649,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Paraguay - Primera Division,20649,10003,Double Chance,Double Chance,true,0.99,0.01,1
+Paraguay - Primera Division,20649,10017,Team Total,Total,true,0.95,0.05,1
+Paraguay - Primera Division,20649,10018,Team Total,Total,true,0.95,0.05,1
+Paraguay - Primera Division,20649,10031,1st Half Total Goals,Total,true,0.95,0.05,1
+Paraguay - Primera Division,20649,10032,2nd Half Total Goals,Total,true,0.95,0.05,1
+Paraguay - Primera Division,20649,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Paraguay - Primera Division,20649,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+UAE - Pro League,20694,0,Moneyline,Moneyline,true,0.95,0.05,1
+UAE - Pro League,20694,10001,Asian Handicap,Spread,true,0.95,0.05,1
+UAE - Pro League,20694,10002,Total Goals,Total,true,0.95,0.05,1
+UAE - Pro League,20694,10100,Correct Score,Correct Score,true,0.99,0.01,2
+UAE - Pro League,20694,10003,Double Chance,Double Chance,true,0.99,0.01,1
+UAE - Pro League,20694,10017,Team Total,Total,true,0.95,0.05,1
+UAE - Pro League,20694,10018,Team Total,Total,true,0.95,0.05,1
+UAE - Pro League,20694,10031,1st Half Total Goals,Total,true,0.95,0.05,1
+UAE - Pro League,20694,10032,2nd Half Total Goals,Total,true,0.95,0.05,1
+UAE - Pro League,20694,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+UAE - Pro League,20694,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+Argentina - Primera Nacional,20161,0,Moneyline,Moneyline,true,0.95,0.05,1
+Argentina - Primera Nacional,20161,10001,Asian Handicap,Spread,true,0.95,0.05,1
+Argentina - Primera Nacional,20161,10002,Total Goals,Total,true,0.95,0.05,1
+Argentina - Primera Nacional,20161,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Argentina - Primera Nacional,20161,10003,Double Chance,Double Chance,true,0.99,0.01,1
+Argentina - Primera Nacional,20161,10017,Team Total,Total,true,0.95,0.05,1
+Argentina - Primera Nacional,20161,10018,Team Total,Total,true,0.95,0.05,1
+Argentina - Primera Nacional,20161,10031,1st Half Total Goals,Total,true,0.95,0.05,1
+Argentina - Primera Nacional,20161,10032,2nd Half Total Goals,Total,true,0.95,0.05,1
+Argentina - Primera Nacional,20161,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Argentina - Primera Nacional,20161,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+CONMEBOL - Copa Sudamericana,20720,0,Moneyline,Moneyline,true,0.95,0.05,1
+CONMEBOL - Copa Sudamericana,20720,10001,Asian Handicap,Spread,true,0.95,0.05,1
+CONMEBOL - Copa Sudamericana,20720,10002,Total Goals,Total,true,0.95,0.05,1
+CONMEBOL - Copa Sudamericana,20720,10100,Correct Score,Correct Score,true,0.99,0.01,2
+CONMEBOL - Copa Sudamericana,20720,10003,Double Chance,Double Chance,true,0.99,0.01,1
+CONMEBOL - Copa Sudamericana,20720,10017,Team Total,Total,true,0.95,0.05,1
+CONMEBOL - Copa Sudamericana,20720,10018,Team Total,Total,true,0.95,0.05,1
+CONMEBOL - Copa Sudamericana,20720,10031,1st Half Total Goals,Total,true,0.95,0.05,1
+CONMEBOL - Copa Sudamericana,20720,10032,2nd Half Total Goals,Total,true,0.95,0.05,1
+CONMEBOL - Copa Sudamericana,20720,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+CONMEBOL - Copa Sudamericana,20720,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+Bolivia - Division Professional,20721,0,Moneyline,Moneyline,true,0.95,0.05,1
+Bolivia - Division Professional,20721,10001,Asian Handicap,Spread,true,0.95,0.05,1
+Bolivia - Division Professional,20721,10002,Total Goals,Total,true,0.95,0.05,1
+Bolivia - Division Professional,20721,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Bolivia - Division Professional,20721,10003,Double Chance,Double Chance,true,0.99,0.01,1
+Bolivia - Division Professional,20721,10017,Team Total,Total,true,0.95,0.05,1
+Bolivia - Division Professional,20721,10018,Team Total,Total,true,0.95,0.05,1
+Bolivia - Division Professional,20721,10031,1st Half Total Goals,Total,true,0.95,0.05,1
+Bolivia - Division Professional,20721,10032,2nd Half Total Goals,Total,true,0.95,0.05,1
+Bolivia - Division Professional,20721,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Bolivia - Division Professional,20721,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+Venezuela - Primera Division,20722,0,Moneyline,Moneyline,true,0.95,0.05,1
+Venezuela - Primera Division,20722,10001,Asian Handicap,Spread,true,0.95,0.05,1
+Venezuela - Primera Division,20722,10002,Total Goals,Total,true,0.95,0.05,1
+Venezuela - Primera Division,20722,10100,Correct Score,Correct Score,true,0.99,0.01,2
+Venezuela - Primera Division,20722,10003,Double Chance,Double Chance,true,0.99,0.01,1
+Venezuela - Primera Division,20722,10017,Team Total,Total,true,0.95,0.05,1
+Venezuela - Primera Division,20722,10018,Team Total,Total,true,0.95,0.05,1
+Venezuela - Primera Division,20722,10031,1st Half Total Goals,Total,true,0.95,0.05,1
+Venezuela - Primera Division,20722,10032,2nd Half Total Goals,Total,true,0.95,0.05,1
+Venezuela - Primera Division,20722,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+Venezuela - Primera Division,20722,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
+FIFA WC20,296,0,Moneyline,Moneyline,true,0.95,0.05,1
+FIFA WC20,296,10001,Asian Handicap,Spread,true,0.95,0.05,1
+FIFA WC20,296,10002,Total Goals,Total,true,0.95,0.05,1
+FIFA WC20,296,10100,Correct Score,Correct Score,true,0.99,0.01,2
+FIFA WC20,296,10003,Double Chance,Double Chance,true,0.99,0.01,1
+FIFA WC20,296,10017,Team Total,Total,true,0.95,0.05,1
+FIFA WC20,296,10018,Team Total,Total,true,0.95,0.05,1
+FIFA WC20,296,10031,1st Half Total Goals,Total,true,0.95,0.05,1
+FIFA WC20,296,10032,2nd Half Total Goals,Total,true,0.95,0.05,1
+FIFA WC20,296,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,1
+FIFA WC20,296,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,1
 FIBA - EuroBasket,20224,0,Moneyline,Moneyline,true,0.95,0.05,2
 FIBA - EuroBasket,20224,10001,Point Spread,Spread,true,0.95,0.05,2
 FIBA - EuroBasket,20224,10002,Total Points,Total,true,0.95,0.05,2
@@ -2237,3 +2315,96 @@ FIBA - AfroBasket,20225,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
 FIBA - AfroBasket,20225,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
 FIBA - AfroBasket,20225,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
 FIBA - AfroBasket,20225,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
+ABA League,20227,0,Moneyline,Moneyline,true,0.95,0.05,2
+ABA League,20227,10001,Point Spread,Spread,true,0.95,0.05,2
+ABA League,20227,10002,Total Points,Total,true,0.95,0.05,2
+ABA League,20227,10017,Team Total,Total,true,0.95,0.05,2
+ABA League,20227,10018,Team Total,Total,true,0.95,0.05,2
+ABA League,20227,10031,1st Quarter Total Points,Total,true,0.95,0.05,2
+ABA League,20227,10032,2nd Quarter Total Points,Total,true,0.95,0.05,2
+ABA League,20227,10033,3rd Quarter Total Points,Total,true,0.95,0.05,2
+ABA League,20227,10034,4th Quarter Total Points,Total,true,0.95,0.05,2
+ABA League,20227,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,2
+ABA League,20227,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,2
+ABA League,20227,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,2
+ABA League,20227,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,2
+ABA League,20227,10071,1st Half Point Spread,Spread,true,0.95,0.05,2
+ABA League,20227,10072,2nd Half Point Spread,Spread,true,0.95,0.05,2
+ABA League,20227,10061,1st Half Total Points,Total,true,0.95,0.05,2
+ABA League,20227,10062,2nd Half Total Points,Total,true,0.95,0.05,2
+ABA League,20227,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,2
+ABA League,20227,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+ABA League,20227,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+ABA League,20227,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,2
+ABA League,20227,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,2
+ABA League,20227,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
+ABA League,20227,10111,1st Quarter Team Total,Total,true,0.95,0.05,2
+ABA League,20227,10112,1st Quarter Team Total,Total,true,0.95,0.05,2
+ABA League,20227,10211,2nd Quarter Team Total,Total,true,0.95,0.05,2
+ABA League,20227,10212,2nd Quarter Team Total,Total,true,0.95,0.05,2
+ABA League,20227,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
+ABA League,20227,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
+ABA League,20227,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
+ABA League,20227,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
+Eurocup,20200,0,Moneyline,Moneyline,true,0.95,0.05,2
+Eurocup,20200,10001,Point Spread,Spread,true,0.95,0.05,2
+Eurocup,20200,10002,Total Points,Total,true,0.95,0.05,2
+Eurocup,20200,10017,Team Total,Total,true,0.95,0.05,2
+Eurocup,20200,10018,Team Total,Total,true,0.95,0.05,2
+Eurocup,20200,10031,1st Quarter Total Points,Total,true,0.95,0.05,2
+Eurocup,20200,10032,2nd Quarter Total Points,Total,true,0.95,0.05,2
+Eurocup,20200,10033,3rd Quarter Total Points,Total,true,0.95,0.05,2
+Eurocup,20200,10034,4th Quarter Total Points,Total,true,0.95,0.05,2
+Eurocup,20200,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,2
+Eurocup,20200,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,2
+Eurocup,20200,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,2
+Eurocup,20200,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,2
+Eurocup,20200,10071,1st Half Point Spread,Spread,true,0.95,0.05,2
+Eurocup,20200,10072,2nd Half Point Spread,Spread,true,0.95,0.05,2
+Eurocup,20200,10061,1st Half Total Points,Total,true,0.95,0.05,2
+Eurocup,20200,10062,2nd Half Total Points,Total,true,0.95,0.05,2
+Eurocup,20200,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,2
+Eurocup,20200,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+Eurocup,20200,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+Eurocup,20200,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,2
+Eurocup,20200,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,2
+Eurocup,20200,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
+Eurocup,20200,10111,1st Quarter Team Total,Total,true,0.95,0.05,2
+Eurocup,20200,10112,1st Quarter Team Total,Total,true,0.95,0.05,2
+Eurocup,20200,10211,2nd Quarter Team Total,Total,true,0.95,0.05,2
+Eurocup,20200,10212,2nd Quarter Team Total,Total,true,0.95,0.05,2
+Eurocup,20200,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
+Eurocup,20200,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
+Eurocup,20200,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
+Eurocup,20200,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
+International Champions League,20218,0,Moneyline,Moneyline,true,0.95,0.05,2
+International Champions League,20218,10001,Point Spread,Spread,true,0.95,0.05,2
+International Champions League,20218,10002,Total Points,Total,true,0.95,0.05,2
+International Champions League,20218,10017,Team Total,Total,true,0.95,0.05,2
+International Champions League,20218,10018,Team Total,Total,true,0.95,0.05,2
+International Champions League,20218,10031,1st Quarter Total Points,Total,true,0.95,0.05,2
+International Champions League,20218,10032,2nd Quarter Total Points,Total,true,0.95,0.05,2
+International Champions League,20218,10033,3rd Quarter Total Points,Total,true,0.95,0.05,2
+International Champions League,20218,10034,4th Quarter Total Points,Total,true,0.95,0.05,2
+International Champions League,20218,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,2
+International Champions League,20218,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,2
+International Champions League,20218,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,2
+International Champions League,20218,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,2
+International Champions League,20218,10071,1st Half Point Spread,Spread,true,0.95,0.05,2
+International Champions League,20218,10072,2nd Half Point Spread,Spread,true,0.95,0.05,2
+International Champions League,20218,10061,1st Half Total Points,Total,true,0.95,0.05,2
+International Champions League,20218,10062,2nd Half Total Points,Total,true,0.95,0.05,2
+International Champions League,20218,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,2
+International Champions League,20218,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+International Champions League,20218,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+International Champions League,20218,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,2
+International Champions League,20218,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,2
+International Champions League,20218,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
+International Champions League,20218,10111,1st Quarter Team Total,Total,true,0.95,0.05,2
+International Champions League,20218,10112,1st Quarter Team Total,Total,true,0.95,0.05,2
+International Champions League,20218,10211,2nd Quarter Team Total,Total,true,0.95,0.05,2
+International Champions League,20218,10212,2nd Quarter Team Total,Total,true,0.95,0.05,2
+International Champions League,20218,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
+International Champions League,20218,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
+International Champions League,20218,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
+International Champions League,20218,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
