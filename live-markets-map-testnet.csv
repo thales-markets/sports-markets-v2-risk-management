@@ -107,6 +107,11 @@ MLB,3,10711,7th Inning Team Total,Total,true,0.95,0.05,3
 MLB,3,10712,7th Inning Team Total,Total,true,0.95,0.05,3
 MLB,3,10811,8th Inning Team Total,Total,true,0.95,0.05,3
 MLB,3,10812,8th Inning Team Total,Total,true,0.95,0.05,3
+MLB,3,10163,1st Inning Correct Score,Correct Score,true,0.99,0.01,2
+MLB,3,10164,2nd Inning Correct Score,Correct Score,true,0.99,0.01,2
+MLB,3,10165,3rd Inning Correct Score,Correct Score,true,0.99,0.01,2
+MLB,3,10166,4th Inning Correct Score,Correct Score,true,0.99,0.01,2
+MLB,3,10167,5th Inning Correct Score,Correct Score,true,0.99,0.01,2
 NBA,4,0,Moneyline,Moneyline,true,0.95,0.05,1
 NBA,4,10001,Point Spread,Spread,true,0.95,0.05,1
 NBA,4,10002,Total Points,Total,true,0.95,0.05,2
@@ -174,6 +179,9 @@ NHL,6,10211,2nd Period Team Total,Total,true,0.95,0.05,2
 NHL,6,10212,2nd Period Team Total,Total,true,0.95,0.05,2
 NHL,6,10311,3rd Period Team Total,Total,true,0.95,0.05,2
 NHL,6,10312,3rd Period Team Total,Total,true,0.95,0.05,2
+NHL,6,10163,1st Period Correct Score,Correct Score,true,0.99,0.01,2
+NHL,6,10164,2nd Period Correct Score,Correct Score,true,0.99,0.01,2
+NHL,6,10165,3rd Period Correct Score,Correct Score,true,0.99,0.01,2
 IIHF - World Championship,33,0,Moneyline,Moneyline,true,0.95,0.05,1
 IIHF - World Championship,33,10011,Moneyline 3-Way,Moneyline,true,0.95,0.05,1
 IIHF - World Championship,33,10001,Puck Line,Spread,true,0.95,0.05,1
@@ -1337,6 +1345,11 @@ CS2,9977,10411,4th Map Team Total,Total,true,0.95,0.05,2
 CS2,9977,10412,4th Map Team Total,Total,true,0.95,0.05,2
 CS2,9977,10511,5th Map Team Total,Total,true,0.95,0.05,2
 CS2,9977,10512,5th Map Team Total,Total,true,0.95,0.05,2
+CS2,9977,10163,1st Map Correct Score,Correct Score,true,0.99,0.01,2
+CS2,9977,10164,2nd Map Correct Score,Correct Score,true,0.99,0.01,2
+CS2,9977,10165,3rd Map Correct Score,Correct Score,true,0.99,0.01,2
+CS2,9977,10166,4th Map Correct Score,Correct Score,true,0.99,0.01,2
+CS2,9977,10167,5th Map Correct Score,Correct Score,true,0.99,0.01,2
 DOTA2,9983,0,Moneyline,Moneyline,true,0.95,0.05,1
 DOTA2,9983,10001,Map Handicap,Spread,true,0.95,0.05,1
 DOTA2,9983,10002,Total Maps,Total,true,0.95,0.05,1
