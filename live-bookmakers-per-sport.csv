@@ -1,9 +1,9 @@
 sportName,sportId,primaryBookmaker,secondaryBookmaker,tertiaryBookmaker
 NCAAF,1,draftkings,betmgm,
-NFL,2,pinnacle,draftkings,
-MLB,3,pinnacle,betmgm,
-NBA,4,pinnacle,betmgm,
-NHL,6,pinnacle,betmgm,
+NFL,2,betmgm,draftkings,
+MLB,3,draftkings,betmgm,
+NBA,4,blue book,betmgm,
+NHL,6,blue book,betmgm,
 WNBA,8,draftkings,betmgm,
 Tennis Masters,156,draftkings,,
 Tennis Grand Slam,153,draftkings,,
