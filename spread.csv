@@ -1,11 +1,11 @@
 sportName,sportId,typeId,minSpread,targetSpread,addedSpread
 General,All Sports,All Markets,0,0,1.5
-EPL,11,All Markets,0,0,1
-FRA1,12,All Markets,0,0,1
-GER1,13,All Markets,0,0,1
-ESP1,14,All Markets,0,0,1
-ITA1,15,All Markets,0,0,1
-UEFA CL,16,All Markets,0,0,1
+EPL,11,All Markets,0,0,1.5
+FRA1,12,All Markets,0,0,1.5
+GER1,13,All Markets,0,0,1.5
+ESP1,14,All Markets,0,0,1.5
+ITA1,15,All Markets,0,0,1.5
+UEFA CL,16,All Markets,0,0,1.5
 NCAAF,1,All Markets,0,0,0.5
 NFL,2,All Markets,0,0,0.5
 MLB,3,All Markets,0,0,0.5
