@@ -1350,6 +1350,11 @@ CS2,9977,10411,4th Map Team Total,Total,true,0.95,0.05,2
 CS2,9977,10412,4th Map Team Total,Total,true,0.95,0.05,2
 CS2,9977,10511,5th Map Team Total,Total,true,0.95,0.05,2
 CS2,9977,10512,5th Map Team Total,Total,true,0.95,0.05,2
+CS2,9977,10163,1st Map Correct Score,Correct Score,true,0.95,0.05,2
+CS2,9977,10164,2nd Map Correct Score,Correct Score,true,0.95,0.05,2
+CS2,9977,10165,3rd Map Correct Score,Correct Score,true,0.95,0.05,2
+CS2,9977,10166,4th Map Correct Score,Correct Score,true,0.95,0.05,2
+CS2,9977,10167,5th Map Correct Score,Correct Score,true,0.95,0.05,2
 DOTA2,9983,0,Moneyline,Moneyline,true,0.95,0.05,1
 DOTA2,9983,10001,Map Handicap,Spread,true,0.95,0.05,1
 DOTA2,9983,10002,Total Maps,Total,true,0.95,0.05,1
@@ -1437,6 +1442,11 @@ Valorant,20300,10411,4th Map Team Total,Total,true,0.95,0.05,4
 Valorant,20300,10412,4th Map Team Total,Total,true,0.95,0.05,4
 Valorant,20300,10511,5th Map Team Total,Total,true,0.95,0.05,4
 Valorant,20298,10512,5th Map Team Total,Total,true,0.95,0.05,4
+Valorant,20300,10163,1st Map Correct Score,Correct Score,true,0.95,0.05,2
+Valorant,20300,10164,2nd Map Correct Score,Correct Score,true,0.95,0.05,2
+Valorant,20300,10165,3rd Map Correct Score,Correct Score,true,0.95,0.05,2
+Valorant,20300,10166,4th Map Correct Score,Correct Score,true,0.95,0.05,2
+Valorant,20300,10167,5th Map Correct Score,Correct Score,true,0.95,0.05,2
 OVERWATCH,20296,0,Moneyline,Moneyline,true,0.95,0.05,2
 COD,20300,0,Moneyline,Moneyline,true,0.95,0.05,2
 Mobile Legends,20295,0,Moneyline,Moneyline,true,0.95,0.05,1
