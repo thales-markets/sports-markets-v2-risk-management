@@ -54,12 +54,16 @@ WTA,152,Player Props,blue book
 ATP,156,Player Props,blue book
 WTA,152,Correct Score,Draftkings
 ATP,156,Correct Score,Draftkings
+ATP Challenger,157,Correct Score,Draftkings
 ATP,156,1st Set Correct Score,draftkings
 ATP,156,2nd Set Correct Score,draftkings
 ATP,156,3rd Set Correct Score,draftkings
 WTA,152,1st Set Correct Score,draftkings
 WTA,152,2nd Set Correct Score,draftkings
 WTA,152,3rd Set Correct Score,draftkings
+ATP Challenger,157,1st Set Correct Score,draftkings
+ATP Challenger,157,2nd Set Correct Score,draftkings
+ATP Challenger,157,3rd Set Correct Score,draftkings
 Czech Republic - Extraliga,310,Total Goals,Draftkings
 Czech Republic - Extraliga,310,Team Total,Draftkings
 Finland - SM Liiga,319,Total Goals,Draftkings
