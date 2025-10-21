@@ -379,6 +379,11 @@ WTA Events,152,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,2
 WTA Events,152,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,2
 WTA Events,152,10024,4th Set Moneyline,Moneyline,true,0.99,0.01,2
 WTA Events,152,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,2
+WTA Events,152,10163,1st Set Correct Score,Correct Score,true,0.99,0.01,2
+WTA Events,152,10164,2nd Set Correct Score,Correct Score,true,0.99,0.01,2
+WTA Events,152,10165,3rd Set Correct Score,Correct Score,true,0.99,0.01,2
+WTA Events,152,10166,4th Set Correct Score,Correct Score,true,0.99,0.01,2
+WTA Events,152,10167,5th Set Correct Score,Correct Score,true,0.99,0.01,2
 Grand Slam,153,0,Moneyline,Moneyline,true,0.95,0.05,2
 Grand Slam,153,10001,Game Spread,Spread,true,0.95,0.05,2
 Grand Slam,153,10002,Total Games,Total,true,0.95,0.05,2
@@ -404,6 +409,11 @@ ATP Events,156,10022,2nd Set Moneyline,Moneyline,true,0.99,0.01,2
 ATP Events,156,10023,3rd Set Moneyline,Moneyline,true,0.99,0.01,2
 ATP Events,156,10024,4th Set Moneyline,Moneyline,true,0.99,0.01,2
 ATP Events,156,10025,5th Set Moneyline,Moneyline,true,0.99,0.01,2
+ATP Events,156,10163,1st Set Correct Score,Correct Score,true,0.99,0.01,2
+ATP Events,156,10164,2nd Set Correct Score,Correct Score,true,0.99,0.01,2
+ATP Events,156,10165,3rd Set Correct Score,Correct Score,true,0.99,0.01,2
+ATP Events,156,10166,4th Set Correct Score,Correct Score,true,0.99,0.01,2
+ATP Events,156,10167,5th Set Correct Score,Correct Score,true,0.99,0.01,2
 ATP Challenger,157,0,Moneyline,Moneyline,true,0.95,0.05,2
 ATP Challenger,157,10001,Game Spread,Spread,true,0.95,0.05,2
 ATP Challenger,157,10002,Total Games,Total,true,0.95,0.05,2
