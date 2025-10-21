@@ -79,6 +79,7 @@ overtime-puller-opticodds-futures-football-one,England - Premier League - Future
 overtime-puller-opticodds-futures-football-two,Spain - La Liga - Futures;Italy - Serie A - Futures;Germany - Bundesliga - Futures,30014;30015;30013,0,10s,0xaa9c97daa593e4171adac3ef960f99b96ff59ed6,2m,
 overtime-puller-opticodds-futures-tennis,ATP - Futures;WTA - Futures,30156;20152,0,10s,0x47Dd547d4c74E811600db61722758b940579f58B,2m,
 overtime-players-report-puller-nba,NBA,4,0,3s,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,,no wallet needed but used from NBA bot; NOW INACTIVE UNTILL NEXT SEASON - service deleted and back-up locally
+overtime-risk-puller-event-listener,,,0,10s,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,2m,
 overtime-risk-puller-ncaaf,NCAAF,,0,30s,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,,
 overtime-risk-puller-nfl,NFL,,0,30s,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,,
 overtime-risk-puller-american-football,CFL;UFL,,0,30s,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,,
