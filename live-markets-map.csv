@@ -204,6 +204,9 @@ NHL,6,10311,3rd Period Team Total,Total,true,0.95,0.05,2
 NHL,6,10312,3rd Period Team Total,Total,true,0.95,0.05,2
 NHL,6,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
 NHL,6,10100,Correct Score,Correct Score,true,0.99,0.01,2
+NHL,6,10163,1st Period Correct Score,Correct Score,true,0.95,0.05,2
+NHL,6,10164,2nd Period Correct Score,Correct Score,true,0.95,0.05,2
+NHL,6,10165,3rd Period Correct Score,Correct Score,true,0.95,0.05,2
 IIHF - World Championship,33,0,Moneyline,Moneyline,true,0.95,0.05,1
 IIHF - World Championship,33,10011,Moneyline 3-Way,Moneyline,true,0.95,0.05,1
 IIHF - World Championship,33,10001,Puck Line,Spread,true,0.95,0.05,1
