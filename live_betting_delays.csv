@@ -1,384 +1,384 @@
 sportName,sportId,delayInSeconds,delayInSecondsOptimism,delayInSecondsArbitrum,delayInSecondsBase
-NCAAF,1,5,5,6,5
-NFL,2,5,5,6,5
-MLB,3,5,5,6,5
-NBA,4,5,5,6,5
-Euroleague,399,5,5,6,5
-NCAAB,5,5,6,5,5
-NCAAW,20211,5,5,6,5
-NHL,6,5,5,6,5
-WNBA,8,5,5,6,5
-MLS,10,5,5,6,5
-eurobasket,20224,5,5,6,5
-EPL,11,5,5,6,5
-FRA1,12,5,5,6,5
-GER1,13,5,5,6,5
-ESP1,14,5,5,6,5
-ITA1,15,5,5,6,5
-UEFA CL,16,5,5,6,5
-UEFA EL,17,5,5,6,5
-UEFA Conference,10216,5,5,6,5
-FIFA Q,18,5,5,6,5
-NET1,57,5,5,6,5
-POR1,61,5,5,6,5
-Brazil,268,5,5,6,5
-UEFA Nations League,9806,5,5,6,5
-Copa Libertadores,45,5,5,6,5
-Brazil - Copa do Brasil,20002,5,5,6,5
-England - Championship,20011,5,5,6,5
-England - League 1,20126,5,5,6,5
-Austria league 1,20120,5,5,6,5
-JPN1,19,5,5,6,5
-Liga MX,230,5,5,6,5
-Saudi League,536,5,5,6,5
-Swiss superleague,20114,5,5,6,5
-Belgium league 1,20102,5,5,6,5
-Sweden - Allsvenskan,20123,5,5,6,5
-Turkey league 1,20108,5,5,6,5
-Argentina league 1,20106,5,5,6,5
-China league 1,20012,5,5,6,5
-Scotland league 1,20101,5,5,6,5
-Greece - Super League,20110,5,5,6,5
-England EFL cup,20125,5,5,6,5
-England FA cup,132,5,5,6,5
-Spain - La Liga 2,20116,5,5,6,5
-Germany - Bundesliga 2,20115,5,5,6,5
-AFC - Champions League,20128,5,5,6,5
-CONCACAF - Champions Cup,20147,5,5,6,5
-UEFA - Nations League Women,20148,5,5,6,5
-Spain - Copa del Rey,138,5,5,6,5
-DFB Pokal,209,5,5,6,5
-Coppa Italia,141,5,5,6,5
-Super Coppa Italia,20129,5,5,6,5
-France Super Cup,20130,5,5,6,5
-Spain supercopa,20131,5,5,6,5
-German Super cup,20132,5,5,6,5
-Portugal League Cup,20133,5,5,6,5
-Portugal Taka Cup,20136,5,5,6,5
-Thai League 1,20134,5,5,6,5
-Netherlands Cup,20135,5,5,6,5
-Canada - Premier League,20149,5,5,6,5
-France Cup,134,5,5,6,5
-EURO 2024,50,5,5,6,5
-Copa America,44,5,5,6,5
-UCL Qualification,10611,5,5,6,5
-Europe League Qualification,10613,5,5,6,5
-COnference League Qualification,10615,5,5,6,5
-Australia A League,20113,5,5,6,5
-China Super League,20112,5,5,6,5
-Eurocup,20200,5,5,6,5
-SPAIN_LIGA_ACB,20201,5,5,6,5
-ITALY_LEGA_BASKET_SERIA_A,20202,5,5,6,5
-GERMANY_BBL,20203,5,5,6,5
-FRANCE_LNB_PRO_A,20204,5,5,6,5
-CHINA_CBA,20205,5,5,6,5
-AUSTRALIA_NBL,20206,5,5,6,5
-JAPAN_B1_LEAGUE,20207,5,5,6,5
-KOREA_BBL,20208,5,5,6,5
-ENGLAND_BBL,20209,5,5,6,5
-BIG3,20210,5,5,6,5
-FIBA - Americup Qualifiers,20212,5,5,6,5
-FIBA - Asia Cup Qualifiers,20213,5,5,6,5
-FIBA - Eurobasket Qualifiers,20214,5,5,6,5
-Greece - A1 League,20217,5,5,6,5
-International - Champions League,20218,5,5,6,5
-UFC PPV,901,5,5,6,5
-UFC Non-Main,902,5,5,6,5
-UFC APEX,703,5,5,6,5
-UFC DW Contender,704,5,5,6,5
-Boxing,10595,5,5,6,5
-CS2,9977,5,5,6,5
-DOTA2,9983,5,5,6,5
-LOL,10138,5,5,6,5
-Call of Duty,20298,5,5,6,5
-Valorant,20300,5,5,6,5
-Overwatch,20296,5,5,6,5
-Tennis ATP GS unknown round,15610,5,5,6,5
-Tennis ATP GS Qualification,15611,5,5,6,5
-Tennis ATP GS 1st round,15612,5,5,6,5
-Tennis ATP GS 2nd round,15613,5,5,6,5
-Tennis ATP GS 3rt round,15614,5,5,6,5
-Tennis ATP GS 4th round,15615,5,5,6,5
-Tennis ATP GS quarterfinals,15616,5,5,6,5
-Tennis ATP GS semifinals,15617,5,5,6,5
-Tennis ATP GS finals,15618,5,5,6,5
-Tennis ATP1000 unknown round,15620,5,5,6,5
-Tennis ATP1000 Qualification,15621,5,5,6,5
-Tennis ATP1000 1st round,15622,5,5,6,5
-Tennis ATP1000 2nd round,15623,5,5,6,5
-Tennis ATP1000 3rt round,15624,5,5,6,5
-Tennis ATP1000 4th round,15625,5,5,6,5
-Tennis ATP1000 quarterfinals,15626,5,5,6,5
-Tennis ATP1000 semifinals,15627,5,5,6,5
-Tennis ATP1000 finals,15628,5,5,6,5
-Tennis ATP500 unknown round,15630,5,5,6,5
-Tennis ATP500 Qualification,15631,5,5,6,5
-Tennis ATP500 1st round,15632,5,5,6,5
-Tennis ATP500 2nd round,15633,5,5,6,5
-Tennis ATP500 3rt round,15634,5,5,6,5
-Tennis ATP500 4th round,15635,5,5,6,5
-Tennis ATP500 quarterfinals,15636,5,5,6,5
-Tennis ATP500 semifinals,15637,5,5,6,5
-Tennis ATP500 finals,15638,5,5,6,5
-Tennis ATP250 unknown round,15640,5,5,6,5
-Tennis ATP250 Qualification,15641,5,5,6,5
-Tennis ATP250 1st round,15642,5,5,6,5
-Tennis ATP250 2nd round,15643,5,5,6,5
-Tennis ATP250 3rt round,15644,5,5,6,5
-Tennis ATP250 4th round,15645,5,5,6,5
-Tennis ATP250 quarterfinals,15646,5,5,6,5
-Tennis ATP250 semifinals,15647,5,5,6,5
-Tennis ATP250 finals,15648,5,5,6,5
-ATP Challenger,157,5,5,6,5
-Tennis WTA GS unknown round,15210,5,5,6,5
-Tennis WTA GS Qualification,15211,5,5,6,5
-Tennis WTA GS 1st round,15212,5,5,6,5
-Tennis WTA GS 2nd round,15213,5,5,6,5
-Tennis WTA GS 3rd round,15214,5,5,6,5
-Tennis WTA GS 4th round,15215,5,5,6,5
-Tennis WTA GS quarterfinals,15216,5,5,6,5
-Tennis WTA GS semifinals,15217,5,5,6,5
-Tennis WTA GS finals,15218,5,5,6,5
-Tennis WTA1000 unknown round,15220,5,5,6,5
-Tennis WTA1000 Qualification,15221,5,5,6,5
-Tennis WTA1000 1st round,15222,5,5,6,5
-Tennis WTA1000 2nd round,15223,5,5,6,5
-Tennis WTA1000 3rt round,15224,5,5,6,5
-Tennis WTA1000 4th round,15225,5,5,6,5
-Tennis WTA1000 quarterfinals,15226,5,5,6,5
-Tennis WTA1000 semifinals,15227,5,5,6,5
-Tennis WTA1000 finals,15228,5,5,6,5
-Tennis WTA500 unknown round,15230,5,5,6,5
-Tennis WTA500 Qualification,15231,5,5,6,5
-Tennis WTA500 1st round,15232,5,5,6,5
-Tennis WTA500 2nd round,15233,5,5,6,5
-Tennis WTA500 3rt round,15234,5,5,6,5
-Tennis WTA500 4th round,15235,5,5,6,5
-Tennis WTA500 quarterfinals,15236,5,5,6,5
-Tennis WTA500 semifinals,15237,5,5,6,5
-Tennis WTA500 finals,15238,5,5,6,5
-Tennis WTA250 unknown round,15240,5,5,6,5
-Tennis WTA250 Qualification,15241,5,5,6,5
-Tennis WTA250 1st round,15242,5,5,6,5
-Tennis WTA250 2nd round,15243,5,5,6,5
-Tennis WTA250 3rt round,15244,5,5,6,5
-Tennis WTA250 4th round,15245,5,5,6,5
-Tennis WTA250 quarterfinals,15246,5,5,6,5
-Tennis WTA250 semifinals,15247,5,5,6,5
-Tennis WTA250 finals,15248,5,5,6,5
-India - IPL,20,5,5,6,5
-Pakistan - Super League,20305,5,5,6,5
-England - T20 Blast,21,5,5,6,5
-Czech Republic - Extraliga,310,5,5,6,5
-Finland - SM Liiga,319,5,5,6,5
-Russia - KHL,321,5,5,6,5
-Germany - DEL,322,5,5,6,5
-Austria - Ice Hockey League,323,5,5,6,5
-Sweden - SHL,324,5,5,6,5
-Switzerland - National League,327,5,5,6,5
-USA - AHL,328,5,5,6,5
-Australia - NRL,9500,5,5,6,5
-England - Super League,9501,5,5,6,5
-Oceania - Super Rugby,9502,5,5,6,5
-International - Six Nations,9503,5,5,6,5
-AFL,9510,5,5,6,5
-College Baseball,303,5,5,6,5
-KBO,302,5,5,6,5
+NCAAF,1,5,3,6,5
+NFL,2,5,3,6,5
+MLB,3,5,3,6,5
+NBA,4,5,3,6,5
+Euroleague,399,5,3,6,5
+NCAAB,5,3,6,5,5
+NCAAW,20211,5,3,6,5
+NHL,6,5,3,6,5
+WNBA,8,5,3,6,5
+MLS,10,5,3,6,5
+eurobasket,20224,5,3,6,5
+EPL,11,5,3,6,5
+FRA1,12,5,3,6,5
+GER1,13,5,3,6,5
+ESP1,14,5,3,6,5
+ITA1,15,5,3,6,5
+UEFA CL,16,5,3,6,5
+UEFA EL,17,5,3,6,5
+UEFA Conference,10216,5,3,6,5
+FIFA Q,18,5,3,6,5
+NET1,57,5,3,6,5
+POR1,61,5,3,6,5
+Brazil,268,5,3,6,5
+UEFA Nations League,9806,5,3,6,5
+Copa Libertadores,45,5,3,6,5
+Brazil - Copa do Brasil,20002,5,3,6,5
+England - Championship,20011,5,3,6,5
+England - League 1,20126,5,3,6,5
+Austria league 1,20120,5,3,6,5
+JPN1,19,5,3,6,5
+Liga MX,230,5,3,6,5
+Saudi League,536,5,3,6,5
+Swiss superleague,20114,5,3,6,5
+Belgium league 1,20102,5,3,6,5
+Sweden - Allsvenskan,20123,5,3,6,5
+Turkey league 1,20108,5,3,6,5
+Argentina league 1,20106,5,3,6,5
+China league 1,20012,5,3,6,5
+Scotland league 1,20101,5,3,6,5
+Greece - Super League,20110,5,3,6,5
+England EFL cup,20125,5,3,6,5
+England FA cup,132,5,3,6,5
+Spain - La Liga 2,20116,5,3,6,5
+Germany - Bundesliga 2,20115,5,3,6,5
+AFC - Champions League,20128,5,3,6,5
+CONCACAF - Champions Cup,20147,5,3,6,5
+UEFA - Nations League Women,20148,5,3,6,5
+Spain - Copa del Rey,138,5,3,6,5
+DFB Pokal,209,5,3,6,5
+Coppa Italia,141,5,3,6,5
+Super Coppa Italia,20129,5,3,6,5
+France Super Cup,20130,5,3,6,5
+Spain supercopa,20131,5,3,6,5
+German Super cup,20132,5,3,6,5
+Portugal League Cup,20133,5,3,6,5
+Portugal Taka Cup,20136,5,3,6,5
+Thai League 1,20134,5,3,6,5
+Netherlands Cup,20135,5,3,6,5
+Canada - Premier League,20149,5,3,6,5
+France Cup,134,5,3,6,5
+EURO 2024,50,5,3,6,5
+Copa America,44,5,3,6,5
+UCL Qualification,10611,5,3,6,5
+Europe League Qualification,10613,5,3,6,5
+COnference League Qualification,10615,5,3,6,5
+Australia A League,20113,5,3,6,5
+China Super League,20112,5,3,6,5
+Eurocup,20200,5,3,6,5
+SPAIN_LIGA_ACB,20201,5,3,6,5
+ITALY_LEGA_BASKET_SERIA_A,20202,5,3,6,5
+GERMANY_BBL,20203,5,3,6,5
+FRANCE_LNB_PRO_A,20204,5,3,6,5
+CHINA_CBA,20205,5,3,6,5
+AUSTRALIA_NBL,20206,5,3,6,5
+JAPAN_B1_LEAGUE,20207,5,3,6,5
+KOREA_BBL,20208,5,3,6,5
+ENGLAND_BBL,20209,5,3,6,5
+BIG3,20210,5,3,6,5
+FIBA - Americup Qualifiers,20212,5,3,6,5
+FIBA - Asia Cup Qualifiers,20213,5,3,6,5
+FIBA - Eurobasket Qualifiers,20214,5,3,6,5
+Greece - A1 League,20217,5,3,6,5
+International - Champions League,20218,5,3,6,5
+UFC PPV,901,5,3,6,5
+UFC Non-Main,902,5,3,6,5
+UFC APEX,703,5,3,6,5
+UFC DW Contender,704,5,3,6,5
+Boxing,10595,5,3,6,5
+CS2,9977,5,3,6,5
+DOTA2,9983,5,3,6,5
+LOL,10138,5,3,6,5
+Call of Duty,20298,5,3,6,5
+Valorant,20300,5,3,6,5
+Overwatch,20296,5,3,6,5
+Tennis ATP GS unknown round,15610,5,3,6,5
+Tennis ATP GS Qualification,15611,5,3,6,5
+Tennis ATP GS 1st round,15612,5,3,6,5
+Tennis ATP GS 2nd round,15613,5,3,6,5
+Tennis ATP GS 3rt round,15614,5,3,6,5
+Tennis ATP GS 4th round,15615,5,3,6,5
+Tennis ATP GS quarterfinals,15616,5,3,6,5
+Tennis ATP GS semifinals,15617,5,3,6,5
+Tennis ATP GS finals,15618,5,3,6,5
+Tennis ATP1000 unknown round,15620,5,3,6,5
+Tennis ATP1000 Qualification,15621,5,3,6,5
+Tennis ATP1000 1st round,15622,5,3,6,5
+Tennis ATP1000 2nd round,15623,5,3,6,5
+Tennis ATP1000 3rt round,15624,5,3,6,5
+Tennis ATP1000 4th round,15625,5,3,6,5
+Tennis ATP1000 quarterfinals,15626,5,3,6,5
+Tennis ATP1000 semifinals,15627,5,3,6,5
+Tennis ATP1000 finals,15628,5,3,6,5
+Tennis ATP500 unknown round,15630,5,3,6,5
+Tennis ATP500 Qualification,15631,5,3,6,5
+Tennis ATP500 1st round,15632,5,3,6,5
+Tennis ATP500 2nd round,15633,5,3,6,5
+Tennis ATP500 3rt round,15634,5,3,6,5
+Tennis ATP500 4th round,15635,5,3,6,5
+Tennis ATP500 quarterfinals,15636,5,3,6,5
+Tennis ATP500 semifinals,15637,5,3,6,5
+Tennis ATP500 finals,15638,5,3,6,5
+Tennis ATP250 unknown round,15640,5,3,6,5
+Tennis ATP250 Qualification,15641,5,3,6,5
+Tennis ATP250 1st round,15642,5,3,6,5
+Tennis ATP250 2nd round,15643,5,3,6,5
+Tennis ATP250 3rt round,15644,5,3,6,5
+Tennis ATP250 4th round,15645,5,3,6,5
+Tennis ATP250 quarterfinals,15646,5,3,6,5
+Tennis ATP250 semifinals,15647,5,3,6,5
+Tennis ATP250 finals,15648,5,3,6,5
+ATP Challenger,157,5,3,6,5
+Tennis WTA GS unknown round,15210,5,3,6,5
+Tennis WTA GS Qualification,15211,5,3,6,5
+Tennis WTA GS 1st round,15212,5,3,6,5
+Tennis WTA GS 2nd round,15213,5,3,6,5
+Tennis WTA GS 3rd round,15214,5,3,6,5
+Tennis WTA GS 4th round,15215,5,3,6,5
+Tennis WTA GS quarterfinals,15216,5,3,6,5
+Tennis WTA GS semifinals,15217,5,3,6,5
+Tennis WTA GS finals,15218,5,3,6,5
+Tennis WTA1000 unknown round,15220,5,3,6,5
+Tennis WTA1000 Qualification,15221,5,3,6,5
+Tennis WTA1000 1st round,15222,5,3,6,5
+Tennis WTA1000 2nd round,15223,5,3,6,5
+Tennis WTA1000 3rt round,15224,5,3,6,5
+Tennis WTA1000 4th round,15225,5,3,6,5
+Tennis WTA1000 quarterfinals,15226,5,3,6,5
+Tennis WTA1000 semifinals,15227,5,3,6,5
+Tennis WTA1000 finals,15228,5,3,6,5
+Tennis WTA500 unknown round,15230,5,3,6,5
+Tennis WTA500 Qualification,15231,5,3,6,5
+Tennis WTA500 1st round,15232,5,3,6,5
+Tennis WTA500 2nd round,15233,5,3,6,5
+Tennis WTA500 3rt round,15234,5,3,6,5
+Tennis WTA500 4th round,15235,5,3,6,5
+Tennis WTA500 quarterfinals,15236,5,3,6,5
+Tennis WTA500 semifinals,15237,5,3,6,5
+Tennis WTA500 finals,15238,5,3,6,5
+Tennis WTA250 unknown round,15240,5,3,6,5
+Tennis WTA250 Qualification,15241,5,3,6,5
+Tennis WTA250 1st round,15242,5,3,6,5
+Tennis WTA250 2nd round,15243,5,3,6,5
+Tennis WTA250 3rt round,15244,5,3,6,5
+Tennis WTA250 4th round,15245,5,3,6,5
+Tennis WTA250 quarterfinals,15246,5,3,6,5
+Tennis WTA250 semifinals,15247,5,3,6,5
+Tennis WTA250 finals,15248,5,3,6,5
+India - IPL,20,5,3,6,5
+Pakistan - Super League,20305,5,3,6,5
+England - T20 Blast,21,5,3,6,5
+Czech Republic - Extraliga,310,5,3,6,5
+Finland - SM Liiga,319,5,3,6,5
+Russia - KHL,321,5,3,6,5
+Germany - DEL,322,5,3,6,5
+Austria - Ice Hockey League,323,5,3,6,5
+Sweden - SHL,324,5,3,6,5
+Switzerland - National League,327,5,3,6,5
+USA - AHL,328,5,3,6,5
+Australia - NRL,9500,5,3,6,5
+England - Super League,9501,5,3,6,5
+Oceania - Super Rugby,9502,5,3,6,5
+International - Six Nations,9503,5,3,6,5
+AFL,9510,5,3,6,5
+College Baseball,303,5,3,6,5
+KBO,302,5,3,6,5
 NPB,301,5,6,7,6
-Czech Republic - TT Cup Men,8911,5,5,6,5
-Czech Republic - TT Liga Pro Men,8912,5,5,6,5
-Poland - TT Elite Series Men,8913,5,5,6,5
-WTT Men,8914,5,5,6,5
-North Macedonia - Super Liga,379,5,5,6,5
-Croatia - HB Premijer Liga,382,5,5,6,5
-EHF - Champions League,383,5,5,6,5
-EHF - Champions League Women,384,5,5,6,5
-EHF - European League,385,5,5,6,5
-France - LNH Division 1,386,5,5,6,5
-Germany - HBL,387,5,5,6,5
-Hungary - HNB I,388,5,5,6,5
-Iceland - Urvalsdeild,389,5,5,6,5
-IHF - World Championship,390,5,5,6,5
-Norway - HB 1. Divisjon,391,5,5,6,5
-Poland - Superliga,392,5,5,6,5
-Russia - Super League,393,5,5,6,5
-Serbia - Superliga,394,5,5,6,5
-Slovakia - HB Extraliga,395,5,5,6,5
-Slovenia - 1. Liga,396,5,5,6,5
-Spain - ASOBAL,397,5,5,6,5
-Sweden - Handbollsligan,398,5,5,6,5
-ATP Challenger,157,5,5,6,5
-Fina Waterpolo Men,20870,5,5,6,5
-CFL,9520,5,5,6,5
-CPBL,304,5,5,6,5
-USA - MLB All Star,305,5,5,6,5
-Mexico - LMB,306,5,5,6,5
-USA - NBA Summer League,400,5,5,6,5
-FIBA - World Cup Qualifiers,409,5,5,6,5
-FIBA - EuroBasket,10502,5,5,6,5
-FIBA - AfroBasket,20225,5,5,6,5
-FIBA - Americup,20226,5,5,6,5
-Turkey - BSL,20219,5,5,6,5
-FIBA - Eurobasket Women,20220,5,5,6,5
-Philippines - Phillipine Cup,20221,5,5,6,5
-FIBA - Americup Women,20223,5,5,6,5
-FIBA - World Cup Qualifiers,20215,5,5,6,5
-FIBA - AfroBasket Qualifiers,20216,5,5,6,5
-FIBA - World Cup U19,20222,5,5,6,5
-ICC - T20 World Cup,20301,5,5,6,5
-Australia - Big Bash League,20302,5,5,6,5
-USA - Major League Cricket,20303,5,5,6,5
-Australia - Big Bash League Women,20304,5,5,6,5
-England - Premier League Darts,20320,5,5,6,5
-PDC - World Cup of Darts,20321,5,5,6,5
-Rocket League,20297,5,5,6,5
-Starcraft,20299,5,5,6,5
-Rainbow Six Siege,20293,5,5,6,5
-Starcraft 2,20294,5,5,6,5
-Mobile Legends Bang Bang,20295,5,5,6,5
-UFC,7,5,5,6,5
-PFL,9,5,5,6,5
-UFL,9521,5,5,6,5
-IIHF - World Championship,33,5,5,6,5
-USA - National Lacrosse League,20310,5,5,6,5
-USA - Premier Lacrosse League,20311,5,5,6,5
-England - FA Cup,76,5,5,6,5
-Saudi Arabia - Saudi League,288,5,5,6,5
-Norway - Eliteserien,20150,5,5,6,5
-USA - Open Cup,20151,5,5,6,5
-FIFA - Club World Cup,20152,5,5,6,5
-UEFA - Europa Conference League,9821,5,5,6,5
-UEFA - Super Cup,20001,5,5,6,5
-Czech Republic - FNL,20103,5,5,6,5
-Chile - Primera Division,20104,5,5,6,5
-Finland - Veikkausliiga,20105,5,5,6,5
-Russia - Premier League,20107,5,5,6,5
-Serbia - Super Liga,20109,5,5,6,5
-India - Calcutta Premier Division,20111,5,5,6,5
-Italy - Serie B,20117,5,5,6,5
-India - Super League,20118,5,5,6,5
-France - Ligue 2,20119,5,5,6,5
-Denmark - Superliga,20121,5,5,6,5
-Poland - Ekstraklasa,20122,5,5,6,5
-Colombia - Primera A,20124,5,5,6,5
-Uruguay - Primera Division,20127,5,5,6,5
-CONCACAF - Gold Cup,20516,5,5,6,5
-Ecuador - Serie A,20535,5,5,6,5
-COSAFA - Cup,20555,5,5,6,5
-Iceland - Besta Deild Karla,20578,5,5,6,5
-Korea - K1 League,20603,5,5,6,5
-Peru - Primera Division,20651,5,5,6,5
-UEFA - European Championship U21,20712,5,5,6,5
-UEFA - European Championship Women,20713,5,5,6,5
-England - Womens Super League,20137,5,5,6,5
-Italy - Serie A Femminile,20138,5,5,6,5
-France - Premiere Ligue,20139,5,5,6,5
-Germany - Frauen Bundesliga,20140,5,5,6,5
-Spain - Liga F,20141,5,5,6,5
-Netherlands - Vrouwen Eredivisie,20142,5,5,6,5
-Belgium - Womens Super League,20143,5,5,6,5
-UEFA - Champions League Women,20144,5,5,6,5
-USA - NWSL,20145,5,5,6,5
-Australia - A-League Women,20146,5,5,6,5
-Slovakia - Superliga,20714,5,5,6,5
-China - FA Cup,20715,5,5,6,5
-Romania - Liga I,20661,5,5,6,5
-Bulgaria - Parva Liga,20507,5,5,6,5
-Lithuania - A Lyga,20616,5,5,6,5
-Latvia - Virsliga,20612,5,5,6,5
-Ireland - Premier League,20590,5,5,6,5
-Slovenia - PrvaLiga,20682,5,5,6,5
-Hungary - NB I,20572,5,5,6,5
-Croatia - 1. HNL,20520,5,5,6,5
-Czech Republic - First League,20529,5,5,6,5
-International - Club Friendlies,20584,5,5,6,5
-International - Friendlies,20585,5,5,6,5
-International - Friendlies Women,20586,5,5,6,5
-North America - Leagues Cup,20637,5,5,6,5
-Brazil - Serie B,20503,5,5,6,5
-Australia - Cup,20166,5,5,6,5
-Kazakhstan - Premier League,20600,5,5,6,5
-Estonia - Premium Liiga,20549,5,5,6,5
-USA - USL Championship,20702,5,5,6,5
-Costa Rica - Primera Division,20519,5,5,6,5
-Russia - Cup,20663,5,5,6,5
-Sweden - Superettan,20686,5,5,6,5
-Switzerland - Challenge League,20688,5,5,6,5
-Portugal - Super Cup,20658,5,5,6,5
-Netherlands - Super Cup,20716,5,5,6,5
-Argentina - Copa Argentina,20160,5,5,6,5
-Norway - 1. Divisjon,20642,5,5,6,5
-Denmark - 1st Division,20531,5,5,6,5
-England - Community Shield,20540,5,5,6,5
-Egypt - Premier League,20538,5,5,6,5
-Uzbekistan - Super League,20707,5,5,6,5
-Wales - Cymru Premier,20517,5,5,6,5
-Northern Ireland - Premiership,20639,5,5,6,5
-Belarus - Premier League,20183,5,5,6,5
-South Africa - Premier League,20683,5,5,6,5
-Indonesia - Liga 1,20583,5,5,6,5
-Qatar - Stars League,20659,5,5,6,5
-Georgia - Erovnuli Liga,20561,5,5,6,5
-Malaysia - Super League,20621,5,5,6,5
-Vietnam - V League 1,20709,5,5,6,5
-Austria - 2. Liga,20175,5,5,6,5
-Belgium - Challenger Pro League,20184,5,5,6,5
-Netherlands - Eerste Divisie,20634,5,5,6,5
-Ireland - Division 1,20588,5,5,6,5
-Portugal - Segunda Liga,20657,5,5,6,5
-Russia - First League,20664,5,5,6,5
-Scotland - Championship,20669,5,5,6,5
-Turkey - 1. Lig,20692,5,5,6,5
-England - League 2,20543,5,5,6,5
-Germany - Bundesliga 3,20563,5,5,6,5
-Portugal - Liga 3,20656,5,5,6,5
-Romania - Liga II,20662,5,5,6,5
-Ukraine - Premier League,20717,5,5,6,5
-Italy - Serie C,20718,5,5,6,5
-Japan - Emperor Cup,20719,5,5,6,5
-WTA,152,5,5,6,5
-ATP,153,5,5,6,5
-ATP,156,5,5,6,5
-Argentina - Liga Argentina,20400,5,5,6,5
-Argentina - Liga Argentina Women,20401,5,5,6,5
-Austria - AVL,20402,5,5,6,5
-Austria - WVL,20403,5,5,6,5
-Belgium - Liga Dames,20404,5,5,6,5
-Belgium - Liga Heren,20405,5,5,6,5
-Brazil - Superliga,20406,5,5,6,5
-Brazil - Superliga Women,20407,5,5,6,5
-CEV - Champions League,20408,5,5,6,5
-CEV - Champions League Women,20409,5,5,6,5
-CEV - Cup,20410,5,5,6,5
-CEV - Cup Women,20411,5,5,6,5
-China - CVL,20412,5,5,6,5
-China - CVL Women,20413,5,5,6,5
-Czech Republic - VEL,20414,5,5,6,5
-Czech Republic - VEL Women,20415,5,5,6,5
-Denmark - Volleyligaen,20416,5,5,6,5
-Denmark - Volleyligaen Women,20417,5,5,6,5
-Finland - Mestaruusliiga,20418,5,5,6,5
-Finland - Mestaruusliiga Women,20419,5,5,6,5
-FIVB - Nations League,20420,5,5,6,5
-FIVB - Nations League Women,20421,5,5,6,5
-France - Ligue A,20422,5,5,6,5
-France - Ligue A Women,20423,5,5,6,5
-Germany - 1st Bundesliga,20424,5,5,6,5
-Germany - 1st Bundesliga Women,20425,5,5,6,5
-Iran - Super League,20426,5,5,6,5
-Italy - Coppa Italia A1 Women,20427,5,5,6,5
-Italy - Coppa Italia Superlega,20428,5,5,6,5
-Italy - Serie A1 Women,20429,5,5,6,5
-Italy - Superlega,20430,5,5,6,5
-Japan - SV League,20431,5,5,6,5
-Japan - SV League Women,20432,5,5,6,5
-Norway - NVBF,20433,5,5,6,5
-Philippines - PVL Women,20434,5,5,6,5
-Poland - PlusLiga,20435,5,5,6,5
-Russia - Superliga,20436,5,5,6,5
-Russia - Superliga Women,20437,5,5,6,5
-South Korea - V League,20438,5,5,6,5
-South Korea - V League Women,20439,5,5,6,5
-FIVB - World Championship Women,20440,5,5,6,5
-FINA - World Championship,8881,5,5,6,5
-FINA - World Championship Women,20871,5,5,6,5
+Czech Republic - TT Cup Men,8911,5,3,6,5
+Czech Republic - TT Liga Pro Men,8912,5,3,6,5
+Poland - TT Elite Series Men,8913,5,3,6,5
+WTT Men,8914,5,3,6,5
+North Macedonia - Super Liga,379,5,3,6,5
+Croatia - HB Premijer Liga,382,5,3,6,5
+EHF - Champions League,383,5,3,6,5
+EHF - Champions League Women,384,5,3,6,5
+EHF - European League,385,5,3,6,5
+France - LNH Division 1,386,5,3,6,5
+Germany - HBL,387,5,3,6,5
+Hungary - HNB I,388,5,3,6,5
+Iceland - Urvalsdeild,389,5,3,6,5
+IHF - World Championship,390,5,3,6,5
+Norway - HB 1. Divisjon,391,5,3,6,5
+Poland - Superliga,392,5,3,6,5
+Russia - Super League,393,5,3,6,5
+Serbia - Superliga,394,5,3,6,5
+Slovakia - HB Extraliga,395,5,3,6,5
+Slovenia - 1. Liga,396,5,3,6,5
+Spain - ASOBAL,397,5,3,6,5
+Sweden - Handbollsligan,398,5,3,6,5
+ATP Challenger,157,5,3,6,5
+Fina Waterpolo Men,20870,5,3,6,5
+CFL,9520,5,3,6,5
+CPBL,304,5,3,6,5
+USA - MLB All Star,305,5,3,6,5
+Mexico - LMB,306,5,3,6,5
+USA - NBA Summer League,400,5,3,6,5
+FIBA - World Cup Qualifiers,409,5,3,6,5
+FIBA - EuroBasket,10502,5,3,6,5
+FIBA - AfroBasket,20225,5,3,6,5
+FIBA - Americup,20226,5,3,6,5
+Turkey - BSL,20219,5,3,6,5
+FIBA - Eurobasket Women,20220,5,3,6,5
+Philippines - Phillipine Cup,20221,5,3,6,5
+FIBA - Americup Women,20223,5,3,6,5
+FIBA - World Cup Qualifiers,20215,5,3,6,5
+FIBA - AfroBasket Qualifiers,20216,5,3,6,5
+FIBA - World Cup U19,20222,5,3,6,5
+ICC - T20 World Cup,20301,5,3,6,5
+Australia - Big Bash League,20302,5,3,6,5
+USA - Major League Cricket,20303,5,3,6,5
+Australia - Big Bash League Women,20304,5,3,6,5
+England - Premier League Darts,20320,5,3,6,5
+PDC - World Cup of Darts,20321,5,3,6,5
+Rocket League,20297,5,3,6,5
+Starcraft,20299,5,3,6,5
+Rainbow Six Siege,20293,5,3,6,5
+Starcraft 2,20294,5,3,6,5
+Mobile Legends Bang Bang,20295,5,3,6,5
+UFC,7,5,3,6,5
+PFL,9,5,3,6,5
+UFL,9521,5,3,6,5
+IIHF - World Championship,33,5,3,6,5
+USA - National Lacrosse League,20310,5,3,6,5
+USA - Premier Lacrosse League,20311,5,3,6,5
+England - FA Cup,76,5,3,6,5
+Saudi Arabia - Saudi League,288,5,3,6,5
+Norway - Eliteserien,20150,5,3,6,5
+USA - Open Cup,20151,5,3,6,5
+FIFA - Club World Cup,20152,5,3,6,5
+UEFA - Europa Conference League,9821,5,3,6,5
+UEFA - Super Cup,20001,5,3,6,5
+Czech Republic - FNL,20103,5,3,6,5
+Chile - Primera Division,20104,5,3,6,5
+Finland - Veikkausliiga,20105,5,3,6,5
+Russia - Premier League,20107,5,3,6,5
+Serbia - Super Liga,20109,5,3,6,5
+India - Calcutta Premier Division,20111,5,3,6,5
+Italy - Serie B,20117,5,3,6,5
+India - Super League,20118,5,3,6,5
+France - Ligue 2,20119,5,3,6,5
+Denmark - Superliga,20121,5,3,6,5
+Poland - Ekstraklasa,20122,5,3,6,5
+Colombia - Primera A,20124,5,3,6,5
+Uruguay - Primera Division,20127,5,3,6,5
+CONCACAF - Gold Cup,20516,5,3,6,5
+Ecuador - Serie A,20535,5,3,6,5
+COSAFA - Cup,20555,5,3,6,5
+Iceland - Besta Deild Karla,20578,5,3,6,5
+Korea - K1 League,20603,5,3,6,5
+Peru - Primera Division,20651,5,3,6,5
+UEFA - European Championship U21,20712,5,3,6,5
+UEFA - European Championship Women,20713,5,3,6,5
+England - Womens Super League,20137,5,3,6,5
+Italy - Serie A Femminile,20138,5,3,6,5
+France - Premiere Ligue,20139,5,3,6,5
+Germany - Frauen Bundesliga,20140,5,3,6,5
+Spain - Liga F,20141,5,3,6,5
+Netherlands - Vrouwen Eredivisie,20142,5,3,6,5
+Belgium - Womens Super League,20143,5,3,6,5
+UEFA - Champions League Women,20144,5,3,6,5
+USA - NWSL,20145,5,3,6,5
+Australia - A-League Women,20146,5,3,6,5
+Slovakia - Superliga,20714,5,3,6,5
+China - FA Cup,20715,5,3,6,5
+Romania - Liga I,20661,5,3,6,5
+Bulgaria - Parva Liga,20507,5,3,6,5
+Lithuania - A Lyga,20616,5,3,6,5
+Latvia - Virsliga,20612,5,3,6,5
+Ireland - Premier League,20590,5,3,6,5
+Slovenia - PrvaLiga,20682,5,3,6,5
+Hungary - NB I,20572,5,3,6,5
+Croatia - 1. HNL,20520,5,3,6,5
+Czech Republic - First League,20529,5,3,6,5
+International - Club Friendlies,20584,5,3,6,5
+International - Friendlies,20585,5,3,6,5
+International - Friendlies Women,20586,5,3,6,5
+North America - Leagues Cup,20637,5,3,6,5
+Brazil - Serie B,20503,5,3,6,5
+Australia - Cup,20166,5,3,6,5
+Kazakhstan - Premier League,20600,5,3,6,5
+Estonia - Premium Liiga,20549,5,3,6,5
+USA - USL Championship,20702,5,3,6,5
+Costa Rica - Primera Division,20519,5,3,6,5
+Russia - Cup,20663,5,3,6,5
+Sweden - Superettan,20686,5,3,6,5
+Switzerland - Challenge League,20688,5,3,6,5
+Portugal - Super Cup,20658,5,3,6,5
+Netherlands - Super Cup,20716,5,3,6,5
+Argentina - Copa Argentina,20160,5,3,6,5
+Norway - 1. Divisjon,20642,5,3,6,5
+Denmark - 1st Division,20531,5,3,6,5
+England - Community Shield,20540,5,3,6,5
+Egypt - Premier League,20538,5,3,6,5
+Uzbekistan - Super League,20707,5,3,6,5
+Wales - Cymru Premier,20517,5,3,6,5
+Northern Ireland - Premiership,20639,5,3,6,5
+Belarus - Premier League,20183,5,3,6,5
+South Africa - Premier League,20683,5,3,6,5
+Indonesia - Liga 1,20583,5,3,6,5
+Qatar - Stars League,20659,5,3,6,5
+Georgia - Erovnuli Liga,20561,5,3,6,5
+Malaysia - Super League,20621,5,3,6,5
+Vietnam - V League 1,20709,5,3,6,5
+Austria - 2. Liga,20175,5,3,6,5
+Belgium - Challenger Pro League,20184,5,3,6,5
+Netherlands - Eerste Divisie,20634,5,3,6,5
+Ireland - Division 1,20588,5,3,6,5
+Portugal - Segunda Liga,20657,5,3,6,5
+Russia - First League,20664,5,3,6,5
+Scotland - Championship,20669,5,3,6,5
+Turkey - 1. Lig,20692,5,3,6,5
+England - League 2,20543,5,3,6,5
+Germany - Bundesliga 3,20563,5,3,6,5
+Portugal - Liga 3,20656,5,3,6,5
+Romania - Liga II,20662,5,3,6,5
+Ukraine - Premier League,20717,5,3,6,5
+Italy - Serie C,20718,5,3,6,5
+Japan - Emperor Cup,20719,5,3,6,5
+WTA,152,5,3,6,5
+ATP,153,5,3,6,5
+ATP,156,5,3,6,5
+Argentina - Liga Argentina,20400,5,3,6,5
+Argentina - Liga Argentina Women,20401,5,3,6,5
+Austria - AVL,20402,5,3,6,5
+Austria - WVL,20403,5,3,6,5
+Belgium - Liga Dames,20404,5,3,6,5
+Belgium - Liga Heren,20405,5,3,6,5
+Brazil - Superliga,20406,5,3,6,5
+Brazil - Superliga Women,20407,5,3,6,5
+CEV - Champions League,20408,5,3,6,5
+CEV - Champions League Women,20409,5,3,6,5
+CEV - Cup,20410,5,3,6,5
+CEV - Cup Women,20411,5,3,6,5
+China - CVL,20412,5,3,6,5
+China - CVL Women,20413,5,3,6,5
+Czech Republic - VEL,20414,5,3,6,5
+Czech Republic - VEL Women,20415,5,3,6,5
+Denmark - Volleyligaen,20416,5,3,6,5
+Denmark - Volleyligaen Women,20417,5,3,6,5
+Finland - Mestaruusliiga,20418,5,3,6,5
+Finland - Mestaruusliiga Women,20419,5,3,6,5
+FIVB - Nations League,20420,5,3,6,5
+FIVB - Nations League Women,20421,5,3,6,5
+France - Ligue A,20422,5,3,6,5
+France - Ligue A Women,20423,5,3,6,5
+Germany - 1st Bundesliga,20424,5,3,6,5
+Germany - 1st Bundesliga Women,20425,5,3,6,5
+Iran - Super League,20426,5,3,6,5
+Italy - Coppa Italia A1 Women,20427,5,3,6,5
+Italy - Coppa Italia Superlega,20428,5,3,6,5
+Italy - Serie A1 Women,20429,5,3,6,5
+Italy - Superlega,20430,5,3,6,5
+Japan - SV League,20431,5,3,6,5
+Japan - SV League Women,20432,5,3,6,5
+Norway - NVBF,20433,5,3,6,5
+Philippines - PVL Women,20434,5,3,6,5
+Poland - PlusLiga,20435,5,3,6,5
+Russia - Superliga,20436,5,3,6,5
+Russia - Superliga Women,20437,5,3,6,5
+South Korea - V League,20438,5,3,6,5
+South Korea - V League Women,20439,5,3,6,5
+FIVB - World Championship Women,20440,5,3,6,5
+FINA - World Championship,8881,5,3,6,5
+FINA - World Championship Women,20871,5,3,6,5
