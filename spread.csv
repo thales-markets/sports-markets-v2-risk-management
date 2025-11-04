@@ -1,6 +1,5 @@
 sportName,sportId,typeId,minSpread,targetSpread,addedSpread
 General,All Sports,All Markets,0,0,1.5
-NCAAB,5,All Markets,0,0,2
 EPL,11,All Markets,0,0,1.5
 FRA1,12,All Markets,0,0,1.5
 GER1,13,All Markets,0,0,1.5
