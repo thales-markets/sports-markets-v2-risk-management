@@ -65,3 +65,17 @@ sport,sportId,typeId,positionIndex,positionName,size,combinedTypeIds,combinedPla
 ,20300,90000,1,Home | 1st Map Moneyline + 1st Map Player Kills Over,2,10021;11264,[]:[],0;null,0;0,true
 ,20300,90001,0,Away | Moneyline + Total Maps Over,2,0;10002,[]:[],0;null,1;0,true
 ,20300,90001,1,Away | 1st Map Moneyline + 1st Map Player Kills Over,2,10021;11264,[]:[],0;null,1;0,true
+,399,90000,0,Home | Moneyline + Player Points Over,2,0;11029,[0]:[],0;null,0;0,true
+,399,90000,1,Home | Moneyline + Player Assists Over,2,0;11039,[0]:[],0;null,0;0,true
+,399,90000,2,Home | Moneyline + Player Points Over + Player Assists Over,3,0;11029;11039,[0]:[]:[],0;null;null,0;0;0,true
+,399,90000,3,Home | Total Over + Player Points Over + Player Threes Over,3,10002;11029;11038,[]:[]:[],null;null;null,0;0;0,true
+,399,90001,0,Away | Moneyline + Player Points Over,2,0;11029,[0]:[],0;null,1;0,true
+,399,90001,1,Away | Moneyline + Player Assists Over,2,0;11039,[0]:[],0;null,1;0,true
+,399,90001,2,Away | Moneyline + Player Points Over + Player Assists Over,3,0;11029;11039,[0]:[]:[],0;null;null,1;0;0,true
+,399,90001,3,Away | Total Over + Player Points Over + Player Threes Over,3,10002;11029;11038,[]:[]:[],null;null;null,0;0;0,true
+,399,90002,0,Mixed | Moneyline (Home) + Both Teams Total Points Over,2,0;10002,[0]:[],0;null,0;0,true
+,399,90002,1,Mixed | Moneyline (Home) + 2 x Player Assists Over,3,0;11039;11039,[0]:[]:[],0;null;null,0;0;0,true
+,399,90002,2,Mixed | Moneyline (Home) + 2 x Player Points Over,3,0;11029;11029,[0]:[]:[],0;null;null,0;0;0,true
+,399,90002,3,Mixed | Moneyline (Away) + Both Teams Total Points Over,2,0;10002,[0]:[],0;null,1;0,true
+,399,90002,4,Mixed | Moneyline (Away) + 2 x Player Assists Over,3,0;11039;11039,[0]:[]:[],0;null;null,1;0;0,true
+,399,90002,5,Mixed | Moneyline (Away) + 2 x Player Points Over,3,0;11029;11029,[0]:[]:[],0;null;null,1;0;0,true
