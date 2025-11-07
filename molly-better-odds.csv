@@ -1,6 +1,6 @@
 name,leagueId,typeId,betterOddsPercentage,onlyTestMode
-EPL Moneyline,11,0,50,TRUE
-Ligue 1 Moneyline,12,0,50,TRUE
-Bundesliga Moneyline,13,0,50,TRUE
-La Liga Moneyline,14,0,50,TRUE
-Serie A Moneyline,15,0,50,TRUE
+EPL Moneyline,11,0,10,TRUE
+Ligue 1 Moneyline,12,0,10,TRUE
+Bundesliga Moneyline,13,0,10,TRUE
+La Liga Moneyline,14,0,10,TRUE
+Serie A Moneyline,15,0,10,TRUE
