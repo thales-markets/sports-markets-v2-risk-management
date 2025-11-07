@@ -44,7 +44,7 @@ NBA,4,Total Steals,superbet
 NBA,4,Total Blocks,superbet
 NBA,4,Total Made Threes,superbet
 NBA,4,Team Total Made Threes,superbet
-NBA,4,Player Turnovers,draftkings
+NBA,4,Player Turnovers,superbet
 NBA,4,Player Two Pointers Attempted,superbet
 NBA,4,Player Threes Attempted,superbet
 NBA,4,Player Steals,draftkings
@@ -54,6 +54,8 @@ NBA,4,Player Free Throws Attempted,superbet
 NBA,4,Player Fouls,superbet
 NBA,4,Player Field Goals Made,superbet
 NBA,4,Player Field Goals Attempted,superbet
+NBA,4,Player Triple Double,blue book
+NBA,4,Player Steals + Blocks,draftkings
 NBA,4,Player Blocks,draftkings
 NHL,6,Player Props,pinnacle
 NHL,6,Player Blocked Shots,DraftKings
