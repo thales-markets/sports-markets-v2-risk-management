@@ -57,6 +57,10 @@ NBA,4,Player Field Goals Attempted,superbet
 NBA,4,Player Triple Double,blue book
 NBA,4,Player Steals + Blocks,draftkings
 NBA,4,Player Blocks,draftkings
+NBA,4,Player Points + Rebounds + Assists,blue book
+NBA,4,Player Points + Rebounds,blue book
+NBA,4,Player Rebounds + Assists,blue book
+NBA,4,Player Points + Assists,blue book
 NHL,6,Player Props,pinnacle
 NHL,6,Player Blocked Shots,DraftKings
 NHL,6,1st Period Moneyline 3-Way,DraftKings
