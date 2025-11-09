@@ -1,6 +1,6 @@
 sportName,sportId,primaryBookmaker,secondaryBookmaker,tertiaryBookmaker
 NCAAF,1,betonline,betmgm,
-NFL,2,draftkigs,betmgm,
+NFL,2,betonline,betmgm,
 MLB,3,pinnacle,betmgm,
 NBA,4,pinnacle,betmgm,
 NCAAB,5,draftkings,betmgm,
