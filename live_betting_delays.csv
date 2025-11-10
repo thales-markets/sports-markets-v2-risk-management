@@ -2,8 +2,8 @@ sportName,sportId,delayInSeconds,delayInSecondsOptimism,delayInSecondsArbitrum,d
 NCAAF,1,5,3,7,5,1
 NFL,2,5,3,7,5,1
 MLB,3,5,3,7,5,1
-NBA,4,5,3,9,5,1
-Euroleague,399,5,3,9,5,1
+NBA,4,5,3,7,5,1
+Euroleague,399,5,3,7,5,1
 NCAAB,5,3,6,9,5,1
 NCAAW,20211,5,3,6,5,3
 NHL,6,5,3,7,5,1
