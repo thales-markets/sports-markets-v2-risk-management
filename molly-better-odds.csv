@@ -1,2 +1,3 @@
-name,leagueId,typeId,betterOddsPercentage,onlyTestMode
-La Liga Moneyline,14,0,1,TRUE
+name,leagueId,typeId,betterOddsPercentage,overtimeBetterOddsPercentage,mollyBetterOddsPercentage,onlyTestMode
+La Liga Moneyline,14,0,1,1.5,0.3,TRUE
+La Liga 2 Moneyline,20116,0,1,1.5,0.3,TRUE
