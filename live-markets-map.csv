@@ -115,10 +115,10 @@ MLB,3,10711,7th Inning Team Total,Total,true,0.95,0.05,3
 MLB,3,10712,7th Inning Team Total,Total,true,0.95,0.05,3
 MLB,3,10811,8th Inning Team Total,Total,true,0.95,0.05,3
 MLB,3,10812,8th Inning Team Total,Total,true,0.95,0.05,3
-MLB,3,10173,1st 3 Innings Team Total,Spread,true,0.95,0.05,3
-MLB,3,10174,1st 3 Innings Team Total,Spread,true,0.95,0.05,3
-MLB,3,10178,1st 7 Innings Team Total,Spread,true,0.95,0.05,3
-MLB,3,10179,1st 7 Innings Team Total,Spread,true,0.95,0.05,3
+MLB,3,10173,1st 3 Innings Team Total,Total,true,0.95,0.05,3
+MLB,3,10174,1st 3 Innings Team Total,Total,true,0.95,0.05,3
+MLB,3,10178,1st 7 Innings Team Total,Total,true,0.95,0.05,3
+MLB,3,10179,1st 7 Innings Team Total,Total,true,0.95,0.05,3
 MLB,3,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
 MLB,3,10100,Correct Score,Correct Score,true,0.95,0.05,2
 MLB,3,10163,1st Inning Correct Score,Correct Score,true,0.95,0.05,2
