@@ -1,3 +1,4 @@
 sportName,sportId,typeIds,lowerPercentageRisk,higherPercentageRisk,lowerPercentageRiskRebalance,higherPercentageRiskRebalance
 All Sports,,All Types,10,40,1,2
 NFL,2,All Types,90,95,1,2
+NBA,4,All Types,90,95,1,2
