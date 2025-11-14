@@ -126,7 +126,12 @@ Germany - DEL,322,Pinnacle,
 Austria - Ice Hockey League,323,Pinnacle,
 Sweden - SHL,324,Pinnacle,
 Switzerland - National League,327,Pinnacle,
+Champions Hockey League,312,betano
 USA - AHL,328,draftkings,
+NCAAH,311,draftkings
+Canada - OHL,313,pinnacle
+Canada - QMJHL,314,pinnacle
+Canada - WHL,315,pinnacle
 Australia - NRL,9500,BetMGM (UK),
 England - Super League,9501,BetMGM (UK),
 Oceania - Super Rugby,9502,BetMGM (UK),
@@ -207,6 +212,9 @@ South Korea - V League Women,20439,Pinnacle,
 PDC - World Cup of Darts,20321,Pinnacle,
 PDC - World Grand Prix,20324,draftkings,
 PDC - Grand Slam Of Darts,20325,draftkings,
+PDC - World Matchplay,20322,draftkings
+PDC - World Matchplay Women,20323,draftkings
+PDC - Grand Slam Of Darts,20325,draftkings
 FINA - World Championship,20870,Pinnacle,
 Slovakia - Superliga,20714,Pinnacle,
 China - FA Cup,20715,Pinnacle,
