@@ -51,6 +51,11 @@ id,leagueName,sport,leagueNameLegacy
 305,USA - MLB All Star,Baseball,USA - MLB All Star
 306,Mexico - LMB,Baseball,Mexico - LMB
 310,Czech Republic - Extraliga,Hockey,Czech Republic - Extraliga
+311,NCAAH,Hockey,NCAAH
+312,Champions Hockey League,Hockey,Champions Hockey League
+313,Canada - OHL,Hockey,Canada - OHL
+314,Canada - QMJHL,Hockey,Canada - QMJHL
+315,Canada - WHL,Hockey,Canada - WHL
 319,Finland - SM Liiga,Hockey,Finland - SM Liiga
 321,Russia - KHL,Hockey,Russia - KHL
 322,Germany - DEL,Hockey,Germany - DEL
@@ -210,6 +215,7 @@ id,leagueName,sport,leagueNameLegacy
 20226,FIBA - Americup,Basketball,FIBA - Americup
 20227,International - ABA League,Basketball,International - ABA League
 20228,Israel - Super League,Basketball,Israel - Super League
+20229,International - VTB United League,Basketball,International - VTB United League
 20293,Rainbow Six Siege,eSports,Rainbow Six Siege
 20294,Starcraft 2,eSports,Starcraft 2
 20295,Mobile Legends Bang Bang,eSports,Mobile Legends Bang Bang
