@@ -60,7 +60,7 @@ overtime-puller-opticodds-basketball-leagues-two,Australia - NBL;China - CBA;Tur
 overtime-puller-opticodds-basketball-3x3,BIG3,20210,1,10s,false,0x525d90AE1f658FDA374b1Ddd8Ed8811F3eF86691,2m,
 overtime-puller-opticodds-waterpolo,FINA - World Championship;FINA - World Championship Women,20870;20871,2,10s,false,0x465615f16e453a77B11f42EaB497883f7E05Ca7D,2m,
 overtime-puller-opticodds-lacrosse,USA - National Lacrosse League;USA - Premier Lacrosse League,20310;20311,1,10s,false,0xD215dbFd1e146E5ae7d92AdbCfFEF8AC97d66F64,2m,
-overtime-puller-opticodds-hockey-euro,Finland - SM Liiga;Russia - KHL;Sweden - SHL,312;319;321;324,1,10s,false,0x0AF1e8D67FED1eb49766c42a28178d805FD24C13,2m, ADD UCL here!!!
+overtime-puller-opticodds-hockey-euro,Champions Hockey League;Finland - SM Liiga;Russia - KHL;Sweden - SHL,312;319;321;324,1,10s,false,0x0AF1e8D67FED1eb49766c42a28178d805FD24C13,2m,
 overtime-puller-opticodds-hockey-euro-two,IIHF - World Championship;Switzerland - National League;Czech Republic - Extraliga;Germany - DEL;Austria - Ice Hockey League,33;310;327;322;323,1,10s,false,0x62D692D6C406b275130EB4C3627f17b9028FFB79,2m,
 overtime-puller-opticodds-handball-europe,EHF - Champions League;EHF - Champions League Women;EHF - European League,383;384;385,1,10s,false,0x59560b910582C293D204B614AFf4d0b0eac2D3Db,2m,
 overtime-puller-opticodds-handball-leagues,France - LNH Division 1;Germany - HBL;Spain - ASOBAL;Sweden - Handbollsligan;Poland - Superliga,387;386;398;397;392,1,10s,false,0xA36316c0fCd8c7fA5ccCeB54298ec3b8f9bF4DC8,2m,
