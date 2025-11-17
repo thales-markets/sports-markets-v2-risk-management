@@ -2454,3 +2454,73 @@ International Champions League,20218,10311,3rd Quarter Team Total,Total,true,0.9
 International Champions League,20218,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
 International Champions League,20218,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
 International Champions League,20218,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
+GREECE_A1_LEAGUE,20217,0,Moneyline,Moneyline,true,0.95,0.05,2
+GREECE_A1_LEAGUE,20217,10001,Point Spread,Spread,true,0.95,0.05,2
+GREECE_A1_LEAGUE,20217,10002,Total Points,Total,true,0.95,0.05,2
+GREECE_A1_LEAGUE,20217,10017,Team Total,Total,true,0.95,0.05,2
+GREECE_A1_LEAGUE,20217,10018,Team Total,Total,true,0.95,0.05,2
+ABA_LEAGUE,20227,0,Moneyline,Moneyline,true,0.95,0.05,2
+ABA_LEAGUE,20227,10001,Point Spread,Spread,true,0.95,0.05,2
+ABA_LEAGUE,20227,10002,Total Points,Total,true,0.95,0.05,2
+ABA_LEAGUE,20227,10017,Team Total,Total,true,0.95,0.05,2
+ABA_LEAGUE,20227,10018,Team Total,Total,true,0.95,0.05,2
+ISRAEL_SUPER_LEAGUE,20228,0,Moneyline,Moneyline,true,0.95,0.05,2
+ISRAEL_SUPER_LEAGUE,20228,10001,Point Spread,Spread,true,0.95,0.05,2
+ISRAEL_SUPER_LEAGUE,20228,10002,Total Points,Total,true,0.95,0.05,2
+ISRAEL_SUPER_LEAGUE,20228,10017,Team Total,Total,true,0.95,0.05,2
+ISRAEL_SUPER_LEAGUE,20228,10018,Team Total,Total,true,0.95,0.05,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,0,Moneyline,Moneyline,true,0.95,0.05,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10001,Point Spread,Spread,true,0.95,0.05,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10002,Total Points,Total,true,0.95,0.05,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10017,Team Total,Total,true,0.95,0.05,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10018,Team Total,Total,true,0.95,0.05,2
+ITALY_LEGA_BASKET_SERIA_A,20202,0,Moneyline,Moneyline,true,0.95,0.05,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10001,Point Spread,Spread,true,0.95,0.05,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10002,Total Points,Total,true,0.95,0.05,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10017,Team Total,Total,true,0.95,0.05,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10018,Team Total,Total,true,0.95,0.05,2
+GERMANY_BBL,20203,0,Moneyline,Moneyline,true,0.95,0.05,2
+GERMANY_BBL,20203,10001,Point Spread,Spread,true,0.95,0.05,2
+GERMANY_BBL,20203,10002,Total Points,Total,true,0.95,0.05,2
+GERMANY_BBL,20203,10017,Team Total,Total,true,0.95,0.05,2
+GERMANY_BBL,20203,10018,Team Total,Total,true,0.95,0.05,2
+FRANCE_LNB_PRO_A,20204,0,Moneyline,Moneyline,true,0.95,0.05,2
+FRANCE_LNB_PRO_A,20204,10001,Point Spread,Spread,true,0.95,0.05,2
+FRANCE_LNB_PRO_A,20204,10002,Total Points,Total,true,0.95,0.05,2
+FRANCE_LNB_PRO_A,20204,10017,Team Total,Total,true,0.95,0.05,2
+FRANCE_LNB_PRO_A,20204,10018,Team Total,Total,true,0.95,0.05,2
+CHINA_CBA,20205,0,Moneyline,Moneyline,true,0.95,0.05,2
+CHINA_CBA,20205,10001,Point Spread,Spread,true,0.95,0.05,2
+CHINA_CBA,20205,10002,Total Points,Total,true,0.95,0.05,2
+CHINA_CBA,20205,10017,Team Total,Total,true,0.95,0.05,2
+CHINA_CBA,20205,10018,Team Total,Total,true,0.95,0.05,2
+AUSTRALIA_NBL,20206,0,Moneyline,Moneyline,true,0.95,0.05,2
+AUSTRALIA_NBL,20206,10001,Point Spread,Spread,true,0.95,0.05,2
+AUSTRALIA_NBL,20206,10002,Total Points,Total,true,0.95,0.05,2
+AUSTRALIA_NBL,20206,10017,Team Total,Total,true,0.95,0.05,2
+AUSTRALIA_NBL,20206,10018,Team Total,Total,true,0.95,0.05,2
+JAPAN_B1_LEAGUE,20207,0,Moneyline,Moneyline,true,0.95,0.05,2
+JAPAN_B1_LEAGUE,20207,10001,Point Spread,Spread,true,0.95,0.05,2
+JAPAN_B1_LEAGUE,20207,10002,Total Points,Total,true,0.95,0.05,2
+JAPAN_B1_LEAGUE,20207,10017,Team Total,Total,true,0.95,0.05,2
+JAPAN_B1_LEAGUE,20207,10018,Team Total,Total,true,0.95,0.05,2
+KOREA_BBL,20208,0,Moneyline,Moneyline,true,0.95,0.05,2
+KOREA_BBL,20208,10001,Point Spread,Spread,true,0.95,0.05,2
+KOREA_BBL,20208,10002,Total Points,Total,true,0.95,0.05,2
+KOREA_BBL,20208,10017,Team Total,Total,true,0.95,0.05,2
+KOREA_BBL,20208,10018,Team Total,Total,true,0.95,0.05,2
+ENGLAND_BBL,20209,0,Moneyline,Moneyline,true,0.95,0.05,2
+ENGLAND_BBL,20209,10001,Point Spread,Spread,true,0.95,0.05,2
+ENGLAND_BBL,20209,10002,Total Points,Total,true,0.95,0.05,2
+ENGLAND_BBL,20209,10017,Team Total,Total,true,0.95,0.05,2
+ENGLAND_BBL,20209,10018,Team Total,Total,true,0.95,0.05,2
+BIG3,20210,0,Moneyline,Moneyline,true,0.95,0.05,2
+BIG3,20210,10001,Point Spread,Spread,true,0.95,0.05,2
+BIG3,20210,10002,Total Points,Total,true,0.95,0.05,2
+BIG3,20210,10017,Team Total,Total,true,0.95,0.05,2
+BIG3,20210,10018,Team Total,Total,true,0.95,0.05,2
+TURKEY_BSL,20219,0,Moneyline,Moneyline,true,0.95,0.05,2
+TURKEY_BSL,20219,10001,Point Spread,Spread,true,0.95,0.05,2
+TURKEY_BSL,20219,10002,Total Points,Total,true,0.95,0.05,2
+TURKEY_BSL,20219,10017,Team Total,Total,true,0.95,0.05,2
+TURKEY_BSL,20219,10018,Team Total,Total,true,0.95,0.05,2
