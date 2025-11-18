@@ -257,6 +257,34 @@ KHL,321,10167,5th Period Correct Score,Correct Score,true,0.99,0.01,2
 KHL,321,10101,1st Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
 KHL,321,10102,2nd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
 KHL,321,10103,3rd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+USA - AHL,328,10002,Total Goals,Total,true,0.95,0.05,2
+USA - AHL,328,10017,Team Total,Total,true,0.95,0.05,2
+USA - AHL,328,10018,Team Total,Total,true,0.95,0.05,2
+USA - AHL,328,10031,1st Period Total Goals,Total,true,0.95,0.05,2
+USA - AHL,328,10032,2nd Period Total Goals,Total,true,0.95,0.05,2
+USA - AHL,328,10033,3rd Period Total Goals,Total,true,0.95,0.05,2
+USA - AHL,328,10041,1st Period Puck Line,Spread,true,0.95,0.05,1
+USA - AHL,328,10042,2nd Period Puck Line,Spread,true,0.95,0.05,1
+USA - AHL,328,10043,3rd Period Puck Line,Spread,true,0.95,0.05,1
+USA - AHL,328,10021,1st Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+USA - AHL,328,10022,2nd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+USA - AHL,328,10023,3rd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+USA - AHL,328,10111,1st Period Team Total,Total,true,0.95,0.05,2
+USA - AHL,328,10112,1st Period Team Total,Total,true,0.95,0.05,2
+USA - AHL,328,10211,2nd Period Team Total,Total,true,0.95,0.05,2
+USA - AHL,328,10212,2nd Period Team Total,Total,true,0.95,0.05,2
+USA - AHL,328,10311,3rd Period Team Total,Total,true,0.95,0.05,2
+USA - AHL,328,10312,3rd Period Team Total,Total,true,0.95,0.05,2
+USA - AHL,328,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
+USA - AHL,328,10100,Correct Score,Correct Score,true,0.99,0.01,2
+USA - AHL,328,10163,1st Period Correct Score,Correct Score,true,0.99,0.01,2
+USA - AHL,328,10164,2nd Period Correct Score,Correct Score,true,0.99,0.01,2
+USA - AHL,328,10165,3rd Period Correct Score,Correct Score,true,0.99,0.01,2
+USA - AHL,328,10166,4th Period Correct Score,Correct Score,true,0.99,0.01,2
+USA - AHL,328,10167,5th Period Correct Score,Correct Score,true,0.99,0.01,2
+USA - AHL,328,10101,1st Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+USA - AHL,328,10102,2nd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+USA - AHL,328,10103,3rd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
 WNBA,8,0,Moneyline,Moneyline,true,0.95,0.05,1
 WNBA,8,10001,Point Spread,Spread,true,0.95,0.05,2
 WNBA,8,10002,Total Points,Total,true,0.95,0.05,3
