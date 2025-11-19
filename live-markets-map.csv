@@ -2456,71 +2456,407 @@ GREECE_A1_LEAGUE,20217,10001,Point Spread,Spread,true,0.95,0.05,2
 GREECE_A1_LEAGUE,20217,10002,Total Points,Total,true,0.95,0.05,2
 GREECE_A1_LEAGUE,20217,10017,Team Total,Total,true,0.95,0.05,2
 GREECE_A1_LEAGUE,20217,10018,Team Total,Total,true,0.95,0.05,2
+GREECE_A1_LEAGUE,20217,10031,1st Quarter Total Points,Total,true,0.95,0.05,2
+GREECE_A1_LEAGUE,20217,10032,2nd Quarter Total Points,Total,true,0.95,0.05,2
+GREECE_A1_LEAGUE,20217,10033,3rd Quarter Total Points,Total,true,0.95,0.05,2
+GREECE_A1_LEAGUE,20217,10034,4th Quarter Total Points,Total,true,0.95,0.05,2
+GREECE_A1_LEAGUE,20217,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,2
+GREECE_A1_LEAGUE,20217,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,2
+GREECE_A1_LEAGUE,20217,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,2
+GREECE_A1_LEAGUE,20217,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,2
+GREECE_A1_LEAGUE,20217,10071,1st Half Point Spread,Spread,true,0.95,0.05,2
+GREECE_A1_LEAGUE,20217,10072,2nd Half Point Spread,Spread,true,0.95,0.05,2
+GREECE_A1_LEAGUE,20217,10061,1st Half Total Points,Total,true,0.95,0.05,2
+GREECE_A1_LEAGUE,20217,10062,2nd Half Total Points,Total,true,0.95,0.05,2
+GREECE_A1_LEAGUE,20217,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,2
+GREECE_A1_LEAGUE,20217,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+GREECE_A1_LEAGUE,20217,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+GREECE_A1_LEAGUE,20217,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,2
+GREECE_A1_LEAGUE,20217,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,2
+GREECE_A1_LEAGUE,20217,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
+GREECE_A1_LEAGUE,20217,10111,1st Quarter Team Total,Total,true,0.95,0.05,2
+GREECE_A1_LEAGUE,20217,10112,1st Quarter Team Total,Total,true,0.95,0.05,2
+GREECE_A1_LEAGUE,20217,10211,2nd Quarter Team Total,Total,true,0.95,0.05,2
+GREECE_A1_LEAGUE,20217,10212,2nd Quarter Team Total,Total,true,0.95,0.05,2
+GREECE_A1_LEAGUE,20217,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
+GREECE_A1_LEAGUE,20217,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
+GREECE_A1_LEAGUE,20217,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
+GREECE_A1_LEAGUE,20217,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
 ABA_LEAGUE,20227,0,Moneyline,Moneyline,true,0.95,0.05,2
 ABA_LEAGUE,20227,10001,Point Spread,Spread,true,0.95,0.05,2
 ABA_LEAGUE,20227,10002,Total Points,Total,true,0.95,0.05,2
 ABA_LEAGUE,20227,10017,Team Total,Total,true,0.95,0.05,2
 ABA_LEAGUE,20227,10018,Team Total,Total,true,0.95,0.05,2
+ABA_LEAGUE,20227,10031,1st Quarter Total Points,Total,true,0.95,0.05,2
+ABA_LEAGUE,20227,10032,2nd Quarter Total Points,Total,true,0.95,0.05,2
+ABA_LEAGUE,20227,10033,3rd Quarter Total Points,Total,true,0.95,0.05,2
+ABA_LEAGUE,20227,10034,4th Quarter Total Points,Total,true,0.95,0.05,2
+ABA_LEAGUE,20227,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,2
+ABA_LEAGUE,20227,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,2
+ABA_LEAGUE,20227,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,2
+ABA_LEAGUE,20227,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,2
+ABA_LEAGUE,20227,10071,1st Half Point Spread,Spread,true,0.95,0.05,2
+ABA_LEAGUE,20227,10072,2nd Half Point Spread,Spread,true,0.95,0.05,2
+ABA_LEAGUE,20227,10061,1st Half Total Points,Total,true,0.95,0.05,2
+ABA_LEAGUE,20227,10062,2nd Half Total Points,Total,true,0.95,0.05,2
+ABA_LEAGUE,20227,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,2
+ABA_LEAGUE,20227,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+ABA_LEAGUE,20227,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+ABA_LEAGUE,20227,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,2
+ABA_LEAGUE,20227,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,2
+ABA_LEAGUE,20227,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
+ABA_LEAGUE,20227,10111,1st Quarter Team Total,Total,true,0.95,0.05,2
+ABA_LEAGUE,20227,10112,1st Quarter Team Total,Total,true,0.95,0.05,2
+ABA_LEAGUE,20227,10211,2nd Quarter Team Total,Total,true,0.95,0.05,2
+ABA_LEAGUE,20227,10212,2nd Quarter Team Total,Total,true,0.95,0.05,2
+ABA_LEAGUE,20227,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
+ABA_LEAGUE,20227,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
+ABA_LEAGUE,20227,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
+ABA_LEAGUE,20227,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
 ISRAEL_SUPER_LEAGUE,20228,0,Moneyline,Moneyline,true,0.95,0.05,2
 ISRAEL_SUPER_LEAGUE,20228,10001,Point Spread,Spread,true,0.95,0.05,2
 ISRAEL_SUPER_LEAGUE,20228,10002,Total Points,Total,true,0.95,0.05,2
 ISRAEL_SUPER_LEAGUE,20228,10017,Team Total,Total,true,0.95,0.05,2
 ISRAEL_SUPER_LEAGUE,20228,10018,Team Total,Total,true,0.95,0.05,2
+ISRAEL_SUPER_LEAGUE,20228,10031,1st Quarter Total Points,Total,true,0.95,0.05,2
+ISRAEL_SUPER_LEAGUE,20228,10032,2nd Quarter Total Points,Total,true,0.95,0.05,2
+ISRAEL_SUPER_LEAGUE,20228,10033,3rd Quarter Total Points,Total,true,0.95,0.05,2
+ISRAEL_SUPER_LEAGUE,20228,10034,4th Quarter Total Points,Total,true,0.95,0.05,2
+ISRAEL_SUPER_LEAGUE,20228,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,2
+ISRAEL_SUPER_LEAGUE,20228,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,2
+ISRAEL_SUPER_LEAGUE,20228,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,2
+ISRAEL_SUPER_LEAGUE,20228,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,2
+ISRAEL_SUPER_LEAGUE,20228,10071,1st Half Point Spread,Spread,true,0.95,0.05,2
+ISRAEL_SUPER_LEAGUE,20228,10072,2nd Half Point Spread,Spread,true,0.95,0.05,2
+ISRAEL_SUPER_LEAGUE,20228,10061,1st Half Total Points,Total,true,0.95,0.05,2
+ISRAEL_SUPER_LEAGUE,20228,10062,2nd Half Total Points,Total,true,0.95,0.05,2
+ISRAEL_SUPER_LEAGUE,20228,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,2
+ISRAEL_SUPER_LEAGUE,20228,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+ISRAEL_SUPER_LEAGUE,20228,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+ISRAEL_SUPER_LEAGUE,20228,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,2
+ISRAEL_SUPER_LEAGUE,20228,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,2
+ISRAEL_SUPER_LEAGUE,20228,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
+ISRAEL_SUPER_LEAGUE,20228,10111,1st Quarter Team Total,Total,true,0.95,0.05,2
+ISRAEL_SUPER_LEAGUE,20228,10112,1st Quarter Team Total,Total,true,0.95,0.05,2
+ISRAEL_SUPER_LEAGUE,20228,10211,2nd Quarter Team Total,Total,true,0.95,0.05,2
+ISRAEL_SUPER_LEAGUE,20228,10212,2nd Quarter Team Total,Total,true,0.95,0.05,2
+ISRAEL_SUPER_LEAGUE,20228,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
+ISRAEL_SUPER_LEAGUE,20228,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
+ISRAEL_SUPER_LEAGUE,20228,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
+ISRAEL_SUPER_LEAGUE,20228,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
 BASKETBALL_CHAMPIONS_LEAGUE,20218,0,Moneyline,Moneyline,true,0.95,0.05,2
 BASKETBALL_CHAMPIONS_LEAGUE,20218,10001,Point Spread,Spread,true,0.95,0.05,2
 BASKETBALL_CHAMPIONS_LEAGUE,20218,10002,Total Points,Total,true,0.95,0.05,2
 BASKETBALL_CHAMPIONS_LEAGUE,20218,10017,Team Total,Total,true,0.95,0.05,2
 BASKETBALL_CHAMPIONS_LEAGUE,20218,10018,Team Total,Total,true,0.95,0.05,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10031,1st Quarter Total Points,Total,true,0.95,0.05,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10032,2nd Quarter Total Points,Total,true,0.95,0.05,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10033,3rd Quarter Total Points,Total,true,0.95,0.05,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10034,4th Quarter Total Points,Total,true,0.95,0.05,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10071,1st Half Point Spread,Spread,true,0.95,0.05,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10072,2nd Half Point Spread,Spread,true,0.95,0.05,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10061,1st Half Total Points,Total,true,0.95,0.05,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10062,2nd Half Total Points,Total,true,0.95,0.05,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10111,1st Quarter Team Total,Total,true,0.95,0.05,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10112,1st Quarter Team Total,Total,true,0.95,0.05,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10211,2nd Quarter Team Total,Total,true,0.95,0.05,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10212,2nd Quarter Team Total,Total,true,0.95,0.05,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
+BASKETBALL_CHAMPIONS_LEAGUE,20218,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
 ITALY_LEGA_BASKET_SERIA_A,20202,0,Moneyline,Moneyline,true,0.95,0.05,2
 ITALY_LEGA_BASKET_SERIA_A,20202,10001,Point Spread,Spread,true,0.95,0.05,2
 ITALY_LEGA_BASKET_SERIA_A,20202,10002,Total Points,Total,true,0.95,0.05,2
 ITALY_LEGA_BASKET_SERIA_A,20202,10017,Team Total,Total,true,0.95,0.05,2
 ITALY_LEGA_BASKET_SERIA_A,20202,10018,Team Total,Total,true,0.95,0.05,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10031,1st Quarter Total Points,Total,true,0.95,0.05,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10032,2nd Quarter Total Points,Total,true,0.95,0.05,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10033,3rd Quarter Total Points,Total,true,0.95,0.05,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10034,4th Quarter Total Points,Total,true,0.95,0.05,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10071,1st Half Point Spread,Spread,true,0.95,0.05,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10072,2nd Half Point Spread,Spread,true,0.95,0.05,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10061,1st Half Total Points,Total,true,0.95,0.05,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10062,2nd Half Total Points,Total,true,0.95,0.05,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10111,1st Quarter Team Total,Total,true,0.95,0.05,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10112,1st Quarter Team Total,Total,true,0.95,0.05,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10211,2nd Quarter Team Total,Total,true,0.95,0.05,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10212,2nd Quarter Team Total,Total,true,0.95,0.05,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
+ITALY_LEGA_BASKET_SERIA_A,20202,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
 GERMANY_BBL,20203,0,Moneyline,Moneyline,true,0.95,0.05,2
 GERMANY_BBL,20203,10001,Point Spread,Spread,true,0.95,0.05,2
 GERMANY_BBL,20203,10002,Total Points,Total,true,0.95,0.05,2
 GERMANY_BBL,20203,10017,Team Total,Total,true,0.95,0.05,2
 GERMANY_BBL,20203,10018,Team Total,Total,true,0.95,0.05,2
+GERMANY_BBL,20203,10031,1st Quarter Total Points,Total,true,0.95,0.05,2
+GERMANY_BBL,20203,10032,2nd Quarter Total Points,Total,true,0.95,0.05,2
+GERMANY_BBL,20203,10033,3rd Quarter Total Points,Total,true,0.95,0.05,2
+GERMANY_BBL,20203,10034,4th Quarter Total Points,Total,true,0.95,0.05,2
+GERMANY_BBL,20203,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,2
+GERMANY_BBL,20203,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,2
+GERMANY_BBL,20203,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,2
+GERMANY_BBL,20203,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,2
+GERMANY_BBL,20203,10071,1st Half Point Spread,Spread,true,0.95,0.05,2
+GERMANY_BBL,20203,10072,2nd Half Point Spread,Spread,true,0.95,0.05,2
+GERMANY_BBL,20203,10061,1st Half Total Points,Total,true,0.95,0.05,2
+GERMANY_BBL,20203,10062,2nd Half Total Points,Total,true,0.95,0.05,2
+GERMANY_BBL,20203,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,2
+GERMANY_BBL,20203,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+GERMANY_BBL,20203,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+GERMANY_BBL,20203,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,2
+GERMANY_BBL,20203,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,2
+GERMANY_BBL,20203,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
+GERMANY_BBL,20203,10111,1st Quarter Team Total,Total,true,0.95,0.05,2
+GERMANY_BBL,20203,10112,1st Quarter Team Total,Total,true,0.95,0.05,2
+GERMANY_BBL,20203,10211,2nd Quarter Team Total,Total,true,0.95,0.05,2
+GERMANY_BBL,20203,10212,2nd Quarter Team Total,Total,true,0.95,0.05,2
+GERMANY_BBL,20203,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
+GERMANY_BBL,20203,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
+GERMANY_BBL,20203,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
+GERMANY_BBL,20203,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
 FRANCE_LNB_PRO_A,20204,0,Moneyline,Moneyline,true,0.95,0.05,2
 FRANCE_LNB_PRO_A,20204,10001,Point Spread,Spread,true,0.95,0.05,2
 FRANCE_LNB_PRO_A,20204,10002,Total Points,Total,true,0.95,0.05,2
 FRANCE_LNB_PRO_A,20204,10017,Team Total,Total,true,0.95,0.05,2
 FRANCE_LNB_PRO_A,20204,10018,Team Total,Total,true,0.95,0.05,2
+FRANCE_LNB_PRO_A,20204,10031,1st Quarter Total Points,Total,true,0.95,0.05,2
+FRANCE_LNB_PRO_A,20204,10032,2nd Quarter Total Points,Total,true,0.95,0.05,2
+FRANCE_LNB_PRO_A,20204,10033,3rd Quarter Total Points,Total,true,0.95,0.05,2
+FRANCE_LNB_PRO_A,20204,10034,4th Quarter Total Points,Total,true,0.95,0.05,2
+FRANCE_LNB_PRO_A,20204,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,2
+FRANCE_LNB_PRO_A,20204,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,2
+FRANCE_LNB_PRO_A,20204,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,2
+FRANCE_LNB_PRO_A,20204,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,2
+FRANCE_LNB_PRO_A,20204,10071,1st Half Point Spread,Spread,true,0.95,0.05,2
+FRANCE_LNB_PRO_A,20204,10072,2nd Half Point Spread,Spread,true,0.95,0.05,2
+FRANCE_LNB_PRO_A,20204,10061,1st Half Total Points,Total,true,0.95,0.05,2
+FRANCE_LNB_PRO_A,20204,10062,2nd Half Total Points,Total,true,0.95,0.05,2
+FRANCE_LNB_PRO_A,20204,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,2
+FRANCE_LNB_PRO_A,20204,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+FRANCE_LNB_PRO_A,20204,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+FRANCE_LNB_PRO_A,20204,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,2
+FRANCE_LNB_PRO_A,20204,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,2
+FRANCE_LNB_PRO_A,20204,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
+FRANCE_LNB_PRO_A,20204,10111,1st Quarter Team Total,Total,true,0.95,0.05,2
+FRANCE_LNB_PRO_A,20204,10112,1st Quarter Team Total,Total,true,0.95,0.05,2
+FRANCE_LNB_PRO_A,20204,10211,2nd Quarter Team Total,Total,true,0.95,0.05,2
+FRANCE_LNB_PRO_A,20204,10212,2nd Quarter Team Total,Total,true,0.95,0.05,2
+FRANCE_LNB_PRO_A,20204,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
+FRANCE_LNB_PRO_A,20204,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
+FRANCE_LNB_PRO_A,20204,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
+FRANCE_LNB_PRO_A,20204,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
 CHINA_CBA,20205,0,Moneyline,Moneyline,true,0.95,0.05,2
 CHINA_CBA,20205,10001,Point Spread,Spread,true,0.95,0.05,2
 CHINA_CBA,20205,10002,Total Points,Total,true,0.95,0.05,2
 CHINA_CBA,20205,10017,Team Total,Total,true,0.95,0.05,2
 CHINA_CBA,20205,10018,Team Total,Total,true,0.95,0.05,2
+CHINA_CBA,20205,10031,1st Quarter Total Points,Total,true,0.95,0.05,2
+CHINA_CBA,20205,10032,2nd Quarter Total Points,Total,true,0.95,0.05,2
+CHINA_CBA,20205,10033,3rd Quarter Total Points,Total,true,0.95,0.05,2
+CHINA_CBA,20205,10034,4th Quarter Total Points,Total,true,0.95,0.05,2
+CHINA_CBA,20205,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,2
+CHINA_CBA,20205,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,2
+CHINA_CBA,20205,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,2
+CHINA_CBA,20205,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,2
+CHINA_CBA,20205,10071,1st Half Point Spread,Spread,true,0.95,0.05,2
+CHINA_CBA,20205,10072,2nd Half Point Spread,Spread,true,0.95,0.05,2
+CHINA_CBA,20205,10061,1st Half Total Points,Total,true,0.95,0.05,2
+CHINA_CBA,20205,10062,2nd Half Total Points,Total,true,0.95,0.05,2
+CHINA_CBA,20205,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,2
+CHINA_CBA,20205,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+CHINA_CBA,20205,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+CHINA_CBA,20205,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,2
+CHINA_CBA,20205,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,2
+CHINA_CBA,20205,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
+CHINA_CBA,20205,10111,1st Quarter Team Total,Total,true,0.95,0.05,2
+CHINA_CBA,20205,10112,1st Quarter Team Total,Total,true,0.95,0.05,2
+CHINA_CBA,20205,10211,2nd Quarter Team Total,Total,true,0.95,0.05,2
+CHINA_CBA,20205,10212,2nd Quarter Team Total,Total,true,0.95,0.05,2
+CHINA_CBA,20205,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
+CHINA_CBA,20205,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
+CHINA_CBA,20205,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
+CHINA_CBA,20205,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
 AUSTRALIA_NBL,20206,0,Moneyline,Moneyline,true,0.95,0.05,2
 AUSTRALIA_NBL,20206,10001,Point Spread,Spread,true,0.95,0.05,2
 AUSTRALIA_NBL,20206,10002,Total Points,Total,true,0.95,0.05,2
 AUSTRALIA_NBL,20206,10017,Team Total,Total,true,0.95,0.05,2
 AUSTRALIA_NBL,20206,10018,Team Total,Total,true,0.95,0.05,2
+AUSTRALIA_NBL,20206,10031,1st Quarter Total Points,Total,true,0.95,0.05,2
+AUSTRALIA_NBL,20206,10032,2nd Quarter Total Points,Total,true,0.95,0.05,2
+AUSTRALIA_NBL,20206,10033,3rd Quarter Total Points,Total,true,0.95,0.05,2
+AUSTRALIA_NBL,20206,10034,4th Quarter Total Points,Total,true,0.95,0.05,2
+AUSTRALIA_NBL,20206,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,2
+AUSTRALIA_NBL,20206,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,2
+AUSTRALIA_NBL,20206,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,2
+AUSTRALIA_NBL,20206,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,2
+AUSTRALIA_NBL,20206,10071,1st Half Point Spread,Spread,true,0.95,0.05,2
+AUSTRALIA_NBL,20206,10072,2nd Half Point Spread,Spread,true,0.95,0.05,2
+AUSTRALIA_NBL,20206,10061,1st Half Total Points,Total,true,0.95,0.05,2
+AUSTRALIA_NBL,20206,10062,2nd Half Total Points,Total,true,0.95,0.05,2
+AUSTRALIA_NBL,20206,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,2
+AUSTRALIA_NBL,20206,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+AUSTRALIA_NBL,20206,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+AUSTRALIA_NBL,20206,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,2
+AUSTRALIA_NBL,20206,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,2
+AUSTRALIA_NBL,20206,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
+AUSTRALIA_NBL,20206,10111,1st Quarter Team Total,Total,true,0.95,0.05,2
+AUSTRALIA_NBL,20206,10112,1st Quarter Team Total,Total,true,0.95,0.05,2
+AUSTRALIA_NBL,20206,10211,2nd Quarter Team Total,Total,true,0.95,0.05,2
+AUSTRALIA_NBL,20206,10212,2nd Quarter Team Total,Total,true,0.95,0.05,2
+AUSTRALIA_NBL,20206,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
+AUSTRALIA_NBL,20206,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
+AUSTRALIA_NBL,20206,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
+AUSTRALIA_NBL,20206,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
 JAPAN_B1_LEAGUE,20207,0,Moneyline,Moneyline,true,0.95,0.05,2
 JAPAN_B1_LEAGUE,20207,10001,Point Spread,Spread,true,0.95,0.05,2
 JAPAN_B1_LEAGUE,20207,10002,Total Points,Total,true,0.95,0.05,2
 JAPAN_B1_LEAGUE,20207,10017,Team Total,Total,true,0.95,0.05,2
 JAPAN_B1_LEAGUE,20207,10018,Team Total,Total,true,0.95,0.05,2
+JAPAN_B1_LEAGUE,20207,10031,1st Quarter Total Points,Total,true,0.95,0.05,2
+JAPAN_B1_LEAGUE,20207,10032,2nd Quarter Total Points,Total,true,0.95,0.05,2
+JAPAN_B1_LEAGUE,20207,10033,3rd Quarter Total Points,Total,true,0.95,0.05,2
+JAPAN_B1_LEAGUE,20207,10034,4th Quarter Total Points,Total,true,0.95,0.05,2
+JAPAN_B1_LEAGUE,20207,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,2
+JAPAN_B1_LEAGUE,20207,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,2
+JAPAN_B1_LEAGUE,20207,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,2
+JAPAN_B1_LEAGUE,20207,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,2
+JAPAN_B1_LEAGUE,20207,10071,1st Half Point Spread,Spread,true,0.95,0.05,2
+JAPAN_B1_LEAGUE,20207,10072,2nd Half Point Spread,Spread,true,0.95,0.05,2
+JAPAN_B1_LEAGUE,20207,10061,1st Half Total Points,Total,true,0.95,0.05,2
+JAPAN_B1_LEAGUE,20207,10062,2nd Half Total Points,Total,true,0.95,0.05,2
+JAPAN_B1_LEAGUE,20207,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,2
+JAPAN_B1_LEAGUE,20207,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+JAPAN_B1_LEAGUE,20207,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+JAPAN_B1_LEAGUE,20207,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,2
+JAPAN_B1_LEAGUE,20207,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,2
+JAPAN_B1_LEAGUE,20207,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
+JAPAN_B1_LEAGUE,20207,10111,1st Quarter Team Total,Total,true,0.95,0.05,2
+JAPAN_B1_LEAGUE,20207,10112,1st Quarter Team Total,Total,true,0.95,0.05,2
+JAPAN_B1_LEAGUE,20207,10211,2nd Quarter Team Total,Total,true,0.95,0.05,2
+JAPAN_B1_LEAGUE,20207,10212,2nd Quarter Team Total,Total,true,0.95,0.05,2
+JAPAN_B1_LEAGUE,20207,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
+JAPAN_B1_LEAGUE,20207,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
+JAPAN_B1_LEAGUE,20207,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
+JAPAN_B1_LEAGUE,20207,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
 KOREA_BBL,20208,0,Moneyline,Moneyline,true,0.95,0.05,2
 KOREA_BBL,20208,10001,Point Spread,Spread,true,0.95,0.05,2
 KOREA_BBL,20208,10002,Total Points,Total,true,0.95,0.05,2
 KOREA_BBL,20208,10017,Team Total,Total,true,0.95,0.05,2
 KOREA_BBL,20208,10018,Team Total,Total,true,0.95,0.05,2
+KOREA_BBL,20208,10031,1st Quarter Total Points,Total,true,0.95,0.05,2
+KOREA_BBL,20208,10032,2nd Quarter Total Points,Total,true,0.95,0.05,2
+KOREA_BBL,20208,10033,3rd Quarter Total Points,Total,true,0.95,0.05,2
+KOREA_BBL,20208,10034,4th Quarter Total Points,Total,true,0.95,0.05,2
+KOREA_BBL,20208,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,2
+KOREA_BBL,20208,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,2
+KOREA_BBL,20208,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,2
+KOREA_BBL,20208,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,2
+KOREA_BBL,20208,10071,1st Half Point Spread,Spread,true,0.95,0.05,2
+KOREA_BBL,20208,10072,2nd Half Point Spread,Spread,true,0.95,0.05,2
+KOREA_BBL,20208,10061,1st Half Total Points,Total,true,0.95,0.05,2
+KOREA_BBL,20208,10062,2nd Half Total Points,Total,true,0.95,0.05,2
+KOREA_BBL,20208,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,2
+KOREA_BBL,20208,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+KOREA_BBL,20208,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+KOREA_BBL,20208,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,2
+KOREA_BBL,20208,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,2
+KOREA_BBL,20208,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
+KOREA_BBL,20208,10111,1st Quarter Team Total,Total,true,0.95,0.05,2
+KOREA_BBL,20208,10112,1st Quarter Team Total,Total,true,0.95,0.05,2
+KOREA_BBL,20208,10211,2nd Quarter Team Total,Total,true,0.95,0.05,2
+KOREA_BBL,20208,10212,2nd Quarter Team Total,Total,true,0.95,0.05,2
+KOREA_BBL,20208,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
+KOREA_BBL,20208,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
+KOREA_BBL,20208,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
+KOREA_BBL,20208,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
 ENGLAND_BBL,20209,0,Moneyline,Moneyline,true,0.95,0.05,2
 ENGLAND_BBL,20209,10001,Point Spread,Spread,true,0.95,0.05,2
 ENGLAND_BBL,20209,10002,Total Points,Total,true,0.95,0.05,2
 ENGLAND_BBL,20209,10017,Team Total,Total,true,0.95,0.05,2
 ENGLAND_BBL,20209,10018,Team Total,Total,true,0.95,0.05,2
+ENGLAND_BBL,20209,10031,1st Quarter Total Points,Total,true,0.95,0.05,2
+ENGLAND_BBL,20209,10032,2nd Quarter Total Points,Total,true,0.95,0.05,2
+ENGLAND_BBL,20209,10033,3rd Quarter Total Points,Total,true,0.95,0.05,2
+ENGLAND_BBL,20209,10034,4th Quarter Total Points,Total,true,0.95,0.05,2
+ENGLAND_BBL,20209,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,2
+ENGLAND_BBL,20209,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,2
+ENGLAND_BBL,20209,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,2
+ENGLAND_BBL,20209,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,2
+ENGLAND_BBL,20209,10071,1st Half Point Spread,Spread,true,0.95,0.05,2
+ENGLAND_BBL,20209,10072,2nd Half Point Spread,Spread,true,0.95,0.05,2
+ENGLAND_BBL,20209,10061,1st Half Total Points,Total,true,0.95,0.05,2
+ENGLAND_BBL,20209,10062,2nd Half Total Points,Total,true,0.95,0.05,2
+ENGLAND_BBL,20209,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,2
+ENGLAND_BBL,20209,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+ENGLAND_BBL,20209,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+ENGLAND_BBL,20209,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,2
+ENGLAND_BBL,20209,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,2
+ENGLAND_BBL,20209,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
+ENGLAND_BBL,20209,10111,1st Quarter Team Total,Total,true,0.95,0.05,2
+ENGLAND_BBL,20209,10112,1st Quarter Team Total,Total,true,0.95,0.05,2
+ENGLAND_BBL,20209,10211,2nd Quarter Team Total,Total,true,0.95,0.05,2
+ENGLAND_BBL,20209,10212,2nd Quarter Team Total,Total,true,0.95,0.05,2
+ENGLAND_BBL,20209,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
+ENGLAND_BBL,20209,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
+ENGLAND_BBL,20209,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
+ENGLAND_BBL,20209,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
 BIG3,20210,0,Moneyline,Moneyline,true,0.95,0.05,2
 BIG3,20210,10001,Point Spread,Spread,true,0.95,0.05,2
 BIG3,20210,10002,Total Points,Total,true,0.95,0.05,2
-BIG3,20210,10017,Team Total,Total,true,0.95,0.05,2
-BIG3,20210,10018,Team Total,Total,true,0.95,0.05,2
 TURKEY_BSL,20219,0,Moneyline,Moneyline,true,0.95,0.05,2
 TURKEY_BSL,20219,10001,Point Spread,Spread,true,0.95,0.05,2
 TURKEY_BSL,20219,10002,Total Points,Total,true,0.95,0.05,2
 TURKEY_BSL,20219,10017,Team Total,Total,true,0.95,0.05,2
 TURKEY_BSL,20219,10018,Team Total,Total,true,0.95,0.05,2
+TURKEY_BSL,20219,10031,1st Quarter Total Points,Total,true,0.95,0.05,2
+TURKEY_BSL,20219,10032,2nd Quarter Total Points,Total,true,0.95,0.05,2
+TURKEY_BSL,20219,10033,3rd Quarter Total Points,Total,true,0.95,0.05,2
+TURKEY_BSL,20219,10034,4th Quarter Total Points,Total,true,0.95,0.05,2
+TURKEY_BSL,20219,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,2
+TURKEY_BSL,20219,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,2
+TURKEY_BSL,20219,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,2
+TURKEY_BSL,20219,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,2
+TURKEY_BSL,20219,10071,1st Half Point Spread,Spread,true,0.95,0.05,2
+TURKEY_BSL,20219,10072,2nd Half Point Spread,Spread,true,0.95,0.05,2
+TURKEY_BSL,20219,10061,1st Half Total Points,Total,true,0.95,0.05,2
+TURKEY_BSL,20219,10062,2nd Half Total Points,Total,true,0.95,0.05,2
+TURKEY_BSL,20219,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,2
+TURKEY_BSL,20219,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+TURKEY_BSL,20219,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,2
+TURKEY_BSL,20219,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,2
+TURKEY_BSL,20219,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,2
+TURKEY_BSL,20219,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,2
+TURKEY_BSL,20219,10111,1st Quarter Team Total,Total,true,0.95,0.05,2
+TURKEY_BSL,20219,10112,1st Quarter Team Total,Total,true,0.95,0.05,2
+TURKEY_BSL,20219,10211,2nd Quarter Team Total,Total,true,0.95,0.05,2
+TURKEY_BSL,20219,10212,2nd Quarter Team Total,Total,true,0.95,0.05,2
+TURKEY_BSL,20219,10311,3rd Quarter Team Total,Total,true,0.95,0.05,2
+TURKEY_BSL,20219,10312,3rd Quarter Team Total,Total,true,0.95,0.05,2
+TURKEY_BSL,20219,10411,4th Quarter Team Total,Total,true,0.95,0.05,2
+TURKEY_BSL,20219,10412,4th Quarter Team Total,Total,true,0.95,0.05,2
 CZECH_REPUBLIC_EXTRALIGA,310,0,Moneyline,Moneyline,true,0.95,0.05,1
 CZECH_REPUBLIC_EXTRALIGA,310,10001,Puck Line,Spread,true,0.95,0.05,1
 CZECH_REPUBLIC_EXTRALIGA,310,10002,Total Goals,Total,true,0.95,0.05,2
