@@ -207,6 +207,9 @@ NHL,6,10100,Correct Score,Correct Score,true,0.99,0.01,2
 NHL,6,10163,1st Period Correct Score,Correct Score,true,0.95,0.05,2
 NHL,6,10164,2nd Period Correct Score,Correct Score,true,0.95,0.05,2
 NHL,6,10165,3rd Period Correct Score,Correct Score,true,0.95,0.05,2
+NHL,6,10101,1st Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+NHL,6,10102,2nd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+NHL,6,10103,3rd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
 IIHF - World Championship,33,0,Moneyline,Moneyline,true,0.95,0.05,1
 IIHF - World Championship,33,10011,Moneyline 3-Way,Moneyline,true,0.95,0.05,1
 IIHF - World Championship,33,10001,Puck Line,Spread,true,0.95,0.05,1
@@ -228,9 +231,6 @@ IIHF - World Championship,33,10211,2nd Period Team Total,Total,true,0.95,0.05,2
 IIHF - World Championship,33,10212,2nd Period Team Total,Total,true,0.95,0.05,2
 IIHF - World Championship,33,10311,3rd Period Team Total,Total,true,0.95,0.05,2
 IIHF - World Championship,33,10312,3rd Period Team Total,Total,true,0.95,0.05,2
-KHL,321,0,Moneyline,Moneyline,true,0.95,0.05,1
-KHL,321,10001,Puck Line,Spread,true,0.95,0.05,1
-KHL,321,10002,Total Goals,Total,true,0.95,0.05,2
 WNBA,8,0,Moneyline,Moneyline,true,0.95,0.05,1
 WNBA,8,10001,Point Spread,Spread,true,0.95,0.05,2
 WNBA,8,10002,Total Points,Total,true,0.95,0.05,3
@@ -1499,9 +1499,6 @@ International - Champions League,20218,10002,Total Points,Total,true,0.95,0.05,2
 College Baseball,303,0,Moneyline,Moneyline,true,0.95,0.05,2
 College Baseball,303,10001,Run Line,Spread,true,0.95,0.05,2
 College Baseball,303,10002,Total Runs,Total,true,0.95,0.05,2
-Finland - SM Liiga,319,0,Moneyline,Moneyline,true,0.95,0.05,2
-Finland - SM Liiga,319,10001,Point Spread,Spread,true,0.95,0.05,2
-Finland - SM Liiga,319,10002,Total Points,Total,true,0.95,0.05,2
 NPB,301,0,Moneyline,Moneyline,true,0.95,0.05,2
 NPB,301,10001,Run Line,Spread,true,0.95,0.05,2
 NPB,301,10002,Total Runs,Total,true,0.95,0.05,2
@@ -2524,3 +2521,380 @@ TURKEY_BSL,20219,10001,Point Spread,Spread,true,0.95,0.05,2
 TURKEY_BSL,20219,10002,Total Points,Total,true,0.95,0.05,2
 TURKEY_BSL,20219,10017,Team Total,Total,true,0.95,0.05,2
 TURKEY_BSL,20219,10018,Team Total,Total,true,0.95,0.05,2
+CZECH_REPUBLIC_EXTRALIGA,310,0,Moneyline,Moneyline,true,0.95,0.05,1
+CZECH_REPUBLIC_EXTRALIGA,310,10001,Puck Line,Spread,true,0.95,0.05,1
+CZECH_REPUBLIC_EXTRALIGA,310,10002,Total Goals,Total,true,0.95,0.05,2
+CZECH_REPUBLIC_EXTRALIGA,310,10002,Total Goals,Total,true,0.95,0.05,2
+CZECH_REPUBLIC_EXTRALIGA,310,10017,Team Total,Total,true,0.95,0.05,2
+CZECH_REPUBLIC_EXTRALIGA,310,10018,Team Total,Total,true,0.95,0.05,2
+CZECH_REPUBLIC_EXTRALIGA,310,10031,1st Period Total Goals,Total,true,0.95,0.05,2
+CZECH_REPUBLIC_EXTRALIGA,310,10032,2nd Period Total Goals,Total,true,0.95,0.05,2
+CZECH_REPUBLIC_EXTRALIGA,310,10033,3rd Period Total Goals,Total,true,0.95,0.05,2
+CZECH_REPUBLIC_EXTRALIGA,310,10041,1st Period Puck Line,Spread,true,0.95,0.05,1
+CZECH_REPUBLIC_EXTRALIGA,310,10042,2nd Period Puck Line,Spread,true,0.95,0.05,1
+CZECH_REPUBLIC_EXTRALIGA,310,10043,3rd Period Puck Line,Spread,true,0.95,0.05,1
+CZECH_REPUBLIC_EXTRALIGA,310,10021,1st Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+CZECH_REPUBLIC_EXTRALIGA,310,10022,2nd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+CZECH_REPUBLIC_EXTRALIGA,310,10023,3rd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+CZECH_REPUBLIC_EXTRALIGA,310,10111,1st Period Team Total,Total,true,0.95,0.05,2
+CZECH_REPUBLIC_EXTRALIGA,310,10112,1st Period Team Total,Total,true,0.95,0.05,2
+CZECH_REPUBLIC_EXTRALIGA,310,10211,2nd Period Team Total,Total,true,0.95,0.05,2
+CZECH_REPUBLIC_EXTRALIGA,310,10212,2nd Period Team Total,Total,true,0.95,0.05,2
+CZECH_REPUBLIC_EXTRALIGA,310,10311,3rd Period Team Total,Total,true,0.95,0.05,2
+CZECH_REPUBLIC_EXTRALIGA,310,10312,3rd Period Team Total,Total,true,0.95,0.05,2
+CZECH_REPUBLIC_EXTRALIGA,310,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
+CZECH_REPUBLIC_EXTRALIGA,310,10100,Correct Score,Correct Score,true,0.99,0.01,2
+CZECH_REPUBLIC_EXTRALIGA,310,10163,1st Period Correct Score,Correct Score,true,0.99,0.01,2
+CZECH_REPUBLIC_EXTRALIGA,310,10164,2nd Period Correct Score,Correct Score,true,0.99,0.01,2
+CZECH_REPUBLIC_EXTRALIGA,310,10165,3rd Period Correct Score,Correct Score,true,0.99,0.01,2
+CZECH_REPUBLIC_EXTRALIGA,310,10101,1st Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+CZECH_REPUBLIC_EXTRALIGA,310,10102,2nd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+CZECH_REPUBLIC_EXTRALIGA,310,10103,3rd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+NCAAH,311,0,Moneyline,Moneyline,true,0.95,0.05,1
+NCAAH,311,10001,Puck Line,Spread,true,0.95,0.05,1
+NCAAH,311,10002,Total Goals,Total,true,0.95,0.05,2
+NCAAH,311,10002,Total Goals,Total,true,0.95,0.05,2
+NCAAH,311,10017,Team Total,Total,true,0.95,0.05,2
+NCAAH,311,10018,Team Total,Total,true,0.95,0.05,2
+NCAAH,311,10031,1st Period Total Goals,Total,true,0.95,0.05,2
+NCAAH,311,10032,2nd Period Total Goals,Total,true,0.95,0.05,2
+NCAAH,311,10033,3rd Period Total Goals,Total,true,0.95,0.05,2
+NCAAH,311,10041,1st Period Puck Line,Spread,true,0.95,0.05,1
+NCAAH,311,10042,2nd Period Puck Line,Spread,true,0.95,0.05,1
+NCAAH,311,10043,3rd Period Puck Line,Spread,true,0.95,0.05,1
+NCAAH,311,10021,1st Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+NCAAH,311,10022,2nd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+NCAAH,311,10023,3rd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+NCAAH,311,10111,1st Period Team Total,Total,true,0.95,0.05,2
+NCAAH,311,10112,1st Period Team Total,Total,true,0.95,0.05,2
+NCAAH,311,10211,2nd Period Team Total,Total,true,0.95,0.05,2
+NCAAH,311,10212,2nd Period Team Total,Total,true,0.95,0.05,2
+NCAAH,311,10311,3rd Period Team Total,Total,true,0.95,0.05,2
+NCAAH,311,10312,3rd Period Team Total,Total,true,0.95,0.05,2
+NCAAH,311,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
+NCAAH,311,10100,Correct Score,Correct Score,true,0.99,0.01,2
+NCAAH,311,10163,1st Period Correct Score,Correct Score,true,0.99,0.01,2
+NCAAH,311,10164,2nd Period Correct Score,Correct Score,true,0.99,0.01,2
+NCAAH,311,10165,3rd Period Correct Score,Correct Score,true,0.99,0.01,2
+NCAAH,311,10101,1st Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+NCAAH,311,10102,2nd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+NCAAH,311,10103,3rd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+CHAMPIONS_LEAGUE_HOCKEY,312,0,Moneyline,Moneyline,true,0.95,0.05,1
+CHAMPIONS_LEAGUE_HOCKEY,312,10001,Puck Line,Spread,true,0.95,0.05,1
+CHAMPIONS_LEAGUE_HOCKEY,312,10002,Total Goals,Total,true,0.95,0.05,2
+CHAMPIONS_LEAGUE_HOCKEY,312,10002,Total Goals,Total,true,0.95,0.05,2
+CHAMPIONS_LEAGUE_HOCKEY,312,10017,Team Total,Total,true,0.95,0.05,2
+CHAMPIONS_LEAGUE_HOCKEY,312,10018,Team Total,Total,true,0.95,0.05,2
+CHAMPIONS_LEAGUE_HOCKEY,312,10031,1st Period Total Goals,Total,true,0.95,0.05,2
+CHAMPIONS_LEAGUE_HOCKEY,312,10032,2nd Period Total Goals,Total,true,0.95,0.05,2
+CHAMPIONS_LEAGUE_HOCKEY,312,10033,3rd Period Total Goals,Total,true,0.95,0.05,2
+CHAMPIONS_LEAGUE_HOCKEY,312,10041,1st Period Puck Line,Spread,true,0.95,0.05,1
+CHAMPIONS_LEAGUE_HOCKEY,312,10042,2nd Period Puck Line,Spread,true,0.95,0.05,1
+CHAMPIONS_LEAGUE_HOCKEY,312,10043,3rd Period Puck Line,Spread,true,0.95,0.05,1
+CHAMPIONS_LEAGUE_HOCKEY,312,10021,1st Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+CHAMPIONS_LEAGUE_HOCKEY,312,10022,2nd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+CHAMPIONS_LEAGUE_HOCKEY,312,10023,3rd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+CHAMPIONS_LEAGUE_HOCKEY,312,10111,1st Period Team Total,Total,true,0.95,0.05,2
+CHAMPIONS_LEAGUE_HOCKEY,312,10112,1st Period Team Total,Total,true,0.95,0.05,2
+CHAMPIONS_LEAGUE_HOCKEY,312,10211,2nd Period Team Total,Total,true,0.95,0.05,2
+CHAMPIONS_LEAGUE_HOCKEY,312,10212,2nd Period Team Total,Total,true,0.95,0.05,2
+CHAMPIONS_LEAGUE_HOCKEY,312,10311,3rd Period Team Total,Total,true,0.95,0.05,2
+CHAMPIONS_LEAGUE_HOCKEY,312,10312,3rd Period Team Total,Total,true,0.95,0.05,2
+CHAMPIONS_LEAGUE_HOCKEY,312,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
+CHAMPIONS_LEAGUE_HOCKEY,312,10100,Correct Score,Correct Score,true,0.99,0.01,2
+CHAMPIONS_LEAGUE_HOCKEY,312,10163,1st Period Correct Score,Correct Score,true,0.99,0.01,2
+CHAMPIONS_LEAGUE_HOCKEY,312,10164,2nd Period Correct Score,Correct Score,true,0.99,0.01,2
+CHAMPIONS_LEAGUE_HOCKEY,312,10165,3rd Period Correct Score,Correct Score,true,0.99,0.01,2
+CHAMPIONS_LEAGUE_HOCKEY,312,10101,1st Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+CHAMPIONS_LEAGUE_HOCKEY,312,10102,2nd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+CHAMPIONS_LEAGUE_HOCKEY,312,10103,3rd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+CANADA_OHL,313,0,Moneyline,Moneyline,true,0.95,0.05,1
+CANADA_OHL,313,10001,Puck Line,Spread,true,0.95,0.05,1
+CANADA_OHL,313,10002,Total Goals,Total,true,0.95,0.05,2
+CANADA_OHL,313,10002,Total Goals,Total,true,0.95,0.05,2
+CANADA_OHL,313,10017,Team Total,Total,true,0.95,0.05,2
+CANADA_OHL,313,10018,Team Total,Total,true,0.95,0.05,2
+CANADA_OHL,313,10031,1st Period Total Goals,Total,true,0.95,0.05,2
+CANADA_OHL,313,10032,2nd Period Total Goals,Total,true,0.95,0.05,2
+CANADA_OHL,313,10033,3rd Period Total Goals,Total,true,0.95,0.05,2
+CANADA_OHL,313,10041,1st Period Puck Line,Spread,true,0.95,0.05,1
+CANADA_OHL,313,10042,2nd Period Puck Line,Spread,true,0.95,0.05,1
+CANADA_OHL,313,10043,3rd Period Puck Line,Spread,true,0.95,0.05,1
+CANADA_OHL,313,10021,1st Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+CANADA_OHL,313,10022,2nd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+CANADA_OHL,313,10023,3rd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+CANADA_OHL,313,10111,1st Period Team Total,Total,true,0.95,0.05,2
+CANADA_OHL,313,10112,1st Period Team Total,Total,true,0.95,0.05,2
+CANADA_OHL,313,10211,2nd Period Team Total,Total,true,0.95,0.05,2
+CANADA_OHL,313,10212,2nd Period Team Total,Total,true,0.95,0.05,2
+CANADA_OHL,313,10311,3rd Period Team Total,Total,true,0.95,0.05,2
+CANADA_OHL,313,10312,3rd Period Team Total,Total,true,0.95,0.05,2
+CANADA_OHL,313,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
+CANADA_OHL,313,10100,Correct Score,Correct Score,true,0.99,0.01,2
+CANADA_OHL,313,10163,1st Period Correct Score,Correct Score,true,0.99,0.01,2
+CANADA_OHL,313,10164,2nd Period Correct Score,Correct Score,true,0.99,0.01,2
+CANADA_OHL,313,10165,3rd Period Correct Score,Correct Score,true,0.99,0.01,2
+CANADA_OHL,313,10101,1st Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+CANADA_OHL,313,10102,2nd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+CANADA_OHL,313,10103,3rd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+CANADA_QMJHL,314,0,Moneyline,Moneyline,true,0.95,0.05,1
+CANADA_QMJHL,314,10001,Puck Line,Spread,true,0.95,0.05,1
+CANADA_QMJHL,314,10002,Total Goals,Total,true,0.95,0.05,2
+CANADA_QMJHL,314,10002,Total Goals,Total,true,0.95,0.05,2
+CANADA_QMJHL,314,10017,Team Total,Total,true,0.95,0.05,2
+CANADA_QMJHL,314,10018,Team Total,Total,true,0.95,0.05,2
+CANADA_QMJHL,314,10031,1st Period Total Goals,Total,true,0.95,0.05,2
+CANADA_QMJHL,314,10032,2nd Period Total Goals,Total,true,0.95,0.05,2
+CANADA_QMJHL,314,10033,3rd Period Total Goals,Total,true,0.95,0.05,2
+CANADA_QMJHL,314,10041,1st Period Puck Line,Spread,true,0.95,0.05,1
+CANADA_QMJHL,314,10042,2nd Period Puck Line,Spread,true,0.95,0.05,1
+CANADA_QMJHL,314,10043,3rd Period Puck Line,Spread,true,0.95,0.05,1
+CANADA_QMJHL,314,10021,1st Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+CANADA_QMJHL,314,10022,2nd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+CANADA_QMJHL,314,10023,3rd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+CANADA_QMJHL,314,10111,1st Period Team Total,Total,true,0.95,0.05,2
+CANADA_QMJHL,314,10112,1st Period Team Total,Total,true,0.95,0.05,2
+CANADA_QMJHL,314,10211,2nd Period Team Total,Total,true,0.95,0.05,2
+CANADA_QMJHL,314,10212,2nd Period Team Total,Total,true,0.95,0.05,2
+CANADA_QMJHL,314,10311,3rd Period Team Total,Total,true,0.95,0.05,2
+CANADA_QMJHL,314,10312,3rd Period Team Total,Total,true,0.95,0.05,2
+CANADA_QMJHL,314,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
+CANADA_QMJHL,314,10100,Correct Score,Correct Score,true,0.99,0.01,2
+CANADA_QMJHL,314,10163,1st Period Correct Score,Correct Score,true,0.99,0.01,2
+CANADA_QMJHL,314,10164,2nd Period Correct Score,Correct Score,true,0.99,0.01,2
+CANADA_QMJHL,314,10165,3rd Period Correct Score,Correct Score,true,0.99,0.01,2
+CANADA_QMJHL,314,10101,1st Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+CANADA_QMJHL,314,10102,2nd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+CANADA_QMJHL,314,10103,3rd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+CANADA_WHL,315,0,Moneyline,Moneyline,true,0.95,0.05,1
+CANADA_WHL,315,10001,Puck Line,Spread,true,0.95,0.05,1
+CANADA_WHL,315,10002,Total Goals,Total,true,0.95,0.05,2
+CANADA_WHL,315,10002,Total Goals,Total,true,0.95,0.05,2
+CANADA_WHL,315,10017,Team Total,Total,true,0.95,0.05,2
+CANADA_WHL,315,10018,Team Total,Total,true,0.95,0.05,2
+CANADA_WHL,315,10031,1st Period Total Goals,Total,true,0.95,0.05,2
+CANADA_WHL,315,10032,2nd Period Total Goals,Total,true,0.95,0.05,2
+CANADA_WHL,315,10033,3rd Period Total Goals,Total,true,0.95,0.05,2
+CANADA_WHL,315,10041,1st Period Puck Line,Spread,true,0.95,0.05,1
+CANADA_WHL,315,10042,2nd Period Puck Line,Spread,true,0.95,0.05,1
+CANADA_WHL,315,10043,3rd Period Puck Line,Spread,true,0.95,0.05,1
+CANADA_WHL,315,10021,1st Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+CANADA_WHL,315,10022,2nd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+CANADA_WHL,315,10023,3rd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+CANADA_WHL,315,10111,1st Period Team Total,Total,true,0.95,0.05,2
+CANADA_WHL,315,10112,1st Period Team Total,Total,true,0.95,0.05,2
+CANADA_WHL,315,10211,2nd Period Team Total,Total,true,0.95,0.05,2
+CANADA_WHL,315,10212,2nd Period Team Total,Total,true,0.95,0.05,2
+CANADA_WHL,315,10311,3rd Period Team Total,Total,true,0.95,0.05,2
+CANADA_WHL,315,10312,3rd Period Team Total,Total,true,0.95,0.05,2
+CANADA_WHL,315,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
+CANADA_WHL,315,10100,Correct Score,Correct Score,true,0.99,0.01,2
+CANADA_WHL,315,10163,1st Period Correct Score,Correct Score,true,0.99,0.01,2
+CANADA_WHL,315,10164,2nd Period Correct Score,Correct Score,true,0.99,0.01,2
+CANADA_WHL,315,10165,3rd Period Correct Score,Correct Score,true,0.99,0.01,2
+CANADA_WHL,315,10101,1st Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+CANADA_WHL,315,10102,2nd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+CANADA_WHL,315,10103,3rd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+FINLAND_SM_LIIGA,319,0,Moneyline,Moneyline,true,0.95,0.05,1
+FINLAND_SM_LIIGA,319,10001,Puck Line,Spread,true,0.95,0.05,1
+FINLAND_SM_LIIGA,319,10002,Total Goals,Total,true,0.95,0.05,2
+FINLAND_SM_LIIGA,319,10002,Total Goals,Total,true,0.95,0.05,2
+FINLAND_SM_LIIGA,319,10017,Team Total,Total,true,0.95,0.05,2
+FINLAND_SM_LIIGA,319,10018,Team Total,Total,true,0.95,0.05,2
+FINLAND_SM_LIIGA,319,10031,1st Period Total Goals,Total,true,0.95,0.05,2
+FINLAND_SM_LIIGA,319,10032,2nd Period Total Goals,Total,true,0.95,0.05,2
+FINLAND_SM_LIIGA,319,10033,3rd Period Total Goals,Total,true,0.95,0.05,2
+FINLAND_SM_LIIGA,319,10041,1st Period Puck Line,Spread,true,0.95,0.05,1
+FINLAND_SM_LIIGA,319,10042,2nd Period Puck Line,Spread,true,0.95,0.05,1
+FINLAND_SM_LIIGA,319,10043,3rd Period Puck Line,Spread,true,0.95,0.05,1
+FINLAND_SM_LIIGA,319,10021,1st Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+FINLAND_SM_LIIGA,319,10022,2nd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+FINLAND_SM_LIIGA,319,10023,3rd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+FINLAND_SM_LIIGA,319,10111,1st Period Team Total,Total,true,0.95,0.05,2
+FINLAND_SM_LIIGA,319,10112,1st Period Team Total,Total,true,0.95,0.05,2
+FINLAND_SM_LIIGA,319,10211,2nd Period Team Total,Total,true,0.95,0.05,2
+FINLAND_SM_LIIGA,319,10212,2nd Period Team Total,Total,true,0.95,0.05,2
+FINLAND_SM_LIIGA,319,10311,3rd Period Team Total,Total,true,0.95,0.05,2
+FINLAND_SM_LIIGA,319,10312,3rd Period Team Total,Total,true,0.95,0.05,2
+FINLAND_SM_LIIGA,319,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
+FINLAND_SM_LIIGA,319,10100,Correct Score,Correct Score,true,0.99,0.01,2
+FINLAND_SM_LIIGA,319,10163,1st Period Correct Score,Correct Score,true,0.99,0.01,2
+FINLAND_SM_LIIGA,319,10164,2nd Period Correct Score,Correct Score,true,0.99,0.01,2
+FINLAND_SM_LIIGA,319,10165,3rd Period Correct Score,Correct Score,true,0.99,0.01,2
+FINLAND_SM_LIIGA,319,10101,1st Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+FINLAND_SM_LIIGA,319,10102,2nd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+FINLAND_SM_LIIGA,319,10103,3rd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+KHL,321,0,Moneyline,Moneyline,true,0.95,0.05,1
+KHL,321,10001,Puck Line,Spread,true,0.95,0.05,1
+KHL,321,10002,Total Goals,Total,true,0.95,0.05,2
+KHL,321,10002,Total Goals,Total,true,0.95,0.05,2
+KHL,321,10017,Team Total,Total,true,0.95,0.05,2
+KHL,321,10018,Team Total,Total,true,0.95,0.05,2
+KHL,321,10031,1st Period Total Goals,Total,true,0.95,0.05,2
+KHL,321,10032,2nd Period Total Goals,Total,true,0.95,0.05,2
+KHL,321,10033,3rd Period Total Goals,Total,true,0.95,0.05,2
+KHL,321,10041,1st Period Puck Line,Spread,true,0.95,0.05,1
+KHL,321,10042,2nd Period Puck Line,Spread,true,0.95,0.05,1
+KHL,321,10043,3rd Period Puck Line,Spread,true,0.95,0.05,1
+KHL,321,10021,1st Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+KHL,321,10022,2nd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+KHL,321,10023,3rd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+KHL,321,10111,1st Period Team Total,Total,true,0.95,0.05,2
+KHL,321,10112,1st Period Team Total,Total,true,0.95,0.05,2
+KHL,321,10211,2nd Period Team Total,Total,true,0.95,0.05,2
+KHL,321,10212,2nd Period Team Total,Total,true,0.95,0.05,2
+KHL,321,10311,3rd Period Team Total,Total,true,0.95,0.05,2
+KHL,321,10312,3rd Period Team Total,Total,true,0.95,0.05,2
+KHL,321,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
+KHL,321,10100,Correct Score,Correct Score,true,0.99,0.01,2
+KHL,321,10163,1st Period Correct Score,Correct Score,true,0.99,0.01,2
+KHL,321,10164,2nd Period Correct Score,Correct Score,true,0.99,0.01,2
+KHL,321,10165,3rd Period Correct Score,Correct Score,true,0.99,0.01,2
+KHL,321,10101,1st Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+KHL,321,10102,2nd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+KHL,321,10103,3rd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+GERMANY_DEL,322,0,Moneyline,Moneyline,true,0.95,0.05,1
+GERMANY_DEL,322,10001,Puck Line,Spread,true,0.95,0.05,1
+GERMANY_DEL,322,10002,Total Goals,Total,true,0.95,0.05,2
+GERMANY_DEL,322,10002,Total Goals,Total,true,0.95,0.05,2
+GERMANY_DEL,322,10017,Team Total,Total,true,0.95,0.05,2
+GERMANY_DEL,322,10018,Team Total,Total,true,0.95,0.05,2
+GERMANY_DEL,322,10031,1st Period Total Goals,Total,true,0.95,0.05,2
+GERMANY_DEL,322,10032,2nd Period Total Goals,Total,true,0.95,0.05,2
+GERMANY_DEL,322,10033,3rd Period Total Goals,Total,true,0.95,0.05,2
+GERMANY_DEL,322,10041,1st Period Puck Line,Spread,true,0.95,0.05,1
+GERMANY_DEL,322,10042,2nd Period Puck Line,Spread,true,0.95,0.05,1
+GERMANY_DEL,322,10043,3rd Period Puck Line,Spread,true,0.95,0.05,1
+GERMANY_DEL,322,10021,1st Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+GERMANY_DEL,322,10022,2nd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+GERMANY_DEL,322,10023,3rd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+GERMANY_DEL,322,10111,1st Period Team Total,Total,true,0.95,0.05,2
+GERMANY_DEL,322,10112,1st Period Team Total,Total,true,0.95,0.05,2
+GERMANY_DEL,322,10211,2nd Period Team Total,Total,true,0.95,0.05,2
+GERMANY_DEL,322,10212,2nd Period Team Total,Total,true,0.95,0.05,2
+GERMANY_DEL,322,10311,3rd Period Team Total,Total,true,0.95,0.05,2
+GERMANY_DEL,322,10312,3rd Period Team Total,Total,true,0.95,0.05,2
+GERMANY_DEL,322,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
+GERMANY_DEL,322,10100,Correct Score,Correct Score,true,0.99,0.01,2
+GERMANY_DEL,322,10163,1st Period Correct Score,Correct Score,true,0.99,0.01,2
+GERMANY_DEL,322,10164,2nd Period Correct Score,Correct Score,true,0.99,0.01,2
+GERMANY_DEL,322,10165,3rd Period Correct Score,Correct Score,true,0.99,0.01,2
+GERMANY_DEL,322,10101,1st Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+GERMANY_DEL,322,10102,2nd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+GERMANY_DEL,322,10103,3rd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,0,Moneyline,Moneyline,true,0.95,0.05,1
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,10001,Puck Line,Spread,true,0.95,0.05,1
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,10002,Total Goals,Total,true,0.95,0.05,2
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,10002,Total Goals,Total,true,0.95,0.05,2
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,10017,Team Total,Total,true,0.95,0.05,2
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,10018,Team Total,Total,true,0.95,0.05,2
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,10031,1st Period Total Goals,Total,true,0.95,0.05,2
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,10032,2nd Period Total Goals,Total,true,0.95,0.05,2
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,10033,3rd Period Total Goals,Total,true,0.95,0.05,2
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,10041,1st Period Puck Line,Spread,true,0.95,0.05,1
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,10042,2nd Period Puck Line,Spread,true,0.95,0.05,1
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,10043,3rd Period Puck Line,Spread,true,0.95,0.05,1
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,10021,1st Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,10022,2nd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,10023,3rd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,10111,1st Period Team Total,Total,true,0.95,0.05,2
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,10112,1st Period Team Total,Total,true,0.95,0.05,2
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,10211,2nd Period Team Total,Total,true,0.95,0.05,2
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,10212,2nd Period Team Total,Total,true,0.95,0.05,2
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,10311,3rd Period Team Total,Total,true,0.95,0.05,2
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,10312,3rd Period Team Total,Total,true,0.95,0.05,2
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,10100,Correct Score,Correct Score,true,0.99,0.01,2
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,10163,1st Period Correct Score,Correct Score,true,0.99,0.01,2
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,10164,2nd Period Correct Score,Correct Score,true,0.99,0.01,2
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,10165,3rd Period Correct Score,Correct Score,true,0.99,0.01,2
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,10101,1st Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,10102,2nd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+AUSTRIA_ICE_HOCKEY_LEAGUE,323,10103,3rd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+SWEDEN_SHL,324,0,Moneyline,Moneyline,true,0.95,0.05,1
+SWEDEN_SHL,324,10001,Puck Line,Spread,true,0.95,0.05,1
+SWEDEN_SHL,324,10002,Total Goals,Total,true,0.95,0.05,2
+SWEDEN_SHL,324,10002,Total Goals,Total,true,0.95,0.05,2
+SWEDEN_SHL,324,10017,Team Total,Total,true,0.95,0.05,2
+SWEDEN_SHL,324,10018,Team Total,Total,true,0.95,0.05,2
+SWEDEN_SHL,324,10031,1st Period Total Goals,Total,true,0.95,0.05,2
+SWEDEN_SHL,324,10032,2nd Period Total Goals,Total,true,0.95,0.05,2
+SWEDEN_SHL,324,10033,3rd Period Total Goals,Total,true,0.95,0.05,2
+SWEDEN_SHL,324,10041,1st Period Puck Line,Spread,true,0.95,0.05,1
+SWEDEN_SHL,324,10042,2nd Period Puck Line,Spread,true,0.95,0.05,1
+SWEDEN_SHL,324,10043,3rd Period Puck Line,Spread,true,0.95,0.05,1
+SWEDEN_SHL,324,10021,1st Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+SWEDEN_SHL,324,10022,2nd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+SWEDEN_SHL,324,10023,3rd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+SWEDEN_SHL,324,10111,1st Period Team Total,Total,true,0.95,0.05,2
+SWEDEN_SHL,324,10112,1st Period Team Total,Total,true,0.95,0.05,2
+SWEDEN_SHL,324,10211,2nd Period Team Total,Total,true,0.95,0.05,2
+SWEDEN_SHL,324,10212,2nd Period Team Total,Total,true,0.95,0.05,2
+SWEDEN_SHL,324,10311,3rd Period Team Total,Total,true,0.95,0.05,2
+SWEDEN_SHL,324,10312,3rd Period Team Total,Total,true,0.95,0.05,2
+SWEDEN_SHL,324,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
+SWEDEN_SHL,324,10100,Correct Score,Correct Score,true,0.99,0.01,2
+SWEDEN_SHL,324,10163,1st Period Correct Score,Correct Score,true,0.99,0.01,2
+SWEDEN_SHL,324,10164,2nd Period Correct Score,Correct Score,true,0.99,0.01,2
+SWEDEN_SHL,324,10165,3rd Period Correct Score,Correct Score,true,0.99,0.01,2
+SWEDEN_SHL,324,10101,1st Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+SWEDEN_SHL,324,10102,2nd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+SWEDEN_SHL,324,10103,3rd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+SWITZERLAND_NATIONAL_LEAGUE,327,0,Moneyline,Moneyline,true,0.95,0.05,1
+SWITZERLAND_NATIONAL_LEAGUE,327,10001,Puck Line,Spread,true,0.95,0.05,1
+SWITZERLAND_NATIONAL_LEAGUE,327,10002,Total Goals,Total,true,0.95,0.05,2
+SWITZERLAND_NATIONAL_LEAGUE,327,10002,Total Goals,Total,true,0.95,0.05,2
+SWITZERLAND_NATIONAL_LEAGUE,327,10017,Team Total,Total,true,0.95,0.05,2
+SWITZERLAND_NATIONAL_LEAGUE,327,10018,Team Total,Total,true,0.95,0.05,2
+SWITZERLAND_NATIONAL_LEAGUE,327,10031,1st Period Total Goals,Total,true,0.95,0.05,2
+SWITZERLAND_NATIONAL_LEAGUE,327,10032,2nd Period Total Goals,Total,true,0.95,0.05,2
+SWITZERLAND_NATIONAL_LEAGUE,327,10033,3rd Period Total Goals,Total,true,0.95,0.05,2
+SWITZERLAND_NATIONAL_LEAGUE,327,10041,1st Period Puck Line,Spread,true,0.95,0.05,1
+SWITZERLAND_NATIONAL_LEAGUE,327,10042,2nd Period Puck Line,Spread,true,0.95,0.05,1
+SWITZERLAND_NATIONAL_LEAGUE,327,10043,3rd Period Puck Line,Spread,true,0.95,0.05,1
+SWITZERLAND_NATIONAL_LEAGUE,327,10021,1st Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+SWITZERLAND_NATIONAL_LEAGUE,327,10022,2nd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+SWITZERLAND_NATIONAL_LEAGUE,327,10023,3rd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+SWITZERLAND_NATIONAL_LEAGUE,327,10111,1st Period Team Total,Total,true,0.95,0.05,2
+SWITZERLAND_NATIONAL_LEAGUE,327,10112,1st Period Team Total,Total,true,0.95,0.05,2
+SWITZERLAND_NATIONAL_LEAGUE,327,10211,2nd Period Team Total,Total,true,0.95,0.05,2
+SWITZERLAND_NATIONAL_LEAGUE,327,10212,2nd Period Team Total,Total,true,0.95,0.05,2
+SWITZERLAND_NATIONAL_LEAGUE,327,10311,3rd Period Team Total,Total,true,0.95,0.05,2
+SWITZERLAND_NATIONAL_LEAGUE,327,10312,3rd Period Team Total,Total,true,0.95,0.05,2
+SWITZERLAND_NATIONAL_LEAGUE,327,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
+SWITZERLAND_NATIONAL_LEAGUE,327,10100,Correct Score,Correct Score,true,0.99,0.01,2
+SWITZERLAND_NATIONAL_LEAGUE,327,10163,1st Period Correct Score,Correct Score,true,0.99,0.01,2
+SWITZERLAND_NATIONAL_LEAGUE,327,10164,2nd Period Correct Score,Correct Score,true,0.99,0.01,2
+SWITZERLAND_NATIONAL_LEAGUE,327,10165,3rd Period Correct Score,Correct Score,true,0.99,0.01,2
+SWITZERLAND_NATIONAL_LEAGUE,327,10101,1st Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+SWITZERLAND_NATIONAL_LEAGUE,327,10102,2nd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+SWITZERLAND_NATIONAL_LEAGUE,327,10103,3rd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+USA_AHL,328,0,Moneyline,Moneyline,true,0.95,0.05,1
+USA_AHL,328,10001,Puck Line,Spread,true,0.95,0.05,1
+USA_AHL,328,10002,Total Goals,Total,true,0.95,0.05,2
+USA_AHL,328,10002,Total Goals,Total,true,0.95,0.05,2
+USA_AHL,328,10017,Team Total,Total,true,0.95,0.05,2
+USA_AHL,328,10018,Team Total,Total,true,0.95,0.05,2
+USA_AHL,328,10031,1st Period Total Goals,Total,true,0.95,0.05,2
+USA_AHL,328,10032,2nd Period Total Goals,Total,true,0.95,0.05,2
+USA_AHL,328,10033,3rd Period Total Goals,Total,true,0.95,0.05,2
+USA_AHL,328,10041,1st Period Puck Line,Spread,true,0.95,0.05,1
+USA_AHL,328,10042,2nd Period Puck Line,Spread,true,0.95,0.05,1
+USA_AHL,328,10043,3rd Period Puck Line,Spread,true,0.95,0.05,1
+USA_AHL,328,10021,1st Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+USA_AHL,328,10022,2nd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+USA_AHL,328,10023,3rd Period Moneyline 3-Way,Moneyline,true,0.99,0.01,1
+USA_AHL,328,10111,1st Period Team Total,Total,true,0.95,0.05,2
+USA_AHL,328,10112,1st Period Team Total,Total,true,0.95,0.05,2
+USA_AHL,328,10211,2nd Period Team Total,Total,true,0.95,0.05,2
+USA_AHL,328,10212,2nd Period Team Total,Total,true,0.95,0.05,2
+USA_AHL,328,10311,3rd Period Team Total,Total,true,0.95,0.05,2
+USA_AHL,328,10312,3rd Period Team Total,Total,true,0.95,0.05,2
+USA_AHL,328,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,1
+USA_AHL,328,10100,Correct Score,Correct Score,true,0.99,0.01,2
+USA_AHL,328,10163,1st Period Correct Score,Correct Score,true,0.99,0.01,2
+USA_AHL,328,10164,2nd Period Correct Score,Correct Score,true,0.99,0.01,2
+USA_AHL,328,10165,3rd Period Correct Score,Correct Score,true,0.99,0.01,2
+USA_AHL,328,10101,1st Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+USA_AHL,328,10102,2nd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
+USA_AHL,328,10103,3rd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,1
