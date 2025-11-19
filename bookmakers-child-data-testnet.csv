@@ -44,7 +44,9 @@ NBA,4,Player Props,The Crowds Line
 NHL,6,Player Props,espn bet
 NHL,6,Player Blocked Shots,DraftKings
 NHL,6,1st Period Moneyline 3-Way,DraftKings
-NHL,6,2nd Period Moneyline 3-Way,DraftKings
+NHL,6,1st Period Total Goals Odd/Even,DraftKings
+NHL,6,2nd Period Total Goals Odd/Even,DraftKings
+NHL,6,3rd Period Total Goals Odd/Even,DraftKings
 NHL,6,Both Teams To Score,espn bet
 NHL,6,1st Period Double Chance,unibet
 NHL,6,2nd Period Double Chance,unibet
