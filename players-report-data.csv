@@ -1,5 +1,5 @@
 playerName,playerId,playerTeam,playerAbbreviationNames,isActive
-Jayson Tatum,944B6D4B694A,Boston Celtics,Jayson Tatum;J. Tatum;J.Tatum;Tatum Jayson,true
+Jayson Tatum,944B6D4B694A,Boston Celtics,Jayson Tatum;J. Tatum;J.Tatum;Tatum Jayson,false
 Jaylen Brown,C7D85481029D,Boston Celtics,Jaylen Brown;J. Brown;J.Brown;Brown Jaylen,true
 Kristaps Porzingis,FA629BAD3134,Atlanta Hawks,Kristaps Porzingis;K. Porzingis;K.Porzingis;Porzingis Kristaps,true
 Derrick White,55A30F7FC808,Boston Celtics,Derrick White;D. White;D.White;White Derrick,true
