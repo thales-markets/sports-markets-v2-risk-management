@@ -1,132 +1,132 @@
-playerName,playerId,playerTeam,playerAbbreviationNames,isActive
-Jayson Tatum,944B6D4B694A,Boston Celtics,Jayson Tatum;J. Tatum;J.Tatum;Tatum Jayson,false
-Jaylen Brown,C7D85481029D,Boston Celtics,Jaylen Brown;J. Brown;J.Brown;Brown Jaylen,true
-Kristaps Porzingis,FA629BAD3134,Atlanta Hawks,Kristaps Porzingis;K. Porzingis;K.Porzingis;Porzingis Kristaps,true
-Derrick White,55A30F7FC808,Boston Celtics,Derrick White;D. White;D.White;White Derrick,true
-Jrue Holiday,6F061BE081C4,Portland Trail Blazers,Jrue Holiday;J. Holiday;J.Holiday;Holiday Jrue,true
-Mikal Bridges,367773B6601D,New York Knicks,Mikal Bridges;Bridges Mikal,true
-Cam Thomas,CB3A47D7E7B5,Brooklyn Nets,Cam Thomas;C. Thomas;C.Thomas;Thomas Cam,true
-Ben Simmons,D5C59A963E8C,Los Angeles Clippers,Ben Simmons;B. Simmons;B.Simmons;Simmons Ben,true
-Dorian Finney-Smith,8C7E63063F9B,Houston Rockets,Dorian Finney-Smith;D. Finney-Smith;D.Finney-Smith;Finney-Smith Dorian,true
-Spencer Dinwiddie,2D1810152804,Charlotte Hornets,Spencer Dinwiddie;S. Dinwiddie;S.Dinwiddie;Dinwiddie Spencer,true
-Jalen Brunson,21B5AD38CE3D,New York Knicks,Jalen Brunson;J. Brunson;J.Brunson;Brunson Jalen,true
-Julius Randle,CED163F3F032,Minnesota Timberwolves,Julius Randle;J. Randle;J.Randle;Randle Julius,true
-Mitchell Robinson,16C71BA69D30,New York Knicks,Mitchell Robinson;M. Robinson;M.Robinson;Robinson Mitchell,true
-R.J. Barrett,B05F49FE7024,Toronto Raptors,R.J. Barrett;R. Barrett;R.Barrett;Barrett R.J.,true
-Scottie Barnes,0497CAEAD35C,Toronto Raptors,Scottie Barnes;S. Barnes;S.Barnes;Barnes Scottie,true
-Pascal Siakam,73275976F8ED,Indiana Pacers,Pascal Siakam;P. Siakam;P.Siakam;Siakam Pascal,true
-O.G. Anunoby,3F8B2DD8AF32,New York Knicks,O.G. Anunoby;O. Anunoby;O.Anunoby;Anunoby O.G.,true
-Dennis Schroder,7967E135B942,Sacramento Kings,Dennis Schroder;D. Schroder;D.Schroder;Schroder Dennis,true
-Tyrese Maxey,7879697610D8,Philadelphia 76ers,Tyrese Maxey;T. Maxey;T.Maxey;Maxey Tyrese,true
-Tobias Harris,BAF72287ADC1,Detroit Pistons,Tobias Harris;T. Harris;T.Harris;Harris Tobias,true
-Joel Embiid,0926C6680D09,Philadelphia 76ers,Joel Embiid;J. Embiid;J.Embiid;Embiid Joel,true
-Kelly Oubre,1C69A2700F03,Philadelphia 76ers,Kelly Oubre;K. Oubre;K.Oubre;Oubre Kelly,true
-Coby White,D915C3B82B04,Chicago Bulls,Coby White;C. White;C.White;White Coby,true
-Zach LaVine,C786E5C3CE0C,Sacramento Kings,Zach LaVine;Z. LaVine;Z.LaVine;LaVine Zach,true
-DeMar DeRozan,4B75CA28FA43,Sacramento Kings,DeMar DeRozan;D. DeRozan;D.DeRozan;DeRozan DeMar,true
-Nikola Vucevic,A0D71A41A221,Chicago Bulls,Nikola Vucevic;N. Vucevic;N.Vucevic;Vucevic Nikola,true
-Darius Garland,580C5919659E,Cleveland Cavaliers,Darius Garland;D. Garland;D.Garland;Garland Darius,true
-Donovan Mitchell,B82A4A0D260A,Cleveland Cavaliers,Donovan Mitchell;D. Mitchell;D.Mitchell;Mitchell Donovan,true
-Max Strus,B641F7C253EF,Cleveland Cavaliers,Max Strus;M. Strus;M.Strus;Strus Max,true
-Evan Mobley,95BA3C74998C,Cleveland Cavaliers,Evan Mobley;E. Mobley;E.Mobley;Mobley Evan,true
-Jarrett Allen,57A9D1B7F567,Cleveland Cavaliers,Jarrett Allen;J. Allen;J.Allen;Allen Jarrett,true
-Cade Cunningham,72F133EEC33F,Detroit Pistons,Cade Cunningham;C. Cunningham;C.Cunningham;Cunningham Cade,true
-Ausar Thompson,547F0B60B699,Detroit Pistons,Ausar Thompson;A. Thompson;A.Thompson;Thompson Ausar,true
-Jalen Duren,8DC7D01E2795,Detroit Pistons,Jalen Duren;J. Duren;J.Duren;Duren Jalen,true
-Tyrese Haliburton,5CB1BEE178F7,Indiana Pacers,Tyrese Haliburton;T. Haliburton;T.Haliburton;Haliburton Tyrese,true
-Buddy Hield,B5AC032C6958,Golden State Warriors,Buddy Hield;B. Hield;B.Hield;Hield Buddy,true
-Myles Turner,B5AC032C6958,Milwaukee Bucks,Myles Turner;M. Turner;M.Turner;Turner Myles,true
-Damian Lillard,36ADF58C91B6,Portland Trail Blazers,Damian Lillard;D. Lillard;D.Lillard;Lillard Damian,true
-Khris Middleton,0B985F4C90D5,Washington Wizards,Khris Middleton;K. Middleton;K.Middleton;Middleton Khris,true
-Giannis Antetokounmpo,DD8C4485A3FE,Milwaukee Bucks,Giannis Antetokounmpo;G. Antetokounmpo;G.Antetokounmpo;Antetokounmpo Giannis,true
-Brook Lopez,B411AB68C551,Los Angeles Clippers,Brook Lopez;B. Lopez;B.Lopez;Lopez Brook,true
-Jamal Murray,FFCA441A8182,Denver Nuggets,Jamal Murray;J. Murray;J.Murray;Murray Jamal,true
-Kentavious Caldwell-Pope,E864EF4731AE,Memphis Grizzlies,Kentavious Caldwell-Pope;K. Caldwell-Pope;K.Caldwell-Pope;Caldwell-Pope Kentavious,true
-Michael Porter Jr.,9FF8936053D5,Brooklyn Nets,Michael Porter Jr.;M. Porter Jr.;Jr. Michael Porter,true
-Aaron Gordon,B1E5A70A859B,Denver Nuggets,Aaron Gordon;A. Gordon;A.Gordon;Gordon Aaron,true
-Nikola Jokic,B0E86DA61165,Denver Nuggets,Nikola Jokic;N. Jokic;N.Jokic;Jokic Nikola,true
-Mike Conley,7D607FD7AC73,Minnesota Timberwolves,Mike Conley;M. Conley;M.Conley;Conley Mike,true
-Anthony Edwards,D80D18FD953C,Minnesota Timberwolves,Anthony Edwards;A. Edwards;A.Edwards;Edwards Anthony,true
-Karl-Anthony Towns,6EE974116BF2,New York Knicks,Karl-Anthony Towns;K. Towns;K.Towns;Towns Karl-Anthony,true
-Rudy Gobert,A34D0F71C5A5,Minnesota Timberwolves,Rudy Gobert;R. Gobert;R.Gobert;Gobert Rudy,true
-Shai Gilgeous-Alexander,4D75B4BFBA80,Oklahoma City Thunder,Shai Gilgeous-Alexander;S. Gilgeous-Alexander;S.Gilgeous-Alexander;Gilgeous-Alexander Shai;SGA,true
-Josh Giddey,7F24EA14A2B8,Chicago Bulls,Josh Giddey;J. Giddey;J.Giddey;Giddey Josh,true
-Jalen Williams,7935817DC4F2,Oklahoma City Thunder,Jalen Williams;J. Williams;J.Williams;Williams Jalen,true
-Chet Holmgren,DC2FB289EB4C,Oklahoma City Thunder,Chet Holmgren;C. Holmgren;C.Holmgren;Holmgren Chet,true
-Anfernee Simons,A08DF5DBBEE9,Boston Celtics,Anfernee Simons;A. Simons;A.Simons;Simons Anfernee,true
-Jerami Grant,628DC7694C25,Portland Trail Blazers,Jerami Grant;J. Grant;J.Grant;Grant Jerami,true
-Deandre Ayton,54818F8E80E9,Los Angeles Lakers,Deandre Ayton;D. Ayton;D.Ayton;Ayton Deandre,true
-Jordan Clarkson,52CD7317B8FA,New York Knicks,Jordan Clarkson;J. Clarkson;J.Clarkson;Clarkson Jordan,true
-Lauri Markkanen,CC05C7A93A71,Utah Jazz,Lauri Markkanen;L. Markkanen;L.Markkanen;Markkanen Lauri,true
-John Collins,705A1539F76B,Los Angeles Clippers,John Collins;J. Collins;J.Collins;Collins John,true
-Stephen Curry,30C9ABBBF692,Golden State Warriors,Stephen Curry;S. Curry;S.Curry;Curry Stephen,true
-Klay Thompson,DA365D7F0D5B,Dallas Mavericks,Klay Thompson;K. Thompson;K.Thompson;Thompson Klay,true
-Andrew Wiggins,350A7F7A37E4,Miami Heat,Andrew Wiggins;A. Wiggins;A.Wiggins;Wiggins Andrew,true
-Draymond Green,5D482AB76442,Golden State Warriors,Draymond Green;D. Green;D.Green;Green Draymond,true
-James Harden,CC707B1EADE5,Los Angeles Clippers,James Harden;J. Harden;J.Harden;Harden James,true
-Paul George,0C07D14CC5DC,Philadelphia 76ers,Paul George;P. George;P.George;George Paul,true
-Kawhi Leonard,B97A9B7266A2,Los Angeles Clippers,Kawhi Leonard;K. Leonard;K.Leonard;Leonard Kawhi,true
-Ivica Zubac,674851E026BC,Los Angeles Clippers,Ivica Zubac;I. Zubac;I.Zubac;Zubac Ivica,true
-DAngelo Russell,51A46A138D73,Dallas Mavericks,DAngelo Russell;D. Russell;D.Russell;Russell DAngelo,true
-LeBron James,3C093E0F82BD,Los Angeles Lakers,LeBron James;L. James;L.James;James LeBron,true
-Anthony Davis,1E0E533973C5,Dallas Mavericks,Anthony Davis;A. Davis;A.Davis;Davis Anthony,true
-Devin Booker,E43AC7A304CD,Phoenix Suns,Devin Booker;D. Booker;D.Booker;Booker Devin,true
-Bradley Beal,868280A04E45,Los Angeles Clippers,Bradley Beal;B. Beal;B.Beal;Beal Bradley,true
-Kevin Durant,223ECA567955,Houston Rockets,Kevin Durant;K. Durant;K.Durant;Durant Kevin,true
-Jusuf Nurkic,4001629E2FBA,Utah Jazz,Jusuf Nurkic;J. Nurkic;J.Nurkic;Nurkic Jusuf,true
-DeAaron Fox,CDE39E7AD66F,San Antonio Spurs,DeAaron Fox;DeAaron;D.Fox;Fox DeAaron,true
-Kevin Huerter,6238D8537CBE,Chicago Bulls,Kevin Huerter;K. Huerter;K.Huerter;Huerter Kevin,true
-Domantas Sabonis,33D8BA719BE9,Sacramento Kings,Domantas Sabonis;D. Sabonis;D.Sabonis;Sabonis Domantas,true
-Trae Young,2A95E890DFCB,Atlanta Hawks,Trae Young;T. Young;T.Young;Young Trae,true
-Dejounte Murray,AFDA3EB48D8F,New Orleans Pelicans,Dejounte Murray;D. Murray;D.Murray;Murray Dejounte,true
-DeAndre Hunter,A648F8E7D8B1,Cleveland Cavaliers,DeAndre Hunter;D. Hunter;D.Hunter;Hunter DeAndre,true
-Bogdan Bogdanovic,6511172D86EE,Los Angeles Clippers,Bogdan Bogdanovic;Bogdanovic Bogdan,true
-Terry Rozier,369A7DB9741A,Miami Heat,Terry Rozier;T. Rozier;T.Rozier;Rozier Terry,true
-Brandon Miller,94623DDFFBAB,Charlotte Hornets,Brandon Miller;B. Miller;B.Miller;Miller Brandon,true
-Miles Bridges,7D7FA2FC4296,Charlotte Hornets,M. Bridges;Miles Bridges;Bridges Miles,true
-Kyle Lowry,4B7F925C9DFF,Philadelphia 76ers,Kyle Lowry;K. Lowry;K.Lowry;Lowry Kyle,true
-Tyler Herro,29CB00DFF593,Miami Heat,Tyler Herro;T. Herro;T.Herro;Herro Tyler,true
-Jimmy Butler,1B98F0799407,Golden State Warriors,Jimmy Butler;J. Butler;J.Butler;Butler Jimmy,true
-Bam Adebayo,21DD03C2B454,Miami Heat,Bam Adebayo;B. Adebayo;B.Adebayo;Adebayo Bam,true
-Franz Wagner,006B2F3541DF,Orlando Magic,Franz Wagner;F. Wagner;F.Wagner;Wagner Franz,true
-Paolo Banchero,D60B4AB76311,Orlando Magic,Paolo Banchero;P. Banchero;P.Banchero;Banchero Paolo,true
-Wendell Carter Jr.,E089AADE38DE,Orlando Magic,Wendell Carter Jr.;W. Carter Jr.;W.Carter Jr.;Carter Jr. Wendell,true
-Tyus Jones,D354D0E8C6B3,Orlando Magic,Tyus Jones;T. Jones;T.Jones;Jones Tyus,true
-Jordan Poole,88CBA982B68D,Washington Wizards,Jordan Poole;J. Poole;J.Poole;Poole Jordan,true
-Deni Avdija,A516E172A7D9,Portland Trail Blazers,Deni Avdija;D. Avdija;D.Avdija;Avdija Deni,true
-Kyle Kuzma,2F80F21FE649,Milwaukee Bucks,Kyle Kuzma;K. Kuzma;K.Kuzma;Kuzma Kyle,true
-Luka Doncic,3E8718868C56,Los Angeles Lakers,Luka Doncic;L. Doncic;L.Doncic;Doncic Luka,true
-Kyrie Irving,CA84EBF5F3D5,Dallas Mavericks,Kyrie Irving;K. Irving;K.Irving;Irving Kyrie,true
-Tim Hardaway Jr.,426821300D3A,Denver Nuggets,Tim Hardaway Jr.;T. Hardaway Jr.;T.Hardaway Jr.;Hardaway Jr. Tim,true
-Grant Williams,F6201C6517BA,Charlotte Hornets,Grant Williams;G. Williams;G.Williams;Williams Grant,true
-Ja Morant,8345BD10177C,Memphis Grizzlies,Ja Morant;J. Morant;J.Morant;Morant Ja,true
-Marcus Smart,4FDE51CBB96C,Los Angeles Lakers,Marcus Smart;M. Smart;M.Smart;Smart Marcus,true
-Desmond Bane,40B73A0755A8,Orlando Magic,Desmond Bane;D. Bane;D.Bane;Bane Desmond,true
-Jaren Jackson Jr.,3806ED3C1BC0,Memphis Grizzlies,Jaren Jackson Jr.;J. Jackson Jr.;J.Jackson Jr.;Jackson Jr. Jaren,true
-Fred VanVleet,E2C232BD8D0C,Houston Rockets,Fred VanVleet;F. VanVleet;F.VanVleet;VanVleet Fred,true
-Jalen Green,E048E98EDFB9,Phoenix Suns,Jalen Green;J. Green;J.Green;Green Jalen,true
-Alperen Sengun,C4ABEA8F1F92,Houston Rockets,Alperen Sengun;A. Sengun;A.Sengun;Sengun Alperen,true
-C.J. McCollum,F6E63D643B0D,Washington Wizards,C.J. McCollum;C. McCollum;C.McCollum;McCollum C.J.,true
-Brandon Ingram,BF37C2E17344,Toronto Raptors,Brandon Ingram;B. Ingram;B.Ingram;Ingram Brandon,true
-Zion Williamson,E4705EFFF804,New Orleans Pelicans,Zion Williamson;Z. Williamson;Z.Williamson;Williamson Zion,true
-Jonas Valanciunas,752BAAB03E17,Denver Nuggets,Jonas Valanciunas;J. Valanciunas;J.Valanciunas;Valanciunas Jonas,true
-Devin Vassell,804B793FEEDB,San Antonio Spurs,Devin Vassell;D. Vassell;D.Vassell;Vassell Devin,true
-Keldon Johnson,F34EFECEA2DA,San Antonio Spurs,Keldon Johnson;K. Johnson;K.Johnson;Johnson Keldon,true
-Victor Wembanyama,ECE70FF020E8,San Antonio Spurs,Victor Wembanyama;V. Wembanyama;V.Wembanyama;Wembanyama Victor,true
-Zaccharie Risacher,049B69022842,Atlanta Hawks,Zaccharie Risacher;Z. Risacher;Z.Risacher;Risacher Zaccharie,true
-Alex Sarr,88E87BF2A103,Washington Wizards,Alex Sarr;A. Sarr;A.Sarr;Sarr Alex,true
-Zach Edey,1F1924E8CD2E,Memphis Grizzlies,Zach Edey;Z. Edey;Z.Edey;Edey Zach,true
-Reed Sheppard,11A10E43F913,Houston Rockets,Reed Sheppard;R. Sheppard;R.Sheppard;Sheppard Reed,true
-Cooper Flagg,88DE1427AED167C6,Dallas Mavericks,Cooper Flagg;C. Flagg;C.Flagg;Flagg Cooper,true
-Stephon Castle,69245BA7CCBE,San Antonio Spurs,Stephon Castle;S. Castle;S.Castle;Castle Stephon,true
-Amen Thompson,1FABAEE9E467,Houston Rockets,Amen Thompson;Thompson Amen,true
-Dyson Daniels,DE0B19290551,Atlanta Hawks,Dyson Daniels;D. Daniels;D.Daniels;Daniels Dyson,true
-Andrew Nembhard,92F6506906D1,Indiana Pacers,Andrew Nembhard;A. Nembhard;A.Nembhard;Nembhard Andrew,true
-Bennedict Mathurin,EFB4E989954A,Indiana Pacers,Bennedict Mathurin;B. Mathurin;B.Mathurin;Mathurin Bennedict,true
-Aaron Nesmith,C0A3D5023D67,Indiana Pacers,Aaron Nesmith;A. Nesmith;A.Nesmith;Nesmith Aaron,true
-Shaedon Sharpe,D53995324E8F,Portland Trail Blazers,Shaedon Sharpe;S. Sharpe;S.Sharpe;Sharpe Shaedon,true
-Matas Buzelis,8D55741071E2,Chicago Bulls,Matas Buzelis;M. Buzelis;M.Buzelis;Buzelis Matas,true
-Nikola Jovic,A5F161698A2A,Miami Heat,Nikola Jovic;N. Jovic;N.Jovic;Jovic Nikola,true
-Payton Pritchard,5D8F1AC5DB79,Boston Celtics,Payton Pritchard;P. Pritchard;P.Pritchard;Pritchard Payton,true
-Collin Sexton,5EBE7BC13617,Charlotte Hornets,Collin Sexton;C. Sexton;C.Sexton;Sexton Collin,true
-Dillon Brooks,8A27A30C7CB9,Phoenix Suns,Dillon Brooks;D. Brooks;D.Brooks;Brooks Dillon,true
+playerName,playerId,playerTeam,playerAbbreviationNames,isActive,comment
+Jayson Tatum,944B6D4B694A,Boston Celtics,Jayson Tatum;J. Tatum;J.Tatum;Tatum Jayson,false,injury whole season
+Jaylen Brown,C7D85481029D,Boston Celtics,Jaylen Brown;J. Brown;J.Brown;Brown Jaylen,true,
+Kristaps Porzingis,FA629BAD3134,Atlanta Hawks,Kristaps Porzingis;K. Porzingis;K.Porzingis;Porzingis Kristaps,true,
+Derrick White,55A30F7FC808,Boston Celtics,Derrick White;D. White;D.White;White Derrick,true,
+Jrue Holiday,6F061BE081C4,Portland Trail Blazers,Jrue Holiday;J. Holiday;J.Holiday;Holiday Jrue,true,
+Mikal Bridges,367773B6601D,New York Knicks,Mikal Bridges;Bridges Mikal,true,
+Cam Thomas,CB3A47D7E7B5,Brooklyn Nets,Cam Thomas;C. Thomas;C.Thomas;Thomas Cam,true,
+Ben Simmons,D5C59A963E8C,Los Angeles Clippers,Ben Simmons;B. Simmons;B.Simmons;Simmons Ben,true,
+Dorian Finney-Smith,8C7E63063F9B,Houston Rockets,Dorian Finney-Smith;D. Finney-Smith;D.Finney-Smith;Finney-Smith Dorian,true,
+Spencer Dinwiddie,2D1810152804,Charlotte Hornets,Spencer Dinwiddie;S. Dinwiddie;S.Dinwiddie;Dinwiddie Spencer,true,
+Jalen Brunson,21B5AD38CE3D,New York Knicks,Jalen Brunson;J. Brunson;J.Brunson;Brunson Jalen,true,
+Julius Randle,CED163F3F032,Minnesota Timberwolves,Julius Randle;J. Randle;J.Randle;Randle Julius,true,
+Mitchell Robinson,16C71BA69D30,New York Knicks,Mitchell Robinson;M. Robinson;M.Robinson;Robinson Mitchell,true,
+R.J. Barrett,B05F49FE7024,Toronto Raptors,R.J. Barrett;R. Barrett;R.Barrett;Barrett R.J.,true,
+Scottie Barnes,0497CAEAD35C,Toronto Raptors,Scottie Barnes;S. Barnes;S.Barnes;Barnes Scottie,true,
+Pascal Siakam,73275976F8ED,Indiana Pacers,Pascal Siakam;P. Siakam;P.Siakam;Siakam Pascal,true,
+O.G. Anunoby,3F8B2DD8AF32,New York Knicks,O.G. Anunoby;O. Anunoby;O.Anunoby;Anunoby O.G.,true,
+Dennis Schroder,7967E135B942,Sacramento Kings,Dennis Schroder;D. Schroder;D.Schroder;Schroder Dennis,true,
+Tyrese Maxey,7879697610D8,Philadelphia 76ers,Tyrese Maxey;T. Maxey;T.Maxey;Maxey Tyrese,true,
+Tobias Harris,BAF72287ADC1,Detroit Pistons,Tobias Harris;T. Harris;T.Harris;Harris Tobias,true,
+Joel Embiid,0926C6680D09,Philadelphia 76ers,Joel Embiid;J. Embiid;J.Embiid;Embiid Joel,true,
+Kelly Oubre,1C69A2700F03,Philadelphia 76ers,Kelly Oubre;K. Oubre;K.Oubre;Oubre Kelly,true,
+Coby White,D915C3B82B04,Chicago Bulls,Coby White;C. White;C.White;White Coby,true,
+Zach LaVine,C786E5C3CE0C,Sacramento Kings,Zach LaVine;Z. LaVine;Z.LaVine;LaVine Zach,true,
+DeMar DeRozan,4B75CA28FA43,Sacramento Kings,DeMar DeRozan;D. DeRozan;D.DeRozan;DeRozan DeMar,true,
+Nikola Vucevic,A0D71A41A221,Chicago Bulls,Nikola Vucevic;N. Vucevic;N.Vucevic;Vucevic Nikola,true,
+Darius Garland,580C5919659E,Cleveland Cavaliers,Darius Garland;D. Garland;D.Garland;Garland Darius,true,
+Donovan Mitchell,B82A4A0D260A,Cleveland Cavaliers,Donovan Mitchell;D. Mitchell;D.Mitchell;Mitchell Donovan,true,
+Max Strus,B641F7C253EF,Cleveland Cavaliers,Max Strus;M. Strus;M.Strus;Strus Max,true,
+Evan Mobley,95BA3C74998C,Cleveland Cavaliers,Evan Mobley;E. Mobley;E.Mobley;Mobley Evan,true,
+Jarrett Allen,57A9D1B7F567,Cleveland Cavaliers,Jarrett Allen;J. Allen;J.Allen;Allen Jarrett,true,
+Cade Cunningham,72F133EEC33F,Detroit Pistons,Cade Cunningham;C. Cunningham;C.Cunningham;Cunningham Cade,true,
+Ausar Thompson,547F0B60B699,Detroit Pistons,Ausar Thompson;A. Thompson;A.Thompson;Thompson Ausar,true,
+Jalen Duren,8DC7D01E2795,Detroit Pistons,Jalen Duren;J. Duren;J.Duren;Duren Jalen,true,
+Tyrese Haliburton,5CB1BEE178F7,Indiana Pacers,Tyrese Haliburton;T. Haliburton;T.Haliburton;Haliburton Tyrese,true,
+Buddy Hield,B5AC032C6958,Golden State Warriors,Buddy Hield;B. Hield;B.Hield;Hield Buddy,true,
+Myles Turner,B5AC032C6958,Milwaukee Bucks,Myles Turner;M. Turner;M.Turner;Turner Myles,true,
+Damian Lillard,36ADF58C91B6,Portland Trail Blazers,Damian Lillard;D. Lillard;D.Lillard;Lillard Damian,true,
+Khris Middleton,0B985F4C90D5,Washington Wizards,Khris Middleton;K. Middleton;K.Middleton;Middleton Khris,true,
+Giannis Antetokounmpo,DD8C4485A3FE,Milwaukee Bucks,Giannis Antetokounmpo;G. Antetokounmpo;G.Antetokounmpo;Antetokounmpo Giannis,true,
+Brook Lopez,B411AB68C551,Los Angeles Clippers,Brook Lopez;B. Lopez;B.Lopez;Lopez Brook,true,
+Jamal Murray,FFCA441A8182,Denver Nuggets,Jamal Murray;J. Murray;J.Murray;Murray Jamal,true,
+Kentavious Caldwell-Pope,E864EF4731AE,Memphis Grizzlies,Kentavious Caldwell-Pope;K. Caldwell-Pope;K.Caldwell-Pope;Caldwell-Pope Kentavious,true,
+Michael Porter Jr.,9FF8936053D5,Brooklyn Nets,Michael Porter Jr.;M. Porter Jr.;Jr. Michael Porter,true,
+Aaron Gordon,B1E5A70A859B,Denver Nuggets,Aaron Gordon;A. Gordon;A.Gordon;Gordon Aaron,true,
+Nikola Jokic,B0E86DA61165,Denver Nuggets,Nikola Jokic;N. Jokic;N.Jokic;Jokic Nikola,true,
+Mike Conley,7D607FD7AC73,Minnesota Timberwolves,Mike Conley;M. Conley;M.Conley;Conley Mike,true,
+Anthony Edwards,D80D18FD953C,Minnesota Timberwolves,Anthony Edwards;A. Edwards;A.Edwards;Edwards Anthony,true,
+Karl-Anthony Towns,6EE974116BF2,New York Knicks,Karl-Anthony Towns;K. Towns;K.Towns;Towns Karl-Anthony,true,
+Rudy Gobert,A34D0F71C5A5,Minnesota Timberwolves,Rudy Gobert;R. Gobert;R.Gobert;Gobert Rudy,true,
+Shai Gilgeous-Alexander,4D75B4BFBA80,Oklahoma City Thunder,Shai Gilgeous-Alexander;S. Gilgeous-Alexander;S.Gilgeous-Alexander;Gilgeous-Alexander Shai;SGA,true,
+Josh Giddey,7F24EA14A2B8,Chicago Bulls,Josh Giddey;J. Giddey;J.Giddey;Giddey Josh,true,
+Jalen Williams,7935817DC4F2,Oklahoma City Thunder,Jalen Williams;J. Williams;J.Williams;Williams Jalen,true,
+Chet Holmgren,DC2FB289EB4C,Oklahoma City Thunder,Chet Holmgren;C. Holmgren;C.Holmgren;Holmgren Chet,true,
+Anfernee Simons,A08DF5DBBEE9,Boston Celtics,Anfernee Simons;A. Simons;A.Simons;Simons Anfernee,true,
+Jerami Grant,628DC7694C25,Portland Trail Blazers,Jerami Grant;J. Grant;J.Grant;Grant Jerami,true,
+Deandre Ayton,54818F8E80E9,Los Angeles Lakers,Deandre Ayton;D. Ayton;D.Ayton;Ayton Deandre,true,
+Jordan Clarkson,52CD7317B8FA,New York Knicks,Jordan Clarkson;J. Clarkson;J.Clarkson;Clarkson Jordan,true,
+Lauri Markkanen,CC05C7A93A71,Utah Jazz,Lauri Markkanen;L. Markkanen;L.Markkanen;Markkanen Lauri,true,
+John Collins,705A1539F76B,Los Angeles Clippers,John Collins;J. Collins;J.Collins;Collins John,true,
+Stephen Curry,30C9ABBBF692,Golden State Warriors,Stephen Curry;S. Curry;S.Curry;Curry Stephen,true,
+Klay Thompson,DA365D7F0D5B,Dallas Mavericks,Klay Thompson;K. Thompson;K.Thompson;Thompson Klay,true,
+Andrew Wiggins,350A7F7A37E4,Miami Heat,Andrew Wiggins;A. Wiggins;A.Wiggins;Wiggins Andrew,true,
+Draymond Green,5D482AB76442,Golden State Warriors,Draymond Green;D. Green;D.Green;Green Draymond,true,
+James Harden,CC707B1EADE5,Los Angeles Clippers,James Harden;J. Harden;J.Harden;Harden James,true,
+Paul George,0C07D14CC5DC,Philadelphia 76ers,Paul George;P. George;P.George;George Paul,true,
+Kawhi Leonard,B97A9B7266A2,Los Angeles Clippers,Kawhi Leonard;K. Leonard;K.Leonard;Leonard Kawhi,true,
+Ivica Zubac,674851E026BC,Los Angeles Clippers,Ivica Zubac;I. Zubac;I.Zubac;Zubac Ivica,true,
+DAngelo Russell,51A46A138D73,Dallas Mavericks,DAngelo Russell;D. Russell;D.Russell;Russell DAngelo,true,
+LeBron James,3C093E0F82BD,Los Angeles Lakers,LeBron James;L. James;L.James;James LeBron,true,
+Anthony Davis,1E0E533973C5,Dallas Mavericks,Anthony Davis;A. Davis;A.Davis;Davis Anthony,true,
+Devin Booker,E43AC7A304CD,Phoenix Suns,Devin Booker;D. Booker;D.Booker;Booker Devin,true,
+Bradley Beal,868280A04E45,Los Angeles Clippers,Bradley Beal;B. Beal;B.Beal;Beal Bradley,true,
+Kevin Durant,223ECA567955,Houston Rockets,Kevin Durant;K. Durant;K.Durant;Durant Kevin,true,
+Jusuf Nurkic,4001629E2FBA,Utah Jazz,Jusuf Nurkic;J. Nurkic;J.Nurkic;Nurkic Jusuf,true,
+DeAaron Fox,CDE39E7AD66F,San Antonio Spurs,DeAaron Fox;DeAaron;D.Fox;Fox DeAaron,true,
+Kevin Huerter,6238D8537CBE,Chicago Bulls,Kevin Huerter;K. Huerter;K.Huerter;Huerter Kevin,true,
+Domantas Sabonis,33D8BA719BE9,Sacramento Kings,Domantas Sabonis;D. Sabonis;D.Sabonis;Sabonis Domantas,true,
+Trae Young,2A95E890DFCB,Atlanta Hawks,Trae Young;T. Young;T.Young;Young Trae,true,
+Dejounte Murray,AFDA3EB48D8F,New Orleans Pelicans,Dejounte Murray;D. Murray;D.Murray;Murray Dejounte,true,
+DeAndre Hunter,A648F8E7D8B1,Cleveland Cavaliers,DeAndre Hunter;D. Hunter;D.Hunter;Hunter DeAndre,true,
+Bogdan Bogdanovic,6511172D86EE,Los Angeles Clippers,Bogdan Bogdanovic;Bogdanovic Bogdan,true,
+Terry Rozier,369A7DB9741A,Miami Heat,Terry Rozier;T. Rozier;T.Rozier;Rozier Terry,true,
+Brandon Miller,94623DDFFBAB,Charlotte Hornets,Brandon Miller;B. Miller;B.Miller;Miller Brandon,true,
+Miles Bridges,7D7FA2FC4296,Charlotte Hornets,M. Bridges;Miles Bridges;Bridges Miles,true,
+Kyle Lowry,4B7F925C9DFF,Philadelphia 76ers,Kyle Lowry;K. Lowry;K.Lowry;Lowry Kyle,true,
+Tyler Herro,29CB00DFF593,Miami Heat,Tyler Herro;T. Herro;T.Herro;Herro Tyler,true,
+Jimmy Butler,1B98F0799407,Golden State Warriors,Jimmy Butler;J. Butler;J.Butler;Butler Jimmy,true,
+Bam Adebayo,21DD03C2B454,Miami Heat,Bam Adebayo;B. Adebayo;B.Adebayo;Adebayo Bam,true,
+Franz Wagner,006B2F3541DF,Orlando Magic,Franz Wagner;F. Wagner;F.Wagner;Wagner Franz,true,
+Paolo Banchero,D60B4AB76311,Orlando Magic,Paolo Banchero;P. Banchero;P.Banchero;Banchero Paolo,true,
+Wendell Carter Jr.,E089AADE38DE,Orlando Magic,Wendell Carter Jr.;W. Carter Jr.;W.Carter Jr.;Carter Jr. Wendell,true,
+Tyus Jones,D354D0E8C6B3,Orlando Magic,Tyus Jones;T. Jones;T.Jones;Jones Tyus,true,
+Jordan Poole,88CBA982B68D,Washington Wizards,Jordan Poole;J. Poole;J.Poole;Poole Jordan,true,
+Deni Avdija,A516E172A7D9,Portland Trail Blazers,Deni Avdija;D. Avdija;D.Avdija;Avdija Deni,true,
+Kyle Kuzma,2F80F21FE649,Milwaukee Bucks,Kyle Kuzma;K. Kuzma;K.Kuzma;Kuzma Kyle,true,
+Luka Doncic,3E8718868C56,Los Angeles Lakers,Luka Doncic;L. Doncic;L.Doncic;Doncic Luka,true,
+Kyrie Irving,CA84EBF5F3D5,Dallas Mavericks,Kyrie Irving;K. Irving;K.Irving;Irving Kyrie,true,
+Tim Hardaway Jr.,426821300D3A,Denver Nuggets,Tim Hardaway Jr.;T. Hardaway Jr.;T.Hardaway Jr.;Hardaway Jr. Tim,true,
+Grant Williams,F6201C6517BA,Charlotte Hornets,Grant Williams;G. Williams;G.Williams;Williams Grant,true,
+Ja Morant,8345BD10177C,Memphis Grizzlies,Ja Morant;J. Morant;J.Morant;Morant Ja,true,
+Marcus Smart,4FDE51CBB96C,Los Angeles Lakers,Marcus Smart;M. Smart;M.Smart;Smart Marcus,true,
+Desmond Bane,40B73A0755A8,Orlando Magic,Desmond Bane;D. Bane;D.Bane;Bane Desmond,true,
+Jaren Jackson Jr.,3806ED3C1BC0,Memphis Grizzlies,Jaren Jackson Jr.;J. Jackson Jr.;J.Jackson Jr.;Jackson Jr. Jaren,true,
+Fred VanVleet,E2C232BD8D0C,Houston Rockets,Fred VanVleet;F. VanVleet;F.VanVleet;VanVleet Fred,true,
+Jalen Green,E048E98EDFB9,Phoenix Suns,Jalen Green;J. Green;J.Green;Green Jalen,true,
+Alperen Sengun,C4ABEA8F1F92,Houston Rockets,Alperen Sengun;A. Sengun;A.Sengun;Sengun Alperen,true,
+C.J. McCollum,F6E63D643B0D,Washington Wizards,C.J. McCollum;C. McCollum;C.McCollum;McCollum C.J.,true,
+Brandon Ingram,BF37C2E17344,Toronto Raptors,Brandon Ingram;B. Ingram;B.Ingram;Ingram Brandon,true,
+Zion Williamson,E4705EFFF804,New Orleans Pelicans,Zion Williamson;Z. Williamson;Z.Williamson;Williamson Zion,true,
+Jonas Valanciunas,752BAAB03E17,Denver Nuggets,Jonas Valanciunas;J. Valanciunas;J.Valanciunas;Valanciunas Jonas,true,
+Devin Vassell,804B793FEEDB,San Antonio Spurs,Devin Vassell;D. Vassell;D.Vassell;Vassell Devin,true,
+Keldon Johnson,F34EFECEA2DA,San Antonio Spurs,Keldon Johnson;K. Johnson;K.Johnson;Johnson Keldon,true,
+Victor Wembanyama,ECE70FF020E8,San Antonio Spurs,Victor Wembanyama;V. Wembanyama;V.Wembanyama;Wembanyama Victor,true,
+Zaccharie Risacher,049B69022842,Atlanta Hawks,Zaccharie Risacher;Z. Risacher;Z.Risacher;Risacher Zaccharie,true,
+Alex Sarr,88E87BF2A103,Washington Wizards,Alex Sarr;A. Sarr;A.Sarr;Sarr Alex,true,
+Zach Edey,1F1924E8CD2E,Memphis Grizzlies,Zach Edey;Z. Edey;Z.Edey;Edey Zach,true,
+Reed Sheppard,11A10E43F913,Houston Rockets,Reed Sheppard;R. Sheppard;R.Sheppard;Sheppard Reed,true,
+Cooper Flagg,88DE1427AED167C6,Dallas Mavericks,Cooper Flagg;C. Flagg;C.Flagg;Flagg Cooper,true,
+Stephon Castle,69245BA7CCBE,San Antonio Spurs,Stephon Castle;S. Castle;S.Castle;Castle Stephon,true,
+Amen Thompson,1FABAEE9E467,Houston Rockets,Amen Thompson;Thompson Amen,true,
+Dyson Daniels,DE0B19290551,Atlanta Hawks,Dyson Daniels;D. Daniels;D.Daniels;Daniels Dyson,true,
+Andrew Nembhard,92F6506906D1,Indiana Pacers,Andrew Nembhard;A. Nembhard;A.Nembhard;Nembhard Andrew,true,
+Bennedict Mathurin,EFB4E989954A,Indiana Pacers,Bennedict Mathurin;B. Mathurin;B.Mathurin;Mathurin Bennedict,true,
+Aaron Nesmith,C0A3D5023D67,Indiana Pacers,Aaron Nesmith;A. Nesmith;A.Nesmith;Nesmith Aaron,true,
+Shaedon Sharpe,D53995324E8F,Portland Trail Blazers,Shaedon Sharpe;S. Sharpe;S.Sharpe;Sharpe Shaedon,true,
+Matas Buzelis,8D55741071E2,Chicago Bulls,Matas Buzelis;M. Buzelis;M.Buzelis;Buzelis Matas,true,
+Nikola Jovic,A5F161698A2A,Miami Heat,Nikola Jovic;N. Jovic;N.Jovic;Jovic Nikola,true,
+Payton Pritchard,5D8F1AC5DB79,Boston Celtics,Payton Pritchard;P. Pritchard;P.Pritchard;Pritchard Payton,true,
+Collin Sexton,5EBE7BC13617,Charlotte Hornets,Collin Sexton;C. Sexton;C.Sexton;Sexton Collin,true,
+Dillon Brooks,8A27A30C7CB9,Phoenix Suns,Dillon Brooks;D. Brooks;D.Brooks;Brooks Dillon,true,
