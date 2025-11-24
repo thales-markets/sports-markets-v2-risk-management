@@ -1,5 +1,49 @@
 name,leagueId,typeId,overtimeBetterOddsPercentage,mollyBetterOddsPercentage,onlyTestMode
-La Liga Moneyline,14,0,1.5,0.3,TRUE
-La Liga 2 Moneyline,20116,0,1.5,0.3,TRUE
-England League 2 Moneyline,20543,0,1.5,0.3,TRUE
-Ecuador Moneyline,20535,0,1.5,0.3,TRUE
+EPL Moneyline,11,0,1.5,0.3,FALSE
+EPL Handicap,11,10001,1.5,0.3,FALSE
+EPL Total,11,10002,1.5,0.3,FALSE
+EPL Draw no bet,11,10010,1.5,0.3,FALSE
+EPL Total Home,11,10017,1.5,0.3,FALSE
+EPL Total Away,11,10018,1.5,0.3,FALSE
+EPL Total Odd/Even,11,10005,1.5,0.3,FALSE
+EPL Both teams to score,11,10009,1.5,0.3,FALSE
+EPL Moneyline 1st,11,10021,1.5,0.3,FALSE
+EPL Handicap 1st,11,10041,1.5,0.3,FALSE
+EPL Total 1st,11,10031,1.5,0.3,FALSE
+EPL Draw no bet 1st,11,10121,1.5,0.3,FALSE
+EPL Total Home 1st,11,10111,1.5,0.3,FALSE
+EPL Total Away 1st,11,10112,1.5,0.3,FALSE
+EPL Total Odd/Even 1st,11,10081,1.5,0.3,FALSE
+EPL Both teams to score 1st,11,10101,1.5,0.3,FALSE
+La Liga Moneyline,14,0,1.5,0.3,FALSE
+La Liga Handicap,14,10001,1.5,0.3,FALSE
+La Liga Total,14,10002,1.5,0.3,FALSE
+La Liga Draw no bet,14,10010,1.5,0.3,FALSE
+La Liga Total Home,14,10017,1.5,0.3,FALSE
+La Liga Total Away,14,10018,1.5,0.3,FALSE
+La Liga Total Odd/Even,14,10005,1.5,0.3,FALSE
+La Liga Both teams to score,14,10009,1.5,0.3,FALSE
+La Liga Moneyline 1st,14,10021,1.5,0.3,FALSE
+La Liga Handicap 1st,14,10041,1.5,0.3,FALSE
+La Liga Total 1st,14,10031,1.5,0.3,FALSE
+La Liga Draw no bet 1st,14,10121,1.5,0.3,FALSE
+La Liga Total Home 1st,14,10111,1.5,0.3,FALSE
+La Liga Total Away 1st,14,10112,1.5,0.3,FALSE
+La Liga Total Odd/Even 1st,14,10081,1.5,0.3,FALSE
+La Liga Both teams to score 1st,14,10101,1.5,0.3,FALSE
+Serie A Moneyline,15,0,1.5,0.3,FALSE
+Serie A Handicap,15,10001,1.5,0.3,FALSE
+Serie A Total,15,10002,1.5,0.3,FALSE
+Serie A Draw no bet,15,10010,1.5,0.3,FALSE
+Serie A Total Home,15,10017,1.5,0.3,FALSE
+Serie A Total Away,15,10018,1.5,0.3,FALSE
+Serie A Total Odd/Even,15,10005,1.5,0.3,FALSE
+Serie A Both teams to score,15,10009,1.5,0.3,FALSE
+Serie A Moneyline 1st,15,10021,1.5,0.3,FALSE
+Serie A Handicap 1st,15,10041,1.5,0.3,FALSE
+Serie A Total 1st,15,10031,1.5,0.3,FALSE
+Serie A Draw no bet 1st,15,10121,1.5,0.3,FALSE
+Serie A Total Home 1st,15,10111,1.5,0.3,FALSE
+Serie A Total Away 1st,15,10112,1.5,0.3,FALSE
+Serie A Total Odd/Even 1st,15,10081,1.5,0.3,FALSE
+Serie A Both teams to score 1st,15,10101,1.5,0.3,FALSE
