@@ -47,3 +47,19 @@ Serie A Total Home 1st,15,10111,1.6,0.3,FALSE
 Serie A Total Away 1st,15,10112,1.6,0.3,FALSE
 Serie A Total Odd/Even 1st,15,10081,1.6,0.3,FALSE
 Serie A Both teams to score 1st,15,10101,1.6,0.3,FALSE
+CL Moneyline,16,0,1.6,0.3,FALSE
+CL Handicap,16,10001,1.6,0.3,FALSE
+CL Total,16,10002,1.6,0.3,FALSE
+CL Draw no bet,16,10010,1.6,0.3,FALSE
+CL Total Home,16,10017,1.6,0.3,FALSE
+CL Total Away,16,10018,1.6,0.3,FALSE
+CL Total Odd/Even,16,10005,1.6,0.3,FALSE
+CL Both teams to score,16,10009,1.6,0.3,FALSE
+CL Moneyline 1st,16,10021,1.6,0.3,FALSE
+CL Handicap 1st,16,10041,1.6,0.3,FALSE
+CL Total 1st,16,10031,1.6,0.3,FALSE
+CL Draw no bet 1st,16,10121,1.6,0.3,FALSE
+CL Total Home 1st,16,10111,1.6,0.3,FALSE
+CL Total Away 1st,16,10112,1.6,0.3,FALSE
+CL Total Odd/Even 1st,16,10081,1.6,0.3,FALSE
+CL Both teams to score 1st,16,10101,1.6,0.3,FALSE
