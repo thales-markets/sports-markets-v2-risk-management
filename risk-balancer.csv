@@ -1,5 +1,2 @@
 sportName,sportId,typeIds,lowerPercentageRisk,higherPercentageRisk,lowerPercentageRiskRebalance,higherPercentageRiskRebalance
-All Sports,,All Types,10,40,1,2
-EPL,11,All Types,90,95,1,2
-La Liga,14,All Types,90,95,1,2
-Calcio,15,All Types,90,95,1,2
+All Sports,,All Types,20,40,1,2
