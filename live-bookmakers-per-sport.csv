@@ -1,10 +1,10 @@
 sportName,sportId,primaryBookmaker,secondaryBookmaker,tertiaryBookmaker
 NCAAF,1,draftkings,betmgm,
-NFL,2,draftkings,betmgm,
+NFL,2,pinnacle,betmgm,
 MLB,3,pinnacle,betmgm,
-NBA,4,draftkings,betmgm,
+NBA,4,pinnacle,betmgm,
 NCAAB,5,draftkings,betmgm,
-NHL,6,draftkings,betmgm,
+NHL,6,pinnacle,betmgm,
 WNBA,8,draftkings,betmgm,
 NCAAW,20211,draftkings,betmgm,
 Eurocup,20200,pinnacle,betano,
