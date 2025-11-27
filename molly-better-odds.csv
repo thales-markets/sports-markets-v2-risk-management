@@ -63,3 +63,19 @@ CL Total Home 1st,16,10111,1.6,0.3,FALSE
 CL Total Away 1st,16,10112,1.6,0.3,FALSE
 CL Total Odd/Even 1st,16,10081,1.6,0.3,FALSE
 CL Both teams to score 1st,16,10101,1.6,0.3,FALSE
+EL Moneyline,17,0,1.6,0.3,FALSE
+EL Handicap,17,10001,1.6,0.3,FALSE
+EL Total,17,10002,1.6,0.3,FALSE
+EL Draw no bet,17,10010,1.6,0.3,FALSE
+EL Total Home,17,10017,1.6,0.3,FALSE
+EL Total Away,17,10018,1.6,0.3,FALSE
+EL Total Odd/Even,17,10005,1.6,0.3,FALSE
+EL Both teams to score,17,10009,1.6,0.3,FALSE
+EL Moneyline 1st,17,10021,1.6,0.3,FALSE
+EL Handicap 1st,17,10041,1.6,0.3,FALSE
+EL Total 1st,17,10031,1.6,0.3,FALSE
+EL Draw no bet 1st,17,10121,1.6,0.3,FALSE
+EL Total Home 1st,17,10111,1.6,0.3,FALSE
+EL Total Away 1st,17,10112,1.6,0.3,FALSE
+EL Total Odd/Even 1st,17,10081,1.6,0.3,FALSE
+EL Both teams to score 1st,17,10101,1.6,0.3,FALSE
