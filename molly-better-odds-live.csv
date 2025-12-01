@@ -1,2 +1,3 @@
 name,leagueId,typeId,overtimeBetterOddsPercentage,mollyBetterOddsPercentage,onlyTestMode
 CS Moneyline,9977,0,1.6,0.3,TRUE
+FIBA Moneyline,20215,0,1.6,0.3,TRUE
