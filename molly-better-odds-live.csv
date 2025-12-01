@@ -1,3 +1,5 @@
 name,leagueId,typeId,overtimeBetterOddsPercentage,mollyBetterOddsPercentage,onlyTestMode
 CS Moneyline,9977,0,1.6,0.3,TRUE
 FIBA Moneyline,20215,0,1.6,0.3,TRUE
+La Liga Moneyline,14,0,1.6,0.3,TRUE
+Serie A Moneyline,15,0,1.6,0.3,TRUE
