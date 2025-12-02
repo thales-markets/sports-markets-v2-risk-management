@@ -40,7 +40,7 @@ NCAAW,20211,Player Props,DraftKings
 Euroleague,399,Player Props,sportzino
 Euroleague,399,Player Turnovers,sportzino
 FIBA - EuroBasket,20224,Player Props,betano
-NBA,4,Player Props,The Crowds Line AI
+NBA,4,Player Props,DraftKings
 NHL,6,Player Props,espn bet
 NHL,6,Player Blocked Shots,DraftKings
 NHL,6,1st Period Moneyline 3-Way,DraftKings
@@ -125,6 +125,9 @@ CS2,9977,5th Map Total Kills,rimble
 CS2,9977,5th Map Kills Handicap,rimble
 CS2,9977,5th Map Team Total Kills,rimble
 CS2,9977,5th Map Total Kills Odd/Even,rimble
+CS2,9977,1st Map Total Bombs Defused,bodog
+CS2,9977,2nd Map Total Bombs Defused,bodog
+CS2,9977,3rd Map Total Bombs Defused,bodog
 Dota 2,9983,Player Props,rimble
 Dota 2,9983,1st Map Team Total Towers Destroyed,rimble
 League of Legends,10138,Player Props,rimble

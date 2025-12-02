@@ -1,2 +1,33 @@
 name,leagueId,typeId,overtimeBetterOddsPercentage,mollyBetterOddsPercentage,onlyTestMode
-CS Moneyline,9977,0,1.6,0.3,TRUE
+EPL Moneyline,11,0,0.1,0.3,FALSE
+EPL Handicap,11,10001,0.1,0.3,FALSE
+EPL Total,11,10002,0.1,0.3,FALSE
+EPL Draw no bet,11,10010,0.1,0.3,FALSE
+EPL Total Home,11,10017,0.1,0.3,FALSE
+EPL Total Away,11,10018,0.1,0.3,FALSE
+EPL Total Odd/Even,11,10005,0.1,0.3,FALSE
+EPL Both teams to score,11,10009,0.1,0.3,FALSE
+EPL Moneyline 1st,11,10021,0.1,0.3,FALSE
+EPL Handicap 1st,11,10041,0.1,0.3,FALSE
+EPL Total 1st,11,10031,0.1,0.3,FALSE
+EPL Draw no bet 1st,11,10121,0.1,0.3,FALSE
+EPL Total Home 1st,11,10111,0.1,0.3,FALSE
+EPL Total Away 1st,11,10112,0.1,0.3,FALSE
+EPL Total Odd/Even 1st,11,10081,0.1,0.3,FALSE
+EPL Both teams to score 1st,11,10101,0.1,0.3,FALSE
+La Liga Moneyline,14,0,0.1,0.3,FALSE
+La Liga Handicap,14,10001,0.1,0.3,FALSE
+La Liga Total,14,10002,0.1,0.3,FALSE
+La Liga Draw no bet,14,10010,0.1,0.3,FALSE
+La Liga Total Home,14,10017,0.1,0.3,FALSE
+La Liga Total Away,14,10018,0.1,0.3,FALSE
+La Liga Total Odd/Even,14,10005,0.1,0.3,FALSE
+La Liga Both teams to score,14,10009,0.1,0.3,FALSE
+La Liga Moneyline 1st,14,10021,0.1,0.3,FALSE
+La Liga Handicap 1st,14,10041,0.1,0.3,FALSE
+La Liga Total 1st,14,10031,0.1,0.3,FALSE
+La Liga Draw no bet 1st,14,10121,0.1,0.3,FALSE
+La Liga Total Home 1st,14,10111,0.1,0.3,FALSE
+La Liga Total Away 1st,14,10112,0.1,0.3,FALSE
+La Liga Total Odd/Even 1st,14,10081,0.1,0.3,FALSE
+La Liga Both teams to score 1st,14,10101,0.1,0.3,FALSE
