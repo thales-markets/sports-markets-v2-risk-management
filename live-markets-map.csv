@@ -1289,10 +1289,10 @@ UEFA - European Championship Women,20713,10222,Total Corners,Total,true,0.95,0.0
 UEFA - European Championship Women,20713,10223,Team Total Corners,Total,true,0.95,0.05,0,pinnacle,betano
 UEFA - European Championship Women,20713,10224,Team Total Corners,Total,true,0.95,0.05,0,pinnacle,betano
 COLOMBIA_PRIMERA_A,20124,0,Moneyline,Moneyline,true,0.95,0.05,0,,
-COLOMBIA_PRIMERA_A,20124,10001,Asian Handicap,Spread,true,0.95,0.05,0,,
+COLOMBIA_PRIMERA_A,20124,10001,Asian Handicap,Spread,true,0.95,0.05,0,draftkings,1xbet
 COLOMBIA_PRIMERA_A,20124,10002,Total Goals,Total,true,0.95,0.05,0,,
-COLOMBIA_PRIMERA_A,20124,10100,Correct Score,Correct Score,true,0.99,0.01,0,,
-COLOMBIA_PRIMERA_A,20124,10003,Double Chance,Double Chance,true,0.99,0.01,0,,
+COLOMBIA_PRIMERA_A,20124,10100,Correct Score,Correct Score,true,0.99,0.01,0,draftkings,betway
+COLOMBIA_PRIMERA_A,20124,10003,Double Chance,Double Chance,true,0.99,0.01,0,draftkings,betway
 COLOMBIA_PRIMERA_A,20124,10017,Team Total,Total,true,0.95,0.05,0,,
 COLOMBIA_PRIMERA_A,20124,10018,Team Total,Total,true,0.95,0.05,0,,
 COLOMBIA_PRIMERA_A,20124,10031,1st Half Total Goals,Total,true,0.95,0.05,0,,
