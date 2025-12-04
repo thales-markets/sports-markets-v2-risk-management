@@ -1149,19 +1149,39 @@ DENMARK_SUPERLIGA,20121,10222,Total Corners,Total,true,0.95,0.05,0,pinnacle,beta
 DENMARK_SUPERLIGA,20121,10223,Team Total Corners,Total,true,0.95,0.05,0,pinnacle,betano
 DENMARK_SUPERLIGA,20121,10224,Team Total Corners,Total,true,0.95,0.05,0,pinnacle,betano
 POLAND_EKSTRAKLASA,20122,0,Moneyline,Moneyline,true,0.95,0.05,0,,
-POLAND_EKSTRAKLASA,20122,10001,Asian Handicap,Spread,true,0.95,0.05,0,,
+POLAND_EKSTRAKLASA,20122,10001,Asian Handicap,Spread,true,0.95,0.05,0,draftkings,1xbet
 POLAND_EKSTRAKLASA,20122,10002,Total Goals,Total,true,0.95,0.05,0,,
-POLAND_EKSTRAKLASA,20122,10100,Correct Score,Correct Score,true,0.99,0.01,0,,
-POLAND_EKSTRAKLASA,20122,10003,Double Chance,Double Chance,true,0.99,0.01,0,,
+POLAND_EKSTRAKLASA,20122,10100,Correct Score,Correct Score,true,0.99,0.01,0,draftkings,betano
+POLAND_EKSTRAKLASA,20122,10003,Double Chance,Double Chance,true,0.99,0.01,0,draftkings,betano
 POLAND_EKSTRAKLASA,20122,10017,Team Total,Total,true,0.95,0.05,0,,
 POLAND_EKSTRAKLASA,20122,10018,Team Total,Total,true,0.95,0.05,0,,
+POLAND_EKSTRAKLASA,20122,10009,Both Teams To Score,Both Teams To Score,true,0.95,0.05,0,draftkings,betano
+POLAND_EKSTRAKLASA,20122,10010,Draw No Bet,Moneyline,true,0.95,0.05,0,draftkings,betano
 POLAND_EKSTRAKLASA,20122,10031,1st Half Total Goals,Total,true,0.95,0.05,0,,
 POLAND_EKSTRAKLASA,20122,10032,2nd Half Total Goals,Total,true,0.95,0.05,0,,
 POLAND_EKSTRAKLASA,20122,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0,,
 POLAND_EKSTRAKLASA,20122,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0,,
 POLAND_EKSTRAKLASA,20122,10222,Total Corners,Total,true,0.95,0.05,0,pinnacle,betano
-POLAND_EKSTRAKLASA,20122,10223,Team Total Corners,Total,true,0.95,0.05,0,pinnacle,betano
-POLAND_EKSTRAKLASA,20122,10224,Team Total Corners,Total,true,0.95,0.05,0,pinnacle,betano
+POLAND_EKSTRAKLASA,20122,10223,Team Total Corners,Total,true,0.95,0.05,0,pinnacle,
+POLAND_EKSTRAKLASA,20122,10224,Team Total Corners,Total,true,0.95,0.05,0,pinnacle,
+POLAND_EKSTRAKLASA,20122,10101,1st Half Both Teams To Score,Both Teams To Score,true,0.95,0.05,0,,
+POLAND_EKSTRAKLASA,20122,10102,2nd Half Both Teams To Score,Both Teams To Score,true,0.95,0.05,0,,
+POLAND_EKSTRAKLASA,20122,10228,1st Half Team Total Corners,Total,true,0.95,0.05,0,pinnacle,
+POLAND_EKSTRAKLASA,20122,10229,1st Half Team Total Corners,Total,true,0.95,0.05,0,pinnacle,
+POLAND_EKSTRAKLASA,20122,10230,2nd Half Team Total Corners,Total,true,0.95,0.05,0,pinnacle,
+POLAND_EKSTRAKLASA,20122,10231,2nd Half Team Total Corners,Total,true,0.95,0.05,0,pinnacle,
+POLAND_EKSTRAKLASA,20122,10121,1st Half Draw No Bet,Moneyline,true,0.95,0.05,0,,
+POLAND_EKSTRAKLASA,20122,10122,2nd Half Draw No Bet,Moneyline,true,0.95,0.05,0,,
+POLAND_EKSTRAKLASA,20122,10226,1st Half Total Corners,Total,true,0.95,0.05,0,pinnacle,betano
+POLAND_EKSTRAKLASA,20122,10227,2nd Half Total Corners,Total,true,0.95,0.05,0,pinnacle,betano
+POLAND_EKSTRAKLASA,20122,10015,1nd Half Double Chance,Double Chance,true,0.95,0.05,0,draftkings,betano
+POLAND_EKSTRAKLASA,20122,10016,2nd Half Double Chance,Double Chance,true,0.95,0.05,0,draftkings,betano
+POLAND_EKSTRAKLASA,20122,10163,1st Half Correct Score,Correct Score,true,0.99,0.01,0,draftkings,
+POLAND_EKSTRAKLASA,20122,10164,1st Half Correct Score,Correct Score,true,0.99,0.01,0,draftkings,
+POLAND_EKSTRAKLASA,20122,10111,1st Half Team Total,Total,true,0.95,0.05,0,,
+POLAND_EKSTRAKLASA,20122,10112,1st Half Team Total,Total,true,0.95,0.05,0,,
+POLAND_EKSTRAKLASA,20122,10211,2nd Half Team Total,Total,true,0.95,0.05,0,,
+POLAND_EKSTRAKLASA,20122,10212,2nd Half Team Total,Total,true,0.95,0.05,0,,
 FRANCE_LIGUE_2,20119,0,Moneyline,Moneyline,true,0.95,0.05,0,,
 FRANCE_LIGUE_2,20119,10001,Asian Handicap,Spread,true,0.95,0.05,0,,
 FRANCE_LIGUE_2,20119,10002,Total Goals,Total,true,0.95,0.05,0,,
@@ -2080,8 +2100,8 @@ Bulgaria - Parva Liga,20507,10032,2nd Half Total Goals,Total,true,0.95,0.05,0,,
 Bulgaria - Parva Liga,20507,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0,,
 Bulgaria - Parva Liga,20507,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0,,
 Bulgaria - Parva Liga,20507,10222,Total Corners,Total,true,0.95,0.05,0,pinnacle,betano
-Bulgaria - Parva Liga,20507,10223,Team Total Corners,Total,true,0.95,0.05,0,pinnacle,unibet
-Bulgaria - Parva Liga,20507,10224,Team Total Corners,Total,true,0.95,0.05,0,pinnacle,unibet
+Bulgaria - Parva Liga,20507,10223,Team Total Corners,Total,true,0.95,0.05,0,pinnacle,
+Bulgaria - Parva Liga,20507,10224,Team Total Corners,Total,true,0.95,0.05,0,pinnacle,
 Bulgaria - Parva Liga,20507,10101,1st Half Both Teams To Score,Both Teams To Score,true,0.95,0.05,0,,
 Bulgaria - Parva Liga,20507,10102,2nd Half Both Teams To Score,Both Teams To Score,true,0.95,0.05,0,,
 Bulgaria - Parva Liga,20507,10228,1st Half Team Total Corners,Total,true,0.95,0.05,0,pinnacle,
@@ -2094,8 +2114,8 @@ Bulgaria - Parva Liga,20507,10226,1st Half Total Corners,Total,true,0.95,0.05,0,
 Bulgaria - Parva Liga,20507,10227,2nd Half Total Corners,Total,true,0.95,0.05,0,pinnacle,betano
 Bulgaria - Parva Liga,20507,10015,1nd Half Double Chance,Double Chance,true,0.95,0.05,0,draftkings,betano
 Bulgaria - Parva Liga,20507,10016,2nd Half Double Chance,Double Chance,true,0.95,0.05,0,draftkings,betano
-Bulgaria - Parva Liga,20507,10163,1st Half Correct Score,Correct Score,true,0.99,0.01,0,draftkings,bwin
-Bulgaria - Parva Liga,20507,10164,1st Half Correct Score,Correct Score,true,0.99,0.01,0,draftkings,bwin
+Bulgaria - Parva Liga,20507,10163,1st Half Correct Score,Correct Score,true,0.99,0.01,0,draftkings,
+Bulgaria - Parva Liga,20507,10164,1st Half Correct Score,Correct Score,true,0.99,0.01,0,draftkings,
 Bulgaria - Parva Liga,20507,10111,1st Half Team Total,Total,true,0.95,0.05,0,,
 Bulgaria - Parva Liga,20507,10112,1st Half Team Total,Total,true,0.95,0.05,0,,
 Bulgaria - Parva Liga,20507,10211,2nd Half Team Total,Total,true,0.95,0.05,0,,
@@ -3722,3 +3742,37 @@ GREECE_A1_LEAGUE,20217,10311,3rd Quarter Team Total,Total,true,0.95,0.05,0,,
 GREECE_A1_LEAGUE,20217,10312,3rd Quarter Team Total,Total,true,0.95,0.05,0,,
 GREECE_A1_LEAGUE,20217,10411,4th Quarter Team Total,Total,true,0.95,0.05,0,,
 GREECE_A1_LEAGUE,20217,10412,4th Quarter Team Total,Total,true,0.95,0.05,0,,
+FIFA - Arab Nations Cup,20723,0,Moneyline,Moneyline,true,0.95,0.05,0,,
+FIFA - Arab Nations Cup,20723,10001,Asian Handicap,Spread,true,0.95,0.05,0,draftkings,1xbet
+FIFA - Arab Nations Cup,20723,10002,Total Goals,Total,true,0.95,0.05,0,,
+FIFA - Arab Nations Cup,20723,10100,Correct Score,Correct Score,true,0.99,0.01,0,draftkings,betano
+FIFA - Arab Nations Cup,20723,10003,Double Chance,Double Chance,true,0.99,0.01,0,draftkings,betano
+FIFA - Arab Nations Cup,20723,10017,Team Total,Total,true,0.95,0.05,0,,
+FIFA - Arab Nations Cup,20723,10018,Team Total,Total,true,0.95,0.05,0,,
+FIFA - Arab Nations Cup,20723,10009,Both Teams To Score,Both Teams To Score,true,0.95,0.05,0,draftkings,betano
+FIFA - Arab Nations Cup,20723,10010,Draw No Bet,Moneyline,true,0.95,0.05,0,draftkings,betano
+FIFA - Arab Nations Cup,20723,10031,1st Half Total Goals,Total,true,0.95,0.05,0,,
+FIFA - Arab Nations Cup,20723,10032,2nd Half Total Goals,Total,true,0.95,0.05,0,,
+FIFA - Arab Nations Cup,20723,10021,1st Half Moneyline,Moneyline,true,0.99,0.01,0,,
+FIFA - Arab Nations Cup,20723,10022,2nd Half Moneyline,Moneyline,true,0.99,0.01,0,,
+FIFA - Arab Nations Cup,20723,10222,Total Corners,Total,true,0.95,0.05,0,pinnacle,betano
+FIFA - Arab Nations Cup,20723,10223,Team Total Corners,Total,true,0.95,0.05,0,pinnacle,
+FIFA - Arab Nations Cup,20723,10224,Team Total Corners,Total,true,0.95,0.05,0,pinnacle,
+FIFA - Arab Nations Cup,20723,10101,1st Half Both Teams To Score,Both Teams To Score,true,0.95,0.05,0,,
+FIFA - Arab Nations Cup,20723,10102,2nd Half Both Teams To Score,Both Teams To Score,true,0.95,0.05,0,,
+FIFA - Arab Nations Cup,20723,10228,1st Half Team Total Corners,Total,true,0.95,0.05,0,pinnacle,
+FIFA - Arab Nations Cup,20723,10229,1st Half Team Total Corners,Total,true,0.95,0.05,0,pinnacle,
+FIFA - Arab Nations Cup,20723,10230,2nd Half Team Total Corners,Total,true,0.95,0.05,0,pinnacle,
+FIFA - Arab Nations Cup,20723,10231,2nd Half Team Total Corners,Total,true,0.95,0.05,0,pinnacle,
+FIFA - Arab Nations Cup,20723,10121,1st Half Draw No Bet,Moneyline,true,0.95,0.05,0,,
+FIFA - Arab Nations Cup,20723,10122,2nd Half Draw No Bet,Moneyline,true,0.95,0.05,0,,
+FIFA - Arab Nations Cup,20723,10226,1st Half Total Corners,Total,true,0.95,0.05,0,pinnacle,betano
+FIFA - Arab Nations Cup,20723,10227,2nd Half Total Corners,Total,true,0.95,0.05,0,pinnacle,betano
+FIFA - Arab Nations Cup,20723,10015,1nd Half Double Chance,Double Chance,true,0.95,0.05,0,draftkings,betano
+FIFA - Arab Nations Cup,20723,10016,2nd Half Double Chance,Double Chance,true,0.95,0.05,0,draftkings,betano
+FIFA - Arab Nations Cup,20723,10163,1st Half Correct Score,Correct Score,true,0.99,0.01,0,draftkings,
+FIFA - Arab Nations Cup,20723,10164,1st Half Correct Score,Correct Score,true,0.99,0.01,0,draftkings,
+FIFA - Arab Nations Cup,20723,10111,1st Half Team Total,Total,true,0.95,0.05,0,,
+FIFA - Arab Nations Cup,20723,10112,1st Half Team Total,Total,true,0.95,0.05,0,,
+FIFA - Arab Nations Cup,20723,10211,2nd Half Team Total,Total,true,0.95,0.05,0,,
+FIFA - Arab Nations Cup,20723,10212,2nd Half Team Total,Total,true,0.95,0.05,0,,
