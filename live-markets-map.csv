@@ -2067,9 +2067,9 @@ Romania - Liga I,20661,10222,Total Corners,Total,true,0.95,0.05,0,pinnacle,betan
 Romania - Liga I,20661,10223,Team Total Corners,Total,true,0.95,0.05,0,pinnacle,betano
 Romania - Liga I,20661,10224,Team Total Corners,Total,true,0.95,0.05,0,pinnacle,betano
 Bulgaria - Parva Liga,20507,0,Moneyline,Moneyline,true,0.95,0.05,0,,
-Bulgaria - Parva Liga,20507,10001,Asian Handicap,Spread,true,0.95,0.05,0,,
+Bulgaria - Parva Liga,20507,10001,Asian Handicap,Spread,true,0.95,0.05,0,draftkings,1xbet
 Bulgaria - Parva Liga,20507,10002,Total Goals,Total,true,0.95,0.05,0,,
-Bulgaria - Parva Liga,20507,10100,Correct Score,Correct Score,true,0.99,0.01,0,,
+Bulgaria - Parva Liga,20507,10100,Correct Score,Correct Score,true,0.99,0.01,0,draftkings,betano
 Bulgaria - Parva Liga,20507,10003,Double Chance,Double Chance,true,0.99,0.01,0,,
 Bulgaria - Parva Liga,20507,10017,Team Total,Total,true,0.95,0.05,0,,
 Bulgaria - Parva Liga,20507,10018,Team Total,Total,true,0.95,0.05,0,,
@@ -2094,8 +2094,8 @@ Bulgaria - Parva Liga,20507,10226,1st Half Total Corners,Total,true,0.95,0.05,0,
 Bulgaria - Parva Liga,20507,10227,2nd Half Total Corners,Total,true,0.95,0.05,0,,
 Bulgaria - Parva Liga,20507,10015,1nd Half Double Chance,Double Chance,true,0.95,0.05,0,,
 Bulgaria - Parva Liga,20507,10016,2nd Half Double Chance,Double Chance,true,0.95,0.05,0,,
-Bulgaria - Parva Liga,20507,10163,1st Half Correct Score,Correct Score,true,0.99,0.01,0,,
-Bulgaria - Parva Liga,20507,10164,1st Half Correct Score,Correct Score,true,0.99,0.01,0,,
+Bulgaria - Parva Liga,20507,10163,1st Half Correct Score,Correct Score,true,0.99,0.01,0,draftkings,betano
+Bulgaria - Parva Liga,20507,10164,1st Half Correct Score,Correct Score,true,0.99,0.01,0,draftkings,betano
 Croatia - 1. HNL,20520,0,Moneyline,Moneyline,true,0.95,0.05,0,,
 Croatia - 1. HNL,20520,10001,Asian Handicap,Spread,true,0.95,0.05,0,,
 Croatia - 1. HNL,20520,10002,Total Goals,Total,true,0.95,0.05,0,,
