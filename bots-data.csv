@@ -20,7 +20,7 @@ overtime-puller-opticodds-gb-two,Scotland - Championship;Ireland - Division 1,20
 overtime-puller-opticodds-fra,France - Ligue 1;France - Ligue 2;France - Super Cup;France - Coupe de France,12;20119;20130;134,3,10s,,,false,0x42Fa56307C5d939a482317c49339f535fF5797Cf,2m,
 overtime-puller-opticodds-germany-one,Germany - Bundesliga;Germany - DFB Pokal;Germany - Super Cup,13;209;20132,3,10s,,,false,0x18bEa3f2391ff4E3b6c4Ad9ff11f30f16d8A34d6,2m,
 overtime-puller-opticodds-germany-two,Germany - Bundesliga 2;Germany - Bundesliga 3,20115;20563,3,10s,,,false,0x48F232f977A2D309942f678001d22fD62929418e,2m,
-overtime-puller-opticodds-esp,Spain - La Liga;Spain - La Liga 2;Spain - Copa del Rey;Spain - Supercopa,14;20116;138;20131,3,10s,,,false,0x5FcA00fdaaD9E4B8c6Ae8a4264C61dF54e022833,2m,
+overtime-puller-opticodds-esp,Spain - La Liga;Spain - La Liga 2;Spain - Copa del Rey;Spain - Supercopa;Spain - Primera Federacion,14;20116;138;20131;20728,3,10s,,,false,0x5FcA00fdaaD9E4B8c6Ae8a4264C61dF54e022833,2m,
 overtime-puller-opticodds-ita,Italy - Serie A;Italy - Serie B;Italy - Coppa Italia;Italy - Supercoppa;Italy - Serie C,15;20117;141;20129;20718,3,10s,,,false,0xD667eD25A7b3f8629Fece1A1cCE2FD591A6731D1,2m,
 overtime-puller-opticodds-uefa-club-one,UEFA - Champions League;International - Club Friendlies;UEFA - Super Cup,16;20584;20001,3,10s,,,false,0x2B5eab064F8B4dB23aAab03365D120c839124413,2m,
 overtime-puller-opticodds-uefa-club-two,UEFA - Europa League;UEFA - Europa Conference League;UEFA - Champions League Women,17;10216;20144,3,10s,,,false,0x4c6530CC374ec6640E9BfDBc65c6e3dE5937aA03,2m,
