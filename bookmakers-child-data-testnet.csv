@@ -40,12 +40,29 @@ NCAAW,20211,Player Props,DraftKings,
 Euroleague,399,Player Props,sportzino,
 Euroleague,399,Player Turnovers,sportzino,
 FIBA - EuroBasket,20224,Player Props,betano,
-NBA,4,Player Props,superbet,draftkings
-NBA,4,Total Assists,superbet,
-NBA,4,Total Steals,superbet,
-NBA,4,Total Blocks,superbet,
-NBA,4,Total Made Threes,superbet,
-NBA,4,Team Total Made Threes,superbet,
+NBA,4,Player Props,pinnacle,draftkings
+NBA,4,Total Assists,superbet,betano
+NBA,4,Total Steals,superbet,betano
+NBA,4,Total Blocks,superbet,betano
+NBA,4,Total Made Threes,superbet,betano
+NBA,4,Team Total Made Threes,superbet,betano
+NBA,4,Player Turnovers,superbet,betano
+NBA,4,Player Two Pointers Attempted,superbet,betano
+NBA,4,Player Threes Attempted,superbet,betano
+NBA,4,Player Steals,draftkings,blue book
+NBA,4,Player Made Two Pointers,superbet,betano
+NBA,4,Player Free Throws Made,superbet,betano
+NBA,4,Player Free Throws Attempted,superbet,betano
+NBA,4,Player Fouls,superbet,betano
+NBA,4,Player Field Goals Made,superbet,betano
+NBA,4,Player Field Goals Attempted,superbet,betano
+NBA,4,Player Triple Double,blue book,draftkings
+NBA,4,Player Steals + Blocks,draftkings,betano
+NBA,4,Player Blocks,draftkings,blue book
+NBA,4,Player Points + Rebounds + Assists,blue book,draftkings
+NBA,4,Player Points + Rebounds,blue book,draftkings
+NBA,4,Player Rebounds + Assists,blue book,draftkings
+NBA,4,Player Points + Assists,blue book,draftkings
 NHL,6,Player Props,espn bet,
 NHL,6,Player Blocked Shots,DraftKings,
 NHL,6,1st Period Moneyline 3-Way,DraftKings,
