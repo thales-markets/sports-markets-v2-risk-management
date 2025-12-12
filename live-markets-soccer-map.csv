@@ -1,4 +1,3 @@
-
 name,sportId,typeId,marketName,type,enabled,minOdds,maxOdds,addedSpread,primaryBookmaker,secondaryBookmaker
 MLS,10,0,Moneyline,Moneyline,true,0.95,0.05,0,,
 MLS,10,10001,Asian Handicap,Spread,true,0.95,0.05,0,draftkings,1xbet
