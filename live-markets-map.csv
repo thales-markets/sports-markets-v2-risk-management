@@ -31,26 +31,7 @@ NCAAF,1,10312,3rd Quarter Team Total,Total,true,0.7,0.3,0,,
 NCAAF,1,10411,4th Quarter Team Total,Total,true,0.7,0.3,0,,
 NCAAF,1,10412,4th Quarter Team Total,Total,true,0.7,0.3,0,,
 NCAAF,1,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,0,,
-NCAAF,1,11051,Player Passing Yards,Total,true,0.95,0.05,2,draftkings,blue book
-NCAAF,1,11052,Player Passing Touchdowns,Total,true,0.95,0.05,2,draftkings,blue book
-NCAAF,1,11053,Player Rushing Yards,Total,true,0.95,0.05,2,draftkings,blue book
-NCAAF,1,11055,Anytime Touchdown Scorer,Total,true,0.95,0.05,2,draftkings,blue book
-NCAAF,1,11057,Player Receiving Yards,Total,true,0.95,0.05,2,draftkings,blue book
-NCAAF,1,11058,Player Receptions,Total,true,0.95,0.05,2,draftkings,blue book
-NCAAF,1,11202,Player Interceptions,Total,true,0.95,0.05,2,draftkings,blue book
-NCAAF,1,11203,Player Kicking Points,Total,true,0.95,0.05,2,draftkings,blue book
-NCAAF,1,11204,Player Passing Attempts,Total,true,0.95,0.05,2,draftkings,blue book
-NCAAF,1,11205,Player Passing Completions,Total,true,0.95,0.05,2,draftkings,blue book
-NCAAF,1,11207,Player Sacks,Total,true,0.95,0.05,2,draftkings,blue book
-NCAAF,1,11209,Player Rushing + Receiving Yards,Total,true,0.95,0.05,2,draftkings,blue book
-NCAAF,1,11208,Player Passing + Rushing Yards,Total,true,0.95,0.05,2,draftkings,blue book
-NCAAF,1,11210,Player Longest Reception,Total,true,0.95,0.05,2,draftkings,blue book
-NCAAF,1,11211,Player Extra Points Made,Total,true,0.95,0.05,2,draftkings,blue book
-NCAAF,1,11212,Player Tackles,Total,true,0.95,0.05,2,draftkings,blue book
-NCAAF,1,11241,Player Longest Rush,Total,true,0.95,0.05,2,draftkings,blue book
-NCAAF,1,11258,Player Field Goals Made,Total,true,0.95,0.05,2,draftkings,blue book
-NCAAF,1,11296,Player Rushing Attempts,Total,true,0.95,0.05,2,draftkings,blue book
-NCAAF,1,11297,Player Longest Passing Completion,Total,true,0.95,0.05,2,draftkings,blue book
+NCAAF,1,11055,Player Touchdowns,Total,true,0.95,0.05,2,draftkings,blue book
 NFL,2,0,Moneyline,Moneyline,true,0.95,0.05,0,,
 NFL,2,10001,Point Spread,Spread,true,0.7,0.3,0,,
 NFL,2,10002,Total Points,Total,true,0.7,0.3,0,,
@@ -230,12 +211,7 @@ NHL,6,10165,3rd Period Correct Score,Correct Score,true,0.95,0.05,0,,
 NHL,6,10101,1st Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,0,,
 NHL,6,10102,2nd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,0,,
 NHL,6,10103,3rd Period Both Teams To Score,Both Teams To Score,true,0.95,0.05,0,,
-NHL,6,11029,Player Points,Total,true,0.95,0.05,2,draftkings,blue book
-NHL,6,11039,Player Assists,Total,true,0.95,0.05,2,draftkings,blue book
-NHL,6,11097,Player Shots On Goal,Total,true,0.95,0.05,2,draftkings,blue book
 NHL,6,11100,Player Goals,Total,true,0.95,0.10,2,draftkings,blue book
-NHL,6,11245,Player Blocked Shots,Total,true,0.95,0.05,2,draftkings,blue book
-NHL,6,11301,Player Saves,Total,true,0.95,0.05,2,draftkings,blue book
 IIHF - World Championship,33,0,Moneyline,Moneyline,true,0.95,0.05,0,,
 IIHF - World Championship,33,10011,Moneyline 3-Way,Moneyline,true,0.95,0.05,0,,
 IIHF - World Championship,33,10001,Puck Line,Spread,true,0.95,0.05,0,,
