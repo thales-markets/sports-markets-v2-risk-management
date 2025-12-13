@@ -67,6 +67,10 @@ NFL,2,10312,3rd Quarter Team Total,Total,true,0.7,0.3,0,,
 NFL,2,10411,4th Quarter Team Total,Total,true,0.7,0.3,0,,
 NFL,2,10412,4th Quarter Team Total,Total,true,0.7,0.3,0,,
 NFL,2,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,0,,
+NFL,2,11206,Player Touchdowns,Total,true,0.95,0.05,2,draftkings,blue book
+NFL,2,11051,Player Passing Yards,Total,true,0.95,0.05,2,draftkings,blue book
+NFL,2,11057,Player Receiving Yards,Total,true,0.95,0.05,2,draftkings,blue book
+NFL,2,11053,Player Rushing Yards,Total,true,0.95,0.05,2,draftkings,blue book
 MLB,3,0,Moneyline,Moneyline,true,0.95,0.05,0,,
 MLB,3,10001,Run Line,Spread,true,0.75,0.25,0,,
 MLB,3,10002,Total Runs,Total,true,0.95,0.05,0,,
