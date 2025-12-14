@@ -73,17 +73,11 @@ NFL,2,11057,Player Receiving Yards,Total,true,0.95,0.05,2,draftkings,blue book
 NFL,2,11053,Player Rushing Yards,Total,true,0.95,0.05,2,draftkings,blue book
 NFL,2,11052,Player Passing Touchdowns,Total,true,0.95,0.05,2,draftkings,blue book
 NFL,2,11058,Player Receptions,Total,true,0.95,0.05,2,draftkings,blue book
-NFL,2,11202,Player Interceptions,Total,true,0.95,0.05,2,draftkings,blue book
-NFL,2,11203,Player Kicking Points,Total,true,0.95,0.05,2,draftkings,blue book
-NFL,2,11204,Player Passing Attempts,Total,true,0.95,0.05,2,draftkings,blue book
-NFL,2,11205,Player Passing Completions,Total,true,0.95,0.05,2,draftkings,blue book
-NFL,2,11207,Player Sacks,Total,true,0.95,0.05,2,draftkings,blue book
-NFL,2,11209,Player Rushing + Receiving Yards,Total,true,0.95,0.05,2,draftkings,blue book
-NFL,2,11208,Player Passing + Rushing Yards,Total,true,0.95,0.05,2,draftkings,blue book
-NFL,2,11211,Player Extra Points Made,Total,true,0.95,0.05,2,draftkings,blue book
-NFL,2,11212,Player Tackles,Total,true,0.95,0.05,2,draftkings,blue book
-NFL,2,11258,Player Field Goals Made,Total,true,0.95,0.05,2,draftkings,blue book
-NFL,2,11296,Player Rushing Attempts,Total,true,0.95,0.05,2,draftkings,blue book
+NFL,2,11202,Player Interceptions,Total,true,0.95,0.05,2,draftkings,bovada
+NFL,2,11203,Player Kicking Points,Total,true,0.95,0.05,2,draftkings,caesars
+NFL,2,11204,Player Passing Attempts,Total,true,0.95,0.05,2,draftkings,caesars
+NFL,2,11205,Player Passing Completions,Total,true,0.95,0.05,2,draftkings,caesars
+NFL,2,11296,Player Rushing Attempts,Total,true,0.95,0.05,2,draftkings,caesars
 MLB,3,0,Moneyline,Moneyline,true,0.95,0.05,0,,
 MLB,3,10001,Run Line,Spread,true,0.75,0.25,0,,
 MLB,3,10002,Total Runs,Total,true,0.95,0.05,0,,
