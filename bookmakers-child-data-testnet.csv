@@ -62,7 +62,11 @@ NBA,4,Player Blocks,draftkings,blue book
 NBA,4,Player Points + Rebounds + Assists,blue book,draftkings
 NBA,4,Player Points + Rebounds,blue book,draftkings
 NBA,4,Player Rebounds + Assists,blue book,draftkings
-NBA,4,Player Points + Assists,blue book,draftkings
+NBA,4,Team Total Blocks,betano,
+NBA,4,Team Total Steals,betano,
+NBA,4,Team Total Assists,betano,
+NBA,4,Total Fouls,betano,
+NBA,4,Team Total Fouls,betano,
 NHL,6,Player Props,espn bet,
 NHL,6,Player Blocked Shots,DraftKings,
 NHL,6,1st Period Moneyline 3-Way,DraftKings,
