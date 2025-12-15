@@ -1,225 +1,225 @@
-name,sportId,marketName,bookmaker
-NCAAF,1,Player Props,espn bet
-NCAAF,1,Player Kicking Points,betano
-NCAAF,1,Player Interceptions,betano
-NCAAF,1,Player Tackles,pinnacle
-NFL,2,Player Props,pinnacle
-NFL,2,Player Tackles,draftkings
-NFL,2,Player Sacks,draftkings
-NFL,2,Player Touchdowns,draftkings
-NFL,2,Anytime Touchdown Scorer,draftkings
-NFL,2,Player Kicking Points,betmgm
-NFL,2,Player Interceptions,draftkings
-NFL,2,Player Field Goals Made,draftkings
-NFL,2,Player Extra Points Made,betmgm
-NFL,2,Player Longest Passing Completion,betmgm
-NFL,2,Player Longest Reception,betmgm
-NFL,2,Player Longest Rush,betmgm
-NFL,2,Player Rushing + Receiving Yards,betmgm
-MLB,3,Player Props,blue book
-MLB,3,Player Home Runs,draftkings
-MLB,3,Player Outs,draftkings
-MLB,3,Player Hits Allowed,draftkings
-MLB,3,Player Earned Runs,draftkings
-MLB,3,Player Batting Strikeouts,draftkings
-MLB,3,Player Batting Walks,draftkings
-NCAAB,5,Player Props,betmgm
-NCAAW,20211,Player Props,blue book
-NFL,2,Will There Be Overtime,draftkings
-NFL,2,1st Quarter Both Teams To Score,draftkings
-NFL,2,Moneyline 3-Way,betano
-MLB,3,Will There Be Overtime,draftkings
-MLB,3,1st 3 Innings Run Line,draftkings
-MLB,3,1st 3 Innings Team Total,draftkings
-MLB,3,1st 3 Innings Correct Score,draftkings
-MLB,3,1st 7 Innings Moneyline,draftkings
-MLB,3,1st 7 Innings Run Line,draftkings
-MLB,3,1st 7 Innings Team Total,draftkings
-MLB,3,1st 7 Innings Correct Score,draftkings
-MLB,3,1st Half Correct Score,draftkings
-Euroleague,399,Player Props,superbet
-NBA,4,Player Props,pinnacle
-NBA,4,Total Assists,superbet
-NBA,4,Total Steals,superbet
-NBA,4,Total Blocks,superbet
-NBA,4,Total Made Threes,superbet
-NBA,4,Team Total Made Threes,superbet
-NBA,4,Player Turnovers,superbet
-NBA,4,Player Two Pointers Attempted,superbet
-NBA,4,Player Threes Attempted,superbet
-NBA,4,Player Steals,draftkings
-NBA,4,Player Made Two Pointers,superbet
-NBA,4,Player Free Throws Made,superbet
-NBA,4,Player Free Throws Attempted,superbet
-NBA,4,Player Fouls,superbet
-NBA,4,Player Field Goals Made,superbet
-NBA,4,Player Field Goals Attempted,superbet
-NBA,4,Player Triple Double,blue book
-NBA,4,Player Steals + Blocks,draftkings
-NBA,4,Player Blocks,draftkings
-NBA,4,Player Points + Rebounds + Assists,blue book
-NBA,4,Player Points + Rebounds,blue book
-NBA,4,Player Rebounds + Assists,blue book
-NBA,4,Player Points + Assists,blue book
-NHL,6,Player Props,pinnacle
-NHL,6,Player Blocked Shots,DraftKings
-NHL,6,1st Period Moneyline 3-Way,DraftKings
-NHL,6,2nd Period Moneyline 3-Way,DraftKings
-NHL,6,Both Teams To Score,espn bet
-NHL,6,1st Period Double Chance,espn bet
-NHL,6,Team To Score,pinnacle
-NHL,6,Team To Win To Nil,pinnacle
-WNBA,8,Player Props,blue book
-WNBA,8,Will There Be Overtime,draftkings
-WTA,152,Player Props,blue book
-ATP,156,Player Props,blue book
-WTA,152,Correct Score,Draftkings
-ATP,156,Correct Score,Draftkings
-ATP Challenger,157,Correct Score,Draftkings
-ATP,156,1st Set Correct Score,draftkings
-ATP,156,2nd Set Correct Score,draftkings
-ATP,156,3rd Set Correct Score,draftkings
-WTA,152,1st Set Correct Score,draftkings
-WTA,152,2nd Set Correct Score,draftkings
-WTA,152,3rd Set Correct Score,draftkings
-ATP Challenger,157,1st Set Correct Score,draftkings
-ATP Challenger,157,2nd Set Correct Score,draftkings
-ATP Challenger,157,3rd Set Correct Score,draftkings
-Czech Republic - Extraliga,310,Total Goals,Draftkings
-Czech Republic - Extraliga,310,Team Total,Draftkings
-Finland - SM Liiga,319,Total Goals,Draftkings
-Finland - SM Liiga,319,Team Total,Draftkings
-Germany - DEL,322,Total Goals,Draftkings
-Germany - DEL,322,Team Total,Draftkings
-Austria - Ice Hockey League,323,Total Goals,Draftkings
-Austria - Ice Hockey League,323,Team Total,Draftkings
-Sweden - SHL,324,Total Goals,Draftkings
-Sweden - SHL,324,Team Total,Draftkings
-Sweden - SHL,324,Moneyline 3-Way,betmgm
-Switzerland - National League,327,Total Goals,betsson
-Switzerland - National League,327,Team Total,betsson
-USA - AHL,328,Total Goals,Draftkings
-USA - AHL,328,Team Total,Draftkings
-Australia - NRL,9500,Player Props,Draftkings
-England - Super League,9501,Player Props,Draftkings
-UEFA - Champions League,16,To Lift The Cup,blue book
-UEFA - Europa League,17,To Lift The Cup,blue book
-UEFA - Europa Conference League,10216,To Lift The Cup,blue book
-FIFA - Club World Cup,20152,To Lift The Cup,blue book
-England - Premier League,11,Team Total Card Points,draftkings
-France - Ligue 1,12,Team Total Card Points,draftkings
-Germany - Bundesliga,13,Team Total Card Points,draftkings
-Spain - La Liga,14,Team Total Card Points,draftkings
-Italy - Serie A,15,Team Total Card Points,draftkings
-UEFA - Champions League,16,Team Total Card Points,draftkings
-UEFA - Europa League,17,Team Total Card Points,draftkings
-CS2,9977,1st Map Total Rounds,thunderpick
-CS2,9977,2nd Map Total Rounds,thunderpick
-CS2,9977,3rd Map Total Rounds,thunderpick
-CS2,9977,Will There Be Overtime,thunderpick
-CS2,9977,1st Map Total Bombs Defused,bodog
-CS2,9977,2nd Map Total Bombs Defused,bodog
-CS2,9977,3rd Map Total Bombs Defused,bodog
-Valorant,20300,Will There Be Overtime,thunderpick
-Dota 2,9983,1st Map Total Kills,thunderpick
-Dota 2,9983,2nd Map Total Kills,thunderpick
-Dota 2,9983,3rd Map Total Kills,thunderpick
-League of Legends,10138,1st Map Total Kills,thunderpick
-League of Legends,10138,2nd Map Total Kills,thunderpick
-League of Legends,10138,3rd Map Total Kills,thunderpick
-CS2,9977,Player Props,rimble
-Dota 2,9983,Player Props,rimble
-League of Legends,10138,Player Props,rimble
-Valorant,20300,Player Props,rimble
-England - Premier League,11,Player Props,XXX
-France - Ligue 1,12,Player Props,XXX
-Germany - Bundesliga,13,Player Props,XXX
-Spain - La Liga,14,Player Props,XXX
-Italy - Serie A,15,Player Props,XXX
-UEFA - Champions League,16,Player Props,XXX
-UEFA - Europa League,17,Player Props,XXX
-USA - Major League Soccer,10,Player Props,XXX
-FIFA - World Cup Qualifiers,18,Player Props,XXX
-FIFA - World Cup,22,Player Props,XXX
-Netherlands - Eredivisie,57,Player Props,XXX
-Portugal - Primeira Liga,61,Player Props,XXX
-Mexico - Liga MX,230,Player Props,XXX
-Brazil - Serie A,268,Player Props,XXX
-Saudi Arabia - Saudi League,536,Player Props,XXX
-UEFA - Nations League,9806,Player Props,XXX
-UEFA - Europa Conference League,10216,Player Props,XXX
-England - Championship,20011,Player Props,XXX
-Scotland - Premiership,20101,Player Props,XXX
-England - Premier League,11,Player Goals,blue book
-England - Premier League,11,Player Assists,blue book
-England - Premier League,11,Player Shots On Target,blue book
-England - Premier League,11,Player Fouls,draftkings
-England - Premier League,11,Player Fouls Drawn,draftkings
-England - Premier League,11,Player Tackles,draftkings
-England - Premier League,11,Player Saves,draftkings
-England - Premier League,11,Player Offsides,draftkings
-France - Ligue 1,12,Player Goals,blue book
-France - Ligue 1,12,Player Assists,blue book
-France - Ligue 1,12,Player Shots On Target,blue book
-France - Ligue 1,12,Player Fouls,draftkings
-France - Ligue 1,12,Player Fouls Drawn,draftkings
-France - Ligue 1,12,Player Tackles,draftkings
-France - Ligue 1,12,Player Saves,draftkings
-France - Ligue 1,12,Player Offsides,draftkings
-Germany - Bundesliga,13,Player Goals,blue book
-Germany - Bundesliga,13,Player Assists,blue book
-Germany - Bundesliga,13,Player Shots On Target,blue book
-Germany - Bundesliga,13,Player Fouls,draftkings
-Germany - Bundesliga,13,Player Fouls Drawn,draftkings
-Germany - Bundesliga,13,Player Tackles,draftkings
-Germany - Bundesliga,13,Player Saves,draftkings
-Germany - Bundesliga,13,Player Offsides,draftkings
-Spain - La Liga,14,Player Goals,blue book
-Spain - La Liga,14,Player Assists,blue book
-Spain - La Liga,14,Player Shots On Target,blue book
-Spain - La Liga,14,Player Fouls,draftkings
-Spain - La Liga,14,Player Fouls Drawn,draftkings
-Spain - La Liga,14,Player Tackles,draftkings
-Spain - La Liga,14,Player Saves,draftkings
-Spain - La Liga,14,Player Offsides,draftkings
-Italy - Serie A,15,Player Goals,blue book
-Italy - Serie A,15,Player Assists,blue book
-Italy - Serie A,15,Player Shots On Target,blue book
-Italy - Serie A,15,Player Fouls,draftkings
-Italy - Serie A,15,Player Fouls Drawn,draftkings
-Italy - Serie A,15,Player Tackles,draftkings
-Italy - Serie A,15,Player Saves,draftkings
-Italy - Serie A,15,Player Offsides,draftkings
-UEFA - Champions League,16,Player Goals,blue book
-UEFA - Champions League,16,Player Assists,blue book
-UEFA - Champions League,16,Player Shots On Target,blue book
-UEFA - Champions League,16,Player Fouls,draftkings
-UEFA - Champions League,16,Player Fouls Drawn,draftkings
-UEFA - Champions League,16,Player Tackles,draftkings
-UEFA - Champions League,16,Player Saves,draftkings
-UEFA - Champions League,16,Player Offsides,draftkings
-UEFA - Europa League,17,Player Goals,blue book
-UEFA - Europa League,17,Player Assists,blue book
-UEFA - Europa League,17,Player Shots On Target,blue book
-UEFA - Europa League,17,Player Fouls,draftkings
-UEFA - Europa League,17,Player Fouls Drawn,draftkings
-UEFA - Europa League,17,Player Tackles,draftkings
-UEFA - Europa League,17,Player Saves,draftkings
-UEFA - Europa League,17,Player Offsides,draftkings
-FIFA World Cup,18,Player Goals,blue book
-FIFA World Cup,18,Player Assists,blue book
-FIFA World Cup,18,Player Shots On Target,blue book
-England - Premier League,11,Halftime / Fulltime,DraftKings
-France - Ligue 1,12,Halftime / Fulltime,DraftKings
-Germany - Bundesliga,13,Halftime / Fulltime,DraftKings
-Spain - La Liga,14,Halftime / Fulltime,DraftKings
-Italy - Serie A,15,Halftime / Fulltime,DraftKings
-FIFA World Cup,18,Halftime / Fulltime,DraftKings
-UEFA - Champions League,16,Halftime / Fulltime,DraftKings
-PDC - World Championship,20326,Correct Score,draftkings
-PDC - World Championship,20326,Total 180s,draftkings
-PDC - World Championship,20326,Most 180s 3-Way,draftkings
-PDC - World Championship,20326,Total 100+ Checkouts,draftkings
-PDC - World Championship,20326,Highest Checkout,draftkings
-PDC - World Championship,20326,Player Highest Checkout,draftkings
-PDC - World Championship,20326,Player 180s,draftkings
+name,sportId,marketName,bookmaker,secondBookmaker
+NCAAF,1,Player Props,espn bet,
+NCAAF,1,Player Kicking Points,betano,
+NCAAF,1,Player Interceptions,betano,
+NCAAF,1,Player Tackles,pinnacle,
+NFL,2,Player Props,pinnacle,
+NFL,2,Player Tackles,draftkings,
+NFL,2,Player Sacks,draftkings,
+NFL,2,Player Touchdowns,draftkings,
+NFL,2,Anytime Touchdown Scorer,draftkings,
+NFL,2,Player Kicking Points,betmgm,
+NFL,2,Player Interceptions,draftkings,
+NFL,2,Player Field Goals Made,draftkings,
+NFL,2,Player Extra Points Made,betmgm,
+NFL,2,Player Longest Passing Completion,betmgm,
+NFL,2,Player Longest Reception,betmgm,
+NFL,2,Player Longest Rush,betmgm,
+NFL,2,Player Rushing + Receiving Yards,betmgm,
+MLB,3,Player Props,blue book,
+MLB,3,Player Home Runs,draftkings,
+MLB,3,Player Outs,draftkings,
+MLB,3,Player Hits Allowed,draftkings,
+MLB,3,Player Earned Runs,draftkings,
+MLB,3,Player Batting Strikeouts,draftkings,
+MLB,3,Player Batting Walks,draftkings,
+NCAAB,5,Player Props,betmgm,
+NCAAW,20211,Player Props,blue book,
+NFL,2,Will There Be Overtime,draftkings,
+NFL,2,1st Quarter Both Teams To Score,draftkings,
+NFL,2,Moneyline 3-Way,betano,
+MLB,3,Will There Be Overtime,draftkings,
+MLB,3,1st 3 Innings Run Line,draftkings,
+MLB,3,1st 3 Innings Team Total,draftkings,
+MLB,3,1st 3 Innings Correct Score,draftkings,
+MLB,3,1st 7 Innings Moneyline,draftkings,
+MLB,3,1st 7 Innings Run Line,draftkings,
+MLB,3,1st 7 Innings Team Total,draftkings,
+MLB,3,1st 7 Innings Correct Score,draftkings,
+MLB,3,1st Half Correct Score,draftkings,
+Euroleague,399,Player Props,superbet,
+NBA,4,Player Props,pinnacle,
+NBA,4,Total Assists,superbet,
+NBA,4,Total Steals,superbet,
+NBA,4,Total Blocks,superbet,
+NBA,4,Total Made Threes,superbet,
+NBA,4,Team Total Made Threes,superbet,
+NBA,4,Player Turnovers,superbet,
+NBA,4,Player Two Pointers Attempted,superbet,
+NBA,4,Player Threes Attempted,superbet,
+NBA,4,Player Steals,draftkings,
+NBA,4,Player Made Two Pointers,superbet,
+NBA,4,Player Free Throws Made,superbet,
+NBA,4,Player Free Throws Attempted,superbet,
+NBA,4,Player Fouls,superbet,
+NBA,4,Player Field Goals Made,superbet,
+NBA,4,Player Field Goals Attempted,superbet,
+NBA,4,Player Triple Double,blue book,
+NBA,4,Player Steals + Blocks,draftkings,
+NBA,4,Player Blocks,draftkings,
+NBA,4,Player Points + Rebounds + Assists,blue book,
+NBA,4,Player Points + Rebounds,blue book,
+NBA,4,Player Rebounds + Assists,blue book,
+NBA,4,Player Points + Assists,blue book,
+NHL,6,Player Props,pinnacle,
+NHL,6,Player Blocked Shots,DraftKings,
+NHL,6,1st Period Moneyline 3-Way,DraftKings,
+NHL,6,2nd Period Moneyline 3-Way,DraftKings,
+NHL,6,Both Teams To Score,espn bet,
+NHL,6,1st Period Double Chance,espn bet,
+NHL,6,Team To Score,pinnacle,
+NHL,6,Team To Win To Nil,pinnacle,
+WNBA,8,Player Props,blue book,
+WNBA,8,Will There Be Overtime,draftkings,
+WTA,152,Player Props,blue book,
+ATP,156,Player Props,blue book,
+WTA,152,Correct Score,Draftkings,
+ATP,156,Correct Score,Draftkings,
+ATP Challenger,157,Correct Score,Draftkings,
+ATP,156,1st Set Correct Score,draftkings,
+ATP,156,2nd Set Correct Score,draftkings,
+ATP,156,3rd Set Correct Score,draftkings,
+WTA,152,1st Set Correct Score,draftkings,
+WTA,152,2nd Set Correct Score,draftkings,
+WTA,152,3rd Set Correct Score,draftkings,
+ATP Challenger,157,1st Set Correct Score,draftkings,
+ATP Challenger,157,2nd Set Correct Score,draftkings,
+ATP Challenger,157,3rd Set Correct Score,draftkings,
+Czech Republic - Extraliga,310,Total Goals,Draftkings,
+Czech Republic - Extraliga,310,Team Total,Draftkings,
+Finland - SM Liiga,319,Total Goals,Draftkings,
+Finland - SM Liiga,319,Team Total,Draftkings,
+Germany - DEL,322,Total Goals,Draftkings,
+Germany - DEL,322,Team Total,Draftkings,
+Austria - Ice Hockey League,323,Total Goals,Draftkings,
+Austria - Ice Hockey League,323,Team Total,Draftkings,
+Sweden - SHL,324,Total Goals,Draftkings,
+Sweden - SHL,324,Team Total,Draftkings,
+Sweden - SHL,324,Moneyline 3-Way,betmgm,
+Switzerland - National League,327,Total Goals,betsson,
+Switzerland - National League,327,Team Total,betsson,
+USA - AHL,328,Total Goals,Draftkings,
+USA - AHL,328,Team Total,Draftkings,
+Australia - NRL,9500,Player Props,Draftkings,
+England - Super League,9501,Player Props,Draftkings,
+UEFA - Champions League,16,To Lift The Cup,blue book,
+UEFA - Europa League,17,To Lift The Cup,blue book,
+UEFA - Europa Conference League,10216,To Lift The Cup,blue book,
+FIFA - Club World Cup,20152,To Lift The Cup,blue book,
+England - Premier League,11,Team Total Card Points,draftkings,
+France - Ligue 1,12,Team Total Card Points,draftkings,
+Germany - Bundesliga,13,Team Total Card Points,draftkings,
+Spain - La Liga,14,Team Total Card Points,draftkings,
+Italy - Serie A,15,Team Total Card Points,draftkings,
+UEFA - Champions League,16,Team Total Card Points,draftkings,
+UEFA - Europa League,17,Team Total Card Points,draftkings,
+CS2,9977,1st Map Total Rounds,thunderpick,
+CS2,9977,2nd Map Total Rounds,thunderpick,
+CS2,9977,3rd Map Total Rounds,thunderpick,
+CS2,9977,Will There Be Overtime,thunderpick,
+CS2,9977,1st Map Total Bombs Defused,bodog,
+CS2,9977,2nd Map Total Bombs Defused,bodog,
+CS2,9977,3rd Map Total Bombs Defused,bodog,
+Valorant,20300,Will There Be Overtime,thunderpick,
+Dota 2,9983,1st Map Total Kills,thunderpick,
+Dota 2,9983,2nd Map Total Kills,thunderpick,
+Dota 2,9983,3rd Map Total Kills,thunderpick,
+League of Legends,10138,1st Map Total Kills,thunderpick,
+League of Legends,10138,2nd Map Total Kills,thunderpick,
+League of Legends,10138,3rd Map Total Kills,thunderpick,
+CS2,9977,Player Props,rimble,
+Dota 2,9983,Player Props,rimble,
+League of Legends,10138,Player Props,rimble,
+Valorant,20300,Player Props,rimble,
+England - Premier League,11,Player Props,XXX,
+France - Ligue 1,12,Player Props,XXX,
+Germany - Bundesliga,13,Player Props,XXX,
+Spain - La Liga,14,Player Props,XXX,
+Italy - Serie A,15,Player Props,XXX,
+UEFA - Champions League,16,Player Props,XXX,
+UEFA - Europa League,17,Player Props,XXX,
+USA - Major League Soccer,10,Player Props,XXX,
+FIFA - World Cup Qualifiers,18,Player Props,XXX,
+FIFA - World Cup,22,Player Props,XXX,
+Netherlands - Eredivisie,57,Player Props,XXX,
+Portugal - Primeira Liga,61,Player Props,XXX,
+Mexico - Liga MX,230,Player Props,XXX,
+Brazil - Serie A,268,Player Props,XXX,
+Saudi Arabia - Saudi League,536,Player Props,XXX,
+UEFA - Nations League,9806,Player Props,XXX,
+UEFA - Europa Conference League,10216,Player Props,XXX,
+England - Championship,20011,Player Props,XXX,
+Scotland - Premiership,20101,Player Props,XXX,
+England - Premier League,11,Player Goals,blue book,
+England - Premier League,11,Player Assists,blue book,
+England - Premier League,11,Player Shots On Target,blue book,
+England - Premier League,11,Player Fouls,draftkings,
+England - Premier League,11,Player Fouls Drawn,draftkings,
+England - Premier League,11,Player Tackles,draftkings,
+England - Premier League,11,Player Saves,draftkings,
+England - Premier League,11,Player Offsides,draftkings,
+France - Ligue 1,12,Player Goals,blue book,
+France - Ligue 1,12,Player Assists,blue book,
+France - Ligue 1,12,Player Shots On Target,blue book,
+France - Ligue 1,12,Player Fouls,draftkings,
+France - Ligue 1,12,Player Fouls Drawn,draftkings,
+France - Ligue 1,12,Player Tackles,draftkings,
+France - Ligue 1,12,Player Saves,draftkings,
+France - Ligue 1,12,Player Offsides,draftkings,
+Germany - Bundesliga,13,Player Goals,blue book,
+Germany - Bundesliga,13,Player Assists,blue book,
+Germany - Bundesliga,13,Player Shots On Target,blue book,
+Germany - Bundesliga,13,Player Fouls,draftkings,
+Germany - Bundesliga,13,Player Fouls Drawn,draftkings,
+Germany - Bundesliga,13,Player Tackles,draftkings,
+Germany - Bundesliga,13,Player Saves,draftkings,
+Germany - Bundesliga,13,Player Offsides,draftkings,
+Spain - La Liga,14,Player Goals,blue book,
+Spain - La Liga,14,Player Assists,blue book,
+Spain - La Liga,14,Player Shots On Target,blue book,
+Spain - La Liga,14,Player Fouls,draftkings,
+Spain - La Liga,14,Player Fouls Drawn,draftkings,
+Spain - La Liga,14,Player Tackles,draftkings,
+Spain - La Liga,14,Player Saves,draftkings,
+Spain - La Liga,14,Player Offsides,draftkings,
+Italy - Serie A,15,Player Goals,blue book,
+Italy - Serie A,15,Player Assists,blue book,
+Italy - Serie A,15,Player Shots On Target,blue book,
+Italy - Serie A,15,Player Fouls,draftkings,
+Italy - Serie A,15,Player Fouls Drawn,draftkings,
+Italy - Serie A,15,Player Tackles,draftkings,
+Italy - Serie A,15,Player Saves,draftkings,
+Italy - Serie A,15,Player Offsides,draftkings,
+UEFA - Champions League,16,Player Goals,blue book,
+UEFA - Champions League,16,Player Assists,blue book,
+UEFA - Champions League,16,Player Shots On Target,blue book,
+UEFA - Champions League,16,Player Fouls,draftkings,
+UEFA - Champions League,16,Player Fouls Drawn,draftkings,
+UEFA - Champions League,16,Player Tackles,draftkings,
+UEFA - Champions League,16,Player Saves,draftkings,
+UEFA - Champions League,16,Player Offsides,draftkings,
+UEFA - Europa League,17,Player Goals,blue book,
+UEFA - Europa League,17,Player Assists,blue book,
+UEFA - Europa League,17,Player Shots On Target,blue book,
+UEFA - Europa League,17,Player Fouls,draftkings,
+UEFA - Europa League,17,Player Fouls Drawn,draftkings,
+UEFA - Europa League,17,Player Tackles,draftkings,
+UEFA - Europa League,17,Player Saves,draftkings,
+UEFA - Europa League,17,Player Offsides,draftkings,
+FIFA World Cup,18,Player Goals,blue book,
+FIFA World Cup,18,Player Assists,blue book,
+FIFA World Cup,18,Player Shots On Target,blue book,
+England - Premier League,11,Halftime / Fulltime,DraftKings,
+France - Ligue 1,12,Halftime / Fulltime,DraftKings,
+Germany - Bundesliga,13,Halftime / Fulltime,DraftKings,
+Spain - La Liga,14,Halftime / Fulltime,DraftKings,
+Italy - Serie A,15,Halftime / Fulltime,DraftKings,
+FIFA World Cup,18,Halftime / Fulltime,DraftKings,
+UEFA - Champions League,16,Halftime / Fulltime,DraftKings,
+PDC - World Championship,20326,Correct Score,draftkings,
+PDC - World Championship,20326,Total 180s,draftkings,
+PDC - World Championship,20326,Most 180s 3-Way,draftkings,
+PDC - World Championship,20326,Total 100+ Checkouts,draftkings,
+PDC - World Championship,20326,Highest Checkout,draftkings,
+PDC - World Championship,20326,Player Highest Checkout,draftkings,
+PDC - World Championship,20326,Player 180s,draftkings,
