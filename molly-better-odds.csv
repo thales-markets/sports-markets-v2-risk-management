@@ -111,3 +111,8 @@ France1 Total Home 1st,12,10111,1.6,0.3,FALSE
 France1 Total Away 1st,12,10112,1.6,0.3,FALSE
 France1 Total Odd/Even 1st,12,10081,1.6,0.3,FALSE
 France1 Both teams to score 1st,12,10101,1.6,0.3,FALSE
+NBA Moneyline,4,0,1.1,0.3,FALSE
+NBA Point Spread,4,10001,1.1,0.3,FALSE
+NBA Total Points,4,10002,1.1,0.3,FALSE
+NBA Team Total,4,10017,1.1,0.3,FALSE
+NBA Team Total,4,10018,1.1,0.3,FALSE
