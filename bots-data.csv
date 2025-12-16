@@ -25,7 +25,7 @@ overtime-puller-opticodds-ita,Italy - Serie A;Italy - Serie B;Italy - Coppa Ital
 overtime-puller-opticodds-uefa-club-one,UEFA - Champions League;International - Club Friendlies;UEFA - Super Cup,16;20584;20001,3,10s,,,false,0x2B5eab064F8B4dB23aAab03365D120c839124413,2m,
 overtime-puller-opticodds-uefa-club-two,UEFA - Europa League;UEFA - Europa Conference League;UEFA - Champions League Women,17;10216;20144,3,10s,,,false,0x4c6530CC374ec6640E9BfDBc65c6e3dE5937aA03,2m,
 overtime-puller-opticodds-fifa-wc,FIFA - World Cup Qualifiers;FIFA - Club World Cup;FIFA - World Cup U20,18;20152;296,3,10s,,,false,0xECD83Cf92F4977A6a0926da965b0028040531190,2m,
-overtime-puller-opticodds-world-nations,CONCACAF - Gold Cup;COSAFA - Cup,20516;20555,2,10s,,,false,0xe7e408df0148673ed963fe2e32b72638277ec158,2m,
+overtime-puller-opticodds-world-nations,CONCACAF - Gold Cup;COSAFA - Cup;CAF - Africa Cup of Nations,20516;20555;20724,2,10s,,,false,0xe7e408df0148673ed963fe2e32b72638277ec158,2m,
 overtime-puller-opticodds-asia,Japan - J1 League;Korea - K1 League,19;20603,2,10s,,,false,0x44a8fcfC43b6c82263d4117E33172613DAe0229a,2m,
 overtime-puller-opticodds-australia,Australia - A-League;Australia - Cup,20113;20166,2,10s,,,false,0x05249Ab941CFa4690851c237A467E1e724019394,2m,
 overtime-puller-opticodds-champions-asia-america,CONMEBOL - Copa Libertadores;AFC - Champions League;CONCACAF - Champions Cup;North America - Leagues Cup,45;20128;20147;20637,2,10s,,,false,0x1EfF259E0d1a75F798BEF4Ba2E3e0F48a3A67eD1,2m,
