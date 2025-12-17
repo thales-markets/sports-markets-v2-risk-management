@@ -1,5 +1,1 @@
 name,leagueId,typeId,overtimeBetterOddsPercentage,mollyBetterOddsPercentage,onlyTestMode
-NBA Moneyline,4,0,1.7,0.3,FALSE
-NBA Total Points,4,10002,1.7,0.3,FALSE
-NBA Point Spread,4,10001,1.7,0.3,FALSE
-
