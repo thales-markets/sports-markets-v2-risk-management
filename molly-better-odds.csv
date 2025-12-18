@@ -212,3 +212,8 @@ NBA Point Spread,4,10001,1.1,0.3,FALSE
 NBA Total Points,4,10002,1.1,0.3,FALSE
 NBA Team Total,4,10017,1.1,0.3,FALSE
 NBA Team Total,4,10018,1.1,0.3,FALSE
+Euroleague Moneyline,399,0,1.1,0.3,FALSE
+Euroleague Point Spread,399,10001,1.1,0.3,FALSE
+Euroleague Total Points,399,10002,1.1,0.3,FALSE
+Euroleague Team Total,399,10017,1.1,0.3,FALSE
+Euroleague Team Total,399,10018,1.1,0.3,FALSE
