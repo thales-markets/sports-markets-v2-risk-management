@@ -1,12 +1,12 @@
 sportName,sportId,primaryBookmaker,secondaryBookmaker
-NCAAF,1,blue book,
-NFL,2,blue book,
-MLB,3,pinnacle,
-NBA,4,pinnacle,
-NCAAB,5,blue book,
+NCAAF,1,blue book,draftkings
+NFL,2,blue book,draftkings
+MLB,3,pinnacle,draftkings
+NBA,4,pinnacle,blue book
+NCAAB,5,blue book,pinnacle
 NCAAW,20211,blue book,
-NHL,6,blue book,
-WNBA,8,pinnacle,
+NHL,6,blue book,draftkings
+WNBA,8,pinnacle,draftkings
 PFL,9,DraftKings,
 CFL,9520,draftkings,
 ATP,156,pinnacle,
