@@ -1,4 +1,4 @@
 bot_name,livePeriodEligibleSports
 resolver_main,Euroleague;NHL;NBA;NFL
 resolver_football,UEFA - Champions League;England - Premier League;Spain - La Liga;France - Ligue 1;Italy - Serie A;Germany - Bundesliga
-resolver_testnet,NFL;NHL;FIFA - World Cup Qualifiers;NBA;Euroleague;France - Ligue 1;Italy - Serie A;Spain - La Liga;England - Premier League;Germany - Bundesliga;UEFA - Champions League;AFC - Champions League;Russia - First League;Russia - KHL;International - ABA League;USA - AHL;ATP Challenger
+resolver_testnet,NFL;NHL;FIFA - World Cup Qualifiers;NBA;Euroleague;France - Ligue 1;Italy - Serie A;Spain - La Liga;England - Premier League;Germany - Bundesliga;UEFA - Champions League;AFC - Champions League;Russia - First League;Russia - KHL;International - ABA League;ATP Challenger
