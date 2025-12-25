@@ -281,3 +281,13 @@ Euroleague Point Spread,399,10001,1.1,0.3,FALSE
 Euroleague Total Points,399,10002,1.1,0.3,FALSE
 Euroleague Team Total,399,10017,1.1,0.3,FALSE
 Euroleague Team Total,399,10018,1.1,0.3,FALSE
+NFL Moneyline,2,0,1.1,0.3,FALSE
+NFL Point Spread,2,10001,1.1,0.3,FALSE
+NFL Total Points,2,10002,1.1,0.3,FALSE
+NFL Team Total,2,10017,1.1,0.3,FALSE
+NFL Team Total,2,10018,1.1,0.3,FALSE
+NHL Moneyline,2,0,1.1,0.3,FALSE
+NHL Puck Line,2,10001,1.1,0.3,FALSE
+NHL Total Goals,2,10002,1.1,0.3,FALSE
+NHL Team Total,2,10017,1.1,0.3,FALSE
+NHL Team Total,2,10018,1.1,0.3,FALSE
