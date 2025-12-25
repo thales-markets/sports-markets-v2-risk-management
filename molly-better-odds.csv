@@ -15,6 +15,9 @@ EPL Total Home 1st,11,10111,1.1,0.3,FALSE
 EPL Total Away 1st,11,10112,1.1,0.3,FALSE
 EPL Total Odd/Even 1st,11,10081,1.1,0.3,FALSE
 EPL Both teams to score 1st,11,10101,1.1,0.3,FALSE
+EPL Total Corners,11,10222,1.1,0.3,FALSE
+EPL Team Total Corners,11,10223,1.1,0.3,FALSE
+EPL Team Total Corners,11,10224,1.1,0.3,FALSE
 La Liga Moneyline,14,0,1.1,0.3,FALSE
 La Liga Handicap,14,10001,1.1,0.3,FALSE
 La Liga Total,14,10002,1.1,0.3,FALSE
@@ -31,6 +34,9 @@ La Liga Total Home 1st,14,10111,1.1,0.3,FALSE
 La Liga Total Away 1st,14,10112,1.1,0.3,FALSE
 La Liga Total Odd/Even 1st,14,10081,1.1,0.3,FALSE
 La Liga Both teams to score 1st,14,10101,1.1,0.3,FALSE
+La Liga Total Corners,14,10222,1.1,0.3,FALSE
+La Liga Team Total Corners,14,10223,1.1,0.3,FALSE
+La Liga Team Total Corners,14,10224,1.1,0.3,FALSE
 Serie A Moneyline,15,0,1.1,0.3,FALSE
 Serie A Handicap,15,10001,1.1,0.3,FALSE
 Serie A Total,15,10002,1.1,0.3,FALSE
@@ -47,6 +53,47 @@ Serie A Total Home 1st,15,10111,1.1,0.3,FALSE
 Serie A Total Away 1st,15,10112,1.1,0.3,FALSE
 Serie A Total Odd/Even 1st,15,10081,1.1,0.3,FALSE
 Serie A Both teams to score 1st,15,10101,1.1,0.3,FALSE
+Serie A Total Corners,15,10222,1.1,0.3,FALSE
+Serie A Team Total Corners,15,10223,1.1,0.3,FALSE
+Serie A Team Total Corners,15,10224,1.1,0.3,FALSE
+Bundesliga Moneyline,13,0,1.1,0.3,FALSE
+Bundesliga Handicap,13,10001,1.1,0.3,FALSE
+Bundesliga Total,13,10002,1.1,0.3,FALSE
+Bundesliga Draw no bet,13,10010,1.1,0.3,FALSE
+Bundesliga Total Home,13,10017,1.1,0.3,FALSE
+Bundesliga Total Away,13,10018,1.1,0.3,FALSE
+Bundesliga Total Odd/Even,13,10005,1.1,0.3,FALSE
+Bundesliga Both teams to score,13,10009,1.1,0.3,FALSE
+Bundesliga Moneyline 1st,13,10021,1.1,0.3,FALSE
+Bundesliga Handicap 1st,13,10041,1.1,0.3,FALSE
+Bundesliga Total 1st,13,10031,1.1,0.3,FALSE
+Bundesliga Draw no bet 1st,13,10121,1.1,0.3,FALSE
+Bundesliga Total Home 1st,13,10111,1.1,0.3,FALSE
+Bundesliga Total Away 1st,13,10112,1.1,0.3,FALSE
+Bundesliga Total Odd/Even 1st,13,10081,1.1,0.3,FALSE
+Bundesliga Both teams to score 1st,13,10101,1.1,0.3,FALSE
+Bundesliga Total Corners,13,10222,1.1,0.3,FALSE
+Bundesliga Team Total Corners,13,10223,1.1,0.3,FALSE
+Bundesliga Team Total Corners,13,10224,1.1,0.3,FALSE
+France1 Moneyline,12,0,1.1,0.3,FALSE
+France1 Handicap,12,10001,1.1,0.3,FALSE
+France1 Total,12,10002,1.1,0.3,FALSE
+France1 Draw no bet,12,10010,1.1,0.3,FALSE
+France1 Total Home,12,10017,1.1,0.3,FALSE
+France1 Total Away,12,10018,1.1,0.3,FALSE
+France1 Total Odd/Even,12,10005,1.1,0.3,FALSE
+France1 Both teams to score,12,10009,1.1,0.3,FALSE
+France1 Moneyline 1st,12,10021,1.1,0.3,FALSE
+France1 Handicap 1st,12,10041,1.1,0.3,FALSE
+France1 Total 1st,12,10031,1.1,0.3,FALSE
+France1 Draw no bet 1st,12,10121,1.1,0.3,FALSE
+France1 Total Home 1st,12,10111,1.1,0.3,FALSE
+France1 Total Away 1st,12,10112,1.1,0.3,FALSE
+France1 Total Odd/Even 1st,12,10081,1.1,0.3,FALSE
+France1 Both teams to score 1st,12,10101,1.1,0.3,FALSE
+France1 Total Corners,12,10222,1.1,0.3,FALSE
+France1 Team Total Corners,12,10223,1.1,0.3,FALSE
+France1 Team Total Corners,12,10224,1.1,0.3,FALSE
 CL Moneyline,16,0,1.1,0.3,FALSE
 CL Handicap,16,10001,1.1,0.3,FALSE
 CL Total,16,10002,1.1,0.3,FALSE
@@ -79,38 +126,6 @@ EL Total Home 1st,17,10111,1.1,0.3,FALSE
 EL Total Away 1st,17,10112,1.1,0.3,FALSE
 EL Total Odd/Even 1st,17,10081,1.1,0.3,FALSE
 EL Both teams to score 1st,17,10101,1.1,0.3,FALSE
-Bundesliga Moneyline,13,0,1.1,0.3,FALSE
-Bundesliga Handicap,13,10001,1.1,0.3,FALSE
-Bundesliga Total,13,10002,1.1,0.3,FALSE
-Bundesliga Draw no bet,13,10010,1.1,0.3,FALSE
-Bundesliga Total Home,13,10017,1.1,0.3,FALSE
-Bundesliga Total Away,13,10018,1.1,0.3,FALSE
-Bundesliga Total Odd/Even,13,10005,1.1,0.3,FALSE
-Bundesliga Both teams to score,13,10009,1.1,0.3,FALSE
-Bundesliga Moneyline 1st,13,10021,1.1,0.3,FALSE
-Bundesliga Handicap 1st,13,10041,1.1,0.3,FALSE
-Bundesliga Total 1st,13,10031,1.1,0.3,FALSE
-Bundesliga Draw no bet 1st,13,10121,1.1,0.3,FALSE
-Bundesliga Total Home 1st,13,10111,1.1,0.3,FALSE
-Bundesliga Total Away 1st,13,10112,1.1,0.3,FALSE
-Bundesliga Total Odd/Even 1st,13,10081,1.1,0.3,FALSE
-Bundesliga Both teams to score 1st,13,10101,1.1,0.3,FALSE
-France1 Moneyline,12,0,1.1,0.3,FALSE
-France1 Handicap,12,10001,1.1,0.3,FALSE
-France1 Total,12,10002,1.1,0.3,FALSE
-France1 Draw no bet,12,10010,1.1,0.3,FALSE
-France1 Total Home,12,10017,1.1,0.3,FALSE
-France1 Total Away,12,10018,1.1,0.3,FALSE
-France1 Total Odd/Even,12,10005,1.1,0.3,FALSE
-France1 Both teams to score,12,10009,1.1,0.3,FALSE
-France1 Moneyline 1st,12,10021,1.1,0.3,FALSE
-France1 Handicap 1st,12,10041,1.1,0.3,FALSE
-France1 Total 1st,12,10031,1.1,0.3,FALSE
-France1 Draw no bet 1st,12,10121,1.1,0.3,FALSE
-France1 Total Home 1st,12,10111,1.1,0.3,FALSE
-France1 Total Away 1st,12,10112,1.1,0.3,FALSE
-France1 Total Odd/Even 1st,12,10081,1.1,0.3,FALSE
-France1 Both teams to score 1st,12,10101,1.1,0.3,FALSE
 FIFA Intercontinental Cup Moneyline,20558,0,1.1,0.3,FALSE
 FIFA Intercontinental Cup Handicap,20558,10001,1.1,0.3,FALSE
 FIFA Intercontinental Cup Total,20558,10002,1.1,0.3,FALSE
