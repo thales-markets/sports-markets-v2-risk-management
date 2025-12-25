@@ -1,19 +1,21 @@
 name,leagueId,typeId,overtimeBetterOddsPercentage,mollyBetterOddsPercentage,onlyTestMode
-NBA Moneyline,4,0,0.1,0.3,FALSE
-NBA Point Spread,4,10001,0.1,0.3,FALSE
-NBA Total Points,4,10002,0.1,0.3,FALSE
-NBA Team Total,4,10017,0.1,0.3,FALSE
-NBA Team Total,4,10018,0.1,0.3,FALSE
-Euroleague Moneyline,399,0,0.1,0.3,FALSE
-Euroleague Point Spread,399,10001,0.1,0.3,FALSE
-Euroleague Total Points,399,10002,0.1,0.3,FALSE
-Euroleague Team Total,399,10017,0.1,0.3,FALSE
-Euroleague Team Total,399,10018,0.1,0.3,FALSE
 NFL Moneyline,2,0,0.1,0.3,FALSE
 NFL Point Spread,2,10001,0.1,0.3,FALSE
 NFL Total Points,2,10002,0.1,0.3,FALSE
 NFL Team Total,2,10017,0.1,0.3,FALSE
 NFL Team Total,2,10018,0.1,0.3,FALSE
+NBA Moneyline,4,0,0.1,0.3,FALSE
+NBA Point Spread,4,10001,0.1,0.3,FALSE
+NBA Total Points,4,10002,0.1,0.3,FALSE
+NBA Team Total,4,10017,0.1,0.3,FALSE
+NBA Team Total,4,10018,0.1,0.3,FALSE
 NHL Moneyline,6,0,0.1,0.3,FALSE
 NHL Puck Line,6,10001,0.1,0.3,FALSE
 NHL Total Goals,6,10002,0.1,0.3,FALSE
+NHL Team Total,6,10017,0.1,0.3,FALSE
+NHL Team Total,6,10018,0.1,0.3,FALSE
+Euroleague Moneyline,399,0,0.1,0.3,FALSE
+Euroleague Point Spread,399,10001,0.1,0.3,FALSE
+Euroleague Total Points,399,10002,0.1,0.3,FALSE
+Euroleague Team Total,399,10017,0.1,0.3,FALSE
+Euroleague Team Total,399,10018,0.1,0.3,FALSE
