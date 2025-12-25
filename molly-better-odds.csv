@@ -142,6 +142,22 @@ FIFA Intercontinental Cup Total Home 1st,20558,10111,1.1,0.3,FALSE
 FIFA Intercontinental Cup Total Away 1st,20558,10112,1.1,0.3,FALSE
 FIFA Intercontinental Cup Total Odd/Even 1st,20558,10081,1.1,0.3,FALSE
 FIFA Intercontinental Cup Both teams to score 1st,20558,10101,1.1,0.3,FALSE
+MLS Moneyline,10,0,1.1,0.3,FALSE
+MLS Handicap,10,10001,1.1,0.3,FALSE
+MLS Total,10,10002,1.1,0.3,FALSE
+MLS Draw no bet,10,10010,1.1,0.3,FALSE
+MLS Total Home,10,10017,1.1,0.3,FALSE
+MLS Total Away,10,10018,1.1,0.3,FALSE
+MLS Total Odd/Even,10,10005,1.1,0.3,FALSE
+MLS Both teams to score,10,10009,1.1,0.3,FALSE
+MLS Moneyline 1st,10,10021,1.1,0.3,FALSE
+MLS Handicap 1st,10,10041,1.1,0.3,FALSE
+MLS Total 1st,10,10031,1.1,0.3,FALSE
+MLS Draw no bet 1st,10,10121,1.1,0.3,FALSE
+MLS Total Home 1st,10,10111,1.1,0.3,FALSE
+MLS Total Away 1st,10,10112,1.1,0.3,FALSE
+MLS Total Odd/Even 1st,10,10081,1.1,0.3,FALSE
+MLS Both teams to score 1st,10,10101,1.1,0.3,FALSE
 Brazil1 Moneyline,268,0,1.1,0.3,FALSE
 Brazil1 Handicap,268,10001,1.1,0.3,FALSE
 Brazil1 Total,268,10002,1.1,0.3,FALSE
@@ -262,14 +278,6 @@ Saudi League Total Home,536,10017,1.1,0.3,FALSE
 Saudi League Total Away,536,10018,1.1,0.3,FALSE
 Saudi League Total Odd/Even,536,10005,1.1,0.3,FALSE
 Saudi League Both teams to score,536,10009,1.1,0.3,FALSE
-Saudi League Moneyline 1st,536,10021,1.1,0.3,FALSE
-Saudi League Handicap 1st,536,10041,1.1,0.3,FALSE
-Saudi League Total 1st,536,10031,1.1,0.3,FALSE
-Saudi League Draw no bet 1st,536,10121,1.1,0.3,FALSE
-Saudi League Total Home 1st,536,10111,1.1,0.3,FALSE
-Saudi League Total Away 1st,536,10112,1.1,0.3,FALSE
-Saudi League Total Odd/Even 1st,536,10081,1.1,0.3,FALSE
-Saudi League Both teams to score 1st,536,10101,1.1,0.3,FALSE
 Australia A League Moneyline,20113,0,1.1,0.3,FALSE
 Australia A League Handicap,20113,10001,1.1,0.3,FALSE
 Australia A League Total,20113,10002,1.1,0.3,FALSE
@@ -278,14 +286,30 @@ Australia A League Total Home,20113,10017,1.1,0.3,FALSE
 Australia A League Total Away,20113,10018,1.1,0.3,FALSE
 Australia A League Total Odd/Even,20113,10005,1.1,0.3,FALSE
 Australia A League Both teams to score,20113,10009,1.1,0.3,FALSE
-Australia A League Moneyline 1st,20113,10021,1.1,0.3,FALSE
-Australia A League Handicap 1st,20113,10041,1.1,0.3,FALSE
-Australia A League Total 1st,20113,10031,1.1,0.3,FALSE
-Australia A League Draw no bet 1st,20113,10121,1.1,0.3,FALSE
-Australia A League Total Home 1st,20113,10111,1.1,0.3,FALSE
-Australia A League Total Away 1st,20113,10112,1.1,0.3,FALSE
-Australia A League Total Odd/Even 1st,20113,10081,1.1,0.3,FALSE
-Australia A League Both teams to score 1st,20113,10101,1.1,0.3,FALSE
+Bel1 Moneyline,20102,0,1.1,0.3,FALSE
+Bel1 Handicap,20102,10001,1.1,0.3,FALSE
+Bel1 Total,20102,10002,1.1,0.3,FALSE
+Bel1 Draw no bet,20102,10010,1.1,0.3,FALSE
+Bel1 Total Home,20102,10017,1.1,0.3,FALSE
+Bel1 Total Away,20102,10018,1.1,0.3,FALSE
+Bel1 Total Odd/Even,20102,10005,1.1,0.3,FALSE
+Bel1 Both teams to score,20102,10009,1.1,0.3,FALSE
+England League 1 Moneyline,20126,0,1.1,0.3,FALSE
+England League 1 Handicap,20126,10001,1.1,0.3,FALSE
+England League 1 Total,20126,10002,1.1,0.3,FALSE
+England League 1 Draw no bet,20126,10010,1.1,0.3,FALSE
+England League 1 Total Home,20126,10017,1.1,0.3,FALSE
+England League 1 Total Away,20126,10018,1.1,0.3,FALSE
+England League 1 Total Odd/Even,20126,10005,1.1,0.3,FALSE
+England League 1 Both teams to score,20126,10009,1.1,0.3,FALSE
+Scotland1 Moneyline,20101,0,1.1,0.3,FALSE
+Scotland1 Handicap,20101,10001,1.1,0.3,FALSE
+Scotland1 Total,20101,10002,1.1,0.3,FALSE
+Scotland1 Draw no bet,20101,10010,1.1,0.3,FALSE
+Scotland1 Total Home,20101,10017,1.1,0.3,FALSE
+Scotland1 Total Away,20101,10018,1.1,0.3,FALSE
+Scotland1 Total Odd/Even,20101,10005,1.1,0.3,FALSE
+Scotland1 Both teams to score,20101,10009,1.1,0.3,FALSE
 NBA Moneyline,4,0,1.1,0.3,FALSE
 NBA Point Spread,4,10001,1.1,0.3,FALSE
 NBA Total Points,4,10002,1.1,0.3,FALSE
