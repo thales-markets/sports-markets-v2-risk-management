@@ -3,9 +3,9 @@ PFL,9,100,250,Moneyline,Total Rounds,,false,2,1,0;10001,false
 Davis Cup,154,300,400,Moneyline,Game Spread,Total Games,true,1.5,1,0;10001;10002,false
 ITF Women,155,300,400,Moneyline,Game Spread,Total Games,true,1.5,1,0;10001;10002,false
 ITF Men,159,300,400,Moneyline,Game Spread,Total Games,true,1.5,1,0;10001;10002,false
-CS2,9977,50,500,Moneyline,Map Handicap,Total Maps,false,7,7,0;10001;10002,false
-Dota 2,9983,50,500,Moneyline,Map Handicap,Total Maps,false,7,7,0;10001;10002,false
-League of Legends,10138,50,1500,Moneyline,Map Handicap,Total Maps,false,7,7,0;10001;10002,false
+CS2,9977,50,500,Moneyline,Map Handicap,Total Maps,false,7,7,0;10001;10002,true
+Dota 2,9983,50,500,Moneyline,Map Handicap,Total Maps,false,7,7,0;10001;10002,true
+League of Legends,10138,50,1500,Moneyline,Map Handicap,Total Maps,false,7,7,0;10001;10002,true
 Rainbow Six Siege,20293,50,150,Moneyline,,,true,2,1,0,false
 Starcraft 2,20294,50,150,Moneyline,Map Handicap,Total Maps,true,2,1,0;10001;10002,false
 Mobile Legends Bang Bang,20295,50,150,Moneyline,Map Handicap,Total Maps,true,2,1,0;10001;10002,false
