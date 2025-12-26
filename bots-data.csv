@@ -6,7 +6,7 @@ overtime-puller-opticodds-mlb,MLB;USA - MLB All Star,3;305,1,10s,300s,600s,false
 overtime-puller-opticodds-baseball,NPB;KBO;College Baseball;CPBL;Mexico - LMB,301;302;303;304;306,1,10s,300s,600s,false,0xD29314E32dBa3b8564abDDc0d5781d4Bd173FD90,2m,
 overtime-puller-opticodds-nba,NBA;USA - NBA Summer League,4;400,1,10s,300s,600s,true,0x9b1C1f60243ea8573803f4EA8Dd2B7F3c66c26F3,2m,
 overtime-puller-opticodds-ncaab,NCAAB;NCAAW,5;20211,1,10s,300s,600s,false,0xDD747F32ADd26b1C1DBCe16ea53A68dD7aB5Aa29,2m,
-overtime-puller-opticodds-nhl,NHL,6,1,10s,,,false,0xB1194db809c35e6259c504328F07424FB983e812,2m,
+overtime-puller-opticodds-nhl,NHL,6,1,10s,300s,600s,false,0xB1194db809c35e6259c504328F07424FB983e812,2m,
 overtime-puller-opticodds-american-hockey,NCAAH;USA - AHL,311;328,1,10s,,,false,0x47Cc79577249F3C6bfA559FA0A3C4042aa425E0D,2m,
 overtime-puller-opticodds-canadian-hockey,Canada - OHL;Canada - QMJHL;Canada - WHL,313;314;315,1,10s,,,false,0xa23C32C0BAd94F411063E0E6D32778515309fbA3,2m,
 overtime-puller-opticodds-fights,UFC;PFL;Boxing Matches,7;9;9196,6,10s,,,false,0x8B408EfA4A738a749EEfF612778a419B41167f48,2m,
