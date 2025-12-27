@@ -150,41 +150,41 @@ MLB,3,10169,7th Inning Correct Score,Correct Score,true,0.99,0.01,2,,,
 MLB,3,10197,8th Inning Correct Score,Correct Score,true,0.99,0.01,2,,,
 MLB,3,10198,9th Inning Correct Score,Correct Score,true,0.99,0.01,2,,,
 NBA,4,0,Moneyline,Moneyline,true,0.95,0.05,0,,,
-NBA,4,10001,Point Spread,Spread,true,0.95,0.05,0,,,
-NBA,4,10002,Total Points,Total,true,0.95,0.05,0,,,
-NBA,4,10017,Team Total,Total,true,0.95,0.05,0,,,
-NBA,4,10018,Team Total,Total,true,0.95,0.05,0,,,
-NBA,4,10031,1st Quarter Total Points,Total,true,0.95,0.05,0,,,
-NBA,4,10032,2nd Quarter Total Points,Total,true,0.95,0.05,0,,,
-NBA,4,10033,3rd Quarter Total Points,Total,true,0.95,0.05,0,,,
-NBA,4,10034,4th Quarter Total Points,Total,true,0.95,0.05,0,,,
-NBA,4,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,0,,,
-NBA,4,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,0,,,
-NBA,4,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,0,,,
-NBA,4,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,0,,,
-NBA,4,10071,1st Half Point Spread,Spread,true,0.95,0.05,0,,,
-NBA,4,10072,2nd Half Point Spread,Spread,true,0.95,0.05,0,,,
-NBA,4,10061,1st Half Total Points,Total,true,0.95,0.05,0,,,
-NBA,4,10062,2nd Half Total Points,Total,true,0.95,0.05,0,,,
+NBA,4,10001,Point Spread,Spread,true,0.95,0.05,0,,,10
+NBA,4,10002,Total Points,Total,true,0.95,0.05,0,,,10
+NBA,4,10017,Team Total,Total,true,0.95,0.05,0,,,10
+NBA,4,10018,Team Total,Total,true,0.95,0.05,0,,,10
+NBA,4,10031,1st Quarter Total Points,Total,true,0.95,0.05,0,,,10
+NBA,4,10032,2nd Quarter Total Points,Total,true,0.95,0.05,0,,,10
+NBA,4,10033,3rd Quarter Total Points,Total,true,0.95,0.05,0,,,10
+NBA,4,10034,4th Quarter Total Points,Total,true,0.95,0.05,0,,,10
+NBA,4,10041,1st Quarter Point Spread,Spread,true,0.95,0.05,0,,,10
+NBA,4,10042,2nd Quarter Point Spread,Spread,true,0.95,0.05,0,,,10
+NBA,4,10043,3rd Quarter Point Spread,Spread,true,0.95,0.05,0,,,10
+NBA,4,10044,4th Quarter Point Spread,Spread,true,0.95,0.05,0,,,10
+NBA,4,10071,1st Half Point Spread,Spread,true,0.95,0.05,0,,,10
+NBA,4,10072,2nd Half Point Spread,Spread,true,0.95,0.05,0,,,10
+NBA,4,10061,1st Half Total Points,Total,true,0.95,0.05,0,,,10
+NBA,4,10062,2nd Half Total Points,Total,true,0.95,0.05,0,,,10
 NBA,4,10021,1st Quarter Moneyline,Moneyline,true,0.99,0.01,0,,,
 NBA,4,10022,2nd Quarter Moneyline,Moneyline,true,0.99,0.01,0,,,
 NBA,4,10023,3rd Quarter Moneyline,Moneyline,true,0.99,0.01,0,,,
 NBA,4,10024,4th Quarter Moneyline,Moneyline,true,0.99,0.01,0,,,
 NBA,4,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,0,,,
 NBA,4,10052,2nd Half Moneyline,Moneyline,true,0.99,0.01,0,,,
-NBA,4,10111,1st Quarter Team Total,Total,true,0.95,0.05,0,,,
-NBA,4,10112,1st Quarter Team Total,Total,true,0.95,0.05,0,,,
-NBA,4,10211,2nd Quarter Team Total,Total,true,0.95,0.05,0,,,
-NBA,4,10212,2nd Quarter Team Total,Total,true,0.95,0.05,0,,,
-NBA,4,10311,3rd Quarter Team Total,Total,true,0.95,0.05,0,,,
-NBA,4,10312,3rd Quarter Team Total,Total,true,0.95,0.05,0,,,
-NBA,4,10411,4th Quarter Team Total,Total,true,0.95,0.05,0,,,
-NBA,4,10412,4th Quarter Team Total,Total,true,0.95,0.05,0,,,
+NBA,4,10111,1st Quarter Team Total,Total,true,0.95,0.05,0,,,10
+NBA,4,10112,1st Quarter Team Total,Total,true,0.95,0.05,0,,,10
+NBA,4,10211,2nd Quarter Team Total,Total,true,0.95,0.05,0,,,10
+NBA,4,10212,2nd Quarter Team Total,Total,true,0.95,0.05,0,,,10
+NBA,4,10311,3rd Quarter Team Total,Total,true,0.95,0.05,0,,,10
+NBA,4,10312,3rd Quarter Team Total,Total,true,0.95,0.05,0,,,10
+NBA,4,10411,4th Quarter Team Total,Total,true,0.95,0.05,0,,,10
+NBA,4,10412,4th Quarter Team Total,Total,true,0.95,0.05,0,,,10
 NBA,4,10131,Will There Be Overtime,Both Teams To Score,true,0.95,0.05,0,,,
 NBA,4,11029,Player Points,Total,true,0.95,0.05,2,blue book,betmgm,10
-NBA,4,11039,Player Assists,Total,true,0.95,0.05,2,blue book,betmgm,
-NBA,4,11035,Player Rebounds,Total,true,0.95,0.05,2,blue book,betmgm,
-NBA,4,11038,Player Made Threes,Total,true,0.95,0.05,2,blue book,betmgm,
+NBA,4,11039,Player Assists,Total,true,0.95,0.05,2,blue book,betmgm,10
+NBA,4,11035,Player Rebounds,Total,true,0.95,0.05,2,blue book,betmgm,10
+NBA,4,11038,Player Made Threes,Total,true,0.95,0.05,2,blue book,betmgm,10
 NCAAB,5,0,Moneyline,Moneyline,true,0.95,0.05,0,,,
 NCAAB,5,10001,Point Spread,Spread,true,0.95,0.05,0,,,
 NCAAB,5,10002,Total Points,Total,true,0.95,0.05,0,,,
