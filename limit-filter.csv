@@ -6,13 +6,13 @@ ITF Men,159,300,400,Moneyline,Game Spread,Total Games,true,1.5,1,0;10001;10002,f
 CS2,9977,50,500,Moneyline,Map Handicap,Total Maps,false,7,7,0;10001;10002,true
 Dota 2,9983,50,500,Moneyline,Map Handicap,Total Maps,false,7,7,0;10001;10002,true
 League of Legends,10138,50,1500,Moneyline,Map Handicap,Total Maps,false,7,7,0;10001;10002,true
-Rainbow Six Siege,20293,50,150,Moneyline,,,true,2,1,0,false
-Starcraft 2,20294,50,150,Moneyline,Map Handicap,Total Maps,true,2,1,0;10001;10002,false
-Mobile Legends Bang Bang,20295,50,150,Moneyline,Map Handicap,Total Maps,true,2,1,0;10001;10002,false
-Overwatch,20296,50,150,Moneyline,,,true,2,1,0,false
-Rocket League,20297,50,150,Moneyline,,,true,2,1,0,false
-Call of Duty,20298,50,150,Moneyline,,,true,3,1,0,false
-Valorant,20300,50,200,Moneyline,Map Handicap,Total Maps,true,2,3,0;10001;10002,false
+Rainbow Six Siege,20293,50,150,Moneyline,,,true,2,1,0,true
+Starcraft 2,20294,50,150,Moneyline,Map Handicap,Total Maps,true,2,1,0;10001;10002,true
+Mobile Legends Bang Bang,20295,50,150,Moneyline,Map Handicap,Total Maps,true,2,1,0;10001;10002,true
+Overwatch,20296,50,150,Moneyline,,,true,2,1,0,true
+Rocket League,20297,50,150,Moneyline,,,true,2,1,0,true
+Call of Duty,20298,50,150,Moneyline,,,true,3,1,0,true
+Valorant,20300,50,200,Moneyline,Map Handicap,Total Maps,true,2,3,0;10001;10002,true
 International - Club Friendlies,20584,100,500,Moneyline,Total Goals,Asian Handicap,false,2,1,0;10001,false
 International - Friendlies,20585,100,500,Moneyline,Total Goals,Asian Handicap,false,2,1,0;10001,false
 FIFA - World Cup Qualifiers,18,100,3000,Moneyline,Total Goals,Asian Handicap,false,1,1,0;10001;10002,false
