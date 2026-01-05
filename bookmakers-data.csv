@@ -1,9 +1,9 @@
 sportName,sportId,primaryBookmaker,secondaryBookmaker
-NCAAF,1,blue book,draftkings
+NCAAF,1,pinnacle,draftkings
 NFL,2,pinnacle,draftkings
 MLB,3,pinnacle,draftkings
 NBA,4,pinnacle,blue book
-NCAAB,5,blue book,pinnacle
+NCAAB,5,pinnacle,blue book
 NCAAW,20211,blue book,
 NHL,6,pinnacle,draftkings
 WNBA,8,pinnacle,draftkings
