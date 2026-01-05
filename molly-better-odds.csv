@@ -6,6 +6,7 @@ EPL Draw no bet,11,10010,1.1,0.3,FALSE
 EPL Total Home,11,10017,1.1,0.3,FALSE
 EPL Total Away,11,10018,1.1,0.3,FALSE
 EPL Total Odd/Even,11,10005,1.1,0.3,FALSE
+EPL Double Chance,11,10003,1.1,0.3,FALSE
 EPL Both teams to score,11,10009,1.1,0.3,FALSE
 EPL Moneyline 1st,11,10021,1.1,0.3,FALSE
 EPL Handicap 1st,11,10041,1.1,0.3,FALSE
