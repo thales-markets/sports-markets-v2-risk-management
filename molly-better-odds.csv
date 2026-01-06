@@ -539,6 +539,9 @@ NBA Point Spread,4,10001,1.1,0.3,FALSE
 NBA Total Points,4,10002,1.1,0.3,FALSE
 NBA Team Total,4,10017,1.1,0.3,FALSE
 NBA Team Total,4,10018,1.1,0.3,FALSE
+NBA 1st Half Moneylines,4,10051,1.1,0.3,FALSE
+NBA 1st Half Total Points,4,10061,1.1,0.3,FALSE
+NBA 1st Half Point Spread,4,10071,1.1,0.3,FALSE
 NCAAB Moneyline,5,0,1.1,0.3,FALSE
 NCAAB Point Spread,5,10001,1.1,0.3,FALSE
 NCAAB Total Points,5,10002,1.1,0.3,FALSE
@@ -549,16 +552,25 @@ Euroleague Point Spread,399,10001,1.1,0.3,FALSE
 Euroleague Total Points,399,10002,1.1,0.3,FALSE
 Euroleague Team Total,399,10017,1.1,0.3,FALSE
 Euroleague Team Total,399,10018,1.1,0.3,FALSE
+Euroleague 1st Half Moneylines,399,10051,1.1,0.3,FALSE
+Euroleague 1st Half Total Points,399,10061,1.1,0.3,FALSE
+Euroleague 1st Half Point Spread,399,10071,1.1,0.3,FALSE
 NFL Moneyline,2,0,1.1,0.3,FALSE
 NFL Point Spread,2,10001,1.1,0.3,FALSE
 NFL Total Points,2,10002,1.1,0.3,FALSE
 NFL Team Total,2,10017,1.1,0.3,FALSE
 NFL Team Total,2,10018,1.1,0.3,FALSE
+NFL 1st Half Moneylines,2,10051,1.1,0.3,FALSE
+NFL 1st Half Total Points,2,10061,1.1,0.3,FALSE
+NFL 1st Half Point Spread,2,10071,1.1,0.3,FALSE
 NCAAF Moneyline,1,0,1.1,0.3,FALSE
 NCAAF Point Spread,1,10001,1.1,0.3,FALSE
 NCAAF Total Points,1,10002,1.1,0.3,FALSE
 NCAAF Team Total,1,10017,1.1,0.3,FALSE
 NCAAF Team Total,1,10018,1.1,0.3,FALSE
+NCAAF 1st Half Moneylines,1,10051,1.1,0.3,FALSE
+NCAAF 1st Half Total Points,1,10061,1.1,0.3,FALSE
+NCAAF 1st Half Point Spread,1,10071,1.1,0.3,FALSE
 NHL Moneyline,6,0,1.1,0.3,FALSE
 NHL Puck Line,6,10001,1.1,0.3,FALSE
 NHL Total Goals,6,10002,1.1,0.3,FALSE
