@@ -174,6 +174,54 @@ Brazil1 Total Home 1st,268,10111,1.1,0.3,FALSE
 Brazil1 Total Away 1st,268,10112,1.1,0.3,FALSE
 Brazil1 Total Odd/Even 1st,268,10081,1.1,0.3,FALSE
 Brazil1 Both teams to score 1st,268,10101,1.1,0.3,FALSE
+Argentina league 1 Moneyline,20106,0,1.1,0.3,FALSE
+Argentina league 1 Handicap,20106,10001,1.1,0.3,FALSE
+Argentina league 1 Total,20106,10002,1.1,0.3,FALSE
+Argentina league 1 Draw no bet,20106,10010,1.1,0.3,FALSE
+Argentina league 1 Total Home,20106,10017,1.1,0.3,FALSE
+Argentina league 1 Total Away,20106,10018,1.1,0.3,FALSE
+Argentina league 1 Total Odd/Even,20106,10005,1.1,0.3,FALSE
+Argentina league 1 Both teams to score,20106,10009,1.1,0.3,FALSE
+Argentina league 1 Moneyline 1st,20106,10021,1.1,0.3,FALSE
+Argentina league 1 Handicap 1st,20106,10041,1.1,0.3,FALSE
+Argentina league 1 Total 1st,20106,10031,1.1,0.3,FALSE
+Argentina league 1 Draw no bet 1st,20106,10121,1.1,0.3,FALSE
+Argentina league 1 Total Home 1st,20106,10111,1.1,0.3,FALSE
+Argentina league 1 Total Away 1st,20106,10112,1.1,0.3,FALSE
+Argentina league 1 Total Odd/Even 1st,20106,10081,1.1,0.3,FALSE
+Argentina league 1 Both teams to score 1st,20106,10101,1.1,0.3,FALSE
+Copa Libertadores Moneyline,45,0,1.1,0.3,FALSE
+Copa Libertadores Handicap,45,10001,1.1,0.3,FALSE
+Copa Libertadores Total,45,10002,1.1,0.3,FALSE
+Copa Libertadores Draw no bet,45,10010,1.1,0.3,FALSE
+Copa Libertadores Total Home,45,10017,1.1,0.3,FALSE
+Copa Libertadores Total Away,45,10018,1.1,0.3,FALSE
+Copa Libertadores Total Odd/Even,45,10005,1.1,0.3,FALSE
+Copa Libertadores Both teams to score,45,10009,1.1,0.3,FALSE
+Copa Libertadores Moneyline 1st,45,10021,1.1,0.3,FALSE
+Copa Libertadores Handicap 1st,45,10041,1.1,0.3,FALSE
+Copa Libertadores Total 1st,45,10031,1.1,0.3,FALSE
+Copa Libertadores Draw no bet 1st,45,10121,1.1,0.3,FALSE
+Copa Libertadores Total Home 1st,45,10111,1.1,0.3,FALSE
+Copa Libertadores Total Away 1st,45,10112,1.1,0.3,FALSE
+Copa Libertadores Total Odd/Even 1st,45,10081,1.1,0.3,FALSE
+Copa Libertadores Both teams to score 1st,45,10101,1.1,0.3,FALSE
+Liga MX Moneyline,230,0,1.1,0.3,FALSE
+Liga MX Handicap,230,10001,1.1,0.3,FALSE
+Liga MX Total,230,10002,1.1,0.3,FALSE
+Liga MX Draw no bet,230,10010,1.1,0.3,FALSE
+Liga MX Total Home,230,10017,1.1,0.3,FALSE
+Liga MX Total Away,230,10018,1.1,0.3,FALSE
+Liga MX Total Odd/Even,230,10005,1.1,0.3,FALSE
+Liga MX Both teams to score,230,10009,1.1,0.3,FALSE
+Liga MX Moneyline 1st,230,10021,1.1,0.3,FALSE
+Liga MX Handicap 1st,230,10041,1.1,0.3,FALSE
+Liga MX Total 1st,230,10031,1.1,0.3,FALSE
+Liga MX Draw no bet 1st,230,10121,1.1,0.3,FALSE
+Liga MX Total Home 1st,230,10111,1.1,0.3,FALSE
+Liga MX Total Away 1st,230,10112,1.1,0.3,FALSE
+Liga MX Total Odd/Even 1st,230,10081,1.1,0.3,FALSE
+Liga MX Both teams to score 1st,230,10101,1.1,0.3,FALSE
 Net1 Moneyline,57,0,1.1,0.3,FALSE
 Net1 Handicap,57,10001,1.1,0.3,FALSE
 Net1 Total,57,10002,1.1,0.3,FALSE
@@ -334,6 +382,126 @@ Germany Bundesliga 2 Total Home,20115,10017,1.1,0.3,FALSE
 Germany Bundesliga 2 Total Away,20115,10018,1.1,0.3,FALSE
 Germany Bundesliga 2 Total Odd/Even,20115,10005,1.1,0.3,FALSE
 Germany Bundesliga 2 Both teams to score,20115,10009,1.1,0.3,FALSE
+Romania - Liga I Moneyline,20661,0,1.1,0.3,FALSE
+Romania - Liga I Handicap,20661,10001,1.1,0.3,FALSE
+Romania - Liga I Total,20661,10002,1.1,0.3,FALSE
+Romania - Liga I Draw no bet,20661,10010,1.1,0.3,FALSE
+Romania - Liga I Total Home,20661,10017,1.1,0.3,FALSE
+Romania - Liga I Total Away,20661,10018,1.1,0.3,FALSE
+Romania - Liga I Total Odd/Even,20661,10005,1.1,0.3,FALSE
+Romania - Liga I Both teams to score,20661,10009,1.1,0.3,FALSE
+Romania - Liga I Moneyline 1st,20661,10021,1.1,0.3,FALSE
+Romania - Liga I Handicap 1st,20661,10041,1.1,0.3,FALSE
+Romania - Liga I Total 1st,20661,10031,1.1,0.3,FALSE
+Romania - Liga I Draw no bet 1st,20661,10121,1.1,0.3,FALSE
+Romania - Liga I Total Home 1st,20661,10111,1.1,0.3,FALSE
+Romania - Liga I Total Away 1st,20661,10112,1.1,0.3,FALSE
+Romania - Liga I Total Odd/Even 1st,20661,10081,1.1,0.3,FALSE
+Romania - Liga I Both teams to score 1st,20661,10101,1.1,0.3,FALSE
+Denmark - Superliga Moneyline,20121,0,1.1,0.3,FALSE
+Denmark - Superliga Handicap,20121,10001,1.1,0.3,FALSE
+Denmark - Superliga Total,20121,10002,1.1,0.3,FALSE
+Denmark - Superliga Draw no bet,20121,10010,1.1,0.3,FALSE
+Denmark - Superliga Total Home,20121,10017,1.1,0.3,FALSE
+Denmark - Superliga Total Away,20121,10018,1.1,0.3,FALSE
+Denmark - Superliga Total Odd/Even,20121,10005,1.1,0.3,FALSE
+Denmark - Superliga Both teams to score,20121,10009,1.1,0.3,FALSE
+Denmark - Superliga Moneyline 1st,20121,10021,1.1,0.3,FALSE
+Denmark - Superliga Handicap 1st,20121,10041,1.1,0.3,FALSE
+Denmark - Superliga Total 1st,20121,10031,1.1,0.3,FALSE
+Denmark - Superliga Draw no bet 1st,20121,10121,1.1,0.3,FALSE
+Denmark - Superliga Total Home 1st,20121,10111,1.1,0.3,FALSE
+Denmark - Superliga Total Away 1st,20121,10112,1.1,0.3,FALSE
+Denmark - Superliga Total Odd/Even 1st,20121,10081,1.1,0.3,FALSE
+Denmark - Superliga Both teams to score 1st,20121,10101,1.1,0.3,FALSE
+Norway - Eliteserien Moneyline,20150,0,1.1,0.3,FALSE
+Norway - Eliteserien Handicap,20150,10001,1.1,0.3,FALSE
+Norway - Eliteserien Total,20150,10002,1.1,0.3,FALSE
+Norway - Eliteserien Draw no bet,20150,10010,1.1,0.3,FALSE
+Norway - Eliteserien Total Home,20150,10017,1.1,0.3,FALSE
+Norway - Eliteserien Total Away,20150,10018,1.1,0.3,FALSE
+Norway - Eliteserien Total Odd/Even,20150,10005,1.1,0.3,FALSE
+Norway - Eliteserien Both teams to score,20150,10009,1.1,0.3,FALSE
+Norway - Eliteserien Moneyline 1st,20150,10021,1.1,0.3,FALSE
+Norway - Eliteserien Handicap 1st,20150,10041,1.1,0.3,FALSE
+Norway - Eliteserien Total 1st,20150,10031,1.1,0.3,FALSE
+Norway - Eliteserien Draw no bet 1st,20150,10121,1.1,0.3,FALSE
+Norway - Eliteserien Total Home 1st,20150,10111,1.1,0.3,FALSE
+Norway - Eliteserien Total Away 1st,20150,10112,1.1,0.3,FALSE
+Norway - Eliteserien Total Odd/Even 1st,20150,10081,1.1,0.3,FALSE
+Norway - Eliteserien Both teams to score 1st,20150,10101,1.1,0.3,FALSE
+Sweden - Allsvenskan Moneyline,20123,0,1.1,0.3,FALSE
+Sweden - Allsvenskan Handicap,20123,10001,1.1,0.3,FALSE
+Sweden - Allsvenskan Total,20123,10002,1.1,0.3,FALSE
+Sweden - Allsvenskan Draw no bet,20123,10010,1.1,0.3,FALSE
+Sweden - Allsvenskan Total Home,20123,10017,1.1,0.3,FALSE
+Sweden - Allsvenskan Total Away,20123,10018,1.1,0.3,FALSE
+Sweden - Allsvenskan Total Odd/Even,20123,10005,1.1,0.3,FALSE
+Sweden - Allsvenskan Both teams to score,20123,10009,1.1,0.3,FALSE
+Sweden - Allsvenskan Moneyline 1st,20123,10021,1.1,0.3,FALSE
+Sweden - Allsvenskan Handicap 1st,20123,10041,1.1,0.3,FALSE
+Sweden - Allsvenskan Total 1st,20123,10031,1.1,0.3,FALSE
+Sweden - Allsvenskan Draw no bet 1st,20123,10121,1.1,0.3,FALSE
+Sweden - Allsvenskan Total Home 1st,20123,10111,1.1,0.3,FALSE
+Sweden - Allsvenskan Total Away 1st,20123,10112,1.1,0.3,FALSE
+Sweden - Allsvenskan Total Odd/Even 1st,20123,10081,1.1,0.3,FALSE
+Sweden - Allsvenskan Both teams to score 1st,20123,10101,1.1,0.3,FALSE
+Finland - Veikkausliiga Moneyline,20105,0,1.1,0.3,FALSE
+Finland - Veikkausliiga Handicap,20105,10001,1.1,0.3,FALSE
+Finland - Veikkausliiga Total,20105,10002,1.1,0.3,FALSE
+Finland - Veikkausliiga Draw no bet,20105,10010,1.1,0.3,FALSE
+Finland - Veikkausliiga Total Home,20105,10017,1.1,0.3,FALSE
+Finland - Veikkausliiga Total Away,20105,10018,1.1,0.3,FALSE
+Finland - Veikkausliiga Total Odd/Even,20105,10005,1.1,0.3,FALSE
+Finland - Veikkausliiga Both teams to score,20105,10009,1.1,0.3,FALSE
+Finland - Veikkausliiga Moneyline 1st,20105,10021,1.1,0.3,FALSE
+Finland - Veikkausliiga Handicap 1st,20105,10041,1.1,0.3,FALSE
+Finland - Veikkausliiga Total 1st,20105,10031,1.1,0.3,FALSE
+Finland - Veikkausliiga Draw no bet 1st,20105,10121,1.1,0.3,FALSE
+Finland - Veikkausliiga Total Home 1st,20105,10111,1.1,0.3,FALSE
+Finland - Veikkausliiga Total Away 1st,20105,10112,1.1,0.3,FALSE
+Finland - Veikkausliiga Total Odd/Even 1st,20105,10081,1.1,0.3,FALSE
+Finland - Veikkausliiga Both teams to score 1st,20105,10101,1.1,0.3,FALSE
+Poland - Ekstraklasa Moneyline,20122,0,1.1,0.3,FALSE
+Poland - Ekstraklasa Handicap,20122,10001,1.1,0.3,FALSE
+Poland - Ekstraklasa Total,20122,10002,1.1,0.3,FALSE
+Poland - Ekstraklasa Draw no bet,20122,10010,1.1,0.3,FALSE
+Poland - Ekstraklasa Total Home,20122,10017,1.1,0.3,FALSE
+Poland - Ekstraklasa Total Away,20122,10018,1.1,0.3,FALSE
+Poland - Ekstraklasa Total Odd/Even,20122,10005,1.1,0.3,FALSE
+Poland - Ekstraklasa Both teams to score,20122,10009,1.1,0.3,FALSE
+Poland - Ekstraklasa Moneyline 1st,20122,10021,1.1,0.3,FALSE
+Poland - Ekstraklasa Handicap 1st,20122,10041,1.1,0.3,FALSE
+Poland - Ekstraklasa Total 1st,20122,10031,1.1,0.3,FALSE
+Poland - Ekstraklasa Draw no bet 1st,20122,10121,1.1,0.3,FALSE
+Poland - Ekstraklasa Total Home 1st,20122,10111,1.1,0.3,FALSE
+Poland - Ekstraklasa Total Away 1st,20122,10112,1.1,0.3,FALSE
+Poland - Ekstraklasa Total Odd/Even 1st,20122,10081,1.1,0.3,FALSE
+Poland - Ekstraklasa Both teams to score 1st,20122,10101,1.1,0.3,FALSE
+Croatia - 1. HNL Moneyline,20520,0,1.1,0.3,FALSE
+Croatia - 1. HNL Handicap,20520,10001,1.1,0.3,FALSE
+Croatia - 1. HNL Total,20520,10002,1.1,0.3,FALSE
+Croatia - 1. HNL Draw no bet,20520,10010,1.1,0.3,FALSE
+Croatia - 1. HNL Total Home,20520,10017,1.1,0.3,FALSE
+Croatia - 1. HNL Total Away,20520,10018,1.1,0.3,FALSE
+Croatia - 1. HNL Total Odd/Even,20520,10005,1.1,0.3,FALSE
+Croatia - 1. HNL Both teams to score,20520,10009,1.1,0.3,FALSE
+Japan J League Moneyline,19,0,1.1,0.3,FALSE
+Japan J League Handicap,19,10001,1.1,0.3,FALSE
+Japan J League Total,19,10002,1.1,0.3,FALSE
+Japan J League Draw no bet,19,10010,1.1,0.3,FALSE
+Japan J League Total Home,19,10017,1.1,0.3,FALSE
+Japan J League Total Away,19,10018,1.1,0.3,FALSE
+Japan J League Total Odd/Even,19,10005,1.1,0.3,FALSE
+Japan J League Both teams to score,19,10009,1.1,0.3,FALSE
+Japan J League Moneyline 1st,19,10021,1.1,0.3,FALSE
+Japan J League Handicap 1st,19,10041,1.1,0.3,FALSE
+Japan J League Total 1st,19,10031,1.1,0.3,FALSE
+Japan J League Draw no bet 1st,19,10121,1.1,0.3,FALSE
+Japan J League Total Home 1st,19,10111,1.1,0.3,FALSE
+Japan J League Total Away 1st,19,10112,1.1,0.3,FALSE
+Japan J League Total Odd/Even 1st,19,10081,1.1,0.3,FALSE
+Japan J League Both teams to score 1st,19,10101,1.1,0.3,FALSE
 NBA Moneyline,4,0,1.1,0.3,FALSE
 NBA Point Spread,4,10001,1.1,0.3,FALSE
 NBA Total Points,4,10002,1.1,0.3,FALSE
