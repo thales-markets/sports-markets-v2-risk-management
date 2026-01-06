@@ -388,11 +388,14 @@ ATP Moneyline,156,0,1.1,0.3,FALSE
 ATP Game Spread,156,10001,1.1,0.3,FALSE
 ATP Total Games,156,10002,1.1,0.3,FALSE
 ATP Set Handicap,156,10013,1.1,0.3,FALSE
+ATP Total Sets,156,10014,1.1,0.3,FALSE
 WTA Moneyline,152,0,1.1,0.3,FALSE
 WTA Game Spread,152,10001,1.1,0.3,FALSE
 WTA Total Games,152,10002,1.1,0.3,FALSE
 WTA Set Handicap,152,10013,1.1,0.3,FALSE
+WTA Total Sets,152,10014,1.1,0.3,FALSE
 ATP Challenger Moneyline,157,0,1.1,0.3,FALSE
 ATP Challenger Game Spread,157,10001,1.1,0.3,FALSE
 ATP Challenger Total Games,157,10002,1.1,0.3,FALSE
 ATP Challenger Set Handicap,157,10013,1.1,0.3,FALSE
+ATP Challenger Total Sets,157,10014,1.1,0.3,FALSE
