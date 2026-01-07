@@ -580,6 +580,7 @@ NCAAF 1st Half Moneylines,1,10051,1.1,0.3,FALSE
 NCAAF 1st Half Total Points,1,10061,1.1,0.3,FALSE
 NCAAF 1st Half Point Spread,1,10071,1.1,0.3,FALSE
 NHL Moneyline,6,0,1.1,0.3,FALSE
+NHL Moneyline-3way,6,10011,1.1,0.3,FALSE
 NHL Puck Line,6,10001,1.1,0.3,FALSE
 NHL Total Goals,6,10002,1.1,0.3,FALSE
 NHL Team Total,6,10017,1.1,0.3,FALSE
