@@ -586,6 +586,8 @@ NHL Puck Line,6,10001,1.1,0.3,FALSE
 NHL Total Goals,6,10002,1.1,0.3,FALSE
 NHL Team Total,6,10017,1.1,0.3,FALSE
 NHL Team Total,6,10018,1.1,0.3,FALSE
+NHL Puck Line regular time,6,10013,1.1,0.3,FALSE
+NHL Total Goals regular time,6,10014,1.1,0.3,FALSE
 France LNB Moneyline,20204,0,1.1,0.3,FALSE
 France LNB Point Spread,20204,10001,1.1,0.3,FALSE
 France LNB Total Points,20204,10002,1.1,0.3,FALSE
