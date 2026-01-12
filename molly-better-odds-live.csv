@@ -44,6 +44,24 @@ Italy Basketball Team Total,20202,10018,0.1,0.3,FALSE
 ATP Moneyline,156,0,0.1,0.3,FALSE
 ATP Game Spread,156,10001,0.1,0.3,FALSE
 ATP Total Games,156,10002,0.1,0.3,FALSE
+ATP Set Handicap,156,10013,0.1,0.3,FALSE
+ATP Total Sets,156,10014,0.1,0.3,FALSE
+ATP 1st Set Moneyline,156,10021,0.1,0.3,FALSE
+ATP 1st Games Spread,156,10041,0.1,0.3,FALSE
+ATP 1st Total Games,156,10031,0.1,0.3,FALSE
 WTA Moneyline,152,0,0.1,0.3,FALSE
 WTA Game Spread,152,10001,0.1,0.3,FALSE
 WTA Total Games,152,10002,0.1,0.3,FALSE
+WTA Set Handicap,152,10013,0.1,0.3,FALSE
+WTA Total Sets,152,10014,0.1,0.3,FALSE
+WTA 1st Set Moneyline,152,10021,0.1,0.3,FALSE
+WTA 1st Games Spread,152,10041,0.1,0.3,FALSE
+WTA 1st Total Games,152,10031,0.1,0.3,FALSE
+ATP Challenger Moneyline,157,0,0.1,0.3,FALSE
+ATP Challenger Game Spread,157,10001,0.1,0.3,FALSE
+ATP Challenger Total Games,157,10002,0.1,0.3,FALSE
+ATP Challenger Set Handicap,157,10013,0.1,0.3,FALSE
+ATP Challenger Total Sets,157,10014,0.1,0.3,FALSE
+ATP Challenger 1st Set Moneyline,157,10021,0.1,0.3,FALSE
+ATP Challenger 1st Games Spread,157,10041,0.1,0.3,FALSE
+ATP Challenger 1st Total Games,157,10031,0.1,0.3,FALSE
