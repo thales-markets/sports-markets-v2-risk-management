@@ -9,7 +9,11 @@ NBA Point Spread,4,10001,0.1,0.3,FALSE
 NBA Total Points,4,10002,0.1,0.3,FALSE
 NBA Team Total,4,10017,0.1,0.3,FALSE
 NBA Team Total,4,10018,0.1,0.3,FALSE
+NBA 1st Half Moneylines,4,10051,0.1,0.3,FALSE
+NBA 1st Half Total Points,4,10061,0.1,0.3,FALSE
+NBA 1st Half Point Spread,4,10071,0.1,0.3,FALSE
 NHL Moneyline,6,0,0.1,0.3,FALSE
+NHL Moneyline-3way,6,10011,0.1,0.3,FALSE
 NHL Puck Line,6,10001,0.1,0.3,FALSE
 NHL Total Goals,6,10002,0.1,0.3,FALSE
 NHL Team Total,6,10017,0.1,0.3,FALSE
@@ -21,6 +25,9 @@ Euroleague Point Spread,399,10001,0.1,0.3,FALSE
 Euroleague Total Points,399,10002,0.1,0.3,FALSE
 Euroleague Team Total,399,10017,0.1,0.3,FALSE
 Euroleague Team Total,399,10018,0.1,0.3,FALSE
+Euroleague 1st Half Moneylines,399,10051,0.1,0.3,FALSE
+Euroleague 1st Half Total Points,399,10061,0.1,0.3,FALSE
+Euroleague 1st Half Point Spread,399,10071,0.1,0.3,FALSE
 France LNB Moneyline,20204,0,0.1,0.3,FALSE
 France LNB Point Spread,20204,10001,0.1,0.3,FALSE
 France LNB Total Points,20204,10002,0.1,0.3,FALSE
