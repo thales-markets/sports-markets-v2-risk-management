@@ -571,6 +571,22 @@ England FA cup Total Home 1st,132,10111,1.1,0.3,FALSE
 England FA cup Total Away 1st,132,10112,1.1,0.3,FALSE
 England FA cup Total Odd/Even 1st,132,10081,1.1,0.3,FALSE
 England FA cup Both teams to score 1st,132,10101,1.1,0.3,FALSE
+Coppa Italia Moneyline,141,0,1.1,0.3,FALSE
+Coppa Italia Handicap,141,10001,1.1,0.3,FALSE
+Coppa Italia Total,141,10002,1.1,0.3,FALSE
+Coppa Italia Draw no bet,141,10010,1.1,0.3,FALSE
+Coppa Italia Total Home,141,10017,1.1,0.3,FALSE
+Coppa Italia Total Away,141,10018,1.1,0.3,FALSE
+Coppa Italia Total Odd/Even,141,10005,1.1,0.3,FALSE
+Coppa Italia Both teams to score,141,10009,1.1,0.3,FALSE
+Coppa Italia Moneyline 1st,141,10021,1.1,0.3,FALSE
+Coppa Italia Handicap 1st,141,10041,1.1,0.3,FALSE
+Coppa Italia Total 1st,141,10031,1.1,0.3,FALSE
+Coppa Italia Draw no bet 1st,141,10121,1.1,0.3,FALSE
+Coppa Italia Total Home 1st,141,10111,1.1,0.3,FALSE
+Coppa Italia Total Away 1st,141,10112,1.1,0.3,FALSE
+Coppa Italia Total Odd/Even 1st,141,10081,1.1,0.3,FALSE
+Coppa Italia Both teams to score 1st,141,10101,1.1,0.3,FALSE
 NBA Moneyline,4,0,1.1,0.3,FALSE
 NBA Point Spread,4,10001,1.1,0.3,FALSE
 NBA Total Points,4,10002,1.1,0.3,FALSE
