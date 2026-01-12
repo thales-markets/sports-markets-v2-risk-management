@@ -589,9 +589,11 @@ NFL Point Spread,2,10001,1.1,0.3,FALSE
 NFL Total Points,2,10002,1.1,0.3,FALSE
 NFL Team Total,2,10017,1.1,0.3,FALSE
 NFL Team Total,2,10018,1.1,0.3,FALSE
-NFL 1st Half Moneylines,2,10051,1.1,0.3,FALSE
+NFL 1st Half Moneyline,2,10051,1.1,0.3,FALSE
 NFL 1st Half Total Points,2,10061,1.1,0.3,FALSE
 NFL 1st Half Point Spread,2,10071,1.1,0.3,FALSE
+NFL 1st Half Team Total,2,10118,1.1,0.3,FALSE
+NFL 1st Half Team Total,2,10119,1.1,0.3,FALSE
 NCAAF Moneyline,1,0,1.1,0.3,FALSE
 NCAAF Point Spread,1,10001,1.1,0.3,FALSE
 NCAAF Total Points,1,10002,1.1,0.3,FALSE
@@ -600,6 +602,8 @@ NCAAF Team Total,1,10018,1.1,0.3,FALSE
 NCAAF 1st Half Moneylines,1,10051,1.1,0.3,FALSE
 NCAAF 1st Half Total Points,1,10061,1.1,0.3,FALSE
 NCAAF 1st Half Point Spread,1,10071,1.1,0.3,FALSE
+NCAAF 1st Half Team Total,1,10118,1.1,0.3,FALSE
+NCAAF 1st Half Team Total,1,10119,1.1,0.3,FALSE
 NHL Moneyline,6,0,1.1,0.3,FALSE
 NHL Moneyline-3way,6,10011,1.1,0.3,FALSE
 NHL Puck Line,6,10001,1.1,0.3,FALSE
