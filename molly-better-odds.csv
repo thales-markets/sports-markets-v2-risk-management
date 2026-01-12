@@ -19,6 +19,8 @@ EPL Both teams to score 1st,11,10101,1.1,0.3,FALSE
 EPL Total Corners,11,10222,1.1,0.3,FALSE
 EPL Team Total Corners,11,10223,1.1,0.3,FALSE
 EPL Team Total Corners,11,10224,1.1,0.3,FALSE
+EPL Home Win To nill,11,10206,1.1,0.3,FALSE
+EPL Away Win To nill,11,10207,1.1,0.3,FALSE
 La Liga Moneyline,14,0,1.1,0.3,FALSE
 La Liga Handicap,14,10001,1.1,0.3,FALSE
 La Liga Total,14,10002,1.1,0.3,FALSE
@@ -38,6 +40,8 @@ La Liga Both teams to score 1st,14,10101,1.1,0.3,FALSE
 La Liga Total Corners,14,10222,1.1,0.3,FALSE
 La Liga Team Total Corners,14,10223,1.1,0.3,FALSE
 La Liga Team Total Corners,14,10224,1.1,0.3,FALSE
+La Liga Home Win To nill,14,10206,1.1,0.3,FALSE
+La Liga Away Win To nill,14,10207,1.1,0.3,FALSE
 Serie A Moneyline,15,0,1.1,0.3,FALSE
 Serie A Handicap,15,10001,1.1,0.3,FALSE
 Serie A Total,15,10002,1.1,0.3,FALSE
@@ -57,6 +61,8 @@ Serie A Both teams to score 1st,15,10101,1.1,0.3,FALSE
 Serie A Total Corners,15,10222,1.1,0.3,FALSE
 Serie A Team Total Corners,15,10223,1.1,0.3,FALSE
 Serie A Team Total Corners,15,10224,1.1,0.3,FALSE
+Serie A Home Win To nill,15,10206,1.1,0.3,FALSE
+Serie A Away Win To nill,15,10207,1.1,0.3,FALSE
 Bundesliga Moneyline,13,0,1.1,0.3,FALSE
 Bundesliga Handicap,13,10001,1.1,0.3,FALSE
 Bundesliga Total,13,10002,1.1,0.3,FALSE
@@ -76,6 +82,8 @@ Bundesliga Both teams to score 1st,13,10101,1.1,0.3,FALSE
 Bundesliga Total Corners,13,10222,1.1,0.3,FALSE
 Bundesliga Team Total Corners,13,10223,1.1,0.3,FALSE
 Bundesliga Team Total Corners,13,10224,1.1,0.3,FALSE
+Bundesliga Home Win To nill,13,10206,1.1,0.3,FALSE
+Bundesliga Away Win To nill,13,10207,1.1,0.3,FALSE
 France1 Moneyline,12,0,1.1,0.3,FALSE
 France1 Handicap,12,10001,1.1,0.3,FALSE
 France1 Total,12,10002,1.1,0.3,FALSE
@@ -95,6 +103,8 @@ France1 Both teams to score 1st,12,10101,1.1,0.3,FALSE
 France1 Total Corners,12,10222,1.1,0.3,FALSE
 France1 Team Total Corners,12,10223,1.1,0.3,FALSE
 France1 Team Total Corners,12,10224,1.1,0.3,FALSE
+France1 Home Win To nill,12,10206,1.1,0.3,FALSE
+France1 Away Win To nill,12,10207,1.1,0.3,FALSE
 CL Moneyline,16,0,1.1,0.3,FALSE
 CL Handicap,16,10001,1.1,0.3,FALSE
 CL Total,16,10002,1.1,0.3,FALSE
@@ -111,6 +121,11 @@ CL Total Home 1st,16,10111,1.1,0.3,FALSE
 CL Total Away 1st,16,10112,1.1,0.3,FALSE
 CL Total Odd/Even 1st,16,10081,1.1,0.3,FALSE
 CL Both teams to score 1st,16,10101,1.1,0.3,FALSE
+CL Total Corners,16,10222,1.1,0.3,FALSE
+CL Team Total Corners,16,10223,1.1,0.3,FALSE
+CL Team Total Corners,16,10224,1.1,0.3,FALSE
+CL Home Win To nill,16,10206,1.1,0.3,FALSE
+CL Away Win To nill,16,10207,1.1,0.3,FALSE
 EL Moneyline,17,0,1.1,0.3,FALSE
 EL Handicap,17,10001,1.1,0.3,FALSE
 EL Total,17,10002,1.1,0.3,FALSE
@@ -127,6 +142,11 @@ EL Total Home 1st,17,10111,1.1,0.3,FALSE
 EL Total Away 1st,17,10112,1.1,0.3,FALSE
 EL Total Odd/Even 1st,17,10081,1.1,0.3,FALSE
 EL Both teams to score 1st,17,10101,1.1,0.3,FALSE
+EL Total Corners,17,10222,1.1,0.3,FALSE
+EL Team Total Corners,17,10223,1.1,0.3,FALSE
+EL Team Total Corners,17,10224,1.1,0.3,FALSE
+EL Home Win To nill,17,10206,1.1,0.3,FALSE
+EL Away Win To nill,17,10207,1.1,0.3,FALSE
 FIFA Intercontinental Cup Moneyline,20558,0,1.1,0.3,FALSE
 FIFA Intercontinental Cup Handicap,20558,10001,1.1,0.3,FALSE
 FIFA Intercontinental Cup Total,20558,10002,1.1,0.3,FALSE
