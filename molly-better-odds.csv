@@ -555,6 +555,22 @@ Austria league 1 Total Home 1st,20120,10111,1.1,0.3,FALSE
 Austria league 1 Total Away 1st,20120,10112,1.1,0.3,FALSE
 Austria league 1 Total Odd/Even 1st,20120,10081,1.1,0.3,FALSE
 Austria league 1 Both teams to score 1st,20120,10101,1.1,0.3,FALSE
+England FA cup Moneyline,132,0,1.1,0.3,FALSE
+England FA cup Handicap,132,10001,1.1,0.3,FALSE
+England FA cup Total,132,10002,1.1,0.3,FALSE
+England FA cup Draw no bet,132,10010,1.1,0.3,FALSE
+England FA cup Total Home,132,10017,1.1,0.3,FALSE
+England FA cup Total Away,132,10018,1.1,0.3,FALSE
+England FA cup Total Odd/Even,132,10005,1.1,0.3,FALSE
+England FA cup Both teams to score,132,10009,1.1,0.3,FALSE
+England FA cup Moneyline 1st,132,10021,1.1,0.3,FALSE
+England FA cup Handicap 1st,132,10041,1.1,0.3,FALSE
+England FA cup Total 1st,132,10031,1.1,0.3,FALSE
+England FA cup Draw no bet 1st,132,10121,1.1,0.3,FALSE
+England FA cup Total Home 1st,132,10111,1.1,0.3,FALSE
+England FA cup Total Away 1st,132,10112,1.1,0.3,FALSE
+England FA cup Total Odd/Even 1st,132,10081,1.1,0.3,FALSE
+England FA cup Both teams to score 1st,132,10101,1.1,0.3,FALSE
 NBA Moneyline,4,0,1.1,0.3,FALSE
 NBA Point Spread,4,10001,1.1,0.3,FALSE
 NBA Total Points,4,10002,1.1,0.3,FALSE
