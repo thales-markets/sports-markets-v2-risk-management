@@ -2,7 +2,6 @@ sportName,sportId,primaryBookmaker,secondaryBookmaker
 NCAAF,1,pinnacle,
 NFL,2,pinnacle,
 MLB,3,pinnacle,draftkings
-NBA,4,pinnacle,
 NCAAB,5,pinnacle,
 NCAAW,20211,blue book,
 NHL,6,pinnacle,
