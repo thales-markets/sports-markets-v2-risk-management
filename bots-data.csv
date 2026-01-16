@@ -36,7 +36,7 @@ overtime-puller-opticodds-latino-four,Uruguay - Primera Division;Paraguay - Prim
 overtime-puller-opticodds-bra,Brazil - Serie A;Brazil - Copa do Brasil;Brazil - Serie B,268;20002;20503,2,10s,,,false,0xe5fCBb61EcD215152A38dB309CCddDBF1c7E5A37,2m,
 overtime-puller-opticodds-rus,Russia - Premier League;Russia - Cup;Belarus - Premier League;Russia - First League;Ukraine - Premier League,20107;20663;20183;20664;20717,2,10s,,,false,0x8d935A235af69CFb04BC6Ec1B574B3dcfe44EBE2,2m,
 overtime-puller-opticodds-south-east-eu,Turkey - Super Lig;Turkey - 1. Lig;Bulgaria - Parva Liga;Romania - Liga I;Cyprus - First Division,20108;20692;20507;20661;20524,2,10s,,,false,0x8222b4cb28a14743f13f825b1788bd74f24b5a97,2m,
-overtime-puller-opticodds-south-eu,Greece - Super League;Serbia - Super Liga;Croatia - 1. HNL;Slovenia - PrvaLiga,20110;20109;20520;20682,2,10s,,,false,0xECD83Cf92F4977A6a0926da965b0028040531190,2m,
+overtime-puller-opticodds-south-eu,Greece - Super League;Serbia - Super Liga;Croatia - 1. HNL;Slovenia - PrvaLiga;Malta - Premier League,20110;20109;20520;20682;20624,2,10s,,,false,0xECD83Cf92F4977A6a0926da965b0028040531190,2m,
 overtime-puller-opticodds-middle-east-one,Saudi Arabia - Saudi League;Qatar - Stars League;Israel - Premier League;UAE - Pro League,536;20659;20593;20694,2,10s,,,false,0x15B325Ddad3da5295DC42a96C64AfE6c621D54f8,2m,
 overtime-puller-opticodds-middle-east-two,Kazakhstan - Premier League;Uzbekistan - Super League;FIFA - Arab Nations Cup,20600;20707;20723,1,10s,,,false,0x71e479411fAf86f69cD7fdA157AA3526ca05dbab,2m,
 overtime-puller-opticodds-africa-one,Egypt - Premier League;South Africa - Premier League,20538;20683,2,10s,,,false,0x926af636fc4221866a25e1cAF963381f3C175927,2m,
