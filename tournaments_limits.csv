@@ -1,10 +1,10 @@
 sportName,sportId,season_type,season_year,limitToPush,limitForQualifications
-League of Legends,10138,Worlds,,3000,3000
+League of Legends,10138,Worlds,,2000,2000
 League of Legends,10138,Esports World Cup,,1000,1000
 League of Legends,10138,LPL,,1000,1000
 League of Legends,10138,LEC,,1000,1000
-League of Legends,10138,LCK,,1000,1000
 League of Legends,10138,LTA,,1000,1000
+League of Legends,10138,LCK,,800,500
 League of Legends,10138,Demacia Cup,,1000,500
 League of Legends,10138,Mid-Season Invitational,,500,500
 League of Legends,10138,Asia Invitational,,500,500
@@ -14,8 +14,8 @@ League of Legends,10138,LCP,,500,500
 League of Legends,10138,North American Challengers League,,500,500
 League of Legends,10138,LCS,,500,500
 League of Legends,10138,LTA South,,400,400
-League of Legends,10138,Red Bull League of Its Own,,300,200
-League of Legends,10138,KeSPA Cup,,300,200
+League of Legends,10138,Red Bull League of Its Own,,200,200
+League of Legends,10138,KeSPA Cup,,200,200
 League of Legends,10138,GAMEON Revival,,100,100
 League of Legends,10138,Arabian League,,200,200
 League of Legends,10138,NNO Cup,,100,100
