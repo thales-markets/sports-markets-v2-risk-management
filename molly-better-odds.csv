@@ -347,22 +347,46 @@ Saudi League Total Home,536,10017,1.1,0.3,FALSE
 Saudi League Total Away,536,10018,1.1,0.3,FALSE
 Saudi League Total Odd/Even,536,10005,1.1,0.3,FALSE
 Saudi League Both teams to score,536,10009,1.1,0.3,FALSE
-Australia A League Moneyline,20113,0,1.1,0.3,FALSE
-Australia A League Handicap,20113,10001,1.1,0.3,FALSE
-Australia A League Total,20113,10002,1.1,0.3,FALSE
-Australia A League Draw no bet,20113,10010,1.1,0.3,FALSE
-Australia A League Total Home,20113,10017,1.1,0.3,FALSE
-Australia A League Total Away,20113,10018,1.1,0.3,FALSE
-Australia A League Total Odd/Even,20113,10005,1.1,0.3,FALSE
-Australia A League Both teams to score,20113,10009,1.1,0.3,FALSE
-Bel1 Moneyline,20102,0,1.1,0.3,FALSE
-Bel1 Handicap,20102,10001,1.1,0.3,FALSE
-Bel1 Total,20102,10002,1.1,0.3,FALSE
-Bel1 Draw no bet,20102,10010,1.1,0.3,FALSE
-Bel1 Total Home,20102,10017,1.1,0.3,FALSE
-Bel1 Total Away,20102,10018,1.1,0.3,FALSE
-Bel1 Total Odd/Even,20102,10005,1.1,0.3,FALSE
-Bel1 Both teams to score,20102,10009,1.1,0.3,FALSE
+Saudi League Moneyline 1st,536,10021,1.1,0.3,FALSE
+Saudi League Handicap 1st,536,10041,1.1,0.3,FALSE
+Saudi League Total 1st,536,10031,1.1,0.3,FALSE
+Saudi League Draw no bet 1st,536,10121,1.1,0.3,FALSE
+Saudi League Total Home 1st,536,10111,1.1,0.3,FALSE
+Saudi League Total Away 1st,536,10112,1.1,0.3,FALSE
+Saudi League Total Odd/Even 1st,536,10081,1.1,0.3,FALSE
+Saudi League Both teams to score 1st,536,10101,1.1,0.3,FALSE
+Australia A Moneyline,20113,0,1.1,0.3,FALSE
+Australia A Handicap,20113,10001,1.1,0.3,FALSE
+Australia A Total,20113,10002,1.1,0.3,FALSE
+Australia A Draw no bet,20113,10010,1.1,0.3,FALSE
+Australia A Total Home,20113,10017,1.1,0.3,FALSE
+Australia A Total Away,20113,10018,1.1,0.3,FALSE
+Australia A Total Odd/Even,20113,10005,1.1,0.3,FALSE
+Australia A Both teams to score,20113,10009,1.1,0.3,FALSE
+Australia A Moneyline 1st,20113,10021,1.1,0.3,FALSE
+Australia A Handicap 1st,20113,10041,1.1,0.3,FALSE
+Australia A Total 1st,20113,10031,1.1,0.3,FALSE
+Australia A Draw no bet 1st,20113,10121,1.1,0.3,FALSE
+Australia A Total Home 1st,20113,10111,1.1,0.3,FALSE
+Australia A Total Away 1st,20113,10112,1.1,0.3,FALSE
+Australia A Total Odd/Even 1st,20113,10081,1.1,0.3,FALSE
+Australia A Both teams to score 1st,20113,10101,1.1,0.3,FALSE
+Belgium 1 Moneyline,20102,0,1.1,0.3,FALSE
+Belgium 1 Handicap,20102,10001,1.1,0.3,FALSE
+Belgium 1 Total,20102,10002,1.1,0.3,FALSE
+Belgium 1 Draw no bet,20102,10010,1.1,0.3,FALSE
+Belgium 1 Total Home,20102,10017,1.1,0.3,FALSE
+Belgium 1 Total Away,20102,10018,1.1,0.3,FALSE
+Belgium 1 Total Odd/Even,20102,10005,1.1,0.3,FALSE
+Belgium 1 Both teams to score,20102,10009,1.1,0.3,FALSE
+Belgium 1 Moneyline 1st,20102,10021,1.1,0.3,FALSE
+Belgium 1 Handicap 1st,20102,10041,1.1,0.3,FALSE
+Belgium 1 Total 1st,20102,10031,1.1,0.3,FALSE
+Belgium 1 Draw no bet 1st,20102,10121,1.1,0.3,FALSE
+Belgium 1 Total Home 1st,20102,10111,1.1,0.3,FALSE
+Belgium 1 Total Away 1st,20102,10112,1.1,0.3,FALSE
+Belgium 1 Total Odd/Even 1st,20102,10081,1.1,0.3,FALSE
+Belgium 1 Both teams to score 1st,20102,10101,1.1,0.3,FALSE
 England League 1 Moneyline,20126,0,1.1,0.3,FALSE
 England League 1 Handicap,20126,10001,1.1,0.3,FALSE
 England League 1 Total,20126,10002,1.1,0.3,FALSE
@@ -371,14 +395,30 @@ England League 1 Total Home,20126,10017,1.1,0.3,FALSE
 England League 1 Total Away,20126,10018,1.1,0.3,FALSE
 England League 1 Total Odd/Even,20126,10005,1.1,0.3,FALSE
 England League 1 Both teams to score,20126,10009,1.1,0.3,FALSE
-Scotland1 Moneyline,20101,0,1.1,0.3,FALSE
-Scotland1 Handicap,20101,10001,1.1,0.3,FALSE
-Scotland1 Total,20101,10002,1.1,0.3,FALSE
-Scotland1 Draw no bet,20101,10010,1.1,0.3,FALSE
-Scotland1 Total Home,20101,10017,1.1,0.3,FALSE
-Scotland1 Total Away,20101,10018,1.1,0.3,FALSE
-Scotland1 Total Odd/Even,20101,10005,1.1,0.3,FALSE
-Scotland1 Both teams to score,20101,10009,1.1,0.3,FALSE
+England League 1 Moneyline 1st,20126,10021,1.1,0.3,FALSE
+England League 1 Handicap 1st,20126,10041,1.1,0.3,FALSE
+England League 1 Total 1st,20126,10031,1.1,0.3,FALSE
+England League 1 Draw no bet 1st,20126,10121,1.1,0.3,FALSE
+England League 1 Total Home 1st,20126,10111,1.1,0.3,FALSE
+England League 1 Total Away 1st,20126,10112,1.1,0.3,FALSE
+England League 1 Total Odd/Even 1st,20126,10081,1.1,0.3,FALSE
+England League 1 Both teams to score 1st,20126,10101,1.1,0.3,FALSE
+Scotland 1 Moneyline,20101,0,1.1,0.3,FALSE
+Scotland 1 Handicap,20101,10001,1.1,0.3,FALSE
+Scotland 1 Total,20101,10002,1.1,0.3,FALSE
+Scotland 1 Draw no bet,20101,10010,1.1,0.3,FALSE
+Scotland 1 Total Home,20101,10017,1.1,0.3,FALSE
+Scotland 1 Total Away,20101,10018,1.1,0.3,FALSE
+Scotland 1 Total Odd/Even,20101,10005,1.1,0.3,FALSE
+Scotland 1 Both teams to score,20101,10009,1.1,0.3,FALSE
+Scotland 1 Moneyline 1st,20101,10021,1.1,0.3,FALSE
+Scotland 1 Handicap 1st,20101,10041,1.1,0.3,FALSE
+Scotland 1 Total 1st,20101,10031,1.1,0.3,FALSE
+Scotland 1 Draw no bet 1st,20101,10121,1.1,0.3,FALSE
+Scotland 1 Total Home 1st,20101,10111,1.1,0.3,FALSE
+Scotland 1 Total Away 1st,20101,10112,1.1,0.3,FALSE
+Scotland 1 Total Odd/Even 1st,20101,10081,1.1,0.3,FALSE
+Scotland 1 Both teams to score 1st,20101,10101,1.1,0.3,FALSE
 Italy Serie B Moneyline,20117,0,1.1,0.3,FALSE
 Italy Serie B Handicap,20117,10001,1.1,0.3,FALSE
 Italy Serie B Total,20117,10002,1.1,0.3,FALSE
@@ -387,6 +427,14 @@ Italy Serie B Total Home,20117,10017,1.1,0.3,FALSE
 Italy Serie B Total Away,20117,10018,1.1,0.3,FALSE
 Italy Serie B Total Odd/Even,20117,10005,1.1,0.3,FALSE
 Italy Serie B Both teams to score,20117,10009,1.1,0.3,FALSE
+Italy Serie B Moneyline 1st,20117,10021,1.1,0.3,FALSE
+Italy Serie B Handicap 1st,20117,10041,1.1,0.3,FALSE
+Italy Serie B Total 1st,20117,10031,1.1,0.3,FALSE
+Italy Serie B Draw no bet 1st,20117,10121,1.1,0.3,FALSE
+Italy Serie B Total Home 1st,20117,10111,1.1,0.3,FALSE
+Italy Serie B Total Away 1st,20117,10112,1.1,0.3,FALSE
+Italy Serie B Total Odd/Even 1st,20117,10081,1.1,0.3,FALSE
+Italy Serie B Both teams to score 1st,20117,10101,1.1,0.3,FALSE
 Spain Segunda 2 Moneyline,20116,0,1.1,0.3,FALSE
 Spain Segunda 2 Handicap,20116,10001,1.1,0.3,FALSE
 Spain Segunda 2 Total,20116,10002,1.1,0.3,FALSE
@@ -395,6 +443,14 @@ Spain Segunda 2 Total Home,20116,10017,1.1,0.3,FALSE
 Spain Segunda 2 Total Away,20116,10018,1.1,0.3,FALSE
 Spain Segunda 2 Total Odd/Even,20116,10005,1.1,0.3,FALSE
 Spain Segunda 2 Both teams to score,20116,10009,1.1,0.3,FALSE
+Spain Segunda 2 Moneyline 1st,20116,10021,1.1,0.3,FALSE
+Spain Segunda 2 Handicap 1st,20116,10041,1.1,0.3,FALSE
+Spain Segunda 2 Total 1st,20116,10031,1.1,0.3,FALSE
+Spain Segunda 2 Draw no bet 1st,20116,10121,1.1,0.3,FALSE
+Spain Segunda 2 Total Home 1st,20116,10111,1.1,0.3,FALSE
+Spain Segunda 2 Total Away 1st,20116,10112,1.1,0.3,FALSE
+Spain Segunda 2 Total Odd/Even 1st,20116,10081,1.1,0.3,FALSE
+Spain Segunda 2 Both teams to score 1st,20116,10101,1.1,0.3,FALSE
 Germany Bundesliga 2 Moneyline,20115,0,1.1,0.3,FALSE
 Germany Bundesliga 2 Handicap,20115,10001,1.1,0.3,FALSE
 Germany Bundesliga 2 Total,20115,10002,1.1,0.3,FALSE
@@ -403,6 +459,14 @@ Germany Bundesliga 2 Total Home,20115,10017,1.1,0.3,FALSE
 Germany Bundesliga 2 Total Away,20115,10018,1.1,0.3,FALSE
 Germany Bundesliga 2 Total Odd/Even,20115,10005,1.1,0.3,FALSE
 Germany Bundesliga 2 Both teams to score,20115,10009,1.1,0.3,FALSE
+Germany Bundesliga 2 Moneyline 1st,20115,10021,1.1,0.3,FALSE
+Germany Bundesliga 2 Handicap 1st,20115,10041,1.1,0.3,FALSE
+Germany Bundesliga 2 Total 1st,20115,10031,1.1,0.3,FALSE
+Germany Bundesliga 2 Draw no bet 1st,20115,10121,1.1,0.3,FALSE
+Germany Bundesliga 2 Total Home 1st,20115,10111,1.1,0.3,FALSE
+Germany Bundesliga 2 Total Away 1st,20115,10112,1.1,0.3,FALSE
+Germany Bundesliga 2 Total Odd/Even 1st,20115,10081,1.1,0.3,FALSE
+Germany Bundesliga 2 Both teams to score 1st,20115,10101,1.1,0.3,FALSE
 Romania - Liga I Moneyline,20661,0,1.1,0.3,FALSE
 Romania - Liga I Handicap,20661,10001,1.1,0.3,FALSE
 Romania - Liga I Total,20661,10002,1.1,0.3,FALSE
