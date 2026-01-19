@@ -1,19 +1,20 @@
 sportName,sportId,season_type,season_year,limitToPush,limitForQualifications
-League of Legends,10138,Worlds,,2000,2000
-League of Legends,10138,Esports World Cup,,1000,1000
-League of Legends,10138,LPL,,1000,1000
-League of Legends,10138,LEC,,1000,1000
-League of Legends,10138,LTA,,1000,1000
+League of Legends,10138,Worlds,,2000,500
+League of Legends,10138,Esports World Cup,,1000,500
+League of Legends,10138,LPL,,1000,500
+League of Legends,10138,LEC,,1000,500
+League of Legends,10138,LTA,,1000,500
 League of Legends,10138,LCK,,800,500
-League of Legends,10138,Demacia Cup,,1000,500
 League of Legends,10138,Mid-Season Invitational,,500,500
 League of Legends,10138,Asia Invitational,,500,500
-League of Legends,10138,LTA North,,500,500
-League of Legends,10138,LCK Challengers League,,500,500
-League of Legends,10138,LCP,,500,500
-League of Legends,10138,North American Challengers League,,500,500
-League of Legends,10138,LCS,,500,500
-League of Legends,10138,LTA South,,400,400
+League of Legends,10138,Demacia Cup,,300,300
+League of Legends,10138,LTA North,,300,300
+League of Legends,10138,LCK Challengers League,,300,300
+League of Legends,10138,LCP,,300,300
+League of Legends,10138,North American Challengers League,,300,300
+League of Legends,10138,LCS,,300,300
+League of Legends,10138,LTA South,,300,300
+League of Legends,10138,CBLOL,,200,200
 League of Legends,10138,Red Bull League of Its Own,,200,200
 League of Legends,10138,KeSPA Cup,,200,200
 League of Legends,10138,GAMEON Revival,,100,100
@@ -40,7 +41,6 @@ League of Legends,10138,LRS,,100,100
 League of Legends,10138,LGC Rising,,100,100
 League of Legends,10138,Iberian Cup,,100,100
 League of Legends,10138,Esports Championships Asia,,100,100
-League of Legends,10138,CBLOL,,200,200
 CS2,9977,StarLadder Major,,1500,800
 CS2,9977,ESL Pro League,,1500,800
 CS2,9977,BLAST Rivals,,1500,800
@@ -54,25 +54,25 @@ CS2,9977,BLAST.tv Major,,800,300
 CS2,9977,Esports World Cup,,800,300
 CS2,9977,FISSURE PLAYGROUND,,1000,300
 CS2,9977,BLAST Bounty,,800,300
-CS2,9977,CCT Global Finals,,200,200
 CS2,9977,PGL Masters,,1000,500
-CS2,9977,YaLLa Compass,,200,200
-CS2,9977,MESA Nomadic Masters,,200,200
+CS2,9977,CCT Global Finals,,200,200
+CS2,9977,YaLLa Compass,,150,150
+CS2,9977,MESA Nomadic Masters,,150,150
 CS2,9977,CCT Europe,,150,150
-CS2,9977,CCT South America,,150,150
-CS2,9977,FiReLEAGUE,,150,150
-CS2,9977,Galaxy Battle,,150,150
-CS2,9977,CCT Oceania,,150,150
-CS2,9977,Rainbet Cup,,150,150
-CS2,9977,ESL Challenger League,,150,150
+CS2,9977,CCT South America,,100,100
+CS2,9977,FiReLEAGUE,,100,100
+CS2,9977,Galaxy Battle,,100,100
+CS2,9977,CCT Oceania,,100,100
+CS2,9977,Rainbet Cup,,100,100
+CS2,9977,ESL Challenger League,,100,100
 CS2,9977,Dust2.us,,100,100
-CS2,9977,Gamers Club Liga Série A,,150,100
-CS2,9977,Winline Insight,,150,100
-CS2,9977,Odyssey Cup,,150,100
-CS2,9977,United21,,150,100
-CS2,9977,Whale.io Cup,,150,100
-CS2,9977,Y-Games PRO Series,,150,100
-CS2,9977,NODWIN Clutch Series,,150,100
+CS2,9977,Gamers Club Liga Série A,,100,100
+CS2,9977,Winline Insight,,100,100
+CS2,9977,Odyssey Cup,,100,100
+CS2,9977,United21,,100,100
+CS2,9977,Whale.io Cup,,100,100
+CS2,9977,Y-Games PRO Series,,100,100
+CS2,9977,NODWIN Clutch Series,,100,100
 CS2,9977,ESEA,,150,100
 CS2,9977,Exort The Proving Grounds,,150,100
 CS2,9977,BtcTurk GameFest,,150,100
