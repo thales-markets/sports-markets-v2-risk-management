@@ -14,6 +14,8 @@ NBA 1st Half Total Points,4,10061,0.1,0.3,FALSE
 NBA 1st Half Point Spread,4,10071,0.1,0.3,FALSE
 NHL Moneyline,6,0,0.1,0.3,FALSE
 NHL Moneyline-3way,6,10011,0.1,0.3,FALSE
+NHL Puck Line regular time,6,10013,0.1,0.3,FALSE
+NHL Total Goals regular time,6,10014,0.1,0.3,FALSE
 NHL Puck Line,6,10001,0.1,0.3,FALSE
 NHL Total Goals,6,10002,0.1,0.3,FALSE
 NHL Team Total,6,10017,0.1,0.3,FALSE
