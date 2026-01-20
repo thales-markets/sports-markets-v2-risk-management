@@ -1,2 +1,2 @@
 sportName,sportId,typeIds,lowerPercentageRisk,middlePercentageRisk,higherPercentageRisk,lowerPercentageRiskRebalance,middlePercentageRiskRebalance,higherPercentageRiskRebalance,rebalanceOnRiskSideOnly
-All Sports,,All Types,20,30,40,1,1.5,2,false
+All Sports,,All Types,20,30,40,1,1.5,2,true
