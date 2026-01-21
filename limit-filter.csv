@@ -1,4 +1,5 @@
 sportName,sportId,minLimit,pushLimitThreshold,primaryMarket,secondaryMarket,thirdMarket,pushSportCapIfAbove,limitInRangeMultiplier,limitSportMultiplier,pushLimitForTypeIds,fetchLiveMarkets
+UFC,7,100,5000,Moneyline,Total Rounds,,false,1,1,0;10001,false
 PFL,9,100,250,Moneyline,Total Rounds,,false,2,1,0;10001,false
 ATP Challenger,157,100,350,Moneyline,Game Spread,Total Games,true,1.5,1,0;10001;10002,false
 Davis Cup,154,300,400,Moneyline,Game Spread,Total Games,true,1.5,1,0;10001;10002,false
