@@ -5,9 +5,9 @@ ATP Challenger,157,100,350,Moneyline,Game Spread,Total Games,true,1.5,1,0;10001;
 Davis Cup,154,300,400,Moneyline,Game Spread,Total Games,true,1.5,1,0;10001;10002,false
 ITF Women,155,300,400,Moneyline,Game Spread,Total Games,true,1.5,1,0;10001;10002,false
 ITF Men,159,300,400,Moneyline,Game Spread,Total Games,true,1.5,1,0;10001;10002,false
-CS2,9977,50,2000,Moneyline,Map Handicap,Total Maps,false,1,7,0;10001;10002,true
-Dota 2,9983,50,2000,Moneyline,Map Handicap,Total Maps,false,1,7,0;10001;10002,true
-League of Legends,10138,50,2000,Moneyline,Map Handicap,Total Maps,false,1,7,0;10001;10002,true
+CS2,9977,100,2000,Moneyline,Map Handicap,Total Maps,false,0.5,7,0;10001;10002,true
+Dota 2,9983,100,2000,Moneyline,Map Handicap,Total Maps,false,0.5,7,0;10001;10002,true
+League of Legends,10138,100,2000,Moneyline,Map Handicap,Total Maps,false,0.5,7,0;10001;10002,true
 Valorant,20300,50,300,Moneyline,Map Handicap,Total Maps,true,1,3,0;10001;10002,true
 International - Club Friendlies,20584,100,500,Moneyline,Total Goals,Asian Handicap,false,2,1,0;10001,false
 International - Friendlies,20585,100,500,Moneyline,Total Goals,Asian Handicap,false,2,1,0;10001,false
