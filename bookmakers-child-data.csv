@@ -1,4 +1,8 @@
 name,sportId,marketName,bookmaker,secondBookmaker
+UFC,7,Player Props,draftkings,
+UFC,7,Method of Victory,draftkings,
+UFC,7,Go The Distance,draftkings,
+UFC,7,Point Spread,draftkings,
 NCAAF,1,Player Props,blue book,
 NCAAF,1,Player Kicking Points,betano,
 NCAAF,1,Player Interceptions,betano,
