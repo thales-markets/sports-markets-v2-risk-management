@@ -39,7 +39,7 @@ overtime-puller-opticodds-south-east-eu,Turkey - Super Lig;Turkey - 1. Lig;Bulga
 overtime-puller-opticodds-south-eu,Greece - Super League;Serbia - Super Liga;Croatia - 1. HNL;Slovenia - PrvaLiga;Malta - Premier League,20110;20109;20520;20682;20624,2,10s,,,false,0xECD83Cf92F4977A6a0926da965b0028040531190,2m,
 overtime-puller-opticodds-middle-east-one,Saudi Arabia - Saudi League;Qatar - Stars League;Israel - Premier League;UAE - Pro League,536;20659;20593;20694,2,10s,,,false,0x15B325Ddad3da5295DC42a96C64AfE6c621D54f8,2m,
 overtime-puller-opticodds-middle-east-two,Kazakhstan - Premier League;Uzbekistan - Super League;FIFA - Arab Nations Cup,20600;20707;20723,1,10s,,,false,0x71e479411fAf86f69cD7fdA157AA3526ca05dbab,2m,
-overtime-puller-opticodds-africa-one,Egypt - Premier League;South Africa - Premier League,20538;20683,2,10s,,,false,0x926af636fc4221866a25e1cAF963381f3C175927,2m,
+overtime-puller-opticodds-africa-one,Egypt - Premier League;South Africa - Premier League;Algeria - Ligue 1,20538;20683;20604,2,10s,,,false,0x926af636fc4221866a25e1cAF963381f3C175927,2m,
 overtime-puller-opticodds-portugal,Portugal - Primeira Liga;Portugal - League Cup;Portugal - Taca de Portugal;Portugal - Super Cup;Portugal - Segunda Liga,61;20133;20136;20658;20657,2,10s,,,false,0x25632fb184dA434eae4107d862b10Ec1B29083FA,2m,
 overtime-puller-opticodds-holland,Netherlands - Eredivisie;Netherlands - KNVB Beker;Netherlands - Super Cup;Netherlands - Eerste Divisie,57;20135;20716;20634,2,10s,,,false,0x4ef22b2132eF6b497e8Da56EFc1e440FbA6B24e9,2m,
 overtime-puller-opticodds-north-eu-one,Sweden - Allsvenskan;Norway - Eliteserien;Norway - 1. Divisjon;Sweden - Superettan,20123;20150;20642;20686,2,10s,,,false,0x6ec7dc7121c0eb671704c96a049189e5de2a0307,2m,
