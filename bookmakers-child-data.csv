@@ -41,7 +41,7 @@ MLB,3,1st 7 Innings Team Total,draftkings,
 MLB,3,1st 7 Innings Correct Score,draftkings,
 MLB,3,1st Half Correct Score,draftkings,
 Euroleague,399,Player Props,opticodds ai,
-NBA,4,Player Props,The Crowds Line AI,
+NBA,4,Player Props,The Crowds Line AI,blue book,
 NBA,4,Total Assists,superbet,
 NBA,4,Team Total Assists,superbet,
 NBA,4,Total Steals,superbet,
@@ -61,15 +61,15 @@ NBA,4,Player Free Throws Attempted,superbet,
 NBA,4,Player Fouls,superbet,
 NBA,4,Player Field Goals Made,superbet,
 NBA,4,Player Field Goals Attempted,superbet,
-NBA,4,Player Triple Double,The Crowds Line AI,
-NBA,4,Player Double Double,The Crowds Line AI,
-NBA,4,Player Steals + Blocks,The Crowds Line AI,
-NBA,4,Player Blocks,The Crowds Line AI,
-NBA,4,Player Points + Rebounds + Assists,The Crowds Line AI,
-NBA,4,Player Points + Rebounds,The Crowds Line AI,
-NBA,4,Player Rebounds + Assists,The Crowds Line AI,
-NBA,4,Player Points + Assists,The Crowds Line AI,
-NBA,4,Player Steals,The Crowds Line AI,
+NBA,4,Player Triple Double,blue book,
+NBA,4,Player Double Double,blue book,
+NBA,4,Player Steals + Blocks,The Crowds Line AI,blue book
+NBA,4,Player Blocks,The Crowds Line AI,blue book
+NBA,4,Player Points + Rebounds + Assists,The Crowds Line AI,blue book
+NBA,4,Player Points + Rebounds,The Crowds Line AI,blue book
+NBA,4,Player Rebounds + Assists,The Crowds Line AI,blue book
+NBA,4,Player Points + Assists,The Crowds Line AI,blue book
+NBA,4,Player Steals,The Crowds Line AI,blue book
 NHL,6,Player Props,pinnacle,
 NHL,6,Player Blocked Shots,DraftKings,
 NHL,6,1st Period Moneyline 3-Way,DraftKings,
