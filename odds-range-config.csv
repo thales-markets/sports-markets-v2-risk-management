@@ -54,6 +54,8 @@ NBA,4,11098,120,400,Player Blocks
 NBA,4,11228,120,400,Player Rebounds + Assists
 NBA,4,11229,120,400,Player Steals
 NBA,4,11230,120,400,Player Steals + Blocks
+NBA,4,11087,105,3000,Player Double Double
+NBA,4,11088,105,3000,Player Triple Dable
 NCAAB,5,10001,170,220,Spread
 NCAAB,5,10002,170,220,Totals
 NCAAB,5,10017,170,220,Total Home Team To Score
