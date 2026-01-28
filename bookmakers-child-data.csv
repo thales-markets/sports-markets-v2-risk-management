@@ -22,9 +22,9 @@ NFL,2,Player Rushing + Receiving Yards,betmgm,
 NFL,2,Will There Be Overtime,draftkings,
 NFL,2,1st Quarter Both Teams To Score,draftkings,
 NFL,2,Moneyline 3-Way,XXX,
-NFL,2,1st Quarter Total Points Odd/Even,opticodds ai
-NFL,2,1st Half Total Points Odd/Even,opticodds ai
-NFL,2,Total Points Odd/Even,opticodds ai
+NFL,2,1st Quarter Total Points Odd/Even,opticodds ai,
+NFL,2,1st Half Total Points Odd/Even,opticodds ai,
+NFL,2,Total Points Odd/Even,opticodds ai,
 MLB,3,Player Props,blue book,
 MLB,3,Player Home Runs,draftkings,
 MLB,3,Player Outs,draftkings,
