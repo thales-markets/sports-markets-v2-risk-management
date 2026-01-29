@@ -398,6 +398,14 @@ UEFA - Champions League,16,11302,110,1000,Player To Score And Assist
 UEFA - Champions League,16,11303,110,1000,Player To Score Or Assist
 UEFA - Champions League,16,11234,110,1000,Anytime Card Receiver
 UEFA - Champions League,16,11235,110,1000,Anytime Red Card Receiver
+UEFA - Europa League,17,10227,145,265,2nd Half Total Corners
+UEFA - Europa League,17,10228,145,265,1st Half Home Team Total Corners
+UEFA - Europa League,17,10229,145,265,1st Half Away Team Total Corners
+UEFA - Europa League,17,10230,145,265,2nd Half Home Team Total Corners
+UEFA - Europa League,17,10231,145,265,2nd Half Away Team Total Corners
+UEFA - Europa League,17,10242,145,265,Total Card Points
+UEFA - Europa League,17,10243,145,265,Home Team Total Card Points
+UEFA - Europa League,17,10244,145,265,Away Team Total Card Points
 UEFA - Europa League,17,11100,110,1000,Player Goals
 UEFA - Europa League,17,11039,110,1000,Player Assists
 UEFA - Europa League,17,11239,110,1000,Player Shots
