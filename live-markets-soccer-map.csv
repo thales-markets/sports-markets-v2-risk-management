@@ -1,6 +1,6 @@
 name,sportId,typeId,marketName,type,enabled,minOdds,maxOdds,addedSpread,primaryBookmaker,secondaryBookmaker,percentageDiffForLines
 MLS,10,0,Moneyline,Moneyline,true,0.99,0.01,0,,,
-MLS,10,10001,Asian Handicap,Spread,true,0.95,0.05,0,draftkings,,
+MLS,10,10001,Asian Handicap,Spread,true,0.95,0.05,0,draftkings,1xbet,
 MLS,10,10002,Total Goals,Total,true,0.95,0.05,0,,,
 MLS,10,10003,Double Chance,Double Chance,true,0.99,0.01,0,draftkings,betano,
 MLS,10,10009,Both Teams To Score,Both Teams To Score,true,0.95,0.05,0,draftkings,betano,
@@ -268,7 +268,7 @@ UEFA Champions League,16,10242,Total Card Points,Total,true,0.95,0.05,0,draftkin
 UEFA Champions League,16,10243,Team Total Card Points,Total,true,0.95,0.05,0,draftkings,betano,
 UEFA Champions League,16,10244,Team Total Card Points,Total,true,0.95,0.05,0,draftkings,betano,
 UEFA Europa League,17,0,Moneyline,Moneyline,true,0.99,0.01,0,,,
-UEFA Europa League,17,10001,Asian Handicap,Spread,true,0.95,0.05,0,betonline,1xbet,
+UEFA Europa League,17,10001,Asian Handicap,Spread,true,0.95,0.05,0,betonline,,
 UEFA Europa League,17,10002,Total Goals,Total,true,0.95,0.05,0,,,
 UEFA Europe League,17,10003,Double Chance,Double Chance,true,0.99,0.01,0,betonline,betano,
 UEFA Europa League,17,10009,Both Teams To Score,Both Teams To Score,true,0.95,0.05,0,betonline,betano,
