@@ -3,10 +3,12 @@
 2,Seattle Seahawks,21641
 4,Atlanta Hawks,29096
 4,Boston Celtics,29091
+4,Brooklyn Nets,49263
 4,Charlotte Hornets,29097
 4,Chicago Bulls,29101
 4,Cleveland Cavaliers,29102
 4,Dallas Mavericks,29111
+4,Denver Nuggets,29106
 4,Detroit Pistons,29103
 4,Golden State Warriors,29116
 4,Houston Rockets,29112
@@ -74,11 +76,15 @@
 11,West Ham United FC,94
 11,Wolverhampton Wanderers FC,97
 12,AS Monaco FC,302
+12,FC Metz,306
+12,FC Nantes,247
 12,Lille OSC,248
 12,OGC Nice Côte d'Azur,250
 12,Olympique de Marseille,304
 12,Olympique Lyonnais,305
 12,Paris Saint-Germain FC,328
+12,Racing Club de Lens,300
+12,Toulouse FC,315
 13,1. FC Heidenheim 1846,30131
 13,1. FC Köln,226
 13,1. FC Union Berlin,1739
@@ -139,24 +145,49 @@
 15,US Sassuolo Calcio,22148
 17,AS Roma,240
 17,Aston Villa FC,2
+17,Bologna FC 1909,234
+17,BSC Young Boys,822
 17,Celtic FC,111
+17,FC Basel 1893,803
 17,FC Midtjylland,340
+17,FC Porto,935
+17,FC Salzburg,920
 17,FC Utrecht,922
 17,FC Viktoria Plzeň,1086
 17,Ferencvárosi TC,900
+17,Feyenoord Rotterdam,933
+17,FK Crvena zvezda Beograd,1140
+17,GNK Dinamo Zagreb,1734
 17,Go Ahead Eagles,1516
 17,KRC Genk,1055
+17,Lille OSC,248
 17,Nottingham Forest FC,62
+17,Olympique Lyonnais,305
+17,Panathinaikos FC,931
 17,PAOK Thessaloniki FC,1374
+17,PFK Ludogorets 1945 Razgrad,41365
 17,Rangers FC,140
+17,Real Club Celta de Vigo,540
 17,SC Fotbal Club FCSB SA,926
 17,SC Freiburg,193
 17,SK Brann,157
 17,SK Sturm Graz,814
+17,Sporting Braga,1178
 17,VfB Stuttgart 1893,200
+399,Anadolu Efes,41022
+399,AS Monaco,63025
+399,Baskonia Vitoria-Gasteiz,40805
 399,BC Dubai,10062174
-399,Maccabi Tel Aviv,1260
+399,Crvena Zvezda,41147
+399,Hapoel Tel Aviv,40774
+399,Lyon-Villeurbanne,41236
+399,Maccabi Tel Aviv,41108
 399,Olimpia Milano,41091
+399,Olympiacos,40990
+399,Panathinaikos,41109
+399,Partizan,40954
+399,Valencia Basket,40813
+399,Virtus Bologna,41099
 20011,Birmingham City FC,5
 20011,Blackburn Rovers FC,6
 20011,Bristol City FC,14
@@ -197,6 +228,7 @@
 20115,SG Dynamo Dresden,214
 20115,SpVgg Greuther Fürth,211
 20115,SV 07 Elversberg,1053
+20115,SV Darmstadt 1898,1080
 20115,VfL Bochum 1848,191
 20116,AD Ceuta,23947
 20116,Albacete Balompié,188
@@ -220,12 +252,14 @@
 20116,UD Almería,535
 20116,UD Las Palmas,22196
 20117,AC Monza,1296
+20117,AC Reggiana 1919,30850
 20117,Calcio Padova Spa,1299
 20117,Carrarese Calcio,32230
 20117,Cesena FC,283
 20117,Delfino Pescara 1936,289
 20117,Empoli FC,279
 20117,FC Südtirol,32225
+20117,Frosinone Calcio,1274
 20117,Mantova FC,704
 20117,Modena FC 2018,285
 20117,Palermo FC,244
@@ -283,30 +317,21 @@
 20543,Bristol Rovers FC,15
 20543,Bromley FC,1705
 20543,Cambridge United FC,18
+20543,Cheltenham Town FC,23
 20543,Chesterfield FC,25
 20543,Colchester United FC,26
 20543,Crawley Town FC,1131
 20543,Crewe Alexandra FC,28
 20543,Fleetwood Town FC,24188
+20543,Gillingham FC,36
 20543,Grimsby Town FC,37
 20543,Harrogate Town FC,1209
 20543,Milton Keynes Dons FC,58
 20543,Newport County AFC,1225
 20543,Notts County FC,63
+20543,Oldham Athletic AFC,64
 20543,Salford City FC,30796
 20543,Shrewsbury Town FC,80
 20543,Swindon Town FC,87
 20543,Tranmere Rovers FC,90
 20543,Walsall FC,91
-4,Denver Nuggets,29106
-4,Brooklyn Nets,49263
-20543,Cheltenham Town FC,23
-20543,Oldham Athletic AFC,64
-20115,SV Darmstadt 1898,1080
-12,Toulouse FC,315
-12,FC Metz,306
-12,FC Nantes,247
-12,Racing Club de Lens,300
-20117,AC Reggiana 1919,30850
-20543,Gillingham FC,36
-20117,Frosinone Calcio,1274
