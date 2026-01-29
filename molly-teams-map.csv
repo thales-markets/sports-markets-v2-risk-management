@@ -1,22 +1,58 @@
 ﻿leagueId,teamName,mollyId
+2,New England Patriots,21632
+2,Seattle Seahawks,21641
 4,Atlanta Hawks,29096
 4,Boston Celtics,29091
 4,Charlotte Hornets,29097
 4,Chicago Bulls,29101
 4,Cleveland Cavaliers,29102
 4,Dallas Mavericks,29111
+4,Detroit Pistons,29103
 4,Golden State Warriors,29116
 4,Houston Rockets,29112
 4,Indiana Pacers,29104
 4,Los Angeles Lakers,29118
 4,Memphis Grizzlies,29113
 4,Miami Heat,29098
+4,Milwaukee Bucks,29105
 4,Minnesota Timberwolves,29107
 4,New York Knicks,29093
+4,Oklahoma City Thunder,40897
 4,Orlando Magic,29099
+4,Philadelphia 76ers,29094
+4,Phoenix Suns,29119
+4,Sacramento Kings,29120
 4,San Antonio Spurs,29115
 4,Toronto Raptors,29095
 4,Utah Jazz,29110
+4,Washington Wizards,29100
+6,Anaheim Ducks,29082
+6,Boston Bruins,29062
+6,Buffalo Sabres,29063
+6,Calgary Flames,29077
+6,Carolina Hurricanes,29068
+6,Chicago Blackhawks,29072
+6,Colorado Avalanche,29078
+6,Detroit Red Wings,29074
+6,Edmonton Oilers,29079
+6,Florida Panthers,29069
+6,Los Angeles Kings,29084
+6,Minnesota Wild,29080
+6,Montreal Canadiens,29064
+6,Nashville Predators,29075
+6,New Jersey Devils,29057
+6,New York Islanders,29058
+6,New York Rangers,29059
+6,Philadelphia Flyers,29060
+6,Pittsburgh Penguins,29061
+6,San Jose Sharks,29086
+6,Seattle Kraken,10043989
+6,St. Louis Blues,29076
+6,Tampa Bay Lightning,29070
+6,Toronto Maple Leafs,29066
+6,Vancouver Canucks,29081
+6,Washington Capitals,29071
+6,Winnipeg Jets,51404
 11,AFC Bournemouth,10
 11,Arsenal FC,1
 11,Aston Villa FC,2
@@ -101,6 +137,26 @@
 15,US Cremonese,1145
 15,US Lecce,235
 15,US Sassuolo Calcio,22148
+17,AS Roma,240
+17,Aston Villa FC,2
+17,Celtic FC,111
+17,FC Midtjylland,340
+17,FC Utrecht,922
+17,FC Viktoria Plzeň,1086
+17,Ferencvárosi TC,900
+17,Go Ahead Eagles,1516
+17,KRC Genk,1055
+17,Nottingham Forest FC,62
+17,PAOK Thessaloniki FC,1374
+17,Rangers FC,140
+17,SC Fotbal Club FCSB SA,926
+17,SC Freiburg,193
+17,SK Brann,157
+17,SK Sturm Graz,814
+17,VfB Stuttgart 1893,200
+399,BC Dubai,10062174
+399,Maccabi Tel Aviv,1260
+399,Olimpia Milano,41091
 20011,Birmingham City FC,5
 20011,Blackburn Rovers FC,6
 20011,Bristol City FC,14
