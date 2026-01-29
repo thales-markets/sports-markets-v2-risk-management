@@ -52,6 +52,7 @@
 6,St. Louis Blues,29076
 6,Tampa Bay Lightning,29070
 6,Toronto Maple Leafs,29066
+6,Utah Mammoth,10062017
 6,Vancouver Canucks,29081
 6,Washington Capitals,29071
 6,Winnipeg Jets,51404
@@ -75,15 +76,23 @@
 11,Tottenham Hotspur FC,89
 11,West Ham United FC,94
 11,Wolverhampton Wanderers FC,97
+12,Angers Sporting Club de l'Ouest,361
 12,AS Monaco FC,302
+12,Association Jeunesse Auxerroise,251
+12,FC Lorient,343
 12,FC Metz,306
 12,FC Nantes,247
+12,Le Havre AC,352
 12,Lille OSC,248
 12,OGC Nice Côte d'Azur,250
 12,Olympique de Marseille,304
 12,Olympique Lyonnais,305
+12,Paris FC,23565
 12,Paris Saint-Germain FC,328
 12,Racing Club de Lens,300
+12,RC Strasbourg Alsace,310
+12,Stade Brestois 29,342
+12,Stade Rennais FC,309
 12,Toulouse FC,315
 13,1. FC Heidenheim 1846,30131
 13,1. FC Köln,226
@@ -161,6 +170,7 @@
 17,Go Ahead Eagles,1516
 17,KRC Genk,1055
 17,Lille OSC,248
+17,Maccabi Tel Aviv FC,1260
 17,Nottingham Forest FC,62
 17,Olympique Lyonnais,305
 17,Panathinaikos FC,931
@@ -185,7 +195,9 @@
 399,Olimpia Milano,41091
 399,Olympiacos,40990
 399,Panathinaikos,41109
+399,Paris Basketball,10008974
 399,Partizan,40954
+399,Real Madrid,40814
 399,Valencia Basket,40813
 399,Virtus Bologna,41099
 20011,Birmingham City FC,5
@@ -240,6 +252,7 @@
 20116,Córdoba CF,544
 20116,Cultural Leonesa,23622
 20116,FC Andorra,10016552
+20116,Granada CF,37488
 20116,Málaga CF,180
 20116,RC Deportivo de La Coruña,190
 20116,Real Racing Club de Santander,183
@@ -335,16 +348,3 @@
 20543,Swindon Town FC,87
 20543,Tranmere Rovers FC,90
 20543,Walsall FC,91
-12,Paris FC,23565
-12,Stade Rennais FC,309
-12,FC Lorient,343
-12,Stade Brestois 29,342
-12,Angers Sporting Club de l'Ouest,361
-12,RC Strasbourg Alsace,310
-12,Association Jeunesse Auxerroise,251
-12,Le Havre AC,352
-17,Maccabi Tel Aviv FC,1260
-20116,Granada CF,37488
-6,Utah Mammoth,10062017
-399,Real Madrid,40814
-399,Paris Basketball,10008974
