@@ -13,16 +13,19 @@
 4,Golden State Warriors,29116
 4,Houston Rockets,29112
 4,Indiana Pacers,29104
+4,Los Angeles Clippers,29117
 4,Los Angeles Lakers,29118
 4,Memphis Grizzlies,29113
 4,Miami Heat,29098
 4,Milwaukee Bucks,29105
 4,Minnesota Timberwolves,29107
+4,New Orleans Pelicans,29114
 4,New York Knicks,29093
 4,Oklahoma City Thunder,40897
 4,Orlando Magic,29099
 4,Philadelphia 76ers,29094
 4,Phoenix Suns,29119
+4,Portland Trail Blazers,29108
 4,Sacramento Kings,29120
 4,San Antonio Spurs,29115
 4,Toronto Raptors,29095
@@ -35,6 +38,7 @@
 6,Carolina Hurricanes,29068
 6,Chicago Blackhawks,29072
 6,Colorado Avalanche,29078
+6,Columbus Blue Jackets,29073
 6,Detroit Red Wings,29074
 6,Edmonton Oilers,29079
 6,Florida Panthers,29069
@@ -163,6 +167,7 @@
 17,FC Salzburg,920
 17,FC Utrecht,922
 17,FC Viktoria Plzeň,1086
+17,Fenerbahçe Spor Kulübü,981
 17,Ferencvárosi TC,900
 17,Feyenoord Rotterdam,933
 17,FK Crvena zvezda Beograd,1140
@@ -171,12 +176,15 @@
 17,KRC Genk,1055
 17,Lille OSC,248
 17,Maccabi Tel Aviv FC,1260
+17,Malmö FF,159
 17,Nottingham Forest FC,62
+17,OGC Nice Côte d'Azur,250
 17,Olympique Lyonnais,305
 17,Panathinaikos FC,931
 17,PAOK Thessaloniki FC,1374
 17,PFK Ludogorets 1945 Razgrad,41365
 17,Rangers FC,140
+17,Real Betis Balompié,184
 17,Real Club Celta de Vigo,540
 17,SC Fotbal Club FCSB SA,926
 17,SC Freiburg,193
@@ -184,11 +192,49 @@
 17,SK Sturm Graz,814
 17,Sporting Braga,1178
 17,VfB Stuttgart 1893,200
+57,AFC Ajax,936
+57,FC Groningen,1169
+57,FC Twente,1155
+57,FC Utrecht,922
+57,FC Volendam,1514
+57,Feyenoord Rotterdam,933
+57,Fortuna Sittard,1576
+57,Go Ahead Eagles,1516
+57,Heracles Almelo,1153
+57,NAC Breda,1171
+57,PSV Eindhoven,246
+57,SBV Excelsior,1570
+57,SC Heerenveen,1057
+57,Sparta Rotterdam,1152
+61,Alverca,38636
+61,Casa Pia AC,35878
+61,CD Nacional,1186
+61,CD Santa Clara,1683
+61,CD Tondela,35884
+61,FC Arouca,36427
+61,FC Famalicão,46490
+61,GD Estoril Praia,1671
+61,Gil Vicente FC,1180
+61,Moreirense FC,1678
+61,Rio Ave FC,1245
+61,SL Benfica,918
+230,CD Guadalajara,372
+230,CF Monterrey,974
+230,CF Pachuca,373
+230,Club León,36546
+230,Club Santos Laguna,1021
+230,Club Tijuana Xoloitzcuintles de Caliente,29970
+230,Deportivo Toluca FC,1098
+230,Mazatlán FC,10028750
+230,Querétaro FC,21657
 399,Anadolu Efes,41022
 399,AS Monaco,63025
+399,Barcelona,40861
 399,Baskonia Vitoria-Gasteiz,40805
+399,Bayern Munich,47258
 399,BC Dubai,10062174
 399,Crvena Zvezda,41147
+399,Fenerbahce,41024
 399,Hapoel Tel Aviv,40774
 399,Lyon-Villeurbanne,41236
 399,Maccabi Tel Aviv,41108
@@ -200,6 +246,9 @@
 399,Real Madrid,40814
 399,Valencia Basket,40813
 399,Virtus Bologna,41099
+399,Zalgiris,40736
+536,Al Kholood Club,98143
+536,NEOM SC,10061713
 20011,Birmingham City FC,5
 20011,Blackburn Rovers FC,6
 20011,Bristol City FC,14
@@ -224,6 +273,96 @@
 20011,Watford FC,92
 20011,West Bromwich Albion FC,93
 20011,Wrexham FC,98
+20101,Aberdeen FC,102
+20101,Celtic FC,111
+20101,Dundee FC,116
+20101,Dundee United FC,117
+20101,Falkirk FC,122
+20101,Hibernian FC,127
+20101,Kilmarnock FC,129
+20101,Livingston FC,130
+20101,Motherwell FC,133
+20101,Rangers FC,140
+20102,Cercle Brugge KSV,1090
+20102,Club Brugge KV,980
+20102,KAA Gent,830
+20102,KRC Genk,1055
+20102,KV Mechelen,23536
+20102,Oud-Heverlee Leuven,1680
+20102,Royal Antwerp FC,23534
+20102,Royal Charleroi SC,818
+20102,Royal Standard de Liège,932
+20102,Royale Union Saint-Gilloise,1626
+20102,RSC Anderlecht,919
+20104,Cobresal,1009
+20104,Colo Colo,982
+20104,Coquimbo Unido,811
+20104,Deportes Limache,53756
+20104,Huachipato,1029
+20104,Palestino,1110
+20104,Universidad Catolica,1035
+20104,Universidad de Chile,1608
+20106,AA Estudiantes de Río Cuarto,57708
+20106,Argentinos Juniors,505
+20106,CA Aldosivi,27509
+20106,CA Banfield,371
+20106,CA Barracas Central,39656
+20106,CA Belgrano de Córdoba,21600
+20106,CA Boca Juniors,581
+20106,CA Central Córdoba de Santiago del Estero,30206
+20106,CA Huracán,690
+20106,CA Independiente,563
+20106,CA Lanús,688
+20106,CA Platense,27521
+20106,CA River Plate,632
+20106,CA Rosario Central,504
+20106,CA San Lorenzo de Almagro,677
+20106,CA Sarmiento,30216
+20106,CA Talleres de Córdoba,27523
+20106,CA Tigre,28825
+20106,CA Tucumán,30222
+20106,CA Unión de Santa Fe,27524
+20106,Club Estudiantes de La Plata,562
+20106,CS Independiente Rivadavia,27518
+20106,Gimnasia y Esgrima La Plata,1120
+20106,Newell's Old Boys,641
+20106,Racing Club de Avellaneda,644
+20108,Antalyaspor Kulübü,1748
+20108,Kocaelispor Kulübü,23036
+20108,Konyaspor Kulübü,991
+20108,Samsunspor Kulübü,1074
+20108,Trabzonspor Kulübü,802
+20109,FK IMT Novi Beograd,83143
+20109,FK Mladost Lučani,28192
+20109,FK Napredak Kruševac,30798
+20109,FK Novi Pazar,36287
+20109,FK Vojvodina Novi Sad,1391
+20110,AEK Athens FC,1095
+20110,Aris Thessaloniki FC,1265
+20110,Asteras Tripolis FC,22812
+20110,Kifisias FC,56346
+20110,Levadiakos FC,1441
+20110,Olympiakos CFP,1092
+20110,Panserraikos FC,1302
+20110,PAOK Thessaloniki FC,1374
+20113,Adelaide United FC,1442
+20113,Auckland FC,10061980
+20113,Brisbane Roar FC,1466
+20113,Central Coast Mariners FC,1448
+20113,Macarthur FC,10035216
+20113,Melbourne City FC,27311
+20113,Melbourne Victory FC,1460
+20113,Newcastle Jets FC,1563
+20113,Perth Glory FC,1464
+20113,Sydney FC,1475
+20113,Wellington Phoenix FC,27677
+20113,Western Sydney Wanderers FC,49883
+20114,BSC Young Boys,822
+20114,FC Basel 1893,803
+20114,FC Luzern,1339
+20114,FC Sion,1011
+20114,FC Zürich,913
+20114,Grasshopper Club Zürich,806
 20115,1. FC Kaiserslautern,197
 20115,1. FC Magdeburg,1738
 20115,1. FC Nürnberg,206
@@ -276,9 +415,11 @@
 20117,Mantova FC,704
 20117,Modena FC 2018,285
 20117,Palermo FC,244
+20117,Spezia Calcio,1509
 20117,SS Juve Stabia,1284
 20117,SSC Bari,10006407
 20117,UC Sampdoria,237
+20117,US Avellino 1912,696
 20117,US Catanzaro 1929,281
 20117,Venezia FC,42312
 20117,Virtus Entella,39759
@@ -300,6 +441,24 @@
 20119,Stade Lavallois Mayenne FC,347
 20119,US Boulogne Cote-d'Opale,1667
 20119,US du Littoral de Dunkerque,25452
+20122,Arka Gdynia 1929,942
+20122,GKS Katowice,28094
+20122,GKS Piast Gliwice,23548
+20122,KGHM Zagłębie Lubin,996
+20122,KP Legia Warszawa,994
+20122,KS Lechia Gdańsk,23544
+20122,KS Raków Częstochowa,33655
+20122,RKS Radomiak Radom,36193
+20122,SSA Jagiellonia Białystok,23543
+20122,Wisła Płock SA,993
+20124,Alianza FC,10082031
+20124,Asociación Deportivo Cali,1632
+20124,CA Bucaramanga,23449
+20124,CD La Equidad Seguros SA,23477
+20124,Club Deportes Tolima SA,23455
+20124,Cúcuta Deportivo FC,23453
+20124,Deportivo Boyacá Chicó FC SA,23452
+20124,Deportivo Pereira FC,23457
 20126,AFC Wimbledon,96
 20126,Barnsley FC,4
 20126,Blackpool FC,7
@@ -324,94 +483,20 @@
 20126,Stockport County FC,83
 20126,Wigan Athletic FC,95
 20126,Wycombe Wanderers FC,99
-20543,Accrington Stanley FC,1043
-20543,Barnet FC,3
-20543,Barrow AFC,1256
-20543,Bristol Rovers FC,15
-20543,Bromley FC,1705
-20543,Cambridge United FC,18
-20543,Cheltenham Town FC,23
-20543,Chesterfield FC,25
-20543,Colchester United FC,26
-20543,Crawley Town FC,1131
-20543,Crewe Alexandra FC,28
-20543,Fleetwood Town FC,24188
-20543,Gillingham FC,36
-20543,Grimsby Town FC,37
-20543,Harrogate Town FC,1209
-20543,Milton Keynes Dons FC,58
-20543,Newport County AFC,1225
-20543,Notts County FC,63
-20543,Oldham Athletic AFC,64
-20543,Salford City FC,30796
-20543,Shrewsbury Town FC,80
-20543,Swindon Town FC,87
-20543,Tranmere Rovers FC,90
-20543,Walsall FC,91
-4,Portland Trail Blazers,29108
-4,Los Angeles Clippers,29117
-4,New Orleans Pelicans,29114
-6,Columbus Blue Jackets,29073
-399,Bayern Munich,47258
-399,Barcelona,40861
-399,Fenerbahce,41024
-399,Zalgiris,40736
-17,Malmö FF,159
-17,OGC Nice Côte d'Azur,250
-17,Fenerbahçe Spor Kulübü,981
-17,Real Betis Balompié,184
-20117,US Avellino 1912,696
-20117,Spezia Calcio,1509
-20102,Cercle Brugge KSV,1090
-20102,Club Brugge KV,980
-20102,KAA Gent,830
-20102,KRC Genk,1055
-20102,KV Mechelen,23536
-20102,Oud-Heverlee Leuven,1680
-20102,Royal Antwerp FC,23534
-20102,Royal Charleroi SC,818
-20102,Royale Union Saint-Gilloise,1626
-20102,RSC Anderlecht,919
-20104,Cobresal,1009
-20104,Colo Colo,982
-20104,Coquimbo Unido,811
-20104,Deportes Limache,53756
-20104,Huachipato,1029
-20104,Palestino,1110
-20104,Universidad Catolica,1035
-20104,Universidad de Chile,1608
-20106,Argentinos Juniors,505
-20106,CA Aldosivi,27509
-20106,CA Banfield,371
-20106,CA Barracas Central,39656
-20106,CA Boca Juniors,581
-20106,CA Independiente,563
-20106,CA Platense,27521
-20106,CA River Plate,632
-20106,CA Rosario Central,504
-20106,CA San Lorenzo de Almagro,677
-20106,CA Sarmiento,30216
-20106,CA Tigre,28825
-20106,Club Estudiantes de La Plata,562
-20106,CS Independiente Rivadavia,27518
-20106,Gimnasia y Esgrima La Plata,1120
-20106,Newell's Old Boys,641
-20106,Racing Club de Avellaneda,644
-20113,Adelaide United FC,1442
-20113,Auckland FC,10061980
-20113,Brisbane Roar FC,1466
-20113,Central Coast Mariners FC,1448
-20113,Macarthur FC,10035216
-20113,Melbourne City FC,27311
-20113,Newcastle Jets FC,1563
-20113,Perth Glory FC,1464
-20113,Sydney FC,1475
-20113,Wellington Phoenix FC,27677
-20113,Western Sydney Wanderers FC,49883
-20124,Alianza FC,10082031
-20124,Asociación Deportivo Cali,1632
-20124,Deportivo Pereira FC,23457
+20134,Ayutthaya United,91684
+20134,BG Pathum United FC,10016794
+20134,Buriram United FC,38202
+20134,Chiangrai United FC,35063
+20134,Chonburi FC,28294
+20134,Muang Thong United,33854
+20134,Port FC,28310
+20134,Ratchaburi,28322
+20134,Rayong FC,44339
+20134,Sukhothai,64888
+20134,True Bangkok United FC,28304
+20134,Uthai Thani FC,82361
 20137,Chelsea FC Women,28221
+20146,Brisbane Roar FC,32271
 20146,Melbourne Victory,32268
 20146,Newcastle Jets,32269
 20146,Sydney FC,32272
@@ -436,57 +521,49 @@
 20524,Anorthosis Famagusta,839
 20524,Apollon Limassol,1618
 20524,Ethnikos Achnas,1502
+20524,Olympiakos Nicosia,1556
 20524,Omonia Aradippou,32833
 20529,AC Sparta Praha,1077
+20529,Bohemians 1905,24576
+20529,FC Baník Ostrava,1048
 20529,FC Slovan Liberec,914
+20529,FC Viktoria Plzeň,1086
+20529,FK Mladá Boleslav,1223
 20529,FK Pardubice,39884
 20529,FK Teplice,1078
 20529,SK Sigma Olomouc,816
 20529,SK Slavia Praha,1075
+20538,Ceramica Cleopatra,10019737
 20538,National Bank of Egypt,75424
 20538,Pharco FC,68966
-20538,Smouha,39771
-20102,Royal Standard de Liège,932
-20106,AA Estudiantes de Río Cuarto,57708
-20106,CA Belgrano de Córdoba,21600
-20106,CA Central Córdoba de Santiago del Estero,30206
-20106,CA Huracán,690
-20106,CA Lanús,688
-20106,CA Talleres de Córdoba,27523
-20106,CA Tucumán,30222
-20106,CA Unión de Santa Fe,27524
-20113,Melbourne Victory FC,1460
-20124,CA Bucaramanga,23449
-20124,CD La Equidad Seguros SA,23477
-20124,Club Deportes Tolima SA,23455
-20124,Cúcuta Deportivo FC,23453
-20124,Deportivo Boyacá Chicó FC SA,23452
-20524,Olympiakos Nicosia,1556
-20529,Bohemians 1905,24576
-20529,FC Baník Ostrava,1048
-20529,FC Viktoria Plzeň,1086
-20529,FK Mladá Boleslav,1223
-20538,Ceramica Cleopatra,10019737
 20538,Pyramids FC,10002468
+20538,Smouha,39771
 20538,Zamalek SC,26233
-20110,AEK Athens FC,1095
-20110,Asteras Tripolis FC,22812
-20110,Kifisias FC,56346
-20110,Levadiakos FC,1441
-20110,Olympiakos CFP,1092
-20110,Panserraikos FC,1302
-20110,PAOK Thessaloniki FC,1374
-20122,Arka Gdynia 1929,942
-20122,GKS Katowice,28094
-20122,GKS Piast Gliwice,23548
-20122,KGHM Zagłębie Lubin,996
-20122,KP Legia Warszawa,994
-20122,KS Lechia Gdańsk,23544
-20122,RKS Radomiak Radom,36193
-20122,SSA Jagiellonia Białystok,23543
-20122,Wisła Płock SA,993
-20146,Brisbane Roar FC,32271
 20538,ZED FC,63615
+20543,Accrington Stanley FC,1043
+20543,Barnet FC,3
+20543,Barrow AFC,1256
+20543,Bristol Rovers FC,15
+20543,Bromley FC,1705
+20543,Cambridge United FC,18
+20543,Cheltenham Town FC,23
+20543,Chesterfield FC,25
+20543,Colchester United FC,26
+20543,Crawley Town FC,1131
+20543,Crewe Alexandra FC,28
+20543,Fleetwood Town FC,24188
+20543,Gillingham FC,36
+20543,Grimsby Town FC,37
+20543,Harrogate Town FC,1209
+20543,Milton Keynes Dons FC,58
+20543,Newport County AFC,1225
+20543,Notts County FC,63
+20543,Oldham Athletic AFC,64
+20543,Salford City FC,30796
+20543,Shrewsbury Town FC,80
+20543,Swindon Town FC,87
+20543,Tranmere Rovers FC,90
+20543,Walsall FC,91
 20563,1. FC Saarbrücken,222
 20563,1. FC Schweinfurt 05,28939
 20563,FC Energie Cottbus,218
@@ -552,6 +629,7 @@
 20639,Bangor FC,25544
 20639,Carrick Rangers,25545
 20639,Cliftonville FC,21670
+20639,Coleraine FC,23560
 20639,Crusaders FC,23559
 20639,Dungannon Swifts,1609
 20639,Glenavon,21671
@@ -564,6 +642,7 @@
 20649,Club Libertad,1634
 20649,Sportivo Ameliano,10017092
 20651,Club Alianza Lima,23067
+20651,Club Deportivo Garcilaso,87309
 20651,Club Sporting Cristal SA,1624
 20651,Club Universitario de Deportes,23073
 20651,Comerciantes Unidos,59866
@@ -571,95 +650,6 @@
 20651,Melgar,23071
 20651,Sport Boys,23072
 20651,Sport Huancayo,33825
-20718,AC Perugia Calcio,287
-20718,AC Renate,35013
-20718,AS Gubbio 1910,32238
-20718,Ascoli Calcio 1898 FC,284
-20718,Atalanta Bergamasca Calcio U23,10055033
-20718,AZ Picerno,76029
-20718,Benevento Calcio,22133
-20718,Calcio Catania,293
-20718,Calcio Lecco 1912,27685
-20718,Cosenza Calcio,32251
-20718,Dolomiti Bellunesi,10044820
-20718,FC Crotone,297
-20718,Inter Milano U23,10085234
-20718,Novara Calcio,1298
-20718,Sambenedettese,1309
-20718,Siracusa Calcio,35530
-20718,Sorrento Calcio,738
-20718,SSD Potenza Calcio,27687
-20718,Team Altamura,87638
-20718,Ternana Calcio,290
-20718,UC AlbinoLeffe,252
-20718,Union Brescia,10084914
-20718,US Latina,40505
-20718,US Pergolettese 1932,31016
-20718,US Pianese,42341
-20718,US Pontedera 1912,38854
-20718,Vis Pesaro,38777
-230,CD Guadalajara,372
-230,CF Monterrey,974
-230,CF Pachuca,373
-230,Club León,36546
-230,Club Santos Laguna,1021
-230,Club Tijuana Xoloitzcuintles de Caliente,29970
-230,Deportivo Toluca FC,1098
-230,Mazatlán FC,10028750
-230,Querétaro FC,21657
-57,AFC Ajax,936
-57,FC Groningen,1169
-57,FC Twente,1155
-57,FC Utrecht,922
-57,FC Volendam,1514
-57,Feyenoord Rotterdam,933
-57,Fortuna Sittard,1576
-57,Go Ahead Eagles,1516
-57,NAC Breda,1171
-57,PSV Eindhoven,246
-57,SC Heerenveen,1057
-20101,Aberdeen FC,102
-20101,Celtic FC,111
-20101,Dundee FC,116
-20101,Dundee United FC,117
-20101,Falkirk FC,122
-20101,Hibernian FC,127
-20101,Kilmarnock FC,129
-20101,Livingston FC,130
-20101,Motherwell FC,133
-20101,Rangers FC,140
-20108,Antalyaspor Kulübü,1748
-20108,Kocaelispor Kulübü,23036
-20108,Konyaspor Kulübü,991
-20108,Samsunspor Kulübü,1074
-20108,Trabzonspor Kulübü,802
-20109,FK IMT Novi Beograd,83143
-20109,FK Mladost Lučani,28192
-20109,FK Napredak Kruševac,30798
-20109,FK Novi Pazar,36287
-20109,FK Vojvodina Novi Sad,1391
-20110,Aris Thessaloniki FC,1265
-20114,BSC Young Boys,822
-20114,FC Basel 1893,803
-20114,FC Luzern,1339
-20114,FC Sion,1011
-20114,FC Zürich,913
-20114,Grasshopper Club Zürich,806
-20122,KS Raków Częstochowa,33655
-20134,Ayutthaya United,91684
-20134,BG Pathum United FC,10016794
-20134,Buriram United FC,38202
-20134,Chiangrai United FC,35063
-20134,Chonburi FC,28294
-20134,Muang Thong United,33854
-20134,Port FC,28310
-20134,Ratchaburi,28322
-20134,Rayong FC,44339
-20134,Sukhothai,64888
-20134,True Bangkok United FC,28304
-20134,Uthai Thani FC,82361
-20639,Coleraine FC,23560
-20651,Club Deportivo Garcilaso,87309
 20657,CD Feirense,1672
 20657,FC Felgueiras 1932,38779
 20657,FC Paços de Ferreira,1184
@@ -701,10 +691,37 @@
 20683,TS Galaxy,10004041
 20709,Becamex Binh Duong,28865
 20709,Hong Linh Ha Tinh,10011693
+20718,AC Perugia Calcio,287
+20718,AC Renate,35013
+20718,AS Gubbio 1910,32238
+20718,Ascoli Calcio 1898 FC,284
 20718,ASD Pineto Calcio,82941
+20718,Atalanta Bergamasca Calcio U23,10055033
+20718,AZ Picerno,76029
+20718,Benevento Calcio,22133
+20718,Calcio Catania,293
+20718,Calcio Lecco 1912,27685
+20718,Cosenza Calcio,32251
+20718,Dolomiti Bellunesi,10044820
+20718,FC Crotone,297
+20718,Inter Milano U23,10085234
 20718,LR Vicenza Virtus,262
+20718,Novara Calcio,1298
+20718,Sambenedettese,1309
+20718,Siracusa Calcio,35530
+20718,Sorrento Calcio,738
 20718,SSD Casarano Calcio,10016483
+20718,SSD Potenza Calcio,27687
+20718,Team Altamura,87638
+20718,Ternana Calcio,290
+20718,UC AlbinoLeffe,252
+20718,Union Brescia,10084914
+20718,US Latina,40505
+20718,US Pergolettese 1932,31016
+20718,US Pianese,42341
+20718,US Pontedera 1912,38854
 20718,US Triestina Calcio,295
+20718,Vis Pesaro,38777
 20728,Algeciras CF,23951
 20728,Antequera CF,23927
 20728,Barakaldo CF,1703
@@ -729,20 +746,3 @@
 20728,SD Tarazona,48061
 20728,UD Ibiza,31922
 20728,Zamora CF,1562
-536,Al Kholood Club,98143
-536,NEOM SC,10061713
-57,Heracles Almelo,1153
-57,SBV Excelsior,1570
-57,Sparta Rotterdam,1152
-61,Alverca,38636
-61,Casa Pia AC,35878
-61,CD Nacional,1186
-61,CD Santa Clara,1683
-61,CD Tondela,35884
-61,FC Arouca,36427
-61,FC Famalicão,46490
-61,GD Estoril Praia,1671
-61,Gil Vicente FC,1180
-61,Moreirense FC,1678
-61,Rio Ave FC,1245
-61,SL Benfica,918
