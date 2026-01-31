@@ -79,7 +79,7 @@ NFL,2,11204,Player Passing Attempts,Total,true,0.95,0.05,2,draftkings,caesars,1
 NFL,2,11205,Player Passing Completions,Total,true,0.95,0.05,2,draftkings,caesars,1
 NFL,2,11296,Player Rushing Attempts,Total,true,0.95,0.05,2,draftkings,caesars,1
 MLB,3,0,Moneyline,Moneyline,true,0.99,0.01,1,,,1
-MLB,3,10001,Run Line,Spread,true,0.75,0.25,0,,,1
+MLB,3,10001,Run Line,Spread,true,0.75,0.25,1,,,1
 MLB,3,10002,Total Runs,Total,true,0.95,0.05,1,,,1
 MLB,3,10021,1st Inning Moneyline 3-Way,Moneyline,true,0.95,0.05,1,,,1
 MLB,3,10031,1st Inning Total Runs,Total,true,0.95,0.05,1,,,1
@@ -105,13 +105,13 @@ MLB,3,10047,7th Inning Run Line,Spread,true,0.95,0.05,1,,,1
 MLB,3,10028,8th Inning Moneyline 3-Way,Moneyline,true,0.95,0.05,1,,,1
 MLB,3,10038,8th Inning Total Runs,Total,true,0.95,0.05,1,,,1
 MLB,3,10048,8th Inning Run Line,Spread,true,0.95,0.05,1,,,1
-MLB,3,10170,1st 3 Innings Moneyline,Moneyline,true,0.9,0.1,0,,,1
+MLB,3,10170,1st 3 Innings Moneyline,Moneyline,true,0.9,0.1,1,,,1
 MLB,3,10171,1st 3 Innings Total Runs,Total,true,0.9,0.1,1,,,1
 MLB,3,10172,1st 3 Innings Run Line,Spread,true,0.99,0.01,1,,,1
-MLB,3,10071,1st Half Run Line,Spread,true,0.9,0.1,0,,,1
-MLB,3,10061,1st Half Total Runs,Total,true,0.9,0.1,0,,,1
+MLB,3,10071,1st Half Run Line,Spread,true,0.9,0.1,1,,,1
+MLB,3,10061,1st Half Total Runs,Total,true,0.9,0.1,1,,,1
 MLB,3,10051,1st Half Moneyline,Moneyline,true,0.99,0.01,1,,,1
-MLB,3,10175,1st 7 Innings Moneyline,Moneyline,true,0.9,0.1,0,,,1
+MLB,3,10175,1st 7 Innings Moneyline,Moneyline,true,0.9,0.1,1,,,1
 MLB,3,10176,1st 7 Innings Total Runs,Total,true,0.9,0.1,1,,,1
 MLB,3,10177,1st 7 Innings Run Line,Spread,true,0.99,0.01,1,,,1
 MLB,3,10111,1st Inning Team Total,Total,true,0.95,0.05,1,,,1
@@ -145,9 +145,9 @@ MLB,3,10168,6th Inning Correct Score,Correct Score,true,0.95,0.05,1,,,1
 MLB,3,10169,7th Inning Correct Score,Correct Score,true,0.95,0.05,1,,,1
 MLB,3,10197,8th Inning Correct Score,Correct Score,true,0.95,0.05,1,,,1
 MLB,3,10198,9th Inning Correct Score,Correct Score,true,0.95,0.05,1,,,1
-MLB,3,10200,1st Half Correct Score,Correct Score,true,0.9,0.1,0,,,1
-MLB,3,10201,1st 3 Innings Correct Score,Correct Score,true,0.95,0.5,0,,,1
-MLB,3,10202,1st 7 Innings Correct Score,Correct Score,true,0.95,0.5,0,,,1
+MLB,3,10200,1st Half Correct Score,Correct Score,true,0.9,0.1,1,,,1
+MLB,3,10201,1st 3 Innings Correct Score,Correct Score,true,0.95,0.5,1,,,1
+MLB,3,10202,1st 7 Innings Correct Score,Correct Score,true,0.95,0.5,1,,,1
 NBA,4,0,Moneyline,Moneyline,true,0.99,0.01,1,,,1
 NBA,4,10001,Point Spread,Spread,true,0.95,0.05,1,,,1
 NBA,4,10002,Total Points,Total,true,0.95,0.05,1,,,1
@@ -592,15 +592,15 @@ USA - Major League Cricket,20303,0,Moneyline,Moneyline,true,0.99,0.01,1,,,1
 Australia - Big Bash League Women,20304,0,Moneyline,Moneyline,true,0.99,0.01,1,,,1
 Pakistan Cricket,20305,0,Moneyline,Moneyline,true,0.99,0.01,1,,,1
 AFL,9510,0,Moneyline,Moneyline,true,0.99,0.01,1,,,1
-AFL,9510,10001,Point Spread,Spread,true,0.8,0.2,0,,,1
-AFL,9510,10002,Total Points,Total,true,0.8,0.2,0,,,1
-AFL,9510,10017,Team Total,Total,true,0.8,0.2,0,,,1
-AFL,9510,10018,Team Total,Total,true,0.8,0.2,0,,,1
+AFL,9510,10001,Point Spread,Spread,true,0.8,0.2,1,,,1
+AFL,9510,10002,Total Points,Total,true,0.8,0.2,1,,,1
+AFL,9510,10017,Team Total,Total,true,0.8,0.2,1,,,1
+AFL,9510,10018,Team Total,Total,true,0.8,0.2,1,,,1
 CFL,9520,0,Moneyline,Moneyline,true,0.99,0.01,1,,,1
-CFL,9520,10001,Point Spread,Spread,true,0.8,0.2,0,,,1
-CFL,9520,10002,Total Points,Total,true,0.8,0.2,0,,,1
-CFL,9520,10017,Team Total,Total,true,0.8,0.2,0,,,1
-CFL,9520,10018,Team Total,Total,true,0.8,0.2,0,,,1
+CFL,9520,10001,Point Spread,Spread,true,0.8,0.2,1,,,1
+CFL,9520,10002,Total Points,Total,true,0.8,0.2,1,,,1
+CFL,9520,10017,Team Total,Total,true,0.8,0.2,1,,,1
+CFL,9520,10018,Team Total,Total,true,0.8,0.2,1,,,1
 CFL,9520,10031,1st Quarter Total Points,Total,true,0.95,0.05,1,,,1
 CFL,9520,10032,2nd Quarter Total Points,Total,true,0.95,0.05,1,,,1
 CFL,9520,10033,3rd Quarter Total Points,Total,true,0.95,0.05,1,,,1
@@ -628,8 +628,8 @@ CFL,9520,10312,3rd Quarter Team Total,Total,true,0.95,0.05,1,,,1
 CFL,9520,10411,4th Quarter Team Total,Total,true,0.95,0.05,1,,,1
 CFL,9520,10412,4th Quarter Team Total,Total,true,0.95,0.05,1,,,1
 UFL,9521,0,Moneyline,Moneyline,true,0.99,0.01,1,,,1
-UFL,9521,10001,Point Spread,Spread,true,0.8,0.2,0,,,1
-UFL,9521,10002,Total Points,Total,true,0.8,0.2,0,,,1
+UFL,9521,10001,Point Spread,Spread,true,0.8,0.2,1,,,1
+UFL,9521,10002,Total Points,Total,true,0.8,0.2,1,,,1
 CZECH_TT_CUP_MEN,8911,0,Moneyline,Moneyline,false,0.99,0.01,4,,,1
 CZECH_TT_LIGA_PRO_MEN,8912,0,Moneyline,Moneyline,false,0.99,0.01,4,,,1
 POLAND_TT_ELITE_SERIES_MEN,8913,0,Moneyline,Moneyline,false,0.99,0.01,4,,,1
