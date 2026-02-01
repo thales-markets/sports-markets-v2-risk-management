@@ -1,88 +1,926 @@
 name,leagueId,typeId,overtimeBetterOddsPercentage,mollyBetterOddsPercentage,onlyTestMode
-NFL Moneyline,2,0,0.1,0.3,FALSE
-NFL Point Spread,2,10001,0.1,0.3,FALSE
-NFL Total Points,2,10002,0.1,0.3,FALSE
-NFL Team Total,2,10017,0.1,0.3,FALSE
-NFL Team Total,2,10018,0.1,0.3,FALSE
-NBA Moneyline,4,0,0.1,0.3,FALSE
-NBA Point Spread,4,10001,0.1,0.3,FALSE
-NBA Total Points,4,10002,0.1,0.3,FALSE
-NBA Team Total,4,10017,0.1,0.3,FALSE
-NBA Team Total,4,10018,0.1,0.3,FALSE
-NBA 1st Half Moneylines,4,10051,0.1,0.3,FALSE
-NBA 1st Half Total Points,4,10061,0.1,0.3,FALSE
-NBA 1st Half Point Spread,4,10071,0.1,0.3,FALSE
-NHL Moneyline,6,0,0.1,0.3,FALSE
-NHL Moneyline-3way,6,10011,0.1,0.3,FALSE
-NHL Puck Line regular time,6,10013,0.1,0.3,FALSE
-NHL Total Goals regular time,6,10014,0.1,0.3,FALSE
-NHL Puck Line,6,10001,0.1,0.3,FALSE
-NHL Total Goals,6,10002,0.1,0.3,FALSE
-NHL Team Total,6,10017,0.1,0.3,FALSE
-NHL Team Total,6,10018,0.1,0.3,FALSE
-NHL Puck Line regular time,6,10013,0.1,0.3,FALSE
-NHL Total Goals regular time,6,10014,0.1,0.3,FALSE
-Euroleague Moneyline,399,0,0.1,0.3,FALSE
-Euroleague Point Spread,399,10001,0.1,0.3,FALSE
-Euroleague Total Points,399,10002,0.1,0.3,FALSE
-Euroleague Team Total,399,10017,0.1,0.3,FALSE
-Euroleague Team Total,399,10018,0.1,0.3,FALSE
-Euroleague 1st Half Moneylines,399,10051,0.1,0.3,FALSE
-Euroleague 1st Half Total Points,399,10061,0.1,0.3,FALSE
-Euroleague 1st Half Point Spread,399,10071,0.1,0.3,FALSE
-France LNB Moneyline,20204,0,0.1,0.3,FALSE
-France LNB Point Spread,20204,10001,0.1,0.3,FALSE
-France LNB Total Points,20204,10002,0.1,0.3,FALSE
-France LNB Team Total,20204,10017,0.1,0.3,FALSE
-France LNB Team Total,20204,10018,0.1,0.3,FALSE
-Germay BBL Moneyline,20203,0,0.1,0.3,FALSE
-Germay BBL Point Spread,20203,10001,0.1,0.3,FALSE
-Germay BBL Total Points,20203,10002,0.1,0.3,FALSE
-Germay BBL Team Total,20203,10017,0.1,0.3,FALSE
-Germay BBL Team Total,20203,10018,0.1,0.3,FALSE
-Spain ACB Moneyline,20201,0,0.1,0.3,FALSE
-Spain ACB Point Spread,20201,10001,0.1,0.3,FALSE
-Spain ACB Total Points,20201,10002,0.1,0.3,FALSE
-Spain ACB Team Total,20201,10017,0.1,0.3,FALSE
-Spain ACB Team Total,20201,10018,0.1,0.3,FALSE
-Italy Basketball Moneyline,20202,0,0.1,0.3,FALSE
-Italy Basketball Point Spread,20202,10001,0.1,0.3,FALSE
-Italy Basketball Total Points,20202,10002,0.1,0.3,FALSE
-Italy Basketball Team Total,20202,10017,0.1,0.3,FALSE
-Italy Basketball Team Total,20202,10018,0.1,0.3,FALSE
-ATP Moneyline,156,0,0.1,0.3,FALSE
-ATP Game Spread,156,10001,0.1,0.3,FALSE
-ATP Total Games,156,10002,0.1,0.3,FALSE
-ATP Set Handicap,156,10013,0.1,0.3,FALSE
-ATP Total Sets,156,10014,0.1,0.3,FALSE
-ATP 1st Set Moneyline,156,10021,0.1,0.3,FALSE
-ATP 1st Games Spread,156,10041,0.1,0.3,FALSE
-ATP 1st Total Games,156,10031,0.1,0.3,FALSE
-WTA Moneyline,152,0,0.1,0.3,FALSE
-WTA Game Spread,152,10001,0.1,0.3,FALSE
-WTA Total Games,152,10002,0.1,0.3,FALSE
-WTA Set Handicap,152,10013,0.1,0.3,FALSE
-WTA Total Sets,152,10014,0.1,0.3,FALSE
-WTA 1st Set Moneyline,152,10021,0.1,0.3,FALSE
-WTA 1st Games Spread,152,10041,0.1,0.3,FALSE
-WTA 1st Total Games,152,10031,0.1,0.3,FALSE
-ATP Challenger Moneyline,157,0,0.1,0.3,FALSE
-ATP Challenger Game Spread,157,10001,0.1,0.3,FALSE
-ATP Challenger Total Games,157,10002,0.1,0.3,FALSE
-ATP Challenger Set Handicap,157,10013,0.1,0.3,FALSE
-ATP Challenger Total Sets,157,10014,0.1,0.3,FALSE
-ATP Challenger 1st Set Moneyline,157,10021,0.1,0.3,FALSE
-ATP Challenger 1st Games Spread,157,10041,0.1,0.3,FALSE
-ATP Challenger 1st Total Games,157,10031,0.1,0.3,FALSE
-CS2 Moneyline,9977,0,0.1,0.3,FALSE
-CS2 Map Handicap,9977,10001,0.1,0.3,FALSE
-CS2 Total Maps,9977,10002,0.1,0.3,FALSE
-LOL Moneyline,10138,0,0.1,0.3,FALSE
-LOL Map Handicap,10138,10001,0.1,0.3,FALSE
-LOL Total Maps,10138,10002,0.1,0.3,FALSE
-DOTA2 Moneyline,9983,0,0.1,0.3,FALSE
-DOTA2 Map Handicap,9983,10001,0.1,0.3,FALSE
-DOTA2 Total Maps,9983,10002,0.1,0.3,FALSE
-Valorant Moneyline,20300,0,0.1,0.3,FALSE
-Valorant Map Handicap,20300,10001,0.1,0.3,FALSE
-Valorant Total Maps,20300,10002,0.1,0.3,FALSE
+EPL Moneyline,11,0,1.1,0.3,FALSE
+EPL Double Chance,11,10003,1.4,0.3,FALSE
+EPL Handicap,11,10001,1.1,0.3,FALSE
+EPL Total,11,10002,1.1,0.3,FALSE
+EPL Draw no bet,11,10010,1.1,0.3,FALSE
+EPL Total Home,11,10017,1.1,0.3,FALSE
+EPL Total Away,11,10018,1.1,0.3,FALSE
+EPL Total Odd/Even,11,10005,1.1,0.3,FALSE
+EPL Both teams to score,11,10009,1.1,0.3,FALSE
+EPL Moneyline 1st,11,10021,1.1,0.3,FALSE
+EPL Handicap 1st,11,10041,1.1,0.3,FALSE
+EPL Total 1st,11,10031,1.1,0.3,FALSE
+EPL Draw no bet 1st,11,10121,1.1,0.3,FALSE
+EPL Total Home 1st,11,10111,1.1,0.3,FALSE
+EPL Total Away 1st,11,10112,1.1,0.3,FALSE
+EPL Total Odd/Even 1st,11,10081,1.1,0.3,FALSE
+EPL Both teams to score 1st,11,10101,1.1,0.3,FALSE
+EPL Total Corners,11,10222,1.1,0.3,FALSE
+EPL Team Total Corners,11,10223,1.1,0.3,FALSE
+EPL Team Total Corners,11,10224,1.1,0.3,FALSE
+EPL Home Win To nill,11,10206,1.1,0.3,FALSE
+EPL Away Win To nill,11,10207,1.1,0.3,FALSE
+La Liga Moneyline,14,0,1.1,0.3,FALSE
+La Liga Handicap,14,10001,1.1,0.3,FALSE
+La Liga Total,14,10002,1.1,0.3,FALSE
+La Liga Draw no bet,14,10010,1.1,0.3,FALSE
+La Liga Total Home,14,10017,1.1,0.3,FALSE
+La Liga Total Away,14,10018,1.1,0.3,FALSE
+La Liga Total Odd/Even,14,10005,1.1,0.3,FALSE
+La Liga Both teams to score,14,10009,1.1,0.3,FALSE
+La Liga Moneyline 1st,14,10021,1.1,0.3,FALSE
+La Liga Handicap 1st,14,10041,1.1,0.3,FALSE
+La Liga Total 1st,14,10031,1.1,0.3,FALSE
+La Liga Draw no bet 1st,14,10121,1.1,0.3,FALSE
+La Liga Total Home 1st,14,10111,1.1,0.3,FALSE
+La Liga Total Away 1st,14,10112,1.1,0.3,FALSE
+La Liga Total Odd/Even 1st,14,10081,1.1,0.3,FALSE
+La Liga Both teams to score 1st,14,10101,1.1,0.3,FALSE
+La Liga Total Corners,14,10222,1.1,0.3,FALSE
+La Liga Team Total Corners,14,10223,1.1,0.3,FALSE
+La Liga Team Total Corners,14,10224,1.1,0.3,FALSE
+La Liga Home Win To nill,14,10206,1.1,0.3,FALSE
+La Liga Away Win To nill,14,10207,1.1,0.3,FALSE
+Serie A Moneyline,15,0,1.1,0.3,FALSE
+Serie A Handicap,15,10001,1.1,0.3,FALSE
+Serie A Total,15,10002,1.1,0.3,FALSE
+Serie A Draw no bet,15,10010,1.1,0.3,FALSE
+Serie A Total Home,15,10017,1.1,0.3,FALSE
+Serie A Total Away,15,10018,1.1,0.3,FALSE
+Serie A Total Odd/Even,15,10005,1.1,0.3,FALSE
+Serie A Both teams to score,15,10009,1.1,0.3,FALSE
+Serie A Moneyline 1st,15,10021,1.1,0.3,FALSE
+Serie A Handicap 1st,15,10041,1.1,0.3,FALSE
+Serie A Total 1st,15,10031,1.1,0.3,FALSE
+Serie A Draw no bet 1st,15,10121,1.1,0.3,FALSE
+Serie A Total Home 1st,15,10111,1.1,0.3,FALSE
+Serie A Total Away 1st,15,10112,1.1,0.3,FALSE
+Serie A Total Odd/Even 1st,15,10081,1.1,0.3,FALSE
+Serie A Both teams to score 1st,15,10101,1.1,0.3,FALSE
+Serie A Total Corners,15,10222,1.1,0.3,FALSE
+Serie A Team Total Corners,15,10223,1.1,0.3,FALSE
+Serie A Team Total Corners,15,10224,1.1,0.3,FALSE
+Serie A Home Win To nill,15,10206,1.1,0.3,FALSE
+Serie A Away Win To nill,15,10207,1.1,0.3,FALSE
+Bundesliga Moneyline,13,0,1.1,0.3,FALSE
+Bundesliga Handicap,13,10001,1.1,0.3,FALSE
+Bundesliga Total,13,10002,1.1,0.3,FALSE
+Bundesliga Draw no bet,13,10010,1.1,0.3,FALSE
+Bundesliga Total Home,13,10017,1.1,0.3,FALSE
+Bundesliga Total Away,13,10018,1.1,0.3,FALSE
+Bundesliga Total Odd/Even,13,10005,1.1,0.3,FALSE
+Bundesliga Both teams to score,13,10009,1.1,0.3,FALSE
+Bundesliga Moneyline 1st,13,10021,1.1,0.3,FALSE
+Bundesliga Handicap 1st,13,10041,1.1,0.3,FALSE
+Bundesliga Total 1st,13,10031,1.1,0.3,FALSE
+Bundesliga Draw no bet 1st,13,10121,1.1,0.3,FALSE
+Bundesliga Total Home 1st,13,10111,1.1,0.3,FALSE
+Bundesliga Total Away 1st,13,10112,1.1,0.3,FALSE
+Bundesliga Total Odd/Even 1st,13,10081,1.1,0.3,FALSE
+Bundesliga Both teams to score 1st,13,10101,1.1,0.3,FALSE
+Bundesliga Total Corners,13,10222,1.1,0.3,FALSE
+Bundesliga Team Total Corners,13,10223,1.1,0.3,FALSE
+Bundesliga Team Total Corners,13,10224,1.1,0.3,FALSE
+Bundesliga Home Win To nill,13,10206,1.1,0.3,FALSE
+Bundesliga Away Win To nill,13,10207,1.1,0.3,FALSE
+France1 Moneyline,12,0,1.1,0.3,FALSE
+France1 Handicap,12,10001,1.1,0.3,FALSE
+France1 Total,12,10002,1.1,0.3,FALSE
+France1 Draw no bet,12,10010,1.1,0.3,FALSE
+France1 Total Home,12,10017,1.1,0.3,FALSE
+France1 Total Away,12,10018,1.1,0.3,FALSE
+France1 Total Odd/Even,12,10005,1.1,0.3,FALSE
+France1 Both teams to score,12,10009,1.1,0.3,FALSE
+France1 Moneyline 1st,12,10021,1.1,0.3,FALSE
+France1 Handicap 1st,12,10041,1.1,0.3,FALSE
+France1 Total 1st,12,10031,1.1,0.3,FALSE
+France1 Draw no bet 1st,12,10121,1.1,0.3,FALSE
+France1 Total Home 1st,12,10111,1.1,0.3,FALSE
+France1 Total Away 1st,12,10112,1.1,0.3,FALSE
+France1 Total Odd/Even 1st,12,10081,1.1,0.3,FALSE
+France1 Both teams to score 1st,12,10101,1.1,0.3,FALSE
+France1 Total Corners,12,10222,1.1,0.3,FALSE
+France1 Team Total Corners,12,10223,1.1,0.3,FALSE
+France1 Team Total Corners,12,10224,1.1,0.3,FALSE
+France1 Home Win To nill,12,10206,1.1,0.3,FALSE
+France1 Away Win To nill,12,10207,1.1,0.3,FALSE
+CL Moneyline,16,0,1.1,0.3,FALSE
+CL Handicap,16,10001,1.1,0.3,FALSE
+CL Total,16,10002,1.1,0.3,FALSE
+CL Draw no bet,16,10010,1.1,0.3,FALSE
+CL Total Home,16,10017,1.1,0.3,FALSE
+CL Total Away,16,10018,1.1,0.3,FALSE
+CL Total Odd/Even,16,10005,1.1,0.3,FALSE
+CL Both teams to score,16,10009,1.1,0.3,FALSE
+CL Moneyline 1st,16,10021,1.1,0.3,FALSE
+CL Handicap 1st,16,10041,1.1,0.3,FALSE
+CL Total 1st,16,10031,1.1,0.3,FALSE
+CL Draw no bet 1st,16,10121,1.1,0.3,FALSE
+CL Total Home 1st,16,10111,1.1,0.3,FALSE
+CL Total Away 1st,16,10112,1.1,0.3,FALSE
+CL Total Odd/Even 1st,16,10081,1.1,0.3,FALSE
+CL Both teams to score 1st,16,10101,1.1,0.3,FALSE
+CL Total Corners,16,10222,1.1,0.3,FALSE
+CL Team Total Corners,16,10223,1.1,0.3,FALSE
+CL Team Total Corners,16,10224,1.1,0.3,FALSE
+CL Home Win To nill,16,10206,1.1,0.3,FALSE
+CL Away Win To nill,16,10207,1.1,0.3,FALSE
+EL Moneyline,17,0,1.1,0.3,FALSE
+EL Handicap,17,10001,1.1,0.3,FALSE
+EL Total,17,10002,1.1,0.3,FALSE
+EL Draw no bet,17,10010,1.1,0.3,FALSE
+EL Total Home,17,10017,1.1,0.3,FALSE
+EL Total Away,17,10018,1.1,0.3,FALSE
+EL Total Odd/Even,17,10005,1.1,0.3,FALSE
+EL Both teams to score,17,10009,1.1,0.3,FALSE
+EL Moneyline 1st,17,10021,1.1,0.3,FALSE
+EL Handicap 1st,17,10041,1.1,0.3,FALSE
+EL Total 1st,17,10031,1.1,0.3,FALSE
+EL Draw no bet 1st,17,10121,1.1,0.3,FALSE
+EL Total Home 1st,17,10111,1.1,0.3,FALSE
+EL Total Away 1st,17,10112,1.1,0.3,FALSE
+EL Total Odd/Even 1st,17,10081,1.1,0.3,FALSE
+EL Both teams to score 1st,17,10101,1.1,0.3,FALSE
+EL Total Corners,17,10222,1.1,0.3,FALSE
+EL Team Total Corners,17,10223,1.1,0.3,FALSE
+EL Team Total Corners,17,10224,1.1,0.3,FALSE
+EL Home Win To nill,17,10206,1.1,0.3,FALSE
+EL Away Win To nill,17,10207,1.1,0.3,FALSE
+FIFA Intercontinental Cup Moneyline,20558,0,1.1,0.3,FALSE
+FIFA Intercontinental Cup Handicap,20558,10001,1.1,0.3,FALSE
+FIFA Intercontinental Cup Total,20558,10002,1.1,0.3,FALSE
+FIFA Intercontinental Cup Draw no bet,20558,10010,1.1,0.3,FALSE
+FIFA Intercontinental Cup Total Home,20558,10017,1.1,0.3,FALSE
+FIFA Intercontinental Cup Total Away,20558,10018,1.1,0.3,FALSE
+FIFA Intercontinental Cup Total Odd/Even,20558,10005,1.1,0.3,FALSE
+FIFA Intercontinental Cup Both teams to score,20558,10009,1.1,0.3,FALSE
+FIFA Intercontinental Cup Moneyline 1st,20558,10021,1.1,0.3,FALSE
+FIFA Intercontinental Cup Handicap 1st,20558,10041,1.1,0.3,FALSE
+FIFA Intercontinental Cup Total 1st,20558,10031,1.1,0.3,FALSE
+FIFA Intercontinental Cup Draw no bet 1st,20558,10121,1.1,0.3,FALSE
+FIFA Intercontinental Cup Total Home 1st,20558,10111,1.1,0.3,FALSE
+FIFA Intercontinental Cup Total Away 1st,20558,10112,1.1,0.3,FALSE
+FIFA Intercontinental Cup Total Odd/Even 1st,20558,10081,1.1,0.3,FALSE
+FIFA Intercontinental Cup Both teams to score 1st,20558,10101,1.1,0.3,FALSE
+MLS Moneyline,10,0,1.1,0.3,FALSE
+MLS Handicap,10,10001,1.1,0.3,FALSE
+MLS Total,10,10002,1.1,0.3,FALSE
+MLS Draw no bet,10,10010,1.1,0.3,FALSE
+MLS Total Home,10,10017,1.1,0.3,FALSE
+MLS Total Away,10,10018,1.1,0.3,FALSE
+MLS Total Odd/Even,10,10005,1.1,0.3,FALSE
+MLS Both teams to score,10,10009,1.1,0.3,FALSE
+MLS Moneyline 1st,10,10021,1.1,0.3,FALSE
+MLS Handicap 1st,10,10041,1.1,0.3,FALSE
+MLS Total 1st,10,10031,1.1,0.3,FALSE
+MLS Draw no bet 1st,10,10121,1.1,0.3,FALSE
+MLS Total Home 1st,10,10111,1.1,0.3,FALSE
+MLS Total Away 1st,10,10112,1.1,0.3,FALSE
+MLS Total Odd/Even 1st,10,10081,1.1,0.3,FALSE
+MLS Both teams to score 1st,10,10101,1.1,0.3,FALSE
+Brazil1 Moneyline,268,0,1.1,0.3,FALSE
+Brazil1 Handicap,268,10001,1.1,0.3,FALSE
+Brazil1 Total,268,10002,1.1,0.3,FALSE
+Brazil1 Draw no bet,268,10010,1.1,0.3,FALSE
+Brazil1 Total Home,268,10017,1.1,0.3,FALSE
+Brazil1 Total Away,268,10018,1.1,0.3,FALSE
+Brazil1 Total Odd/Even,268,10005,1.1,0.3,FALSE
+Brazil1 Both teams to score,268,10009,1.1,0.3,FALSE
+Brazil1 Moneyline 1st,268,10021,1.1,0.3,FALSE
+Brazil1 Handicap 1st,268,10041,1.1,0.3,FALSE
+Brazil1 Total 1st,268,10031,1.1,0.3,FALSE
+Brazil1 Draw no bet 1st,268,10121,1.1,0.3,FALSE
+Brazil1 Total Home 1st,268,10111,1.1,0.3,FALSE
+Brazil1 Total Away 1st,268,10112,1.1,0.3,FALSE
+Brazil1 Total Odd/Even 1st,268,10081,1.1,0.3,FALSE
+Brazil1 Both teams to score 1st,268,10101,1.1,0.3,FALSE
+Argentina league 1 Moneyline,20106,0,1.1,0.3,FALSE
+Argentina league 1 Handicap,20106,10001,1.1,0.3,FALSE
+Argentina league 1 Total,20106,10002,1.1,0.3,FALSE
+Argentina league 1 Draw no bet,20106,10010,1.1,0.3,FALSE
+Argentina league 1 Total Home,20106,10017,1.1,0.3,FALSE
+Argentina league 1 Total Away,20106,10018,1.1,0.3,FALSE
+Argentina league 1 Total Odd/Even,20106,10005,1.1,0.3,FALSE
+Argentina league 1 Both teams to score,20106,10009,1.1,0.3,FALSE
+Argentina league 1 Moneyline 1st,20106,10021,1.1,0.3,FALSE
+Argentina league 1 Handicap 1st,20106,10041,1.1,0.3,FALSE
+Argentina league 1 Total 1st,20106,10031,1.1,0.3,FALSE
+Argentina league 1 Draw no bet 1st,20106,10121,1.1,0.3,FALSE
+Argentina league 1 Total Home 1st,20106,10111,1.1,0.3,FALSE
+Argentina league 1 Total Away 1st,20106,10112,1.1,0.3,FALSE
+Argentina league 1 Total Odd/Even 1st,20106,10081,1.1,0.3,FALSE
+Argentina league 1 Both teams to score 1st,20106,10101,1.1,0.3,FALSE
+Copa Libertadores Moneyline,45,0,1.1,0.3,FALSE
+Copa Libertadores Handicap,45,10001,1.1,0.3,FALSE
+Copa Libertadores Total,45,10002,1.1,0.3,FALSE
+Copa Libertadores Draw no bet,45,10010,1.1,0.3,FALSE
+Copa Libertadores Total Home,45,10017,1.1,0.3,FALSE
+Copa Libertadores Total Away,45,10018,1.1,0.3,FALSE
+Copa Libertadores Total Odd/Even,45,10005,1.1,0.3,FALSE
+Copa Libertadores Both teams to score,45,10009,1.1,0.3,FALSE
+Copa Libertadores Moneyline 1st,45,10021,1.1,0.3,FALSE
+Copa Libertadores Handicap 1st,45,10041,1.1,0.3,FALSE
+Copa Libertadores Total 1st,45,10031,1.1,0.3,FALSE
+Copa Libertadores Draw no bet 1st,45,10121,1.1,0.3,FALSE
+Copa Libertadores Total Home 1st,45,10111,1.1,0.3,FALSE
+Copa Libertadores Total Away 1st,45,10112,1.1,0.3,FALSE
+Copa Libertadores Total Odd/Even 1st,45,10081,1.1,0.3,FALSE
+Copa Libertadores Both teams to score 1st,45,10101,1.1,0.3,FALSE
+Liga MX Moneyline,230,0,1.1,0.3,FALSE
+Liga MX Handicap,230,10001,1.1,0.3,FALSE
+Liga MX Total,230,10002,1.1,0.3,FALSE
+Liga MX Draw no bet,230,10010,1.1,0.3,FALSE
+Liga MX Total Home,230,10017,1.1,0.3,FALSE
+Liga MX Total Away,230,10018,1.1,0.3,FALSE
+Liga MX Total Odd/Even,230,10005,1.1,0.3,FALSE
+Liga MX Both teams to score,230,10009,1.1,0.3,FALSE
+Liga MX Moneyline 1st,230,10021,1.1,0.3,FALSE
+Liga MX Handicap 1st,230,10041,1.1,0.3,FALSE
+Liga MX Total 1st,230,10031,1.1,0.3,FALSE
+Liga MX Draw no bet 1st,230,10121,1.1,0.3,FALSE
+Liga MX Total Home 1st,230,10111,1.1,0.3,FALSE
+Liga MX Total Away 1st,230,10112,1.1,0.3,FALSE
+Liga MX Total Odd/Even 1st,230,10081,1.1,0.3,FALSE
+Liga MX Both teams to score 1st,230,10101,1.1,0.3,FALSE
+Net1 Moneyline,57,0,1.1,0.3,FALSE
+Net1 Handicap,57,10001,1.1,0.3,FALSE
+Net1 Total,57,10002,1.1,0.3,FALSE
+Net1 Draw no bet,57,10010,1.1,0.3,FALSE
+Net1 Total Home,57,10017,1.1,0.3,FALSE
+Net1 Total Away,57,10018,1.1,0.3,FALSE
+Net1 Total Odd/Even,57,10005,1.1,0.3,FALSE
+Net1 Both teams to score,57,10009,1.1,0.3,FALSE
+Net1 Moneyline 1st,57,10021,1.1,0.3,FALSE
+Net1 Handicap 1st,57,10041,1.1,0.3,FALSE
+Net1 Total 1st,57,10031,1.1,0.3,FALSE
+Net1 Draw no bet 1st,57,10121,1.1,0.3,FALSE
+Net1 Total Home 1st,57,10111,1.1,0.3,FALSE
+Net1 Total Away 1st,57,10112,1.1,0.3,FALSE
+Net1 Total Odd/Even 1st,57,10081,1.1,0.3,FALSE
+Net1 Both teams to score 1st,57,10101,1.1,0.3,FALSE
+Portugal1 Moneyline,61,0,1.1,0.3,FALSE
+Portugal1 Handicap,61,10001,1.1,0.3,FALSE
+Portugal1 Total,61,10002,1.1,0.3,FALSE
+Portugal1 Draw no bet,61,10010,1.1,0.3,FALSE
+Portugal1 Total Home,61,10017,1.1,0.3,FALSE
+Portugal1 Total Away,61,10018,1.1,0.3,FALSE
+Portugal1 Total Odd/Even,61,10005,1.1,0.3,FALSE
+Portugal1 Both teams to score,61,10009,1.1,0.3,FALSE
+Portugal1 Moneyline 1st,61,10021,1.1,0.3,FALSE
+Portugal1 Handicap 1st,61,10041,1.1,0.3,FALSE
+Portugal1 Total 1st,61,10031,1.1,0.3,FALSE
+Portugal1 Draw no bet 1st,61,10121,1.1,0.3,FALSE
+Portugal1 Total Home 1st,61,10111,1.1,0.3,FALSE
+Portugal1 Total Away 1st,61,10112,1.1,0.3,FALSE
+Portugal1 Total Odd/Even 1st,61,10081,1.1,0.3,FALSE
+Portugal1 Both teams to score 1st,61,10101,1.1,0.3,FALSE
+Swiss1 Moneyline,20114,0,1.1,0.3,FALSE
+Swiss1 Handicap,20114,10001,1.1,0.3,FALSE
+Swiss1 Total,20114,10002,1.1,0.3,FALSE
+Swiss1 Draw no bet,20114,10010,1.1,0.3,FALSE
+Swiss1 Total Home,20114,10017,1.1,0.3,FALSE
+Swiss1 Total Away,20114,10018,1.1,0.3,FALSE
+Swiss1 Total Odd/Even,20114,10005,1.1,0.3,FALSE
+Swiss1 Both teams to score,20114,10009,1.1,0.3,FALSE
+Swiss1 Moneyline 1st,20114,10021,1.1,0.3,FALSE
+Swiss1 Handicap 1st,20114,10041,1.1,0.3,FALSE
+Swiss1 Total 1st,20114,10031,1.1,0.3,FALSE
+Swiss1 Draw no bet 1st,20114,10121,1.1,0.3,FALSE
+Swiss1 Total Home 1st,20114,10111,1.1,0.3,FALSE
+Swiss1 Total Away 1st,20114,10112,1.1,0.3,FALSE
+Swiss1 Total Odd/Even 1st,20114,10081,1.1,0.3,FALSE
+Swiss1 Both teams to score 1st,20114,10101,1.1,0.3,FALSE
+England Championship Moneyline,20011,0,1.1,0.3,FALSE
+England Championship Handicap,20011,10001,1.1,0.3,FALSE
+England Championship Total,20011,10002,1.1,0.3,FALSE
+England Championship Draw no bet,20011,10010,1.1,0.3,FALSE
+England Championship Total Home,20011,10017,1.1,0.3,FALSE
+England Championship Total Away,20011,10018,1.1,0.3,FALSE
+England Championship Total Odd/Even,20011,10005,1.1,0.3,FALSE
+England Championship Both teams to score,20011,10009,1.1,0.3,FALSE
+England Championship Moneyline 1st,20011,10021,1.1,0.3,FALSE
+England Championship Handicap 1st,20011,10041,1.1,0.3,FALSE
+England Championship Total 1st,20011,10031,1.1,0.3,FALSE
+England Championship Draw no bet 1st,20011,10121,1.1,0.3,FALSE
+England Championship Total Home 1st,20011,10111,1.1,0.3,FALSE
+England Championship Total Away 1st,20011,10112,1.1,0.3,FALSE
+England Championship Total Odd/Even 1st,20011,10081,1.1,0.3,FALSE
+England Championship Both teams to score 1st,20011,10101,1.1,0.3,FALSE
+Super Coppa Italia Moneyline,20129,0,1.1,0.3,FALSE
+Super Coppa Italia Handicap,20129,10001,1.1,0.3,FALSE
+Super Coppa Italia Total,20129,10002,1.1,0.3,FALSE
+Super Coppa Italia Draw no bet,20129,10010,1.1,0.3,FALSE
+Super Coppa Italia Total Home,20129,10017,1.1,0.3,FALSE
+Super Coppa Italia Total Away,20129,10018,1.1,0.3,FALSE
+Super Coppa Italia Total Odd/Even,20129,10005,1.1,0.3,FALSE
+Super Coppa Italia Both teams to score,20129,10009,1.1,0.3,FALSE
+Super Coppa Italia Moneyline 1st,20129,10021,1.1,0.3,FALSE
+Super Coppa Italia Handicap 1st,20129,10041,1.1,0.3,FALSE
+Super Coppa Italia Total 1st,20129,10031,1.1,0.3,FALSE
+Super Coppa Italia Draw no bet 1st,20129,10121,1.1,0.3,FALSE
+Super Coppa Italia Total Home 1st,20129,10111,1.1,0.3,FALSE
+Super Coppa Italia Total Away 1st,20129,10112,1.1,0.3,FALSE
+Super Coppa Italia Total Odd/Even 1st,20129,10081,1.1,0.3,FALSE
+Super Coppa Italia Both teams to score 1st,20129,10101,1.1,0.3,FALSE
+CAF Moneyline,20724,0,1.1,0.3,FALSE
+CAF Handicap,20724,10001,1.1,0.3,FALSE
+CAF Total,20724,10002,1.1,0.3,FALSE
+CAF Draw no bet,20724,10010,1.1,0.3,FALSE
+CAF Total Home,20724,10017,1.1,0.3,FALSE
+CAF Total Away,20724,10018,1.1,0.3,FALSE
+CAF Total Odd/Even,20724,10005,1.1,0.3,FALSE
+CAF Both teams to score,20724,10009,1.1,0.3,FALSE
+CAF Moneyline 1st,20724,10021,1.1,0.3,FALSE
+CAF Handicap 1st,20724,10041,1.1,0.3,FALSE
+CAF Total 1st,20724,10031,1.1,0.3,FALSE
+CAF Draw no bet 1st,20724,10121,1.1,0.3,FALSE
+CAF Total Home 1st,20724,10111,1.1,0.3,FALSE
+CAF Total Away 1st,20724,10112,1.1,0.3,FALSE
+CAF Total Odd/Even 1st,20724,10081,1.1,0.3,FALSE
+CAF Both teams to score 1st,20724,10101,1.1,0.3,FALSE
+Saudi League Moneyline,536,0,1.1,0.3,FALSE
+Saudi League Handicap,536,10001,1.1,0.3,FALSE
+Saudi League Total,536,10002,1.1,0.3,FALSE
+Saudi League Draw no bet,536,10010,1.1,0.3,FALSE
+Saudi League Total Home,536,10017,1.1,0.3,FALSE
+Saudi League Total Away,536,10018,1.1,0.3,FALSE
+Saudi League Total Odd/Even,536,10005,1.1,0.3,FALSE
+Saudi League Both teams to score,536,10009,1.1,0.3,FALSE
+Saudi League Moneyline 1st,536,10021,1.1,0.3,FALSE
+Saudi League Handicap 1st,536,10041,1.1,0.3,FALSE
+Saudi League Total 1st,536,10031,1.1,0.3,FALSE
+Saudi League Draw no bet 1st,536,10121,1.1,0.3,FALSE
+Saudi League Total Home 1st,536,10111,1.1,0.3,FALSE
+Saudi League Total Away 1st,536,10112,1.1,0.3,FALSE
+Saudi League Total Odd/Even 1st,536,10081,1.1,0.3,FALSE
+Saudi League Both teams to score 1st,536,10101,1.1,0.3,FALSE
+Australia A Moneyline,20113,0,1.1,0.3,FALSE
+Australia A Handicap,20113,10001,1.1,0.3,FALSE
+Australia A Total,20113,10002,1.1,0.3,FALSE
+Australia A Draw no bet,20113,10010,1.1,0.3,FALSE
+Australia A Total Home,20113,10017,1.1,0.3,FALSE
+Australia A Total Away,20113,10018,1.1,0.3,FALSE
+Australia A Total Odd/Even,20113,10005,1.1,0.3,FALSE
+Australia A Both teams to score,20113,10009,1.1,0.3,FALSE
+Australia A Moneyline 1st,20113,10021,1.1,0.3,FALSE
+Australia A Handicap 1st,20113,10041,1.1,0.3,FALSE
+Australia A Total 1st,20113,10031,1.1,0.3,FALSE
+Australia A Draw no bet 1st,20113,10121,1.1,0.3,FALSE
+Australia A Total Home 1st,20113,10111,1.1,0.3,FALSE
+Australia A Total Away 1st,20113,10112,1.1,0.3,FALSE
+Australia A Total Odd/Even 1st,20113,10081,1.1,0.3,FALSE
+Australia A Both teams to score 1st,20113,10101,1.1,0.3,FALSE
+Belgium 1 Moneyline,20102,0,1.1,0.3,FALSE
+Belgium 1 Handicap,20102,10001,1.1,0.3,FALSE
+Belgium 1 Total,20102,10002,1.1,0.3,FALSE
+Belgium 1 Draw no bet,20102,10010,1.1,0.3,FALSE
+Belgium 1 Total Home,20102,10017,1.1,0.3,FALSE
+Belgium 1 Total Away,20102,10018,1.1,0.3,FALSE
+Belgium 1 Total Odd/Even,20102,10005,1.1,0.3,FALSE
+Belgium 1 Both teams to score,20102,10009,1.1,0.3,FALSE
+Belgium 1 Moneyline 1st,20102,10021,1.1,0.3,FALSE
+Belgium 1 Handicap 1st,20102,10041,1.1,0.3,FALSE
+Belgium 1 Total 1st,20102,10031,1.1,0.3,FALSE
+Belgium 1 Draw no bet 1st,20102,10121,1.1,0.3,FALSE
+Belgium 1 Total Home 1st,20102,10111,1.1,0.3,FALSE
+Belgium 1 Total Away 1st,20102,10112,1.1,0.3,FALSE
+Belgium 1 Total Odd/Even 1st,20102,10081,1.1,0.3,FALSE
+Belgium 1 Both teams to score 1st,20102,10101,1.1,0.3,FALSE
+England League 1 Moneyline,20126,0,1.1,0.3,FALSE
+England League 1 Handicap,20126,10001,1.1,0.3,FALSE
+England League 1 Total,20126,10002,1.1,0.3,FALSE
+England League 1 Draw no bet,20126,10010,1.1,0.3,FALSE
+England League 1 Total Home,20126,10017,1.1,0.3,FALSE
+England League 1 Total Away,20126,10018,1.1,0.3,FALSE
+England League 1 Total Odd/Even,20126,10005,1.1,0.3,FALSE
+England League 1 Both teams to score,20126,10009,1.1,0.3,FALSE
+England League 1 Moneyline 1st,20126,10021,1.1,0.3,FALSE
+England League 1 Handicap 1st,20126,10041,1.1,0.3,FALSE
+England League 1 Total 1st,20126,10031,1.1,0.3,FALSE
+England League 1 Draw no bet 1st,20126,10121,1.1,0.3,FALSE
+England League 1 Total Home 1st,20126,10111,1.1,0.3,FALSE
+England League 1 Total Away 1st,20126,10112,1.1,0.3,FALSE
+England League 1 Total Odd/Even 1st,20126,10081,1.1,0.3,FALSE
+England League 1 Both teams to score 1st,20126,10101,1.1,0.3,FALSE
+Scotland 1 Moneyline,20101,0,1.1,0.3,FALSE
+Scotland 1 Handicap,20101,10001,1.1,0.3,FALSE
+Scotland 1 Total,20101,10002,1.1,0.3,FALSE
+Scotland 1 Draw no bet,20101,10010,1.1,0.3,FALSE
+Scotland 1 Total Home,20101,10017,1.1,0.3,FALSE
+Scotland 1 Total Away,20101,10018,1.1,0.3,FALSE
+Scotland 1 Total Odd/Even,20101,10005,1.1,0.3,FALSE
+Scotland 1 Both teams to score,20101,10009,1.1,0.3,FALSE
+Scotland 1 Moneyline 1st,20101,10021,1.1,0.3,FALSE
+Scotland 1 Handicap 1st,20101,10041,1.1,0.3,FALSE
+Scotland 1 Total 1st,20101,10031,1.1,0.3,FALSE
+Scotland 1 Draw no bet 1st,20101,10121,1.1,0.3,FALSE
+Scotland 1 Total Home 1st,20101,10111,1.1,0.3,FALSE
+Scotland 1 Total Away 1st,20101,10112,1.1,0.3,FALSE
+Scotland 1 Total Odd/Even 1st,20101,10081,1.1,0.3,FALSE
+Scotland 1 Both teams to score 1st,20101,10101,1.1,0.3,FALSE
+Italy Serie B Moneyline,20117,0,1.1,0.3,FALSE
+Italy Serie B Handicap,20117,10001,1.1,0.3,FALSE
+Italy Serie B Total,20117,10002,1.1,0.3,FALSE
+Italy Serie B Draw no bet,20117,10010,1.1,0.3,FALSE
+Italy Serie B Total Home,20117,10017,1.1,0.3,FALSE
+Italy Serie B Total Away,20117,10018,1.1,0.3,FALSE
+Italy Serie B Total Odd/Even,20117,10005,1.1,0.3,FALSE
+Italy Serie B Both teams to score,20117,10009,1.1,0.3,FALSE
+Italy Serie B Moneyline 1st,20117,10021,1.1,0.3,FALSE
+Italy Serie B Handicap 1st,20117,10041,1.1,0.3,FALSE
+Italy Serie B Total 1st,20117,10031,1.1,0.3,FALSE
+Italy Serie B Draw no bet 1st,20117,10121,1.1,0.3,FALSE
+Italy Serie B Total Home 1st,20117,10111,1.1,0.3,FALSE
+Italy Serie B Total Away 1st,20117,10112,1.1,0.3,FALSE
+Italy Serie B Total Odd/Even 1st,20117,10081,1.1,0.3,FALSE
+Italy Serie B Both teams to score 1st,20117,10101,1.1,0.3,FALSE
+Spain Segunda 2 Moneyline,20116,0,1.1,0.3,FALSE
+Spain Segunda 2 Handicap,20116,10001,1.1,0.3,FALSE
+Spain Segunda 2 Total,20116,10002,1.1,0.3,FALSE
+Spain Segunda 2 Draw no bet,20116,10010,1.1,0.3,FALSE
+Spain Segunda 2 Total Home,20116,10017,1.1,0.3,FALSE
+Spain Segunda 2 Total Away,20116,10018,1.1,0.3,FALSE
+Spain Segunda 2 Total Odd/Even,20116,10005,1.1,0.3,FALSE
+Spain Segunda 2 Both teams to score,20116,10009,1.1,0.3,FALSE
+Spain Segunda 2 Moneyline 1st,20116,10021,1.1,0.3,FALSE
+Spain Segunda 2 Handicap 1st,20116,10041,1.1,0.3,FALSE
+Spain Segunda 2 Total 1st,20116,10031,1.1,0.3,FALSE
+Spain Segunda 2 Draw no bet 1st,20116,10121,1.1,0.3,FALSE
+Spain Segunda 2 Total Home 1st,20116,10111,1.1,0.3,FALSE
+Spain Segunda 2 Total Away 1st,20116,10112,1.1,0.3,FALSE
+Spain Segunda 2 Total Odd/Even 1st,20116,10081,1.1,0.3,FALSE
+Spain Segunda 2 Both teams to score 1st,20116,10101,1.1,0.3,FALSE
+Germany Bundesliga 2 Moneyline,20115,0,1.1,0.3,FALSE
+Germany Bundesliga 2 Handicap,20115,10001,1.1,0.3,FALSE
+Germany Bundesliga 2 Total,20115,10002,1.1,0.3,FALSE
+Germany Bundesliga 2 Draw no bet,20115,10010,1.1,0.3,FALSE
+Germany Bundesliga 2 Total Home,20115,10017,1.1,0.3,FALSE
+Germany Bundesliga 2 Total Away,20115,10018,1.1,0.3,FALSE
+Germany Bundesliga 2 Total Odd/Even,20115,10005,1.1,0.3,FALSE
+Germany Bundesliga 2 Both teams to score,20115,10009,1.1,0.3,FALSE
+Germany Bundesliga 2 Moneyline 1st,20115,10021,1.1,0.3,FALSE
+Germany Bundesliga 2 Handicap 1st,20115,10041,1.1,0.3,FALSE
+Germany Bundesliga 2 Total 1st,20115,10031,1.1,0.3,FALSE
+Germany Bundesliga 2 Draw no bet 1st,20115,10121,1.1,0.3,FALSE
+Germany Bundesliga 2 Total Home 1st,20115,10111,1.1,0.3,FALSE
+Germany Bundesliga 2 Total Away 1st,20115,10112,1.1,0.3,FALSE
+Germany Bundesliga 2 Total Odd/Even 1st,20115,10081,1.1,0.3,FALSE
+Germany Bundesliga 2 Both teams to score 1st,20115,10101,1.1,0.3,FALSE
+Romania - Liga I Moneyline,20661,0,1.1,0.3,FALSE
+Romania - Liga I Handicap,20661,10001,1.1,0.3,FALSE
+Romania - Liga I Total,20661,10002,1.1,0.3,FALSE
+Romania - Liga I Draw no bet,20661,10010,1.1,0.3,FALSE
+Romania - Liga I Total Home,20661,10017,1.1,0.3,FALSE
+Romania - Liga I Total Away,20661,10018,1.1,0.3,FALSE
+Romania - Liga I Total Odd/Even,20661,10005,1.1,0.3,FALSE
+Romania - Liga I Both teams to score,20661,10009,1.1,0.3,FALSE
+Romania - Liga I Moneyline 1st,20661,10021,1.1,0.3,FALSE
+Romania - Liga I Handicap 1st,20661,10041,1.1,0.3,FALSE
+Romania - Liga I Total 1st,20661,10031,1.1,0.3,FALSE
+Romania - Liga I Draw no bet 1st,20661,10121,1.1,0.3,FALSE
+Romania - Liga I Total Home 1st,20661,10111,1.1,0.3,FALSE
+Romania - Liga I Total Away 1st,20661,10112,1.1,0.3,FALSE
+Romania - Liga I Total Odd/Even 1st,20661,10081,1.1,0.3,FALSE
+Romania - Liga I Both teams to score 1st,20661,10101,1.1,0.3,FALSE
+Denmark - Superliga Moneyline,20121,0,1.1,0.3,FALSE
+Denmark - Superliga Handicap,20121,10001,1.1,0.3,FALSE
+Denmark - Superliga Total,20121,10002,1.1,0.3,FALSE
+Denmark - Superliga Draw no bet,20121,10010,1.1,0.3,FALSE
+Denmark - Superliga Total Home,20121,10017,1.1,0.3,FALSE
+Denmark - Superliga Total Away,20121,10018,1.1,0.3,FALSE
+Denmark - Superliga Total Odd/Even,20121,10005,1.1,0.3,FALSE
+Denmark - Superliga Both teams to score,20121,10009,1.1,0.3,FALSE
+Denmark - Superliga Moneyline 1st,20121,10021,1.1,0.3,FALSE
+Denmark - Superliga Handicap 1st,20121,10041,1.1,0.3,FALSE
+Denmark - Superliga Total 1st,20121,10031,1.1,0.3,FALSE
+Denmark - Superliga Draw no bet 1st,20121,10121,1.1,0.3,FALSE
+Denmark - Superliga Total Home 1st,20121,10111,1.1,0.3,FALSE
+Denmark - Superliga Total Away 1st,20121,10112,1.1,0.3,FALSE
+Denmark - Superliga Total Odd/Even 1st,20121,10081,1.1,0.3,FALSE
+Denmark - Superliga Both teams to score 1st,20121,10101,1.1,0.3,FALSE
+Norway - Eliteserien Moneyline,20150,0,1.1,0.3,FALSE
+Norway - Eliteserien Handicap,20150,10001,1.1,0.3,FALSE
+Norway - Eliteserien Total,20150,10002,1.1,0.3,FALSE
+Norway - Eliteserien Draw no bet,20150,10010,1.1,0.3,FALSE
+Norway - Eliteserien Total Home,20150,10017,1.1,0.3,FALSE
+Norway - Eliteserien Total Away,20150,10018,1.1,0.3,FALSE
+Norway - Eliteserien Total Odd/Even,20150,10005,1.1,0.3,FALSE
+Norway - Eliteserien Both teams to score,20150,10009,1.1,0.3,FALSE
+Norway - Eliteserien Moneyline 1st,20150,10021,1.1,0.3,FALSE
+Norway - Eliteserien Handicap 1st,20150,10041,1.1,0.3,FALSE
+Norway - Eliteserien Total 1st,20150,10031,1.1,0.3,FALSE
+Norway - Eliteserien Draw no bet 1st,20150,10121,1.1,0.3,FALSE
+Norway - Eliteserien Total Home 1st,20150,10111,1.1,0.3,FALSE
+Norway - Eliteserien Total Away 1st,20150,10112,1.1,0.3,FALSE
+Norway - Eliteserien Total Odd/Even 1st,20150,10081,1.1,0.3,FALSE
+Norway - Eliteserien Both teams to score 1st,20150,10101,1.1,0.3,FALSE
+Sweden - Allsvenskan Moneyline,20123,0,1.1,0.3,FALSE
+Sweden - Allsvenskan Handicap,20123,10001,1.1,0.3,FALSE
+Sweden - Allsvenskan Total,20123,10002,1.1,0.3,FALSE
+Sweden - Allsvenskan Draw no bet,20123,10010,1.1,0.3,FALSE
+Sweden - Allsvenskan Total Home,20123,10017,1.1,0.3,FALSE
+Sweden - Allsvenskan Total Away,20123,10018,1.1,0.3,FALSE
+Sweden - Allsvenskan Total Odd/Even,20123,10005,1.1,0.3,FALSE
+Sweden - Allsvenskan Both teams to score,20123,10009,1.1,0.3,FALSE
+Sweden - Allsvenskan Moneyline 1st,20123,10021,1.1,0.3,FALSE
+Sweden - Allsvenskan Handicap 1st,20123,10041,1.1,0.3,FALSE
+Sweden - Allsvenskan Total 1st,20123,10031,1.1,0.3,FALSE
+Sweden - Allsvenskan Draw no bet 1st,20123,10121,1.1,0.3,FALSE
+Sweden - Allsvenskan Total Home 1st,20123,10111,1.1,0.3,FALSE
+Sweden - Allsvenskan Total Away 1st,20123,10112,1.1,0.3,FALSE
+Sweden - Allsvenskan Total Odd/Even 1st,20123,10081,1.1,0.3,FALSE
+Sweden - Allsvenskan Both teams to score 1st,20123,10101,1.1,0.3,FALSE
+Finland - Veikkausliiga Moneyline,20105,0,1.1,0.3,FALSE
+Finland - Veikkausliiga Handicap,20105,10001,1.1,0.3,FALSE
+Finland - Veikkausliiga Total,20105,10002,1.1,0.3,FALSE
+Finland - Veikkausliiga Draw no bet,20105,10010,1.1,0.3,FALSE
+Finland - Veikkausliiga Total Home,20105,10017,1.1,0.3,FALSE
+Finland - Veikkausliiga Total Away,20105,10018,1.1,0.3,FALSE
+Finland - Veikkausliiga Total Odd/Even,20105,10005,1.1,0.3,FALSE
+Finland - Veikkausliiga Both teams to score,20105,10009,1.1,0.3,FALSE
+Finland - Veikkausliiga Moneyline 1st,20105,10021,1.1,0.3,FALSE
+Finland - Veikkausliiga Handicap 1st,20105,10041,1.1,0.3,FALSE
+Finland - Veikkausliiga Total 1st,20105,10031,1.1,0.3,FALSE
+Finland - Veikkausliiga Draw no bet 1st,20105,10121,1.1,0.3,FALSE
+Finland - Veikkausliiga Total Home 1st,20105,10111,1.1,0.3,FALSE
+Finland - Veikkausliiga Total Away 1st,20105,10112,1.1,0.3,FALSE
+Finland - Veikkausliiga Total Odd/Even 1st,20105,10081,1.1,0.3,FALSE
+Finland - Veikkausliiga Both teams to score 1st,20105,10101,1.1,0.3,FALSE
+Poland - Ekstraklasa Moneyline,20122,0,1.1,0.3,FALSE
+Poland - Ekstraklasa Handicap,20122,10001,1.1,0.3,FALSE
+Poland - Ekstraklasa Total,20122,10002,1.1,0.3,FALSE
+Poland - Ekstraklasa Draw no bet,20122,10010,1.1,0.3,FALSE
+Poland - Ekstraklasa Total Home,20122,10017,1.1,0.3,FALSE
+Poland - Ekstraklasa Total Away,20122,10018,1.1,0.3,FALSE
+Poland - Ekstraklasa Total Odd/Even,20122,10005,1.1,0.3,FALSE
+Poland - Ekstraklasa Both teams to score,20122,10009,1.1,0.3,FALSE
+Poland - Ekstraklasa Moneyline 1st,20122,10021,1.1,0.3,FALSE
+Poland - Ekstraklasa Handicap 1st,20122,10041,1.1,0.3,FALSE
+Poland - Ekstraklasa Total 1st,20122,10031,1.1,0.3,FALSE
+Poland - Ekstraklasa Draw no bet 1st,20122,10121,1.1,0.3,FALSE
+Poland - Ekstraklasa Total Home 1st,20122,10111,1.1,0.3,FALSE
+Poland - Ekstraklasa Total Away 1st,20122,10112,1.1,0.3,FALSE
+Poland - Ekstraklasa Total Odd/Even 1st,20122,10081,1.1,0.3,FALSE
+Poland - Ekstraklasa Both teams to score 1st,20122,10101,1.1,0.3,FALSE
+Croatia - 1. HNL Moneyline,20520,0,1.1,0.3,FALSE
+Croatia - 1. HNL Handicap,20520,10001,1.1,0.3,FALSE
+Croatia - 1. HNL Total,20520,10002,1.1,0.3,FALSE
+Croatia - 1. HNL Draw no bet,20520,10010,1.1,0.3,FALSE
+Croatia - 1. HNL Total Home,20520,10017,1.1,0.3,FALSE
+Croatia - 1. HNL Total Away,20520,10018,1.1,0.3,FALSE
+Croatia - 1. HNL Total Odd/Even,20520,10005,1.1,0.3,FALSE
+Croatia - 1. HNL Both teams to score,20520,10009,1.1,0.3,FALSE
+Japan J League Moneyline,19,0,1.1,0.3,FALSE
+Japan J League Handicap,19,10001,1.1,0.3,FALSE
+Japan J League Total,19,10002,1.1,0.3,FALSE
+Japan J League Draw no bet,19,10010,1.1,0.3,FALSE
+Japan J League Total Home,19,10017,1.1,0.3,FALSE
+Japan J League Total Away,19,10018,1.1,0.3,FALSE
+Japan J League Total Odd/Even,19,10005,1.1,0.3,FALSE
+Japan J League Both teams to score,19,10009,1.1,0.3,FALSE
+Japan J League Moneyline 1st,19,10021,1.1,0.3,FALSE
+Japan J League Handicap 1st,19,10041,1.1,0.3,FALSE
+Japan J League Total 1st,19,10031,1.1,0.3,FALSE
+Japan J League Draw no bet 1st,19,10121,1.1,0.3,FALSE
+Japan J League Total Home 1st,19,10111,1.1,0.3,FALSE
+Japan J League Total Away 1st,19,10112,1.1,0.3,FALSE
+Japan J League Total Odd/Even 1st,19,10081,1.1,0.3,FALSE
+Japan J League Both teams to score 1st,19,10101,1.1,0.3,FALSE
+Turkey league 1 Moneyline,20108,0,1.1,0.3,FALSE
+Turkey league 1 Handicap,20108,10001,1.1,0.3,FALSE
+Turkey league 1 Total,20108,10002,1.1,0.3,FALSE
+Turkey league 1 Draw no bet,20108,10010,1.1,0.3,FALSE
+Turkey league 1 Total Home,20108,10017,1.1,0.3,FALSE
+Turkey league 1 Total Away,20108,10018,1.1,0.3,FALSE
+Turkey league 1 Total Odd/Even,20108,10005,1.1,0.3,FALSE
+Turkey league 1 Both teams to score,20108,10009,1.1,0.3,FALSE
+Turkey league 1 Moneyline 1st,20108,10021,1.1,0.3,FALSE
+Turkey league 1 Handicap 1st,20108,10041,1.1,0.3,FALSE
+Turkey league 1 Total 1st,20108,10031,1.1,0.3,FALSE
+Turkey league 1 Draw no bet 1st,20108,10121,1.1,0.3,FALSE
+Turkey league 1 Total Home 1st,20108,10111,1.1,0.3,FALSE
+Turkey league 1 Total Away 1st,20108,10112,1.1,0.3,FALSE
+Turkey league 1 Total Odd/Even 1st,20108,10081,1.1,0.3,FALSE
+Turkey league 1 Both teams to score 1st,20108,10101,1.1,0.3,FALSE
+Austria league 1 Moneyline,20120,0,1.1,0.3,FALSE
+Austria league 1 Handicap,20120,10001,1.1,0.3,FALSE
+Austria league 1 Total,20120,10002,1.1,0.3,FALSE
+Austria league 1 Draw no bet,20120,10010,1.1,0.3,FALSE
+Austria league 1 Total Home,20120,10017,1.1,0.3,FALSE
+Austria league 1 Total Away,20120,10018,1.1,0.3,FALSE
+Austria league 1 Total Odd/Even,20120,10005,1.1,0.3,FALSE
+Austria league 1 Both teams to score,20120,10009,1.1,0.3,FALSE
+Austria league 1 Moneyline 1st,20120,10021,1.1,0.3,FALSE
+Austria league 1 Handicap 1st,20120,10041,1.1,0.3,FALSE
+Austria league 1 Total 1st,20120,10031,1.1,0.3,FALSE
+Austria league 1 Draw no bet 1st,20120,10121,1.1,0.3,FALSE
+Austria league 1 Total Home 1st,20120,10111,1.1,0.3,FALSE
+Austria league 1 Total Away 1st,20120,10112,1.1,0.3,FALSE
+Austria league 1 Total Odd/Even 1st,20120,10081,1.1,0.3,FALSE
+Austria league 1 Both teams to score 1st,20120,10101,1.1,0.3,FALSE
+England FA cup Moneyline,132,0,1.1,0.3,FALSE
+England FA cup Handicap,132,10001,1.1,0.3,FALSE
+England FA cup Total,132,10002,1.1,0.3,FALSE
+England FA cup Draw no bet,132,10010,1.1,0.3,FALSE
+England FA cup Total Home,132,10017,1.1,0.3,FALSE
+England FA cup Total Away,132,10018,1.1,0.3,FALSE
+England FA cup Total Odd/Even,132,10005,1.1,0.3,FALSE
+England FA cup Both teams to score,132,10009,1.1,0.3,FALSE
+England FA cup Moneyline 1st,132,10021,1.1,0.3,FALSE
+England FA cup Handicap 1st,132,10041,1.1,0.3,FALSE
+England FA cup Total 1st,132,10031,1.1,0.3,FALSE
+England FA cup Draw no bet 1st,132,10121,1.1,0.3,FALSE
+England FA cup Total Home 1st,132,10111,1.1,0.3,FALSE
+England FA cup Total Away 1st,132,10112,1.1,0.3,FALSE
+England FA cup Total Odd/Even 1st,132,10081,1.1,0.3,FALSE
+England FA cup Both teams to score 1st,132,10101,1.1,0.3,FALSE
+England EFL cup Moneyline,20125,0,1.1,0.3,FALSE
+England EFL cup Handicap,20125,10001,1.1,0.3,FALSE
+England EFL cup Total,20125,10002,1.1,0.3,FALSE
+England EFL cup Draw no bet,20125,10010,1.1,0.3,FALSE
+England EFL cup Total Home,20125,10017,1.1,0.3,FALSE
+England EFL cup Total Away,20125,10018,1.1,0.3,FALSE
+England EFL cup Total Odd/Even,20125,10005,1.1,0.3,FALSE
+England EFL cup Both teams to score,20125,10009,1.1,0.3,FALSE
+England EFL cup Moneyline 1st,20125,10021,1.1,0.3,FALSE
+England EFL cup Handicap 1st,20125,10041,1.1,0.3,FALSE
+England EFL cup Total 1st,20125,10031,1.1,0.3,FALSE
+England EFL cup Draw no bet 1st,20125,10121,1.1,0.3,FALSE
+England EFL cup Total Home 1st,20125,10111,1.1,0.3,FALSE
+England EFL cup Total Away 1st,20125,10112,1.1,0.3,FALSE
+England EFL cup Total Odd/Even 1st,20125,10081,1.1,0.3,FALSE
+England EFL cup Both teams to score 1st,20125,10101,1.1,0.3,FALSE
+Coppa Italia Moneyline,141,0,1.1,0.3,FALSE
+Coppa Italia Handicap,141,10001,1.1,0.3,FALSE
+Coppa Italia Total,141,10002,1.1,0.3,FALSE
+Coppa Italia Draw no bet,141,10010,1.1,0.3,FALSE
+Coppa Italia Total Home,141,10017,1.1,0.3,FALSE
+Coppa Italia Total Away,141,10018,1.1,0.3,FALSE
+Coppa Italia Total Odd/Even,141,10005,1.1,0.3,FALSE
+Coppa Italia Both teams to score,141,10009,1.1,0.3,FALSE
+Coppa Italia Moneyline 1st,141,10021,1.1,0.3,FALSE
+Coppa Italia Handicap 1st,141,10041,1.1,0.3,FALSE
+Coppa Italia Total 1st,141,10031,1.1,0.3,FALSE
+Coppa Italia Draw no bet 1st,141,10121,1.1,0.3,FALSE
+Coppa Italia Total Home 1st,141,10111,1.1,0.3,FALSE
+Coppa Italia Total Away 1st,141,10112,1.1,0.3,FALSE
+Coppa Italia Total Odd/Even 1st,141,10081,1.1,0.3,FALSE
+Coppa Italia Both teams to score 1st,141,10101,1.1,0.3,FALSE
+Spain Coppa Del Rey Moneyline,138,0,1.1,0.3,FALSE
+Spain Coppa Del Rey Handicap,138,10001,1.1,0.3,FALSE
+Spain Coppa Del Rey Total,138,10002,1.1,0.3,FALSE
+Spain Coppa Del Rey Draw no bet,138,10010,1.1,0.3,FALSE
+Spain Coppa Del Rey Total Home,138,10017,1.1,0.3,FALSE
+Spain Coppa Del Rey Total Away,138,10018,1.1,0.3,FALSE
+Spain Coppa Del Rey Total Odd/Even,138,10005,1.1,0.3,FALSE
+Spain Coppa Del Rey Both teams to score,138,10009,1.1,0.3,FALSE
+Spain Coppa Del Rey Moneyline 1st,138,10021,1.1,0.3,FALSE
+Spain Coppa Del Rey Handicap 1st,138,10041,1.1,0.3,FALSE
+Spain Coppa Del Rey Total 1st,138,10031,1.1,0.3,FALSE
+Spain Coppa Del Rey Draw no bet 1st,138,10121,1.1,0.3,FALSE
+Spain Coppa Del Rey Total Home 1st,138,10111,1.1,0.3,FALSE
+Spain Coppa Del Rey Total Away 1st,138,10112,1.1,0.3,FALSE
+Spain Coppa Del Rey Total Odd/Even 1st,138,10081,1.1,0.3,FALSE
+Spain Coppa Del Rey Both teams to score 1st,138,10101,1.1,0.3,FALSE
+France Ligue 2 Moneyline,20119,0,1.1,0.3,FALSE
+France Ligue 2 Handicap,20119,10001,1.1,0.3,FALSE
+France Ligue 2 Total,20119,10002,1.1,0.3,FALSE
+France Ligue 2 Draw no bet,20119,10010,1.1,0.3,FALSE
+France Ligue 2 Total Home,20119,10017,1.1,0.3,FALSE
+France Ligue 2 Total Away,20119,10018,1.1,0.3,FALSE
+France Ligue 2 Total Odd/Even,20119,10005,1.1,0.3,FALSE
+France Ligue 2 Both teams to score,20119,10009,1.1,0.3,FALSE
+France Ligue 2 Moneyline 1st,20119,10021,1.1,0.3,FALSE
+France Ligue 2 Handicap 1st,20119,10041,1.1,0.3,FALSE
+France Ligue 2 Total 1st,20119,10031,1.1,0.3,FALSE
+France Ligue 2 Draw no bet 1st,20119,10121,1.1,0.3,FALSE
+France Ligue 2 Total Home 1st,20119,10111,1.1,0.3,FALSE
+France Ligue 2 Total Away 1st,20119,10112,1.1,0.3,FALSE
+France Ligue 2 Total Odd/Even 1st,20119,10081,1.1,0.3,FALSE
+France Ligue 2 Both teams to score 1st,20119,10101,1.1,0.3,FALSE
+Germany Bundesliga 3 Moneyline,20563,0,1.1,0.3,FALSE
+Germany Bundesliga 3 Handicap,20563,10001,1.1,0.3,FALSE
+Germany Bundesliga 3 Total,20563,10002,1.1,0.3,FALSE
+Germany Bundesliga 3 Draw no bet,20563,10010,1.1,0.3,FALSE
+Germany Bundesliga 3 Total Home,20563,10017,1.1,0.3,FALSE
+Germany Bundesliga 3 Total Away,20563,10018,1.1,0.3,FALSE
+Germany Bundesliga 3 Total Odd/Even,20563,10005,1.1,0.3,FALSE
+Germany Bundesliga 3 Both teams to score,20563,10009,1.1,0.3,FALSE
+Germany Bundesliga 3 Moneyline 1st,20563,10021,1.1,0.3,FALSE
+Germany Bundesliga 3 Handicap 1st,20563,10041,1.1,0.3,FALSE
+Germany Bundesliga 3 Total 1st,20563,10031,1.1,0.3,FALSE
+Germany Bundesliga 3 Draw no bet 1st,20563,10121,1.1,0.3,FALSE
+Germany Bundesliga 3 Total Home 1st,20563,10111,1.1,0.3,FALSE
+Germany Bundesliga 3 Total Away 1st,20563,10112,1.1,0.3,FALSE
+Germany Bundesliga 3 Total Odd/Even 1st,20563,10081,1.1,0.3,FALSE
+Germany Bundesliga 3 Both teams to score 1st,20563,10101,1.1,0.3,FALSE
+Greece - Super League Moneyline,20110,0,1.1,0.3,FALSE
+Greece - Super League Handicap,20110,10001,1.1,0.3,FALSE
+Greece - Super League Total,20110,10002,1.1,0.3,FALSE
+Greece - Super League Draw no bet,20110,10010,1.1,0.3,FALSE
+Greece - Super League Total Home,20110,10017,1.1,0.3,FALSE
+Greece - Super League Total Away,20110,10018,1.1,0.3,FALSE
+Greece - Super League Total Odd/Even,20110,10005,1.1,0.3,FALSE
+Greece - Super League Both teams to score,20110,10009,1.1,0.3,FALSE
+Greece - Super League Moneyline 1st,20110,10021,1.1,0.3,FALSE
+Greece - Super League Handicap 1st,20110,10041,1.1,0.3,FALSE
+Greece - Super League Total 1st,20110,10031,1.1,0.3,FALSE
+Greece - Super League Draw no bet 1st,20110,10121,1.1,0.3,FALSE
+Greece - Super League Total Home 1st,20110,10111,1.1,0.3,FALSE
+Greece - Super League Total Away 1st,20110,10112,1.1,0.3,FALSE
+Greece - Super League Total Odd/Even 1st,20110,10081,1.1,0.3,FALSE
+Greece - Super League Both teams to score 1st,20110,10101,1.1,0.3,FALSE
+Hungary - NB I Moneyline,20572,0,1.1,0.3,FALSE
+Hungary - NB I Handicap,20572,10001,1.1,0.3,FALSE
+Hungary - NB I Total,20572,10002,1.1,0.3,FALSE
+Hungary - NB I Draw no bet,20572,10010,1.1,0.3,FALSE
+Hungary - NB I Total Home,20572,10017,1.1,0.3,FALSE
+Hungary - NB I Total Away,20572,10018,1.1,0.3,FALSE
+Hungary - NB I Total Odd/Even,20572,10005,1.1,0.3,FALSE
+Hungary - NB I Both teams to score,20572,10009,1.1,0.3,FALSE
+Hungary - NB I Moneyline 1st,20572,10021,1.1,0.3,FALSE
+Hungary - NB I Handicap 1st,20572,10041,1.1,0.3,FALSE
+Hungary - NB I Total 1st,20572,10031,1.1,0.3,FALSE
+Hungary - NB I Draw no bet 1st,20572,10121,1.1,0.3,FALSE
+Hungary - NB I Total Home 1st,20572,10111,1.1,0.3,FALSE
+Hungary - NB I Total Away 1st,20572,10112,1.1,0.3,FALSE
+Hungary - NB I Total Odd/Even 1st,20572,10081,1.1,0.3,FALSE
+Hungary - NB I Both teams to score 1st,20572,10101,1.1,0.3,FALSE
+Northern Ireland - Premiership Moneyline,20639,0,1.1,0.3,FALSE
+Northern Ireland - Premiership Handicap,20639,10001,1.1,0.3,FALSE
+Northern Ireland - Premiership Total,20639,10002,1.1,0.3,FALSE
+Northern Ireland - Premiership Draw no bet,20639,10010,1.1,0.3,FALSE
+Northern Ireland - Premiership Total Home,20639,10017,1.1,0.3,FALSE
+Northern Ireland - Premiership Total Away,20639,10018,1.1,0.3,FALSE
+Northern Ireland - Premiership Total Odd/Even,20639,10005,1.1,0.3,FALSE
+Northern Ireland - Premiership Both teams to score,20639,10009,1.1,0.3,FALSE
+Northern Ireland - Premiership Moneyline 1st,20639,10021,1.1,0.3,FALSE
+Northern Ireland - Premiership Handicap 1st,20639,10041,1.1,0.3,FALSE
+Northern Ireland - Premiership Total 1st,20639,10031,1.1,0.3,FALSE
+Northern Ireland - Premiership Draw no bet 1st,20639,10121,1.1,0.3,FALSE
+Northern Ireland - Premiership Total Home 1st,20639,10111,1.1,0.3,FALSE
+Northern Ireland - Premiership Total Away 1st,20639,10112,1.1,0.3,FALSE
+Northern Ireland - Premiership Total Odd/Even 1st,20639,10081,1.1,0.3,FALSE
+Northern Ireland - Premiership Both teams to score 1st,20639,10101,1.1,0.3,FALSE
+Israel - Premier League Moneyline,20593,0,1.1,0.3,FALSE
+Israel - Premier League Handicap,20593,10001,1.1,0.3,FALSE
+Israel - Premier League Total,20593,10002,1.1,0.3,FALSE
+Israel - Premier League Draw no bet,20593,10010,1.1,0.3,FALSE
+Israel - Premier League Total Home,20593,10017,1.1,0.3,FALSE
+Israel - Premier League Total Away,20593,10018,1.1,0.3,FALSE
+Israel - Premier League Total Odd/Even,20593,10005,1.1,0.3,FALSE
+Israel - Premier League Both teams to score,20593,10009,1.1,0.3,FALSE
+Israel - Premier League Moneyline 1st,20593,10021,1.1,0.3,FALSE
+Israel - Premier League Handicap 1st,20593,10041,1.1,0.3,FALSE
+Israel - Premier League Total 1st,20593,10031,1.1,0.3,FALSE
+Israel - Premier League Draw no bet 1st,20593,10121,1.1,0.3,FALSE
+Israel - Premier League Total Home 1st,20593,10111,1.1,0.3,FALSE
+Israel - Premier League Total Away 1st,20593,10112,1.1,0.3,FALSE
+Israel - Premier League Total Odd/Even 1st,20593,10081,1.1,0.3,FALSE
+Israel - Premier League Both teams to score 1st,20593,10101,1.1,0.3,FALSE
+NBA Moneyline,4,0,1.1,0.3,FALSE
+NBA Point Spread,4,10001,1.1,0.3,FALSE
+NBA Total Points,4,10002,1.1,0.3,FALSE
+NBA Team Total,4,10017,1.1,0.3,FALSE
+NBA Team Total,4,10018,1.1,0.3,FALSE
+NBA 1st Half Moneylines,4,10051,1.1,0.3,FALSE
+NBA 1st Half Total Points,4,10061,1.1,0.3,FALSE
+NBA 1st Half Point Spread,4,10071,1.1,0.3,FALSE
+NCAAB Moneyline,5,0,1.1,0.3,FALSE
+NCAAB Point Spread,5,10001,1.1,0.3,FALSE
+NCAAB Total Points,5,10002,1.1,0.3,FALSE
+NCAAB Team Total,5,10017,1.1,0.3,FALSE
+NCAAB Team Total,5,10018,1.1,0.3,FALSE
+Euroleague Moneyline,399,0,1.1,0.3,FALSE
+Euroleague Point Spread,399,10001,1.1,0.3,FALSE
+Euroleague Total Points,399,10002,1.1,0.3,FALSE
+Euroleague Team Total,399,10017,1.1,0.3,FALSE
+Euroleague Team Total,399,10018,1.1,0.3,FALSE
+Euroleague 1st Half Moneylines,399,10051,1.1,0.3,FALSE
+Euroleague 1st Half Total Points,399,10061,1.1,0.3,FALSE
+Euroleague 1st Half Point Spread,399,10071,1.1,0.3,FALSE
+International - Champions League Moneyline,20218,0,1.1,0.3,FALSE
+International - Champions League Point Spread,20218,10001,1.1,0.3,FALSE
+International - Champions League Total Points,20218,10002,1.1,0.3,FALSE
+International - Champions League Team Total,20218,10017,1.1,0.3,FALSE
+International - Champions League Team Total,20218,10018,1.1,0.3,FALSE
+International - Champions League 1st Half Moneylines,20218,10051,1.1,0.3,FALSE
+International - Champions League 1st Half Total Points,20218,10061,1.1,0.3,FALSE
+International - Champions League 1st Half Point Spread,20218,10071,1.1,0.3,FALSE
+FIBA - Europe Cup Moneyline,20230,0,1.1,0.3,FALSE
+FIBA - Europe Cup Point Spread,20230,10001,1.1,0.3,FALSE
+FIBA - Europe Cup Total Points,20230,10002,1.1,0.3,FALSE
+FIBA - Europe Cup Team Total,20230,10017,1.1,0.3,FALSE
+FIBA - Europe Cup Team Total,20230,10018,1.1,0.3,FALSE
+FIBA - Europe Cup 1st Half Moneylines,20230,10051,1.1,0.3,FALSE
+FIBA - Europe Cup 1st Half Total Points,20230,10061,1.1,0.3,FALSE
+FIBA - Europe Cup 1st Half Point Spread,20230,10071,1.1,0.3,FALSE
+NHL Moneyline,6,0,1.1,0.3,FALSE
+NHL Moneyline-3way,6,10011,1.1,0.3,FALSE
+NHL Puck Line,6,10001,1.1,0.3,FALSE
+NHL Total Goals,6,10002,1.1,0.3,FALSE
+NHL Team Total,6,10017,1.1,0.3,FALSE
+NHL Team Total,6,10018,1.1,0.3,FALSE
+NHL Puck Line regular time,6,10013,1.1,0.3,FALSE
+NHL Total Goals regular time,6,10014,1.1,0.3,FALSE
+NHL 1st Period Puck Line,6,10041,1.1,0.3,FALSE
+NHL 2nd Period Puck Line,6,10042,1.1,0.3,FALSE
+NHL 3rd Period Puck Line,6,10043,1.1,0.3,FALSE
+NHL 1st Period Total Goals,6,10031,1.1,0.3,FALSE
+NHL 2nd Period Total Goals,6,10032,1.1,0.3,FALSE
+NHL 3rd Period Total Goals,6,10033,1.1,0.3,FALSE
+France LNB Moneyline,20204,0,1.1,0.3,FALSE
+France LNB Point Spread,20204,10001,1.1,0.3,FALSE
+France LNB Total Points,20204,10002,1.1,0.3,FALSE
+France LNB Team Total,20204,10017,1.1,0.3,FALSE
+France LNB Team Total,20204,10018,1.1,0.3,FALSE
+Germay BBL Moneyline,20203,0,1.1,0.3,FALSE
+Germay BBL Point Spread,20203,10001,1.1,0.3,FALSE
+Germay BBL Total Points,20203,10002,1.1,0.3,FALSE
+Germay BBL Team Total,20203,10017,1.1,0.3,FALSE
+Germay BBL Team Total,20203,10018,1.1,0.3,FALSE
+Spain ACB Moneyline,20201,0,1.1,0.3,FALSE
+Spain ACB Point Spread,20201,10001,1.1,0.3,FALSE
+Spain ACB Total Points,20201,10002,1.1,0.3,FALSE
+Spain ACB Team Total,20201,10017,1.1,0.3,FALSE
+Spain ACB Team Total,20201,10018,1.1,0.3,FALSE
+Italy Basketball Moneyline,20202,0,1.1,0.3,FALSE
+Italy Basketball Point Spread,20202,10001,1.1,0.3,FALSE
+Italy Basketball Total Points,20202,10002,1.1,0.3,FALSE
+Italy Basketball Team Total,20202,10017,1.1,0.3,FALSE
+Italy Basketball Team Total,20202,10018,1.1,0.3,FALSE
+CHINA CBA Moneyline,20205,0,1.1,0.3,FALSE
+CHINA CBA Point Spread,20205,10001,1.1,0.3,FALSE
+CHINA CBA Total Points,20205,10002,1.1,0.3,FALSE
+CHINA CBA Team Total,20205,10017,1.1,0.3,FALSE
+CHINA CBA Team Total,20205,10018,1.1,0.3,FALSE
+Philippines - Phillipine Cup Moneyline,20221,0,1.1,0.3,FALSE
+Philippines - Phillipine Cup Point Spread,20221,10001,1.1,0.3,FALSE
+Philippines - Phillipine Cup Total Points,20221,10002,1.1,0.3,FALSE
+Philippines - Phillipine Cup Team Total,20221,10017,1.1,0.3,FALSE
+Philippines - Phillipine Cup Team Total,20221,10018,1.1,0.3,FALSE
+ATP Moneyline,156,0,1.1,0.3,FALSE
+ATP Game Spread,156,10001,1.1,0.3,FALSE
+ATP Total Games,156,10002,1.1,0.3,FALSE
+ATP Set Handicap,156,10013,1.1,0.3,FALSE
+ATP Total Sets,156,10014,1.1,0.3,FALSE
+ATP 1st Set Moneyline,156,10021,1.1,0.3,FALSE
+ATP 1st Games Spread,156,10041,1.1,0.3,FALSE
+ATP 1st Total Games,156,10031,1.1,0.3,FALSE
+WTA Moneyline,152,0,1.1,0.3,FALSE
+WTA Game Spread,152,10001,1.1,0.3,FALSE
+WTA Total Games,152,10002,1.1,0.3,FALSE
+WTA Set Handicap,152,10013,1.1,0.3,FALSE
+WTA Total Sets,152,10014,1.1,0.3,FALSE
+WTA 1st Set Moneyline,152,10021,1.1,0.3,FALSE
+WTA 1st Games Spread,152,10041,1.1,0.3,FALSE
+WTA 1st Total Games,152,10031,1.1,0.3,FALSE
+ATP Challenger Moneyline,157,0,1.1,0.3,FALSE
+ATP Challenger Game Spread,157,10001,1.1,0.3,FALSE
+ATP Challenger Total Games,157,10002,1.1,0.3,FALSE
+ATP Challenger Set Handicap,157,10013,1.1,0.3,FALSE
+ATP Challenger Total Sets,157,10014,1.1,0.3,FALSE
+ATP Challenger 1st Set Moneyline,157,10021,1.1,0.3,FALSE
+ATP Challenger 1st Games Spread,157,10041,1.1,0.3,FALSE
+ATP Challenger 1st Total Games,157,10031,1.1,0.3,FALSE
+ATP United Cup Moneyline,150,0,1.1,0.3,FALSE
+ATP United Cup  Game Spread,150,10001,1.1,0.3,FALSE
+ATP United Cup  Total Games,150,10002,1.1,0.3,FALSE
+ATP United Cup  Set Handicap,150,10013,1.1,0.3,FALSE
+ATP United Cup  Total Sets,150,10014,1.1,0.3,FALSE
+ATP United Cup  1st Set Moneyline,150,10021,1.1,0.3,FALSE
+ATP United Cup  1st Games Spread,150,10041,1.1,0.3,FALSE
+ATP United Cup  1st Total Games,150,10031,1.1,0.3,FALSE
+CS2 Moneyline,9977,0,1.2,0.3,FALSE
+CS2 Map Handicap,9977,10001,1.2,0.3,FALSE
+CS2 Total Maps,9977,10002,1.2,0.3,FALSE
+LOL Moneyline,10138,0,1.2,0.3,FALSE
+LOL Map Handicap,10138,10001,1.2,0.3,FALSE
+LOL Total Maps,10138,10002,1.2,0.3,FALSE
+DOTA2 Moneyline,9983,0,1.2,0.3,FALSE
+DOTA2 Map Handicap,9983,10001,1.2,0.3,FALSE
+DOTA2 Total Maps,9983,10002,1.2,0.3,FALSE
+Valorant Moneyline,20300,0,1.2,0.3,FALSE
+Valorant Map Handicap,20300,10001,1.2,0.3,FALSE
+Valorant Total Maps,20300,10002,1.2,0.3,FALSE
+NFL Moneyline,2,0,0.4,0.3,FALSE
+NFL Point Spread,2,10001,0.4,0.3,FALSE
+NFL Total Points,2,10002,0.4,0.3,FALSE
+NFL Team Total,2,10017,0.4,0.3,FALSE
+NFL Team Total,2,10018,0.4,0.3,FALSE
+NFL 1st Half Moneyline,2,10051,0.4,0.3,FALSE
+NFL 1st Half Total Points,2,10061,0.4,0.3,FALSE
+NFL 1st Half Point Spread,2,10071,0.4,0.3,FALSE
+NFL 1st Half Team Total,2,10118,0.4,0.3,FALSE
+NFL 1st Half Team Total,2,10119,0.4,0.3,FALSE
+NCAAF Moneyline,1,0,0.4,0.3,FALSE
+NCAAF Point Spread,1,10001,0.4,0.3,FALSE
+NCAAF Total Points,1,10002,0.4,0.3,FALSE
+NCAAF Team Total,1,10017,0.4,0.3,FALSE
+NCAAF Team Total,1,10018,0.4,0.3,FALSE
+NCAAF 1st Half Moneylines,1,10051,0.4,0.3,FALSE
+NCAAF 1st Half Total Points,1,10061,0.4,0.3,FALSE
+NCAAF 1st Half Point Spread,1,10071,0.4,0.3,FALSE
+NCAAF 1st Half Team Total,1,10118,0.4,0.3,FALSE
+NCAAF 1st Half Team Total,1,10119,0.4,0.3,FALSE
