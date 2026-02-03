@@ -36,19 +36,30 @@
 5,Alabama A&M,41612
 5,Alabama State,41611
 5,Alcorn State,41613
+5,Ball State,41694
 5,Belmont,41411
 5,Bethune Cookman,41533
 5,Boise State,41669
 5,Boston College,41399
 5,Boston University,41378
+5,Bowling Green,41695
 5,Bradley,41544
+5,Buffalo,41696
+5,Canisius,41523
+5,Central Michigan,41697
 5,Charleston Southern,41459
+5,Connecticut,41435
 5,Coppin State,41534
 5,Davidson,41624
 5,Dayton,41386
+5,DePaul,41436
+5,Drake,41546
 5,Duke,41401
+5,Eastern Michigan,41698
 5,Evansville,41547
 5,Florida A&M,41536
+5,Fordham,41388
+5,Fresno State,41670
 5,Gardner-Webb,41983
 5,Grambling,41615
 5,Grand Canyon,56942
@@ -59,14 +70,18 @@
 5,Illinois State,41548
 5,Incarnate Word,59023
 5,Indiana,41467
+5,Indiana State,41549
 5,Jackson State,41616
 5,Kansas,41425
 5,Kent State,41699
 5,La Salle,41390
 5,Lamar,41634
 5,Lindenwood,10008962
+5,Little Rock,41657
 5,Maryland-Eastern Shore,41539
+5,Massachusetts,41391
 5,McNeese,41635
+5,Miami Ohio,41700
 5,Murray State,41578
 5,Nevada,41673
 5,New Orleans,41688
@@ -95,6 +110,7 @@
 5,Tennessee,41609
 5,Tennessee State,41581
 5,Tennessee Tech,41582
+5,Texas,41361
 5,Texas A&M Commerce,10051799
 5,Texas A&M-Corpus Christi,41632
 5,Texas Tech,41433
@@ -105,6 +121,7 @@
 5,Valparaiso,41655
 5,Virginia,41408
 5,Weber State,41458
+5,Western Michigan,41704
 5,Wyoming,41561
 5,Xavier,41398
 6,Anaheim Ducks,29082
@@ -378,6 +395,75 @@
 536,Al-Taawoun FC,36058
 536,Damac FC,36060
 536,NEOM SC,10061713
+9977,1WIN,10060113
+9977,3DMAX,10056743
+9977,9INE,10056248
+9977,9z,10056619
+9977,AM Gaming,10085760
+9977,Astralis,10058655
+9977,Aurora Gaming,10055741
+9977,Aurora Young Blood,10061618
+9977,BESTIA,10055720
+9977,Bushido Wildcats,10080339
+9977,CSDIILIT,10087495
+9977,ECSTATIC,10056132
+9977,ENCE,10056668
+9977,ex-RUBY,10065165
+9977,EYEBALLERS,10055777
+9977,Fake do Biru,10067924
+9977,Favbet,10060775
+9977,Fingers Crossed,10088668
+9977,FORZE Reload,10055778
+9977,Four Magic,10086527
+9977,FURIA,10055713
+9977,FURIA fe,10057628
+9977,G2,10056976
+9977,GenOne,10036804
+9977,HOTU,10060467
+9977,illwill,10088594
+9977,KOLESIE,10084414
+9977,los kogutos,10067605
+9977,MOUZ,10055709
+9977,Nexus,10055779
+9977,Nuclear TigeRES,10066829
+9977,Omega,10026360
+9977,Oramond,10087137
+9977,Pigeons,10059244
+9977,Rebels Gaming,10060483
+9977,Sashi Esport,10056090
+9977,ShindeN,10063379
+9977,Sinners,10055951
+9977,Spirit,10055708
+9977,Team Falcons,10058675
+9977,Team Nemesis,10085070
+9977,Vitality,10056215
+9977,VP.Prodigy,10060572
+9983,GamerLegion,10087514
+9983,Heroic,10026210
+9983,Inner Circle,10086518
+9983,Natus Vincere,10025255
+9983,OG,10025261
+9983,REKONIX,10084411
+9983,Spirit Academy,10088408
+9983,Team Spirit,10025358
+9983,Team Yandex,10083294
+9983,Tundra Esports,10036553
+9983,Xtreme Gaming,10036116
+10138,Anyone's Legend,10047927
+10138,BeFive,10059202
+10138,Deer Gaming,10088596
+10138,EDward Gaming,10024810
+10138,LEO,10088599
+10138,Leviatan Esports,10033996
+10138,LNG Esports,10024815
+10138,Ninjas in Pyjamas,10051944
+10138,paiN Gaming,10024989
+10138,SPIKE Syndicate,10053233
+10138,Team Insidious,10069702
+10138,Team Paradox,10068876
+10138,Team WE,10024822
+10138,Ultra Prime,10041186
+10138,Weibo Gaming,10047926
 20011,Birmingham City FC,5
 20011,Blackburn Rovers FC,6
 20011,Bristol City FC,14
@@ -435,8 +521,8 @@
 20104,Colo Colo,982
 20104,Coquimbo Unido,811
 20104,Deportes La Serena,1014
-20104,Deportes Limache,53756
 20104,Deportes Limache,1013
+20104,Deportes Limache,53756
 20104,Everton de Vina del Mar,964
 20104,Huachipato,1029
 20104,Nublense,26223
@@ -744,6 +830,7 @@
 20184,SK Beveren,10051128
 20200,Bahçeşehir Koleji Spor Kulübü,96193
 20200,KK Budućnost VOLI,41317
+20200,Ratiopharm Ulm,10051905
 20200,WKS Śląsk Wrocław,47375
 20218,AEK Athens BC,41161
 20218,ALBA Berlin,40823
@@ -763,8 +850,30 @@
 20227,KK Krka Novo Mesto,41348
 20227,KK Split,41715
 20230,BC Prievidza,42194
+20230,Bilbao Basket,40802
 20230,Trefl Sopot,40926
 20230,UCAM Murcia,42177
+20293,Black Dragons e-Sports,10028291
+20293,Dplus,10058892
+20293,ENTERPRISE Esports,10082877
+20293,Fluxo W7M,10059730
+20293,Ninjas in Pyjamas,10028337
+20293,Shopify Rebellion,10070105
+20293,Team Secret,10026075
+20293,Weibo Gaming,10082189
+20293,Wildcard Gaming,10026342
+20300,Bilibili Gaming,10070336
+20300,EDward Gaming,10061370
+20300,Farenvehn,10080338
+20300,Fnatic,10060899
+20300,GIANTX,10060904
+20300,JD Gaming,10061368
+20300,Natus Vincere,10060901
+20300,Pcific Esports,10061736
+20300,ShindeN,10070688
+20300,Team Vitality,10060902
+20300,Trace Esports,10061376
+20300,Wolves Esports,10061372
 20520,GNK Dinamo Zagreb,1734
 20520,HNK Gorica,39953
 20520,HNK Hajduk Split,929
@@ -950,12 +1059,12 @@
 20649,Club Cerro Porteño,1660
 20649,Club Guaraní,1585
 20649,Club Libertad,1634
-20649,Club Nacional Asunción,1621
 20649,Club Nacional Asunción,1620
+20649,Club Nacional Asunción,1621
 20649,Club Sportivo Luqueño,10053758
 20649,Club Sportivo Trinidense,27391
-20649,Sportivo Ameliano,10017092
 20649,Sportivo Ameliano,39545
+20649,Sportivo Ameliano,10017092
 20651,Alianza Atletico de Sullana,23066
 20651,Asociación Deportiva Tarma,10020287
 20651,Club Alianza Lima,23067
@@ -1187,81 +1296,136 @@
 20728,Zamora CF,1562
 ,Adam Walton,76639
 ,Alberto Barroso Campos,81294
+,Alejandro Moro Canas,10005828
+,Alejo Sanchez Quilez,10054064
 ,Aleksandar Kovacevic,87369
 ,Alex Barrena,10008211
 ,Alex Bolt,50879
 ,Alex Martinez,102568
 ,Alex Rybakov,59697
 ,Alexandra Eala,10023576
+,Aliaksandra Sasnovich,52949
 ,Alycia Parks,98368
 ,Anastasia Potapova,80623
+,Andre Ilagan,89067
+,Andrea Collarini,39992
 ,Andrea Colombo,5213
+,Andrea Guerrieri,74730
+,Andrea Pellegrino,60476
 ,Andrea Vavassori,67153
+,Andres Martin,10042534
 ,Anna Bondar,60450
 ,Antoine Ghibaudo,10050838
 ,Arthur Fils,10035823
 ,Arthur Gea,10046882
+,Aryan Shah,10049962
+,Belinda Bencic,50245
+,Ben Jones,98989
 ,Bernard Tomic,33932
 ,Blake Ellis,74620
+,Borna Gojo,77548
+,Botic Van De Zandschulp,71267
 ,Buvaysar Gadamauri,94446
+,Calvin Hemery,51605
+,Camilo Ugo Carabelli,86212
 ,Cannon Kingsley,10002109
+,Carlos Sanchez Jover,82273
+,Catherine McNally,80635
 ,Cedrik-Marcel Stebe,37720
 ,Charles Broom,93056
 ,Christian Langmo,76768
 ,Christoph Negritu,61608
 ,Christopher O'Connell,58291
+,Chun-Hsin Tseng,88432
 ,Clara Tauson,99176
 ,Colton Smith,10037208
+,Cruz Hewitt,10062964
+,Cyril Vandermeersch,90237
 ,Dali Blanch,10023865
+,Dan Added,80610
 ,Dan Martin,83377
 ,Dane Sweeny,10005791
+,Daniel Masur,56393
 ,Daniel Merida Aguilar,10039321
 ,Daniel Rincon,10021537
 ,Daria Snigur,97959
 ,Darja Semenistaja,10031183
 ,Darwin Blanch,10048069
 ,David Jorda Sanchis,55598
+,Dayana Yastremska,68489
+,Deigo Dedura-Palomero,10058816
 ,Diane Parry,80512
 ,Diletta Cherubini,98960
+,Ekaterina Alexandrova,56985
+,Elena-Gabriela Ruse,65864
 ,Elina Avanesyan,100108
+,Emiliana Arango,77583
 ,Emma Navarro,91605
 ,Emma Raducanu,93708
 ,Enrico Dalla Valle,64206
 ,Eri Shimizu,73431
+,Facundo Diaz Acosta,10008143
+,Facundo Mena,59797
 ,Fajing Sun,72937
+,Fangran Tian,10011743
 ,Federico Bondioli,10050407
+,Federico Iannaccone,93022
 ,Felipe Meligeni Alves,79378
+,Filippo Romano,10050498
+,Fiona Ferro,56373
 ,Florian Broska,83529
 ,Francesco Forti,90016
+,Francesco Maestrelli,10018649
 ,Francisco Comesana,97853
+,Franco Agamenone,69129
 ,Garrett Johns,10002110
 ,Genaro Alberto Olivieri,80617
 ,Gianmarco Ferrari,10002623
 ,Giovanni Fonio,72581
 ,Gonzalo Villanueva,69039
+,Guido Ivan Justo,10001206
 ,Hailey Baptiste,92376
 ,Hamad Medjedovic,10015501
 ,Hanne Vandewinkel,10043871
 ,Hayato Matsuoka,10051040
+,Henri Squire,83974
+,Hernan Casanova,66401
 ,Hikaru Shiraishi,10012648
 ,Hubert Hurkacz,66269
 ,Hugo Dellien,47175
+,Igor Marcondes,73702
 ,Iiro Vasa,10033492
+,Ivan Gakhov,55427
 ,Izan Almazan Valiente,10054197
+,Jack Kennedy,10061706
+,Jacopo Vasami,10064702
+,James McCabe,10028114
+,Jan Choinski,56418
 ,Janice Tjen,10014020
 ,Jaqueline Cristian,69852
+,Javier Barranco Cosano,84629
+,Jay Dylan Hara Friend,10041956
 ,Jelena Ostapenko,60163
 ,Johan Nikles,74905
 ,Johannus Monday,10012831
+,Joshua Sheehy,10020415
 ,Josip Simundza,10052382
 ,Juan Bautista Torres,10023046
+,Juan Estevez,10053185
 ,Juan Manuel Cerundolo,90385
+,Juan Manuel La Serna,10047707
+,Justin Boulais,100192
 ,Kaichi Uchida,50513
 ,Kaitlin Quevedo,10050938
+,Kaja Juvan,81935
+,Karl Poling,89141
 ,Katie Boulter,57175
 ,Katie Volynets,92665
 ,Keegan Smith,86214
+,Kilian Feldbausch,10038874
+,Kimmer Coppejans,49264
 ,Kokoro Isomura,10042541
+,Kristiana Sidorova,10053854
 ,Lanlana Tararudee,10015617
 ,Lautaro Midon,10046216
 ,Leolia Jeanjean,60651
@@ -1269,29 +1433,50 @@
 ,Li Tu,10028256
 ,Liam Gavrielides,10043875
 ,Lilli Tagger,10056707
+,Lincoln Battle,10088281
 ,Liudmila Samsonova,75863
+,Lorenzo Angelini,10041597
 ,Lorenzo Giustino,49643
 ,Lorenzo Rottoli,84294
 ,Luca Nardi,10018651
 ,Lucia Bronzetti,75862
+,Luciano Emanuel Ambrogi,10047420
 ,Lucie Havlickova,10028384
 ,Lucrezia Stefanini,77772
+,Maaya Rajeshwaran Revathi,10068120
+,Mackenzie McDonald,54905
+,Mai Hontama,80632
 ,Maja Chwalinska,78968
 ,Mananchaya Sawangkaew,87656
 ,Marc-Andrea Huesler,67960
+,Marco Cecchinato,45149
 ,Mariano Navone,10005002
 ,Martin Damm,5633
+,Martin Krumich,10023858
 ,Marvin Moeller,80543
+,Mathys Erhard,10015632
 ,Mats Rosenkranz,79098
 ,Matt Hulme,10046826
+,Matt Kuhar,10002732
 ,Matthew William Donald,10027764
 ,Max Hans Rehberg,10027204
 ,Max Schoenhaus,10058814
+,Max Wiskandt,10011068
 ,McCartney Kessler,93233
+,Mei Yamaguchi,74335
+,Michele Mecarelli,10082495
+,Miguel Damas,96180
+,Miho Kuramochi,10044721
 ,Mika Petkovic,10064231
 ,Mingge Xu,10047973
 ,Miomir Kecmanovic,73551
+,Misaki Matsuda,86593
+,Moise Kouame,10062667
+,Murphy Cassone,10021777
+,Naoki Nakagawa,57078
 ,Nicolas Kicker,56999
+,Niels Mcdonald,10070303
+,Niels Visker,10004864
 ,Nikola Bartunkova,10027310
 ,Nikolas Sanchez Izquierdo,98982
 ,Nikoloz Basilashvili,41062
@@ -1305,259 +1490,103 @@
 ,Pavel Kotov,80614
 ,Pavle Marinkov,10042966
 ,Peangtarn Plipuech,54727
+,Pedro Boscardin Dias,10018758
+,Petr Brunclik,10049066
+,Pol Martin Tiffon,99727
+,Priska Nugroho,10037732
+,Quinn Vandecasteele,10015495
+,Radu Albot,44434
 ,Raphael Perot,10045396
+,Raul Brancaccio,71673
 ,Rebecca Sramkova,56986
 ,Rebeka Masarova,78125
 ,Rei Sakamoto,10051074
 ,Remy Bertola,72714
+,Renzo Olivo,46987
 ,Rina Saigo,103177
 ,Roberto Bautista Agut,3137
 ,Roman Andres Burruchaga,10018491
+,Rudolf Molleker,80600
 ,Sahaja Yamalapalli,10044717
+,Santiago Rodriguez Taverna,76499
 ,Sara Bejlek,10027761
 ,Sara Sorribes Tormo,48835
 ,Sergey Fomin,79682
 ,Sergio Callejon Hernando,10058149
 ,Shinji Hazawa,84642
 ,Sho Shimabukuro,66391
+,Shrivalli Bhamidipaty,10016214
 ,Shunsuke Mitsui,10039495
 ,Simona Waltert,79648
 ,Sinja Kraus,93423
 ,Sohyun Park,91780
 ,Sonay Kartal,10018314
 ,Sorana Cirstea,27541
+,Stan Wawrinka,20378
+,Stefan Dostanic,10015555
 ,Stefan Kozlov,54009
 ,Stefano Napolitano,38736
 ,Stefano Travaglia,43880
+,Svyatoslav Gulin,10047519
+,Tai Leonard Sach,10028183
 ,Tamara Korpatsch,60459
 ,Tamara Zidansek,60207
+,Taro Daniel,49835
+,Tatiana Prozorova,10051983
+,Tatjana Maria,53079
 ,Tereza Martincova,53317
 ,Thiago Monteiro,47071
 ,Thiago Seyboth Wild,84643
 ,Thomas Faurel,10059493
 ,Tiantsoa Rakotomanga Rajaonah,10049437
+,Tibo Colson,92374
 ,Titouan Droguet,10003905
 ,Toby Samuel,10028185
+,Tom Gentzsch,10043720
+,Tomas Machac,10000938
 ,Tristan Boyer,100482
+,Tristan Schoolkate,10018627
 ,Tyler Zink,101894
 ,Ugo Blanchet,87854
+,Ugo Humbert,76589
 ,Vaishnavi Adkar,10056524
 ,Valentin Royer,10006822
 ,Vendula Valdmannova,10057153
 ,Viktorija Golubic,52918
 ,Xinyu Wang,87470
-,Yasmine Kabbaj,10038482
-,Yue Yuan,78462
-,Zdenek Kolar,57311
-,Tomas Machac,10000938
-,Niels Visker,10004864
-,Max Wiskandt,10011068
-,Fangran Tian,10011743
-,Francesco Maestrelli,10018649
-,James McCabe,10028114
-,Lorenzo Angelini,10041597
-,Jay Dylan Hara Friend,10041956
-,Andres Martin,10042534
-,Tom Gentzsch,10043720
-,Miho Kuramochi,10044721
-,Filippo Romano,10050498
-,Tatiana Prozorova,10051983
-,Alejo Sanchez Quilez,10054064
-,Deigo Dedura-Palomero,10058816
-,Jack Kennedy,10061706
-,Moise Kouame,10062667
-,Jacopo Vasami,10064702
-,Maaya Rajeshwaran Revathi,10068120
-,Niels Mcdonald,10070303
-,Michele Mecarelli,10082495
-,Andrea Collarini,39992
-,Radu Albot,44434
-,Marco Cecchinato,45149
-,Kimmer Coppejans,49264
-,Taro Daniel,49835
-,Belinda Bencic,50245
-,Calvin Hemery,51605
-,Aliaksandra Sasnovich,52949
-,Tatjana Maria,53079
-,Ivan Gakhov,55427
-,Fiona Ferro,56373
-,Daniel Masur,56393
-,Ekaterina Alexandrova,56985
-,Facundo Mena,59797
-,Dayana Yastremska,68489
-,Raul Brancaccio,71673
-,Andrea Guerrieri,74730
-,Borna Gojo,77548
-,Rudolf Molleker,80600
-,Kaja Juvan,81935
-,Carlos Sanchez Jover,82273
-,Henri Squire,83974
-,Javier Barranco Cosano,84629
-,Misaki Matsuda,86593
 ,Xiyu Wang,86968
-,Andre Ilagan,89067
-,Cyril Vandermeersch,90237
-,Tibo Colson,92374
-,Federico Iannaccone,93022
-,Miguel Damas,96180
-,Guido Ivan Justo,10001206
-,Matt Kuhar,10002732
-,Alejandro Moro Canas,10005828
-,Facundo Diaz Acosta,10008143
-,Stefan Dostanic,10015555
-,Shrivalli Bhamidipaty,10016214
-,Pedro Boscardin Dias,10018758
-,Justin Boulais,100192
-,Joshua Sheehy,10020415
-,Martin Krumich,10023858
-,Tai Leonard Sach,10028183
-,Priska Nugroho,10037732
-,Kilian Feldbausch,10038874
-,Aryan Shah,10049962
-,Juan Estevez,10053185
-,Zuzanna Pawlikowska,10056408
-,Stan Wawrinka,20378
-,Renzo Olivo,46987
-,Mackenzie McDonald,54905
-,Andrea Pellegrino,60476
-,Hernan Casanova,66401
-,Igor Marcondes,73702
-,Mei Yamaguchi,74335
-,Santiago Rodriguez Taverna,76499
-,Ugo Humbert,76589
-,Dan Added,80610
-,Mai Hontama,80632
-,Camilo Ugo Carabelli,86212
-,Chun-Hsin Tseng,88432
-,Karl Poling,89141
-,Ben Jones,98989
-,Quinn Vandecasteele,10015495
-,Mathys Erhard,10015632
-,Tristan Schoolkate,10018627
-,Murphy Cassone,10021777
-,Luciano Emanuel Ambrogi,10047420
-,Svyatoslav Gulin,10047519
-,Juan Manuel La Serna,10047707
-,Petr Brunclik,10049066
-,Kristiana Sidorova,10053854
-,Lincoln Battle,10088281
+,Yasmine Kabbaj,10038482
 ,Yasutaka Uchiyama,41972
-,Jan Choinski,56418
-,Elena-Gabriela Ruse,65864
-,Franco Agamenone,69129
-,Botic Van De Zandschulp,71267
+,Yue Yuan,78462
 ,Yuta Shimizu,74998
-,Emiliana Arango,77583
-,Catherine McNally,80635
-,Pol Martin Tiffon,99727
-5,Texas,41361
-5,Fordham,41388
-5,Massachusetts,41391
-5,Connecticut,41435
-5,DePaul,41436
-5,Canisius,41523
-5,Drake,41546
-5,Indiana State,41549
-5,Little Rock,41657
-5,Fresno State,41670
-5,Ball State,41694
-5,Bowling Green,41695
-5,Buffalo,41696
-5,Central Michigan,41697
-5,Eastern Michigan,41698
-5,Miami Ohio,41700
-5,Western Michigan,41704
-20230,Bilbao Basket,40802
-20200,Ratiopharm Ulm,10051905
-,Cruz Hewitt,10062964
-,Naoki Nakagawa,57078
-10138,EDward Gaming,10024810
-10138,LNG Esports,10024815
-10138,Team WE,10024822
-10138,paiN Gaming,10024989
-10138,Leviatan Esports,10033996
-10138,Ultra Prime,10041186
-10138,Weibo Gaming,10047926
-10138,Anyone's Legend,10047927
-10138,Ninjas in Pyjamas,10051944
-10138,SPIKE Syndicate,10053233
-10138,BeFive,10059202
-10138,Team Paradox,10068876
-10138,Team Insidious,10069702
-10138,Deer Gaming,10088596
-10138,LEO,10088599
-20293,Team Secret,10026075
-20293,Wildcard Gaming,10026342
-20293,Black Dragons e-Sports,10028291
-20293,Ninjas in Pyjamas,10028337
-20293,Dplus,10058892
-20293,Fluxo W7M,10059730
-20293,Shopify Rebellion,10070105
-20293,Weibo Gaming,10082189
-20293,ENTERPRISE Esports,10082877
-20300,Fnatic,10060899
-20300,Natus Vincere,10060901
-20300,Team Vitality,10060902
-20300,GIANTX,10060904
-20300,JD Gaming,10061368
-20300,EDward Gaming,10061370
-20300,Wolves Esports,10061372
-20300,Trace Esports,10061376
-20300,Pcific Esports,10061736
-20300,Bilibili Gaming,10070336
-20300,ShindeN,10070688
-20300,Farenvehn,10080338
-9977,Omega,10026360
-9977,GenOne,10036804
-9977,Spirit,10055708
-9977,MOUZ,10055709
-9977,FURIA,10055713
-9977,BESTIA,10055720
-9977,Aurora Gaming,10055741
-9977,EYEBALLERS,10055777
-9977,FORZE Reload,10055778
-9977,Nexus,10055779
-9977,Sinners,10055951
-9977,Sashi Esport,10056090
-9977,ECSTATIC,10056132
-9977,Vitality,10056215
-9977,9INE,10056248
-9977,9z,10056619
-9977,ENCE,10056668
-9977,3DMAX,10056743
-9977,G2,10056976
-9977,FURIA fe,10057628
-9977,Astralis,10058655
-9977,Team Falcons,10058675
-9977,Pigeons,10059244
-9977,1WIN,10060113
-9977,HOTU,10060467
-9977,Rebels Gaming,10060483
-9977,VP.Prodigy,10060572
-9977,Favbet,10060775
-9977,Aurora Young Blood,10061618
-9977,ShindeN,10063379
-9977,ex-RUBY,10065165
-9977,Nuclear TigeRES,10066829
-9977,los kogutos,10067605
-9977,Fake do Biru,10067924
-9977,Bushido Wildcats,10080339
-9977,KOLESIE,10084414
-9977,Team Nemesis,10085070
-9977,AM Gaming,10085760
-9977,Four Magic,10086527
-9977,Oramond,10087137
-9977,CSDIILIT,10087495
-9977,illwill,10088594
-9977,Fingers Crossed,10088668
-9983,Natus Vincere,10025255
-9983,OG,10025261
-9983,Team Spirit,10025358
-9983,Heroic,10026210
-9983,Xtreme Gaming,10036116
-9983,Tundra Esports,10036553
-9983,Team Yandex,10083294
-9983,REKONIX,10084411
-9983,Inner Circle,10086518
-9983,GamerLegion,10087514
-9983,Spirit Academy,10088408
+,Zdenek Kolar,57311
+,Zuzanna Pawlikowska,10056408
+,Linda Fruhvirtova,10009769
+,Pablo Llamas Ruiz,10015932
+,Laurent Lokoli,55601
+10138,Bilibili Gaming,10024816
+10138,Top Esports,10024818
+10138,Invictus Gaming,10024995
+10138,ZennIT,10058603
+10138,Senshi Esports Club,10070368
+20200,Hapoel Jerusalem,40778
+20200,Manresa,40800
+20200,CS Universitatea U-Banca Transilvania Cluj-Napoca,40966
+20200,Aris BC,41162
+20200,Panionios BC,41170
+20200,Umana Reyer Venezia Mestre,42038
+20200,London Lions,50144
+20200,BV Chemnitz,55937
+20293,Spacestation Gaming,10027650
+20293,FaZe Clan,10028289
+20293,M80,10058825
+20293,Daystar,10059918
+20300,Karmine Corp,10060906
+20300,TYLOO,10061367
+20300,Dragon Ranger Gaming,10061371
+20300,LAZER,10066491
+20300,Fuego,10070089
+9977,FaZe,10055995
+9983,Team Liquid,10025251
+9983,Team Falcons,10034740
+9983,MOUZ,10059643
