@@ -1,6 +1,6 @@
 bot_name,finalScoreValidationLeagues
 resolver_main,Russia - KHL
-resolver_basket_esports,Eurocup;Euroleague;Spain - Liga ACB;Italy - Lega Basket Serie A;Germany - BBL;France - LNB Pro A;China - CBA;Australia - NBL;Turkey - BSL
+resolver_basket_esports,NBA;NCAAB;WNBA;Eurocup;Euroleague;Spain - Liga ACB;Italy - Lega Basket Serie A;Germany - BBL;France - LNB Pro A;China - CBA;Australia - NBL;Turkey - BSL;Australia - NBL;NCAAW;FIBA - Americup Qualifiers;FIBA - Asia Cup Qualifiers;FIBA - Eurobasket Qualifiers;FIBA - World Cup Qualifiers;Greece - A1 League;FIBA - AfroBasket Qualifiers;FIBA - Eurobasket Women;Philippines - Phillipine Cup;BIG3;FIBA - World Cup U19;FIBA - Americup Women;FIBA - AfroBasket;FIBA - EuroBasket;FIBA - Americup;International - ABA League;International - VTB United League;Israel - Super League;FIBA - Europe Cup
 resolver_tennis,
 resolver_football,
 resolver_football_mid,Egypt - Premier League;UAE - Pro League;Indonesia - Liga 1
