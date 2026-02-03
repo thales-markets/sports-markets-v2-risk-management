@@ -747,6 +747,7 @@
 20200,WKS Śląsk Wrocław,47375
 20218,AEK Athens BC,41161
 20218,ALBA Berlin,40823
+20218,AS Karditsas,97344
 20218,Basketball Nymburk,40929
 20218,Chalon Saone,42028
 20218,Galatasaray,41025
@@ -1184,168 +1185,218 @@
 20728,UD Ibiza,31922
 20728,Villarreal CF II,23849
 20728,Zamora CF,1562
-,Garrett Johns,10002110
-,Gianmarco Ferrari,10002623
-,Alex Barrena,10008211
-,Elina Avanesyan,100108
-,Sonay Kartal,10018314
-,Luca Nardi,10018651
-,Juan Bautista Torres,10023046
-,Dali Blanch,10023865
-,Matthew William Donald,10027764
-,Li Tu,10028256
-,Lucie Havlickova,10028384
-,Shunsuke Mitsui,10039495
-,Kokoro Isomura,10042541
-,Pavle Marinkov,10042966
-,Liam Gavrielides,10043875
-,Tristan Boyer,100482
-,Tiantsoa Rakotomanga Rajaonah,10049437
-,Josip Simundza,10052382
-,Lilli Tagger,10056707
-,Sergio Callejon Hernando,10058149
-,Tyler Zink,101894
-,Nikoloz Basilashvili,41062
-,Thiago Monteiro,47071
-,Lorenzo Giustino,49643
-,Kaichi Uchida,50513
-,Alex Bolt,50879
-,Andrea Colombo,5213
-,Alex Rybakov,59697
-,Tamara Zidansek,60207
-,Tamara Korpatsch,60459
-,Leolia Jeanjean,60651
-,Christoph Negritu,61608
-,Sho Shimabukuro,66391
-,Remy Bertola,72714
-,Miomir Kecmanovic,73551
-,Maja Chwalinska,78968
-,Panna Udvardy,79919
-,Diane Parry,80512
-,Marvin Moeller,80543
-,Olga Danilovic,80638
-,Thiago Seyboth Wild,84643
+,Adam Walton,76639
+,Alberto Barroso Campos,81294
 ,Aleksandar Kovacevic,87369
-,Mananchaya Sawangkaew,87656
-,Ugo Blanchet,87854
-,Emma Raducanu,93708
-,Oleksandra Oliynykova,98391
-20218,AS Karditsas,97344
-,Cannon Kingsley,10002109
-,Titouan Droguet,10003905
-,Mariano Navone,10005002
-,Dane Sweeny,10005791
-,Valentin Royer,10006822
-,Hikaru Shiraishi,10012648
-,Johannus Monday,10012831
-,Janice Tjen,10014020
-,Hamad Medjedovic,10015501
-,Lanlana Tararudee,10015617
-,Roman Andres Burruchaga,10018491
-,Daniel Rincon,10021537
-,Alexandra Eala,10023576
-,Max Hans Rehberg,10027204
-,Nikola Bartunkova,10027310
-,Sara Bejlek,10027761
-,Toby Samuel,10028185
-,Darja Semenistaja,10031183
-,Iiro Vasa,10033492
-,Arthur Fils,10035823
-,Colton Smith,10037208
-,Yasmine Kabbaj,10038482
-,Daniel Merida Aguilar,10039321
-,Hanne Vandewinkel,10043871
-,Sahaja Yamalapalli,10044717
-,Raphael Perot,10045396
-,Lautaro Midon,10046216
-,Matt Hulme,10046826
-,Arthur Gea,10046882
-,Mingge Xu,10047973
-,Darwin Blanch,10048069
-,Federico Bondioli,10050407
-,Antoine Ghibaudo,10050838
-,Kaitlin Quevedo,10050938
-,Hayato Matsuoka,10051040
-,Rei Sakamoto,10051074
-,Izan Almazan Valiente,10054197
-,Vaishnavi Adkar,10056524
-,Vendula Valdmannova,10057153
-,Max Schoenhaus,10058814
-,Thomas Faurel,10059493
-,Mika Petkovic,10064231
+,Alex Barrena,10008211
+,Alex Bolt,50879
 ,Alex Martinez,102568
-,Rina Saigo,103177
-,Sorana Cirstea,27541
-,Roberto Bautista Agut,3137
+,Alex Rybakov,59697
+,Alexandra Eala,10023576
+,Alycia Parks,98368
+,Anastasia Potapova,80623
+,Andrea Colombo,5213
+,Andrea Vavassori,67153
+,Anna Bondar,60450
+,Antoine Ghibaudo,10050838
+,Arthur Fils,10035823
+,Arthur Gea,10046882
 ,Bernard Tomic,33932
+,Blake Ellis,74620
+,Buvaysar Gadamauri,94446
+,Cannon Kingsley,10002109
 ,Cedrik-Marcel Stebe,37720
+,Charles Broom,93056
+,Christian Langmo,76768
+,Christoph Negritu,61608
+,Christopher O'Connell,58291
+,Clara Tauson,99176
+,Colton Smith,10037208
+,Dali Blanch,10023865
+,Dan Martin,83377
+,Dane Sweeny,10005791
+,Daniel Merida Aguilar,10039321
+,Daniel Rincon,10021537
+,Daria Snigur,97959
+,Darja Semenistaja,10031183
+,Darwin Blanch,10048069
+,David Jorda Sanchis,55598
+,Diane Parry,80512
+,Diletta Cherubini,98960
+,Elina Avanesyan,100108
+,Emma Navarro,91605
+,Emma Raducanu,93708
+,Enrico Dalla Valle,64206
+,Eri Shimizu,73431
+,Fajing Sun,72937
+,Federico Bondioli,10050407
+,Felipe Meligeni Alves,79378
+,Florian Broska,83529
+,Francesco Forti,90016
+,Francisco Comesana,97853
+,Garrett Johns,10002110
+,Genaro Alberto Olivieri,80617
+,Gianmarco Ferrari,10002623
+,Giovanni Fonio,72581
+,Gonzalo Villanueva,69039
+,Hailey Baptiste,92376
+,Hamad Medjedovic,10015501
+,Hanne Vandewinkel,10043871
+,Hayato Matsuoka,10051040
+,Hikaru Shiraishi,10012648
+,Hubert Hurkacz,66269
+,Hugo Dellien,47175
+,Iiro Vasa,10033492
+,Izan Almazan Valiente,10054197
+,Janice Tjen,10014020
+,Jaqueline Cristian,69852
+,Jelena Ostapenko,60163
+,Johan Nikles,74905
+,Johannus Monday,10012831
+,Josip Simundza,10052382
+,Juan Bautista Torres,10023046
+,Juan Manuel Cerundolo,90385
+,Kaichi Uchida,50513
+,Kaitlin Quevedo,10050938
+,Katie Boulter,57175
+,Katie Volynets,92665
+,Keegan Smith,86214
+,Kokoro Isomura,10042541
+,Lanlana Tararudee,10015617
+,Lautaro Midon,10046216
+,Leolia Jeanjean,60651
+,Leylah Fernandez,90843
+,Li Tu,10028256
+,Liam Gavrielides,10043875
+,Lilli Tagger,10056707
+,Liudmila Samsonova,75863
+,Lorenzo Giustino,49643
+,Lorenzo Rottoli,84294
+,Luca Nardi,10018651
+,Lucia Bronzetti,75862
+,Lucie Havlickova,10028384
+,Lucrezia Stefanini,77772
+,Maja Chwalinska,78968
+,Mananchaya Sawangkaew,87656
+,Marc-Andrea Huesler,67960
+,Mariano Navone,10005002
+,Martin Damm,5633
+,Marvin Moeller,80543
+,Mats Rosenkranz,79098
+,Matt Hulme,10046826
+,Matthew William Donald,10027764
+,Max Hans Rehberg,10027204
+,Max Schoenhaus,10058814
+,McCartney Kessler,93233
+,Mika Petkovic,10064231
+,Mingge Xu,10047973
+,Miomir Kecmanovic,73551
+,Nicolas Kicker,56999
+,Nikola Bartunkova,10027310
+,Nikolas Sanchez Izquierdo,98982
+,Nikoloz Basilashvili,41062
+,Oleg Prihodko,88346
+,Oleksandra Oliynykova,98391
+,Olga Danilovic,80638
+,Omar Jasika,53332
+,Pablo Carreno Busta,43925
+,Panna Udvardy,79919
+,Patrick Zahraj,98430
+,Pavel Kotov,80614
+,Pavle Marinkov,10042966
+,Peangtarn Plipuech,54727
+,Raphael Perot,10045396
+,Rebecca Sramkova,56986
+,Rebeka Masarova,78125
+,Rei Sakamoto,10051074
+,Remy Bertola,72714
+,Rina Saigo,103177
+,Roberto Bautista Agut,3137
+,Roman Andres Burruchaga,10018491
+,Sahaja Yamalapalli,10044717
+,Sara Bejlek,10027761
+,Sara Sorribes Tormo,48835
+,Sergey Fomin,79682
+,Sergio Callejon Hernando,10058149
+,Shinji Hazawa,84642
+,Sho Shimabukuro,66391
+,Shunsuke Mitsui,10039495
+,Simona Waltert,79648
+,Sinja Kraus,93423
+,Sohyun Park,91780
+,Sonay Kartal,10018314
+,Sorana Cirstea,27541
+,Stefan Kozlov,54009
 ,Stefano Napolitano,38736
 ,Stefano Travaglia,43880
-,Pablo Carreno Busta,43925
-,Hugo Dellien,47175
-,Sara Sorribes Tormo,48835
-,Viktorija Golubic,52918
+,Tamara Korpatsch,60459
+,Tamara Zidansek,60207
 ,Tereza Martincova,53317
-,Omar Jasika,53332
-,Stefan Kozlov,54009
-,Peangtarn Plipuech,54727
-,David Jorda Sanchis,55598
-,Martin Damm,5633
-,Rebecca Sramkova,56986
-,Nicolas Kicker,56999
-,Katie Boulter,57175
-,Zdenek Kolar,57311
-,Christopher O'Connell,58291
-,Jelena Ostapenko,60163
-,Anna Bondar,60450
-,Enrico Dalla Valle,64206
-,Hubert Hurkacz,66269
-,Andrea Vavassori,67153
-,Marc-Andrea Huesler,67960
-,Gonzalo Villanueva,69039
-,Jaqueline Cristian,69852
-,Giovanni Fonio,72581
-,Fajing Sun,72937
-,Eri Shimizu,73431
-,Blake Ellis,74620
-,Johan Nikles,74905
-,Lucia Bronzetti,75862
-,Liudmila Samsonova,75863
-,Adam Walton,76639
-,Christian Langmo,76768
-,Lucrezia Stefanini,77772
-,Rebeka Masarova,78125
-,Yue Yuan,78462
-,Mats Rosenkranz,79098
-,Felipe Meligeni Alves,79378
-,Simona Waltert,79648
-,Sergey Fomin,79682
-,Pavel Kotov,80614
-,Genaro Alberto Olivieri,80617
-,Anastasia Potapova,80623
-,Alberto Barroso Campos,81294
-,Dan Martin,83377
-,Florian Broska,83529
-,Lorenzo Rottoli,84294
-,Shinji Hazawa,84642
-,Keegan Smith,86214
+,Thiago Monteiro,47071
+,Thiago Seyboth Wild,84643
+,Thomas Faurel,10059493
+,Tiantsoa Rakotomanga Rajaonah,10049437
+,Titouan Droguet,10003905
+,Toby Samuel,10028185
+,Tristan Boyer,100482
+,Tyler Zink,101894
+,Ugo Blanchet,87854
+,Vaishnavi Adkar,10056524
+,Valentin Royer,10006822
+,Vendula Valdmannova,10057153
+,Viktorija Golubic,52918
 ,Xinyu Wang,87470
-,Oleg Prihodko,88346
-,Francesco Forti,90016
-,Juan Manuel Cerundolo,90385
-,Leylah Fernandez,90843
-,Emma Navarro,91605
-,Sohyun Park,91780
-,Hailey Baptiste,92376
-,Katie Volynets,92665
-,Charles Broom,93056
-,McCartney Kessler,93233
-,Sinja Kraus,93423
-,Buvaysar Gadamauri,94446
-,Francisco Comesana,97853
-,Daria Snigur,97959
-,Alycia Parks,98368
-,Patrick Zahraj,98430
-,Diletta Cherubini,98960
-,Nikolas Sanchez Izquierdo,98982
-,Clara Tauson,99176
+,Yasmine Kabbaj,10038482
+,Yue Yuan,78462
+,Zdenek Kolar,57311
+,Tomas Machac,10000938
+,Niels Visker,10004864
+,Max Wiskandt,10011068
+,Fangran Tian,10011743
+,Francesco Maestrelli,10018649
+,James McCabe,10028114
+,Lorenzo Angelini,10041597
+,Jay Dylan Hara Friend,10041956
+,Andres Martin,10042534
+,Tom Gentzsch,10043720
+,Miho Kuramochi,10044721
+,Filippo Romano,10050498
+,Tatiana Prozorova,10051983
+,Alejo Sanchez Quilez,10054064
+,Deigo Dedura-Palomero,10058816
+,Jack Kennedy,10061706
+,Moise Kouame,10062667
+,Jacopo Vasami,10064702
+,Maaya Rajeshwaran Revathi,10068120
+,Niels Mcdonald,10070303
+,Michele Mecarelli,10082495
+,Andrea Collarini,39992
+,Radu Albot,44434
+,Marco Cecchinato,45149
+,Kimmer Coppejans,49264
+,Taro Daniel,49835
+,Belinda Bencic,50245
+,Calvin Hemery,51605
+,Aliaksandra Sasnovich,52949
+,Tatjana Maria,53079
+,Ivan Gakhov,55427
+,Fiona Ferro,56373
+,Daniel Masur,56393
+,Ekaterina Alexandrova,56985
+,Facundo Mena,59797
+,Dayana Yastremska,68489
+,Raul Brancaccio,71673
+,Andrea Guerrieri,74730
+,Borna Gojo,77548
+,Rudolf Molleker,80600
+,Kaja Juvan,81935
+,Carlos Sanchez Jover,82273
+,Henri Squire,83974
+,Javier Barranco Cosano,84629
+,Misaki Matsuda,86593
+,Xiyu Wang,86968
+,Andre Ilagan,89067
+,Cyril Vandermeersch,90237
+,Tibo Colson,92374
+,Federico Iannaccone,93022
+,Miguel Damas,96180
