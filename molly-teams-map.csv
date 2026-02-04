@@ -33,10 +33,19 @@
 4,Washington Wizards,29100
 5,Air Force,41554
 5,Akron,41693
+5,Alabama,41599
 5,Alabama A&M,41612
 5,Alabama State,41611
 5,Alcorn State,41613
+5,American University,43723
+5,Appalachian State,41824
+5,Arizona State,41584
+5,Arkansas Pine Bluff,41614
+5,Arkansas State,41658
+5,Army,41593
+5,Austin Peay,41574
 5,Ball State,41694
+5,Baylor,41422
 5,Belmont,41411
 5,Bethune Cookman,41533
 5,Boise State,41669
@@ -44,86 +53,188 @@
 5,Boston University,41378
 5,Bowling Green,41695
 5,Bradley,41544
+5,Bucknell,41594
 5,Buffalo,41696
+5,Butler,41506
+5,California,41585
 5,Canisius,41523
+5,Central Arkansas,41633
 5,Central Michigan,41697
 5,Charleston Southern,41459
+5,Charlotte,41385
+5,Clemson,41400
+5,Cleveland State,41507
+5,Coastal Carolina,41460
+5,Colgate,43853
+5,Colorado,41423
 5,Connecticut,41435
 5,Coppin State,41534
+5,Creighton,41545
 5,Davidson,41624
 5,Dayton,41386
+5,Delaware,41485
 5,DePaul,41436
+5,Detroit Mercy,41508
 5,Drake,41546
 5,Duke,41401
+5,Duquesne,41387
+5,East Tennessee State,41413
 5,Eastern Michigan,41698
 5,Evansville,41547
 5,Florida A&M,41536
+5,Florida Atlantic,41735
+5,Florida International,41661
 5,Fordham,41388
 5,Fresno State,41670
+5,Furman,41626
 5,Gardner-Webb,41983
+5,George Mason,41487
+5,George Washington,41389
+5,Georgetown,41437
+5,Georgia Southern,41627
+5,Georgia State,41488
+5,Georgia Tech,41403
+5,Gonzaga,41678
 5,Grambling,41615
 5,Grand Canyon,56942
+5,Green Bay,41509
+5,High Point,41461
 5,Holy Cross,41595
+5,Houston,41498
 5,Houston Christian,10051797
 5,Howard,41538
 5,Idaho State,41451
+5,Illinois,41356
 5,Illinois State,41548
 5,Incarnate Word,59023
 5,Indiana,41467
 5,Indiana State,41549
+5,Iowa,41468
 5,Jackson State,41616
+5,James Madison,41490
 5,Kansas,41425
 5,Kent State,41699
+5,Kentucky,41604
 5,La Salle,41390
+5,Lafayette,41596
 5,Lamar,41634
+5,Lehigh,41597
+5,Liberty,41462
 5,Lindenwood,10008962
+5,Lipscomb,41417
 5,Little Rock,41657
+5,Longwood,41687
+5,Louisiana,41766
+5,Louisiana Tech,41672
+5,Louisville,41438
+5,Loyola Maryland,41836
+5,Loyola Marymount,41679
+5,Marshall,41499
 5,Maryland-Eastern Shore,41539
 5,Massachusetts,41391
 5,McNeese,41635
 5,Miami Ohio,41700
+5,Michigan State,41470
+5,Middle Tennessee,41666
+5,Milwaukee,41512
+5,Minnesota,41471
 5,Murray State,41578
+5,Navy,41360
 5,Nevada,41673
+5,New Mexico,41557
+5,New Mexico,41676
 5,New Orleans,41688
 5,Nicholls,41637
+5,North Alabama,10008380
 5,North Carolina,41406
 5,North Carolina Central,41689
 5,North Carolina State,41407
+5,North Texas,41763
+5,Northern Kentucky,50523
+5,Northwestern,41472
 5,Northwestern State,41638
+5,Notre Dame,41440
+5,Oakland,41648
 5,Ohio,41702
+5,Oklahoma,41429
+5,Oklahoma State,41430
+5,Old Dominion,41493
+5,Oregon State,41587
+5,Pacific,41481
+5,Pepperdine,41680
 5,Pittsburgh,41355
+5,Portland,41681
 5,Portland State,41456
+5,Providence,41442
 5,Purdue,10010031
+5,Radford,41464
+5,Rice,41501
+5,Robert Morris,41567
 5,Rutgers,41443
 5,Sacramento State,41457
+5,Saint Joseph's,41394
 5,Saint Louis,41395
+5,Saint Mary's,41981
+5,Sam Houston State,41639
 5,San Diego,41560
+5,San Diego State,41682
+5,San Francisco,41683
+5,Santa Clara,41684
+5,Seattle U,41358
+5,Seton Hall,41444
 5,SIU Edwardsville,41692
+5,South Alabama,41663
 5,South Carolina,41608
+5,South Carolina State,41543
+5,South Dakota,41650
+5,South Dakota State,43873
+5,South Florida,41445
 5,Southeastern Louisiana,41640
 5,Southern,41619
 5,Southern Illinois,41551
+5,Southern Mississippi,41502
 5,St. Bonaventure,41396
 5,St. John's,41446
+5,St. Thomas-Minnesota,10069988
+5,Stanford,41588
 5,Stephen F. Austin,41641
 5,Syracuse,41447
 5,Tennessee,41609
 5,Tennessee State,41581
 5,Tennessee Tech,41582
 5,Texas,41361
+5,Texas A&M,41432
 5,Texas A&M Commerce,10051799
 5,Texas A&M-Corpus Christi,41632
+5,Texas State,41642
 5,Texas Tech,41433
 5,Toledo,41703
+5,Troy,41667
+5,Tulsa,41822
+5,UCF,41504
 5,UCLA,41589
+5,UNC Asheville,41463
 5,UNLV,41558
 5,USC,41590
+5,Utah,41559
+5,Utah State,41677
+5,UTEP,41845
 5,Valparaiso,41655
+5,Villanova,41448
 5,Virginia,41408
+5,VMI,41629
+5,Washington,41591
+5,Washington State,41592
 5,Weber State,41458
+5,Western Carolina,41630
 5,Western Michigan,41704
+5,Wichita State,41553
+5,Winthrop,41465
+5,Wofford,41631
+5,Wright State,41513
 5,Wyoming,41561
 5,Xavier,41398
+5,Youngstown State,41514
 6,Anaheim Ducks,29082
 6,Boston Bruins,29062
 6,Buffalo Sabres,29063
@@ -153,6 +264,7 @@
 6,Toronto Maple Leafs,29066
 6,Utah Mammoth,10062017
 6,Vancouver Canucks,29081
+6,Vegas Golden Knights,96173
 6,Washington Capitals,29071
 6,Winnipeg Jets,51404
 11,AFC Bournemouth,10
@@ -400,11 +512,15 @@
 9977,9INE,10056248
 9977,9z,10056619
 9977,AM Gaming,10085760
+9977,Apogee Esports,10061899
 9977,Astralis,10058655
 9977,Aurora Gaming,10055741
 9977,Aurora Young Blood,10061618
+9977,Bad Luck,10084209
+9977,Bebop,10088799
 9977,BESTIA,10055720
 9977,Bushido Wildcats,10080339
+9977,Crashers,10084457
 9977,CSDIILIT,10087495
 9977,ECSTATIC,10056132
 9977,ENCE,10056668
@@ -412,12 +528,15 @@
 9977,EYEBALLERS,10055777
 9977,Fake do Biru,10067924
 9977,Favbet,10060775
+9977,FaZe,10055995
 9977,Fingers Crossed,10088668
+9977,FOLHA AMARELA,10086660
 9977,FORZE Reload,10055778
 9977,Four Magic,10086527
 9977,FURIA,10055713
 9977,FURIA fe,10057628
 9977,G2,10056976
+9977,Game Hunters,10063393
 9977,GenOne,10036804
 9977,HOTU,10060467
 9977,illwill,10088594
@@ -429,7 +548,11 @@
 9977,Omega,10026360
 9977,Oramond,10087137
 9977,Pigeons,10059244
+9977,Players,10048430
+9977,Procyon Gaming,10086571
+9977,QUAZAR,10081222
 9977,Rebels Gaming,10060483
+9977,Sangal,10056985
 9977,Sashi Esport,10056090
 9977,ShindeN,10063379
 9977,Sinners,10055951
@@ -438,32 +561,88 @@
 9977,Team Nemesis,10085070
 9977,Vitality,10056215
 9977,VP.Prodigy,10060572
+9983,1win,10058959
+9983,Aurora,10058501
+9983,AVULUS,10063102
 9983,GamerLegion,10087514
 9983,Heroic,10026210
 9983,Inner Circle,10086518
+9983,L1ga Team,10058182
+9983,MOUZ,10059643
 9983,Natus Vincere,10025255
+9983,Nigma Galaxy,10048548
 9983,OG,10025261
 9983,REKONIX,10084411
 9983,Spirit Academy,10088408
+9983,strongboys,10088739
+9983,Team Falcons,10034740
+9983,Team Liquid,10025251
+9983,Team Lynx,10070315
 9983,Team Spirit,10025358
 9983,Team Yandex,10083294
 9983,Tundra Esports,10036553
+9983,VP.Prodigy,10025202
 9983,Xtreme Gaming,10036116
+9983,Zero Tenacity,10065202
+10138,4 SWINES & A BUM,10088476
 10138,Anyone's Legend,10047927
+10138,Arctic Pandas,10088598
 10138,BeFive,10059202
+10138,Bilibili Gaming,10024816
+10138,BK ROG Esports,10054115
+10138,Bulldog Esports,10028322
 10138,Deer Gaming,10088596
+10138,Divernex,10070197
+10138,Diversion Gaming,10070198
+10138,Dynasty,10027058
 10138,EDward Gaming,10024810
+10138,⁠Ethereal Enigmas,10070106
+10138,Fnatic,10024724
+10138,French Flair,10066849
+10138,Fukuoka SoftBank Hawks Gaming,10027136
+10138,G2 Esports,10024725
+10138,GAM Esports,10024806
+10138,GIANTX,10058002
+10138,GMBLERS ESPORTS,10069633
+10138,HANJIN BRION Challengers,10036547
+10138,Invictus Gaming,10024995
+10138,Joblife,10052291
+10138,Karmine Corp,10035822
+10138,Karmine Corp Blue,10058720
+10138,KIA.eSuba Academy,10029735
+10138,La BOMBAS,10088479
 10138,LEO,10088599
 10138,Leviatan Esports,10033996
+10138,Lille Esport,10052290
 10138,LNG Esports,10024815
+10138,Los Ratones,10066847
+10138,Lundqvist Lightside,10025305
+10138,mCon esports,10027056
+10138,Movistar KOI,10058772
+10138,Myth Esports,10058600
+10138,Natus Vincere,10085314
 10138,Ninjas in Pyjamas,10051944
+10138,Once Upon A Team,10058605
+10138,P11 Esports,10088332
 10138,paiN Gaming,10024989
+10138,PCIFIC,10088565
+10138,Senshi Esports Club,10070368
+10138,Shifters,10088346
+10138,SK Gaming,10024729
 10138,SPIKE Syndicate,10053233
+10138,T1 Academy,10058640
+10138,Team Heretics,10047983
 10138,Team Insidious,10069702
 10138,Team Paradox,10068876
+10138,Team Vitality,10024721
 10138,Team WE,10024822
+10138,Top Esports,10024818
 10138,Ultra Prime,10041186
+10138,Verdant,10053213
+10138,Vitality.Bee,10026748
 10138,Weibo Gaming,10047926
+10138,ZennIT,10058603
+10138,ZYB Esport,10088606
 20011,Birmingham City FC,5
 20011,Blackburn Rovers FC,6
 20011,Bristol City FC,14
@@ -736,6 +915,7 @@
 20124,Asociación Deportivo Cali,1632
 20124,CA Bucaramanga,23449
 20124,CD La Equidad Seguros SA,23477
+20124,CD La Equidad Seguros SA,10088422
 20124,CD Popular Junior FC SA,29682
 20124,Club Atlético Nacional SA,1444
 20124,Club Deportes Tolima SA,23455
@@ -792,6 +972,7 @@
 20134,Uthai Thani FC,82361
 20137,Arsenal WFC,28214
 20137,Aston Villa WFC,35186
+20137,Brighton & Hove Albion WFC,35192
 20137,Chelsea FC Women,28221
 20137,Everton WFC,28223
 20137,Leicester City WFC,42603
@@ -828,9 +1009,21 @@
 20184,Royal Francs Borains,61758
 20184,RWD Molenbeek,1097
 20184,SK Beveren,10051128
+20200,Aris BC,41162
 20200,Bahçeşehir Koleji Spor Kulübü,96193
+20200,BC Lietkabelis Panevėžys,40735
+20200,BV Chemnitz,55937
+20200,CS Universitatea U-Banca Transilvania Cluj-Napoca,40966
+20200,Hamburg Towers,62109
+20200,Hapoel Jerusalem,40778
 20200,KK Budućnost VOLI,41317
+20200,KK Cedevita Olimpija,10017987
+20200,London Lions,50144
+20200,Manresa,40800
+20200,Panionios BC,41170
 20200,Ratiopharm Ulm,10051905
+20200,Türk Telekom Basketbol Kulübü,41031
+20200,Umana Reyer Venezia Mestre,42038
 20200,WKS Śląsk Wrocław,47375
 20218,AEK Athens BC,41161
 20218,ALBA Berlin,40823
@@ -843,37 +1036,80 @@
 20218,Joventut,40808
 20218,Le Mans,40820
 20218,Pallacanestro Trieste,50202
+20218,Tenerife,50026
 20218,Tofas Bursa,41028
+20218,Unicaja,40816
+20218,Vilniaus Rytas,40727
 20218,Wurzburg,47257
+20227,BC Vienna,41996
 20227,FMP Beograd,65818
 20227,KK Borac,41156
 20227,KK Krka Novo Mesto,41348
 20227,KK Split,41715
+20227,KK Zadar,41234
 20230,BC Prievidza,42194
 20230,Bilbao Basket,40802
+20230,CSM Oradea,41222
+20230,Dinamo Sassari,41096
+20230,Falco KC Szombathely,41881
+20230,KK Bosna Royal,42476
+20230,KK Cedevita Junior,10044731
+20230,PAOK BC,41171
+20230,PAOK BC,41171
+20230,Peristeri BC,41172
+20230,Petkim Spor,10062384
+20230,Reggiana,42035
+20230,Rostock Seawolves,10000466
+20230,Sporting CP,10017461
 20230,Trefl Sopot,40926
 20230,UCAM Murcia,42177
+20230,Zaragoza,40804
 20293,Black Dragons e-Sports,10028291
+20293,Daystar,10059918
 20293,Dplus,10058892
 20293,ENTERPRISE Esports,10082877
+20293,FaZe Clan,10028289
 20293,Fluxo W7M,10059730
+20293,G2 Esports,10026578
+20293,Heretics,10026550
+20293,M80,10058825
 20293,Ninjas in Pyjamas,10028337
 20293,Shopify Rebellion,10070105
+20293,Spacestation Gaming,10027650
 20293,Team Secret,10026075
 20293,Weibo Gaming,10082189
 20293,Wildcard Gaming,10026342
 20300,Bilibili Gaming,10070336
+20300,Contra,10061740
+20300,Dragon Ranger Gaming,10061371
 20300,EDward Gaming,10061370
 20300,Farenvehn,10080338
 20300,Fnatic,10060899
+20300,Fuego,10070089
+20300,FUSION X,10076209
+20300,FUT Esports,10060897
 20300,GIANTX,10060904
 20300,JD Gaming,10061368
+20300,Karmine Corp,10060906
+20300,KRÜ Blaze,10061088
+20300,KRU Spark,10067990
+20300,LAZER,10066491
+20300,Leviatán Academy,10069908
+20300,Leviatán GC,10060907
+20300,MYVRA GC,10066475
 20300,Natus Vincere,10060901
+20300,No Sweat Blossom,10084952
 20300,Pcific Esports,10061736
 20300,ShindeN,10070688
+20300,Team Secret,10060885
 20300,Team Vitality,10060902
+20300,Tezcat Gaming,10088853
 20300,Trace Esports,10061376
+20300,TYLOO,10061367
+20300,ULF Esports,10071777
 20300,Wolves Esports,10061372
+20300,XLG Gaming,10061915
+20300,ZETA DIVISION,10060888
 20520,GNK Dinamo Zagreb,1734
 20520,HNK Gorica,39953
 20520,HNK Hajduk Split,929
@@ -1065,6 +1301,7 @@
 20649,Club Sportivo Trinidense,27391
 20649,Sportivo Ameliano,39545
 20649,Sportivo Ameliano,10017092
+20651,ADC Juan Pablo II,10056440
 20651,Alianza Atletico de Sullana,23066
 20651,Asociación Deportiva Tarma,10020287
 20651,Club Alianza Lima,23067
@@ -1294,7 +1531,9 @@
 20728,UD Ibiza,31922
 20728,Villarreal CF II,23849
 20728,Zamora CF,1562
+,Abdullah Shelbayh,10021593
 ,Adam Walton,76639
+,Adrian Mannarino,12293
 ,Alberto Barroso Campos,81294
 ,Alejandro Moro Canas,10005828
 ,Alejo Sanchez Quilez,10054064
@@ -1307,6 +1546,7 @@
 ,Aliaksandra Sasnovich,52949
 ,Alycia Parks,98368
 ,Anastasia Potapova,80623
+,Anastasia Zakharova,92369
 ,Andre Ilagan,89067
 ,Andrea Collarini,39992
 ,Andrea Colombo,5213
@@ -1347,6 +1587,7 @@
 ,Dane Sweeny,10005791
 ,Daniel Masur,56393
 ,Daniel Merida Aguilar,10039321
+,Daniel Milavsky,10036165
 ,Daniel Rincon,10021537
 ,Daria Snigur,97959
 ,Darja Semenistaja,10031183
@@ -1378,8 +1619,10 @@
 ,Francesco Maestrelli,10018649
 ,Francisco Comesana,97853
 ,Franco Agamenone,69129
+,Gabriele Piraino,10040129
 ,Garrett Johns,10002110
 ,Genaro Alberto Olivieri,80617
+,George Loffhagen,93826
 ,Gianmarco Ferrari,10002623
 ,Giovanni Fonio,72581
 ,Gonzalo Villanueva,69039
@@ -1408,6 +1651,7 @@
 ,Jelena Ostapenko,60163
 ,Johan Nikles,74905
 ,Johannus Monday,10012831
+,Jonas Forejtek,10008051
 ,Joshua Sheehy,10020415
 ,Josip Simundza,10052382
 ,Juan Bautista Torres,10023046
@@ -1427,6 +1671,7 @@
 ,Kokoro Isomura,10042541
 ,Kristiana Sidorova,10053854
 ,Lanlana Tararudee,10015617
+,Laurent Lokoli,55601
 ,Lautaro Midon,10046216
 ,Leolia Jeanjean,60651
 ,Leylah Fernandez,90843
@@ -1434,6 +1679,7 @@
 ,Liam Gavrielides,10043875
 ,Lilli Tagger,10056707
 ,Lincoln Battle,10088281
+,Linda Fruhvirtova,10009769
 ,Liudmila Samsonova,75863
 ,Lorenzo Angelini,10041597
 ,Lorenzo Giustino,49643
@@ -1464,6 +1710,7 @@
 ,Max Wiskandt,10011068
 ,McCartney Kessler,93233
 ,Mei Yamaguchi,74335
+,Michael Mmoh,58886
 ,Michele Mecarelli,10082495
 ,Miguel Damas,96180
 ,Miho Kuramochi,10044721
@@ -1485,6 +1732,7 @@
 ,Olga Danilovic,80638
 ,Omar Jasika,53332
 ,Pablo Carreno Busta,43925
+,Pablo Llamas Ruiz,10015932
 ,Panna Udvardy,79919
 ,Patrick Zahraj,98430
 ,Pavel Kotov,80614
@@ -1529,6 +1777,7 @@
 ,Stefano Travaglia,43880
 ,Svyatoslav Gulin,10047519
 ,Tai Leonard Sach,10028183
+,Tallon Griekspoor,63272
 ,Tamara Korpatsch,60459
 ,Tamara Zidansek,60207
 ,Taro Daniel,49835
@@ -1561,252 +1810,53 @@
 ,Yuta Shimizu,74998
 ,Zdenek Kolar,57311
 ,Zuzanna Pawlikowska,10056408
-,Linda Fruhvirtova,10009769
-,Pablo Llamas Ruiz,10015932
-,Laurent Lokoli,55601
-10138,Bilibili Gaming,10024816
-10138,Top Esports,10024818
-10138,Invictus Gaming,10024995
-10138,ZennIT,10058603
-10138,Senshi Esports Club,10070368
-20200,Hapoel Jerusalem,40778
-20200,Manresa,40800
-20200,CS Universitatea U-Banca Transilvania Cluj-Napoca,40966
-20200,Aris BC,41162
-20200,Panionios BC,41170
-20200,Umana Reyer Venezia Mestre,42038
-20200,London Lions,50144
-20200,BV Chemnitz,55937
-20293,Spacestation Gaming,10027650
-20293,FaZe Clan,10028289
-20293,M80,10058825
-20293,Daystar,10059918
-20300,Karmine Corp,10060906
-20300,TYLOO,10061367
-20300,Dragon Ranger Gaming,10061371
-20300,LAZER,10066491
-20300,Fuego,10070089
-9977,FaZe,10055995
-9983,Team Liquid,10025251
-9983,Team Falcons,10034740
-9983,MOUZ,10059643
-,Jonas Forejtek,10008051
-,Abdullah Shelbayh,10021593
-,Daniel Milavsky,10036165
-,Gabriele Piraino,10040129
-,Adrian Mannarino,12293
-,Michael Mmoh,58886
-,Tallon Griekspoor,63272
-,Anastasia Zakharova,92369
-,George Loffhagen,93826
-10138,Team Vitality,10024721
-10138,Fnatic,10024724
-10138,G2 Esports,10024725
-10138,SK Gaming,10024729
-10138,GAM Esports,10024806
-10138,Lundqvist Lightside,10025305
-10138,Vitality.Bee,10026748
-10138,mCon esports,10027056
-10138,Dynasty,10027058
-10138,Fukuoka SoftBank Hawks Gaming,10027136
-10138,Bulldog Esports,10028322
-10138,KIA.eSuba Academy,10029735
-10138,Karmine Corp,10035822
-10138,HANJIN BRION Challengers,10036547
-10138,Team Heretics,10047983
-10138,Lille Esport,10052290
-10138,Joblife,10052291
-10138,Verdant,10053213
-10138,BK ROG Esports,10054115
-10138,GIANTX,10058002
-10138,Myth Esports,10058600
-10138,Once Upon A Team,10058605
-10138,T1 Academy,10058640
-10138,Karmine Corp Blue,10058720
-10138,Movistar KOI,10058772
-10138,Los Ratones,10066847
-10138,French Flair,10066849
-10138,GMBLERS ESPORTS,10069633
-10138,⁠Ethereal Enigmas,10070106
-10138,Divernex,10070197
-10138,Natus Vincere,10085314
-10138,Shifters,10088346
-10138,4 SWINES & A BUM,10088476
-10138,La BOMBAS,10088479
-10138,PCIFIC,10088565
-20200,KK Cedevita Olimpija,10017987
-20200,Hamburg Towers,62109
-20227,BC Vienna,41996
-20230,Rostock Seawolves,10000466
-20230,Sporting CP,10017461
-20230,KK Cedevita Junior,10044731
-20230,Petkim Spor,10062384
-20230,Zaragoza,40804
-20230,Dinamo Sassari,41096
-20230,Peristeri BC,41172
-20230,CSM Oradea,41222
-20230,Falco KC Szombathely,41881
-20230,Reggiana,42035
-20230,KK Bosna Royal,42476
-20293,Heretics,10026550
-20293,G2 Esports,10026578
-20300,Team Secret,10060885
-20300,ZETA DIVISION,10060888
-20300,Leviatán GC,10060907
-20300,KRÜ Blaze,10061088
-20300,Contra,10061740
-20300,MYVRA GC,10066475
-20300,Leviatán Academy,10069908
-20300,FUSION X,10076209
-20300,Tezcat Gaming,10088853
-5,North Alabama,10008380
-5,St. Thomas-Minnesota,10069988
-5,Illinois,41356
-5,Navy,41360
-5,Charlotte,41385
-5,Duquesne,41387
-5,George Washington,41389
-5,Saint Joseph's,41394
-5,Clemson,41400
-5,Georgia Tech,41403
-5,East Tennessee State,41413
-5,Lipscomb,41417
-5,Baylor,41422
-5,Colorado,41423
-5,Oklahoma,41429
-5,Oklahoma State,41430
-5,Texas A&M,41432
-5,Georgetown,41437
-5,Louisville,41438
-5,Notre Dame,41440
-5,Providence,41442
-5,Seton Hall,41444
-5,South Florida,41445
-5,Villanova,41448
-5,Coastal Carolina,41460
-5,High Point,41461
-5,Liberty,41462
-5,Radford,41464
-5,Winthrop,41465
-5,Iowa,41468
-5,Michigan State,41470
-5,Minnesota,41471
-5,Northwestern,41472
-5,Pacific,41481
-5,Delaware,41485
-5,George Mason,41487
-5,Georgia State,41488
-5,James Madison,41490
-5,Old Dominion,41493
-5,Houston,41498
-5,Marshall,41499
-5,Rice,41501
-5,Southern Mississippi,41502
-5,Butler,41506
-5,Cleveland State,41507
-5,Green Bay,41509
-5,Milwaukee,41512
-5,Wright State,41513
-5,Youngstown State,41514
-5,South Carolina State,41543
-5,Creighton,41545
-5,Wichita State,41553
-5,New Mexico,41557
-5,Utah,41559
-5,Robert Morris,41567
-5,Austin Peay,41574
-5,Arizona State,41584
-5,California,41585
-5,Oregon State,41587
-5,Stanford,41588
-5,Washington,41591
-5,Washington State,41592
-5,Army,41593
-5,Bucknell,41594
-5,Lafayette,41596
-5,Lehigh,41597
-5,Alabama,41599
-5,Kentucky,41604
-5,Arkansas Pine Bluff,41614
-5,Furman,41626
-5,Georgia Southern,41627
-5,Western Carolina,41630
-5,Wofford,41631
-5,Central Arkansas,41633
-5,Sam Houston State,41639
-5,Texas State,41642
-5,Oakland,41648
-5,South Dakota,41650
-5,Florida International,41661
-5,South Alabama,41663
-5,Middle Tennessee,41666
-5,Troy,41667
-5,Louisiana Tech,41672
-5,New Mexico,41676
-5,Utah State,41677
-5,Gonzaga,41678
-5,Loyola Marymount,41679
-5,Pepperdine,41680
-5,Portland,41681
-5,San Francisco,41683
-5,Santa Clara,41684
-5,Longwood,41687
-5,Florida Atlantic,41735
-5,North Texas,41763
-5,Tulsa,41822
-5,Appalachian State,41824
-5,Loyola Maryland,41836
-5,UTEP,41845
-5,Saint Mary's,41981
-5,American University,43723
-5,Colgate,43853
-5,South Dakota State,43873
-5,Northern Kentucky,50523
-6,Vegas Golden Knights,96173
-9977,Players,10048430
-9977,Sangal,10056985
-9977,Game Hunters,10063393
-9977,QUAZAR,10081222
-9977,Bad Luck,10084209
-9977,Crashers,10084457
-9977,Procyon Gaming,10086571
-9977,FOLHA AMARELA,10086660
-9977,Bebop,10088799
-9983,VP.Prodigy,10025202
-9983,Nigma Galaxy,10048548
-9983,L1ga Team,10058182
-9983,Aurora,10058501
-9983,1win,10058959
-9983,AVULUS,10063102
-9983,Zero Tenacity,10065202
-9983,Team Lynx,10070315
-9983,strongboys,10088739
-10138,Diversion Gaming,10070198
-10138,P11 Esports,10088332
-10138,Arctic Pandas,10088598
-10138,ZYB Esport,10088606
-20200,BC Lietkabelis Panevėžys,40735
-20200,Türk Telekom Basketbol Kulübü,41031
-20230,PAOK BC,41171
-20300,FUT Esports,10060897
-20300,XLG Gaming,10061915
-20300,KRU Spark,10067990
-20300,ULF Esports,10071777
-20300,No Sweat Blossom,10084952
-5,Seattle U,41358
-5,UNC Asheville,41463
-5,UCF,41504
-5,Detroit Mercy,41508
-5,VMI,41629
-5,Arkansas State,41658
-5,San Diego State,41682
-5,Louisiana,41766
-9977,Apogee Esports,10061899
-20124,CD La Equidad Seguros SA,10088422
-20137,Brighton & Hove Albion WFC,35192
-20218,Vilniaus Rytas,40727
-20218,Unicaja,40816
-20218,Tenerife,50026
-20227,KK Zadar,41234
-20230,PAOK BC,41171
-20651,ADC Juan Pablo II,10056440
+,Valerio Aboian,10038851
+,Pietro Orlando Fellin,96644
+10138,FN Esports,10083951
+10138,NextGeneration Esports,10088432
+134,Paris FC,23565
+134,OGC Nice Côte d'Azur,250
+134,Olympique Lyonnais,305
+134,Toulouse FC,315
+134,Stade Lavallois Mayenne FC,347
+134,Montpellier HSC,356
+138,Valencia CF,176
+138,Real Sociedad de Fútbol,177
+141,FC Internazionale Milano,231
+141,Juventus FC,233
+141,Atalanta Bergamasca Calcio,243
+141,Torino FC,294
+141,Calcio Como 1907,32214
+20125,Manchester City FC,52
+20125,Newcastle United FC,59
+20127,Defensor Sporting,1569
+20136,AD Fafe,1529
+20507,PFK Montana 1921,32055
+20507,Arda Kardzhali,38475
+20507,PFK CSKA Sofia,930
+20519,Herediano,23718
+20519,Perez Zeledon,23722
+20519,AD San Carlos,30003
+20519,Municipal Liberia,30009
+20590,Drogheda United FC,322
+20590,Waterford FC,325
+20590,Galway United FC,490
+20590,Sligo Rovers FC,501
+20590,Dundalk FC,742
+20604,ES Setif,23426
+20604,MB Rouissat,87720
+20604,USM Khenchela,87723
+20604,MC El Bayadh,98791
+20624,Zabbar Saint Patrick FC,86654
+20694,Al Wasl Club,23668
+20694,Shabab Al Ahli Club,32555
+209,VfB Stuttgart 1893,200
+209,Kieler SV Holstein 1900,969
+268,EC Vitória,1653
+268,Grêmio FB Porto Alegrense,1662
+268,Chapecoense AF,26149
+268,Mirassol FC,27792
+268,São Paulo FC,567
+268,CR Flamengo,570
+268,Botafogo FR,574
+268,CR Vasco da Gama,773
