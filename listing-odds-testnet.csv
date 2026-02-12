@@ -2,5 +2,5 @@ sportName,sportId,typeId,pushDelayInMinutes,isListingThrottleEnabled
 All Sports,,All Types,10,true
 NBA,4,Player Props,20,true
 NBA,4,Will There Be Overtime,15,true
-NBA,4,Player Triple Double,10,false
-NBA,4,Player Double Double,10,true
+NBA,4,Player Triple Double,13,false
+NBA,4,Player Double Double,12,true
