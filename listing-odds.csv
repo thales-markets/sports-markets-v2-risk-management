@@ -1,2 +1,2 @@
 sportName,sportId,typeId,pushDelayInMinutes,isListingThrottleEnabled
-All Sports,,All Types,10,true
+All Sports,,All Types,30,true
