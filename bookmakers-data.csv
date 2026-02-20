@@ -1,7 +1,7 @@
 sportName,sportId,primaryBookmaker,secondaryBookmaker
 NCAAF,1,pinnacle,
 NFL,2,pinnacle,
-MLB,3,pinnacle,draftkings
+MLB,3,blue book,draftkings
 NBA,4,pinnacle,
 USA - NBA All Star,405,draftkings,
 NCAAB,5,pinnacle,
