@@ -1,31 +1,31 @@
-sportName,sportId,minLimit,pushLimitThreshold,primaryMarket,secondaryMarket,thirdMarket,pushSportCapIfAbove,limitInRangeMultiplier,limitSportMultiplier,secondaryMarketCapMultiplier,thirdMarketCapMultiplier,pushLimitForTypeIds,fetchLiveMarkets
-UFC,7,100,3000,Moneyline,Total Rounds,,false,0.3,3,1,1,0,false
-PFL,9,100,250,Moneyline,Total Rounds,,false,2,1,1,1,0,false
-ATP Challenger,157,100,700,Moneyline,Game Spread,Total Games,true,0.5,1,1,1,0;10001;10002,false
-Davis Cup,154,300,400,Moneyline,Game Spread,Total Games,true,1.5,1,1,1,0;10001;10002,false
-ITF Women,155,300,400,Moneyline,Game Spread,Total Games,true,1.5,1,1,1,0;10001;10002,false
-ITF Men,159,300,400,Moneyline,Game Spread,Total Games,true,1.5,1,1,1,0;10001;10002,false
-CS2,9977,100,5000,Moneyline,Map Handicap,Total Maps,false,0.5,4,1,1,0;10001;10002,true
-Dota 2,9983,100,5000,Moneyline,Map Handicap,Total Maps,false,0.4,4,1,1,0;10001;10002,true
-League of Legends,10138,100,5000,Moneyline,Map Handicap,Total Maps,false,0.3,4,1,1,0;10001;10002,true
-Valorant,20300,50,500,Moneyline,Map Handicap,Total Maps,true,1,3,1,1,0;10001;10002,true
-International - Club Friendlies,20584,100,500,Moneyline,Total Goals,Asian Handicap,false,2,1,1,1,0;10002;10001,false
-International - Friendlies,20585,100,500,Moneyline,Total Goals,Asian Handicap,false,2,1,1,1,0;10002;10001,false
-FIFA - World Cup Qualifiers,18,100,3000,Moneyline,Total Goals,Asian Handicap,false,1,1,1,1,0;10002;10001,false
-FIBA - World Cup Qualifiers,20215,100,3000,Moneyline,Total Points,Point Spread,false,0.5,1,1,1,0;10002;10001,false
-UEFA - Nations League,9806,100,3000,Moneyline,Total Goals,Asian Handicap,false,1,1,1,1,0;10002;10001,false
-England - FA Cup,132,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10002;10001,false
-France - Coupe de France,134,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10002;10001,false
-Spain - Copa del Rey,138,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10002;10001,false
-Italy - Coppa Italia,141,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10002;10001,false
-Germany - DFB Pokal,209,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10002;10001,false
-Brazil - Copa do Brasil,20002,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10002;10001,false
-England - EFL Cup,20125,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10002;10001,false
-Portugal - League Cup,20133,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10002;10001,false
-Netherlands - KNVB Beker,20135,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10002;10001,false
-Portugal - Taca de Portugal,20136,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10002;10001,false
-USA - Open Cup,20151,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10002;10001,false
-Argentina - Copa Argentina,20160,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10002;10001,false
-Australia - Cup,20166,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10002;10001,false
-Russia - Cup,20663,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10002;10001,false
-China - FA Cup,20715,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10002;10001,false
+sportName,sportId,minLimit,pushLimitThreshold,primaryMarket,secondaryMarket,thirdMarket,pushSportCapIfAbove,limitInRangeMultiplier,limitSportMultiplier,secondaryMarketCapMultiplier,thirdMarketCapMultiplier,pushLimitForTypeIdsPrimary,pushLimitForTypeIdsSecondary,pushLimitForTypeIdsThird,fetchLiveMarkets
+UFC,7,100,3000,Moneyline,Total Rounds,,false,0.3,3,0.2,0.2,0,10002,,false
+PFL,9,100,250,Moneyline,Total Rounds,,false,2,1,0.2,0.2,0,10002,,false
+ATP Challenger,157,100,700,Moneyline,Game Spread,Total Games,true,0.5,1,1,1,0;10001,10002,,false
+Davis Cup,154,300,400,Moneyline,Game Spread,Total Games,true,1.5,1,1,1,0;10001,10002,,false
+ITF Women,155,300,400,Moneyline,Game Spread,Total Games,true,1.5,1,1,1,0;10001,10002,,false
+ITF Men,159,300,400,Moneyline,Game Spread,Total Games,true,1.5,1,1,1,0;10001,10002,,false
+CS2,9977,100,5000,Moneyline,Map Handicap,Total Maps,false,0.5,4,1,1,0;10001,10002,,true
+Dota 2,9983,100,5000,Moneyline,Map Handicap,Total Maps,false,0.4,4,1,1,0;10001,10002,,true
+League of Legends,10138,100,5000,Moneyline,Map Handicap,Total Maps,false,0.3,4,1,1,0;10001,10002,,true
+Valorant,20300,50,500,Moneyline,Map Handicap,Total Maps,true,1,3,1,1,0;10001,10002,,true
+International - Club Friendlies,20584,100,500,Moneyline,Total Goals,Asian Handicap,false,2,1,1,1,0;10001,10002,,false
+International - Friendlies,20585,100,500,Moneyline,Total Goals,Asian Handicap,false,2,1,1,1,0;10001,10002,,false
+FIFA - World Cup Qualifiers,18,100,3000,Moneyline,Total Goals,Asian Handicap,false,1,1,1,1,0;10001,10002,,false
+FIBA - World Cup Qualifiers,20215,100,3000,Moneyline,Total Points,Point Spread,false,0.5,1,1,1,0;10001,10002,,false
+UEFA - Nations League,9806,100,3000,Moneyline,Total Goals,Asian Handicap,false,1,1,1,1,0;10001,10002,,false
+England - FA Cup,132,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10001,10002,,false
+France - Coupe de France,134,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10001,10002,,false
+Spain - Copa del Rey,138,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10001,10002,,false
+Italy - Coppa Italia,141,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10001,10002,,false
+Germany - DFB Pokal,209,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10001,10002,,false
+Brazil - Copa do Brasil,20002,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10001,10002,,false
+England - EFL Cup,20125,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10001,10002,,false
+Portugal - League Cup,20133,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10001,10002,,false
+Netherlands - KNVB Beker,20135,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10001,10002,,false
+Portugal - Taca de Portugal,20136,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10001,10002,,false
+USA - Open Cup,20151,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10001,10002,,false
+Argentina - Copa Argentina,20160,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10001,10002,,false
+Australia - Cup,20166,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10001,10002,,false
+Russia - Cup,20663,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10001,10002,,false
+China - FA Cup,20715,100,3000,Moneyline,Total Goals,Asian Handicap,false,0.4,6,1,1,0;10001,10002,,false
