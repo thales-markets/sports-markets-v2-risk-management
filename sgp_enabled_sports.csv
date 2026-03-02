@@ -1,0 +1,434 @@
+sportId,sportName,sgpEnabled
+1,NCAAF,true
+2,NFL,true
+3,MLB,true
+4,NBA,true
+5,NCAAB,true
+6,NHL,true
+8,WNBA,false
+9,PFL,false
+10,MLS,true
+11,EPL,true
+12,FRA1,true
+13,GER1,true
+14,ESP1,true
+15,ITA1,true
+16,UEFA CL,true
+17,UEFA EL,true
+18,FIFA Q,true
+19,JPN1,false
+20,India - IPL,false
+21,England - T20 Blast,false
+22,FIFA WC,false
+33,IIHF - World Championship,false
+44,Copa America,false
+45,Copa Libertadores,false
+50,EURO 2024,false
+57,NET1,true
+61,POR1,true
+132,England FA cup,true
+134,France Cup,true
+138,Spain - Copa del Rey,true
+141,Coppa Italia,false
+150,United Cup,false
+151,Six Kings Slam,false
+154,Davis Cup,false
+155,ITF Women,false
+157,ATP Challenger,true
+159,ITF Men,false
+209,DFB Pokal,true
+230,Liga MX,false
+268,Brazil,true
+296,FIFA - World Cup U20,false
+301,NPB,false
+302,KBO,false
+303,College Baseball,false
+304,CPBL,false
+305,USA - MLB All Star,false
+306,Mexico - LMB,false
+310,Czech Republic - Extraliga,false
+311,NCAAH,false
+312,Champions Hockey League,false
+313,Canada - OHL,false
+314,Canada - QMJHL,false
+315,Canada - QMJHL,false
+316,Olympics Hockey Men,false
+317,Olympics Hockey Women,false
+319,Finland - SM Liiga,false
+321,Russia - KHL,false
+322,Germany - DEL,false
+323,Austria - Ice Hockey League,false
+324,Sweden - SHL,false
+327,Switzerland - National League,false
+328,USA - AHL,false
+329,Belarus - Extraliga,false
+330,Poland - Polska Hokej Liga,false
+331,Denmark - Superisligaen,false
+332,Norway - Elitehockeyligaen,false
+333,Latvia - Hockey League,false
+334,France - Ligue Magnus,false
+377,EHF - European Championship,false
+379,North Macedonia - Super Liga,false
+382,Croatia - HB Premijer Liga,false
+383,EHF - Champions League,false
+384,EHF - Champions League Women,false
+385,EHF - European League,false
+386,France - LNH Division 1,false
+387,Germany - HBL,false
+388,Hungary - HNB I,false
+389,Iceland - Urvalsdeild,false
+390,IHF - World Championship,false
+391,Norway - HB 1. Divisjon,false
+392,Poland - Superliga,false
+393,Russia - Super League,false
+394,Serbia - Superliga,false
+395,Slovakia - HB Extraliga,false
+396,Slovenia - 1. Liga,false
+397,Spain - ASOBAL,false
+398,Sweden - Handbollsligan,false
+399,Euroleague,true
+400,USA - NBA Summer League,false
+405,USA - NBA All Star,false
+536,Saudi League,false
+701,UFC PPV,false
+702,UFC Non-Main,false
+703,UFC APEX,false
+704,UFC DW Contender,false
+1000,Olympics Curling Men,false
+1001,Olympics Curling Women,false
+1002,Olympics Curling Mixed,false
+8893,Olympics Volleyball Women,false
+8894,Olympics Volleyball Men,false
+8909,Olympics Table Tennis Women,false
+8910,Olympics Table Tennis Men,false
+8911,Czech Republic - TT Cup Men,false
+8912,Czech Republic - TT Liga Pro Men,false
+8913,Poland - TT Elite Series Men,false
+8914,WTT Men,false
+9196,Boxing,false
+9500,Australia - NRL,false
+9501,England - Super League,false
+9502,Oceania - Super Rugby,false
+9503,International - Six Nations,false
+9510,AFL,false
+9520,CFL,false
+9521,UFL,false
+9806,UEFA Nations League,true
+9977,CS2,true
+9983,DOTA2,true
+10138,LOL,true
+10216,UEFA Conference,true
+10595,Boxing - Non-Title (deprecated),false
+10611,UCL Qualification,false
+10613,Europe League Qualification,false
+10615,Conference League Qualification,false
+15210,Tennis WTA GS unknown round,false
+15211,Tennis WTA GS Qualification,true
+15212,Tennis WTA GS 1st round,true
+15213,Tennis WTA GS 2nd round,true
+15214,Tennis WTA GS 3rd round,true
+15215,Tennis WTA GS 4th round,true
+15216,Tennis WTA GS quarterfinals,true
+15217,Tennis WTA GS semifinals,true
+15218,Tennis WTA GS finals,true
+15220,Tennis WTA1000 unknown round,false
+15221,Tennis WTA1000 Qualification,true
+15222,Tennis WTA1000 1st round,true
+15223,Tennis WTA1000 2nd round,true
+15224,Tennis WTA1000 3rt round,true
+15225,Tennis WTA1000 4th round,true
+15226,Tennis WTA1000 quarterfinals,true
+15227,Tennis WTA1000 semifinals,true
+15228,Tennis WTA1000 finals,true
+15230,Tennis WTA500 unknown round,false
+15231,Tennis WTA500 Qualification,true
+15232,Tennis WTA500 1st round,true
+15233,Tennis WTA500 2nd round,true
+15234,Tennis WTA500 3rt round,true
+15235,Tennis WTA500 4th round,true
+15236,Tennis WTA500 quarterfinals,true
+15237,Tennis WTA500 semifinals,true
+15238,Tennis WTA500 finals,true
+15240,Tennis WTA250 unknown round,false
+15241,Tennis WTA250 Qualification,true
+15242,Tennis WTA250 1st round,true
+15243,Tennis WTA250 2nd round,true
+15244,Tennis WTA250 3rt round,true
+15245,Tennis WTA250 4th round,true
+15246,Tennis WTA250 quarterfinals,true
+15247,Tennis WTA250 semifinals,true
+15248,Tennis WTA250 finals,true
+15610,Tennis ATP GS unknown round,false
+15611,Tennis ATP GS Qualification,true
+15612,Tennis ATP GS 1st round,true
+15613,Tennis ATP GS 2nd round,true
+15614,Tennis ATP GS 3rt round,true
+15615,Tennis ATP GS 4th round,true
+15616,Tennis ATP GS quarterfinals,true
+15617,Tennis ATP GS semifinals,true
+15618,Tennis ATP GS finals,true
+15620,Tennis ATP1000 unknown round,false
+15621,Tennis ATP1000 Qualification,true
+15622,Tennis ATP1000 1st round,true
+15623,Tennis ATP1000 2nd round,true
+15624,Tennis ATP1000 3rt round,true
+15625,Tennis ATP1000 4th round,true
+15626,Tennis ATP1000 quarterfinals,true
+15627,Tennis ATP1000 semifinals,true
+15628,Tennis ATP1000 finals,true
+15630,Tennis ATP500 unknown round,false
+15631,Tennis ATP500 Qualification,true
+15632,Tennis ATP500 1st round,true
+15633,Tennis ATP500 2nd round,true
+15634,Tennis ATP500 3rt round,true
+15635,Tennis ATP500 4th round,true
+15636,Tennis ATP500 quarterfinals,true
+15637,Tennis ATP500 semifinals,true
+15638,Tennis ATP500 finals,true
+15640,Tennis ATP250 unknown round,false
+15641,Tennis ATP250 Qualification,true
+15642,Tennis ATP250 1st round,true
+15643,Tennis ATP250 2nd round,true
+15644,Tennis ATP250 3rt round,true
+15645,Tennis ATP250 4th round,true
+15646,Tennis ATP250 quarterfinals,true
+15647,Tennis ATP250 semifinals,true
+15648,Tennis ATP250 finals,true
+20000,US presidential elections,false
+20001,UEFA - Super Cup,false
+20002,Brazil - Copa do Brasil,false
+20011,England - Championship,true
+20101,Scotland league 1,false
+20102,Belgium league 1,false
+20104,Chile - Primera Division,false
+20105,Finland - Veikkausliiga,false
+20106,Argentina league 1,false
+20107,Russia - Premier League,false
+20108,Turkey league 1,false
+20109,Serbia - Super Liga,false
+20110,Greece - Super League,false
+20112,China Super League,false
+20113,Australia A League,false
+20114,Swiss superleague,false
+20115,Germany - Bundesliga 2,false
+20116,Spain - La Liga 2,false
+20117,Italy Serie B,false
+20119,France ligue 2,false
+20120,Austria league 1,false
+20121,Denmark - Superliga,false
+20122,Poland - Ekstraklasa,false
+20123,Sweden - Allsvenskan,false
+20124,Colombia - Primera A,false
+20125,England EFL cup,true
+20126,England - League 1,false
+20127,Uruguay - Primera Division,false
+20128,AFC - Champions League,false
+20129,Super Coppa Italia,false
+20130,France Super Cup,false
+20131,Spain supercopa,false
+20132,German Super cup,false
+20133,Portugal League Cup,false
+20134,Thai League 1,false
+20135,Netherlands Cup,false
+20136,Portugal Taka Cup,false
+20137,ENGLAND_WOMENS_SUPER_LEAGUE,false
+20138,ITALY_SERIE_A_FEMMINILE,false
+20139,FRANCE_PREMIERE_LIGUE,false
+20140,GERMANY_FRAUEN_BUNDESLIGA,false
+20141,SPAIN_LIGA_F,false
+20142,NETHERLANDS_VROUWEN_EREDIVISIE,false
+20143,BELGIUM_WOMENS_SUPER_LEAGUE,false
+20144,UEFA_CHAMPIONS_LEAGUE_WOMEN,false
+20145,USA_NWSL,false
+20146,AUSTRALIA_A_LEAGUE_WOMEN,false
+20147,CONCACAF - Champions Cup,false
+20148,UEFA - Nations League Women,false
+20149,Canada - Premier League,false
+20150,Norway - Eliteserien,false
+20151,USA - Open Cup,false
+20152,FIFA - Club World Cup,false
+20160,Argentina - Copa Argentina,false
+20161,Argentina - Primera Nacional,false
+20166,Australia - Cup,false
+20175,Austria - 2. Liga,false
+20183,Belarus - Premier League,false
+20184,Belgium - Challenger Pro League,false
+20200,Eurocup,true
+20201,SPAIN_LIGA_ACB,false
+20202,ITALY_LEGA_BASKET_SERIA_A,false
+20203,GERMANY_BBL,false
+20204,FRANCE_LNB_PRO_A,false
+20205,CHINA_CBA,false
+20206,AUSTRALIA_NBL,false
+20207,JAPAN_B1_LEAGUE,false
+20208,KOREA_BBL,false
+20209,ENGLAND_BBL,false
+20210,BIG3,false
+20211,NCAAW,false
+20212,FIBA - Americup Qualifiers,false
+20213,FIBA - Asia Cup Qualifiers,false
+20215,FIBA - World Cup Qualifiers,false
+20217,Greece - A1 League,false
+20218,International - Champions League,true
+20219,Turkey - BSL,false
+20220,FIBA - Eurobasket Women,false
+20221,Philippines - Phillipine Cup,false
+20222,FIBA - World Cup U19,false
+20223,FIBA - Americup Women,false
+20224,FIBA - Eurobasket,true
+20226,FIBA - Americup,false
+20227,International - ABA League,false
+20228,Israel - Super League,false
+20229,International - VTB United League,false
+20230,FIBA - Europe Cup,false
+20231,Italy - Serie A2,false
+20232,Euroleague Women,false
+20233,Finland - Korisliiga,false
+20234,Poland - PKL,false
+20235,Korea - WKBL,false
+20236,Korea - KBL,false
+20238,Argentina - LNB,false
+20239,Norway - BLNO,false
+20240,Sweden - BasketLigaen,false
+20241,Austria - BSL,false
+20290,eBasketball - Valhalla,false
+20291,Crossfire,false
+20292,Kings of Glory,false
+20293,Rainbow Six Siege,false
+20294,Starcraft 2,false
+20295,Mobile Legends Bang Bang,false
+20296,Overwatch,false
+20297,Rocket League,false
+20298,Call of Duty,false
+20300,Valorant,true
+20301,ICC - T20 World Cup,false
+20302,Australia - Big Bash League,false
+20305,Pakistan - Super League,false
+20306,International - T20 Matches,false
+20310,USA - National Lacrosse League,false
+20311,USA - Premier Lacrosse League,false
+20320,England - Premier League Darts,false
+20321,PDC - World Cup of Darts,false
+20324,PDC - World Grand Prix,false
+20325,PDC - Grand Slam Of Darts,false
+20326,PDC - World Championship,false
+20400,Argentina - Liga Argentina,false
+20401,Argentina - Liga Argentina Women,false
+20402,Austria - AVL,false
+20403,Austria - WVL,false
+20404,Belgium - Liga Dames,false
+20405,Belgium - Liga Heren,false
+20406,Brazil - Superliga,false
+20407,Brazil - Superliga Women,false
+20408,CEV - Champions League,false
+20409,CEV - Champions League Women,false
+20410,CEV - Cup,false
+20411,CEV - Cup Women,false
+20412,China - CVL,false
+20413,China - CVL Women,false
+20414,Czech Republic - VEL,false
+20415,Czech Republic - VEL Women,false
+20416,Denmark - Volleyligaen,false
+20417,Denmark - Volleyligaen Women,false
+20418,Finland - Mestaruusliiga,false
+20419,Finland - Mestaruusliiga Women,false
+20420,FIVB - Nations League,false
+20421,FIVB - Nations League Women,false
+20422,France - Ligue A,false
+20423,France - Ligue A Women,false
+20424,Germany - 1st Bundesliga,false
+20425,Germany - 1st Bundesliga Women,false
+20426,Iran - Super League,false
+20427,Italy - Coppa Italia A1 Women,false
+20428,Italy - Coppa Italia Superlega,false
+20429,Italy - Serie A1 Women,false
+20430,Italy - Superlega,false
+20431,Japan - SV League,false
+20432,Japan - SV League Women,false
+20433,Norway - NVBF,false
+20434,Philippines - PVL Women,false
+20435,Poland - PlusLiga,false
+20436,Russia - Superliga,false
+20437,Russia - Superliga Women,false
+20438,South Korea - V League,false
+20439,South Korea - V League Women,false
+20440,FIVB - World Championship Women,false
+20441,FIVB - World Championship,false
+20503,Brazil - Serie B,false
+20507,Bulgaria - Parva Liga,false
+20516,CONCACAF - Gold Cup,false
+20517,Wales - Cymru Premier,false
+20519,Costa Rica - Primera Division,false
+20520,Croatia - 1. HNL,false
+20524,Cyprus - First Division,false
+20529,Czech Republic - First League,false
+20531,Denmark - 1st Division,false
+20535,Ecuador - Serie A,false
+20538,Egypt - Premier League,false
+20540,England - Community Shield,false
+20543,England - League 2,false
+20549,Estonia - Premium Liig,false
+20555,COSAFA - Cup,false
+20558,FIFA - Intercontinental Cup,false
+20561,Georgia - Erovnuli Liga,false
+20563,Germany - Bundesliga 3,false
+20572,Hungary - NB I,false
+20578,Iceland - Besta Deild Karla,false
+20583,Indonesia - Liga 1,false
+20584,International - Club Friendlies,false
+20585,International - Friendlies,false
+20586,International - Friendlies Women,false
+20588,Ireland - Division 1,false
+20590,Ireland - Premier League,false
+20593,Israel - Premier League,false
+20595,Japan - J2 League,false
+20597,Japan - League Cup,false
+20600,Kazakhstan - Premier League,false
+20603,Korea - K1 League,false
+20604,Algeria - Ligue 1,false
+20612,Latvia - Virsliga,false
+20616,Lithuania - A Lyga,false
+20621,Malaysia - Super League,false
+20624,Malta - Premier League,false
+20634,Netherlands - Eerste Divisie,false
+20637,North America - Leagues Cup,false
+20639,Northern Ireland - Premiership,false
+20642,Norway - 1. Divisjon,false
+20649,Paraguay - Primera Division,false
+20651,Peru - Primera Division,false
+20656,Portugal - Liga 3,false
+20657,Portugal - Segunda Liga,false
+20658,Portugal - Super Cup,false
+20659,Qatar - Stars League,false
+20661,Romania - Liga I,false
+20662,Romania - Liga II,false
+20663,Russia - Cup,false
+20664,Russia - First League,false
+20669,Scotland - Championship,false
+20676,Singapore - Premier League,false
+20682,Slovenia - PrvaLiga,false
+20683,South Africa - Premier League,false
+20686,Sweden - Superettan,false
+20688,Switzerland - Challenge League,false
+20692,Turkey - 1. Lig,false
+20694,UAE - Pro League,false
+20702,USA - USL Championship,false
+20707,Uzbekistan - Super League,false
+20709,Vietnam - V League 1,false
+20712,UEFA - European Championship U21,false
+20713,UEFA - European Championship Women,false
+20714,Slovakia - Superliga,false
+20715,China - FA Cup,false
+20716,Netherlands - Super Cup,false
+20717,Ukraine - Premier League,false
+20718,Italy - Serie C,false
+20719,Japan - Emperor Cup,false
+20720,CONMEBOL - Copa Sudamericana,false
+20721,Bolivia - Division Professional,false
+20722,Venezuela - Primera Division,false
+20723,FIFA - Arab Nations Cup,false
+20724,CAF - Africa Cup of Nations,false
+20728,Spain - Primera Federacion,false
+20870,FINA - World Championship,false
+20871,FINA - World Championship Women,false
+29999,USA - The Golf League,false
