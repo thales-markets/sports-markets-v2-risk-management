@@ -363,6 +363,7 @@ sportId,sportName,sgpEnabled
 20524,Cyprus - First Division,true
 20529,Czech Republic - First League,true
 20531,Denmark - 1st Division,true
+20533,Denmark - DBU Pokalen,true
 20535,Ecuador - Serie A,true
 20538,Egypt - Premier League,true
 20540,England - Community Shield,true
@@ -394,6 +395,7 @@ sportId,sportName,sgpEnabled
 20637,North America - Leagues Cup,true
 20639,Northern Ireland - Premiership,true
 20642,Norway - 1. Divisjon,true
+20644,Norway - NM Cup,true
 20649,Paraguay - Primera Division,true
 20651,Peru - Primera Division,true
 20656,Portugal - Liga 3,true
