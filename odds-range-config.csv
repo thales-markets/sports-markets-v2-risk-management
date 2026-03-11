@@ -354,7 +354,7 @@ France - Ligue 1,12,11298,110,1000,Player Fouls Drawn
 France - Ligue 1,12,11299,110,1000,Player Goals + Assists
 France - Ligue 1,12,11300,110,1000,Player Offsides
 France - Ligue 1,12,11301,110,1000,Player Saves
-France - Ligue 1,12,11302,110,1000,Player To Score And Assist
+France - Ligue 1,12,11302,110,2000,Player To Score And Assist
 France - Ligue 1,12,11303,110,1000,Player To Score Or Assist
 France - Ligue 1,12,11234,110,1000,Anytime Card Receiver
 France - Ligue 1,12,11235,110,1000,Anytime Red Card Receiver
@@ -376,7 +376,7 @@ Germany - Bundesliga,13,11298,110,1000,Player Fouls Drawn
 Germany - Bundesliga,13,11299,110,1000,Player Goals + Assists
 Germany - Bundesliga,13,11300,110,1000,Player Offsides
 Germany - Bundesliga,13,11301,110,1000,Player Saves
-Germany - Bundesliga,13,11302,110,1000,Player To Score And Assist
+Germany - Bundesliga,13,11302,110,2000,Player To Score And Assist
 Germany - Bundesliga,13,11303,110,1000,Player To Score Or Assist
 Germany - Bundesliga,13,11234,110,1000,Anytime Card Receiver
 Germany - Bundesliga,13,11235,110,1000,Anytime Red Card Receiver
@@ -398,7 +398,7 @@ Spain - La Liga,14,11298,110,1000,Player Fouls Drawn
 Spain - La Liga,14,11299,110,1000,Player Goals + Assists
 Spain - La Liga,14,11300,110,1000,Player Offsides
 Spain - La Liga,14,11301,110,1000,Player Saves
-Spain - La Liga,14,11302,110,1000,Player To Score And Assist
+Spain - La Liga,14,11302,110,2000,Player To Score And Assist
 Spain - La Liga,14,11303,110,1000,Player To Score Or Assist
 Spain - La Liga,14,11234,110,1000,Anytime Card Receiver
 Spain - La Liga,14,11235,110,1000,Anytime Red Card Receiver
@@ -420,7 +420,7 @@ Italy - Serie A,15,11298,110,1000,Player Fouls Drawn
 Italy - Serie A,15,11299,110,1000,Player Goals + Assists
 Italy - Serie A,15,11300,110,1000,Player Offsides
 Italy - Serie A,15,11301,110,1000,Player Saves
-Italy - Serie A,15,11302,110,1000,Player To Score And Assist
+Italy - Serie A,15,11302,110,2000,Player To Score And Assist
 Italy - Serie A,15,11303,110,1000,Player To Score Or Assist
 Italy - Serie A,15,11234,110,1000,Anytime Card Receiver
 Italy - Serie A,15,11235,110,1000,Anytime Red Card Receiver
@@ -442,7 +442,7 @@ UEFA - Champions League,16,11298,110,1000,Player Fouls Drawn
 UEFA - Champions League,16,11299,110,1000,Player Goals + Assists
 UEFA - Champions League,16,11300,110,1000,Player Offsides
 UEFA - Champions League,16,11301,110,1000,Player Saves
-UEFA - Champions League,16,11302,110,1000,Player To Score And Assist
+UEFA - Champions League,16,11302,110,2000,Player To Score And Assist
 UEFA - Champions League,16,11303,110,1000,Player To Score Or Assist
 UEFA - Champions League,16,11234,110,1000,Anytime Card Receiver
 UEFA - Champions League,16,11235,110,1000,Anytime Red Card Receiver
@@ -464,7 +464,7 @@ UEFA - Europa League,17,11298,110,1000,Player Fouls Drawn
 UEFA - Europa League,17,11299,110,1000,Player Goals + Assists
 UEFA - Europa League,17,11300,110,1000,Player Offsides
 UEFA - Europa League,17,11301,110,1000,Player Saves
-UEFA - Europa League,17,11302,110,1000,Player To Score And Assist
+UEFA - Europa League,17,11302,110,2000,Player To Score And Assist
 UEFA - Europa League,17,11303,110,1000,Player To Score Or Assist
 UEFA - Europa League,17,11234,110,1000,Anytime Card Receiver
 UEFA - Europa League,17,11235,110,1000,Anytime Red Card Receiver
