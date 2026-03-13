@@ -1,5 +1,5 @@
 playerName,playerId,playerTeam,playerAbbreviationNames,isActive,comment
-Jayson Tatum,944B6D4B694A,Boston Celtics,Jayson Tatum;J. Tatum;J.Tatum;Tatum Jayson,false,injury whole season
+Jayson Tatum,944B6D4B694A,Boston Celtics,Jayson Tatum;J. Tatum;J.Tatum;Tatum Jayson,true,injury whole season
 Jaylen Brown,C7D85481029D,Boston Celtics,Jaylen Brown;J. Brown;J.Brown;Brown Jaylen,true,
 Kristaps Porzingis,FA629BAD3134,Golden State Warriors,Kristaps Porzingis;K. Porzingis;K.Porzingis;Porzingis Kristaps,true,
 Derrick White,55A30F7FC808,Boston Celtics,Derrick White;D. White;D.White;White Derrick,true,
@@ -21,7 +21,7 @@ Tobias Harris,BAF72287ADC1,Detroit Pistons,Tobias Harris;T. Harris;T.Harris;Harr
 Joel Embiid,0926C6680D09,Philadelphia 76ers,Joel Embiid;J. Embiid;J.Embiid;Embiid Joel,true,
 Kelly Oubre,1C69A2700F03,Philadelphia 76ers,Kelly Oubre;K. Oubre;K.Oubre;Oubre Kelly,true,
 Coby White,D915C3B82B04,Charlotte Hornets,Coby White;C. White;C.White;White Coby,true,
-Zach LaVine,C786E5C3CE0C,Sacramento Kings,Zach LaVine;Z. LaVine;Z.LaVine;LaVine Zach,true,
+Zach LaVine,C786E5C3CE0C,Sacramento Kings,Zach LaVine;Z. LaVine;Z.LaVine;LaVine Zach,false, out for season
 DeMar DeRozan,4B75CA28FA43,Sacramento Kings,DeMar DeRozan;D. DeRozan;D.DeRozan;DeRozan DeMar,true,
 Nikola Vucevic,A0D71A41A221,Boston Celtics,Nikola Vucevic;N. Vucevic;N.Vucevic;Vucevic Nikola,true,
 Darius Garland,580C5919659E,Los Angeles Clippers,Darius Garland;D. Garland;D.Garland;Garland Darius,true,
@@ -32,15 +32,15 @@ Jarrett Allen,57A9D1B7F567,Cleveland Cavaliers,Jarrett Allen;J. Allen;J.Allen;Al
 Cade Cunningham,72F133EEC33F,Detroit Pistons,Cade Cunningham;C. Cunningham;C.Cunningham;Cunningham Cade,true,
 Ausar Thompson,547F0B60B699,Detroit Pistons,Ausar Thompson;A. Thompson;A.Thompson;Thompson Ausar,true,
 Jalen Duren,8DC7D01E2795,Detroit Pistons,Jalen Duren;J. Duren;J.Duren;Duren Jalen,true,
-Tyrese Haliburton,5CB1BEE178F7,Indiana Pacers,Tyrese Haliburton;T. Haliburton;T.Haliburton;Haliburton Tyrese,true,
+Tyrese Haliburton,5CB1BEE178F7,Indiana Pacers,Tyrese Haliburton;T. Haliburton;T.Haliburton;Haliburton Tyrese,false, out for season
 Buddy Hield,B5AC032C6958,Atlanta Hawks,Buddy Hield;B. Hield;B.Hield;Hield Buddy,true,
 Myles Turner,B5AC032C6958,Milwaukee Bucks,Myles Turner;M. Turner;M.Turner;Turner Myles,true,
-Damian Lillard,36ADF58C91B6,Portland Trail Blazers,Damian Lillard;D. Lillard;D.Lillard;Lillard Damian,true,
+Damian Lillard,36ADF58C91B6,Portland Trail Blazers,Damian Lillard;D. Lillard;D.Lillard;Lillard Damian,false, out for season
 Khris Middleton,0B985F4C90D5,Dallas Mavericks,Khris Middleton;K. Middleton;K.Middleton;Middleton Khris,false,
 Giannis Antetokounmpo,DD8C4485A3FE,Milwaukee Bucks,Giannis Antetokounmpo;G. Antetokounmpo;G.Antetokounmpo;Antetokounmpo Giannis,true,
 Brook Lopez,B411AB68C551,Los Angeles Clippers,Brook Lopez;B. Lopez;B.Lopez;Lopez Brook,true,
 Jamal Murray,FFCA441A8182,Denver Nuggets,Jamal Murray;J. Murray;J.Murray;Murray Jamal,true,
-Kentavious Caldwell-Pope,E864EF4731AE,Memphis Grizzlies,Kentavious Caldwell-Pope;K. Caldwell-Pope;K.Caldwell-Pope;Caldwell-Pope Kentavious,true,
+Kentavious Caldwell-Pope,E864EF4731AE,Memphis Grizzlies,Kentavious Caldwell-Pope;K. Caldwell-Pope;K.Caldwell-Pope;Caldwell-Pope Kentavious,false, out for season
 Michael Porter Jr.,9FF8936053D5,Brooklyn Nets,Michael Porter Jr.;M. Porter Jr.;Jr. Michael Porter,true,
 Aaron Gordon,B1E5A70A859B,Denver Nuggets,Aaron Gordon;A. Gordon;A.Gordon;Gordon Aaron,true,
 Nikola Jokic,B0E86DA61165,Denver Nuggets,Nikola Jokic;N. Jokic;N.Jokic;Jokic Nikola,true,
@@ -71,10 +71,10 @@ Anthony Davis,1E0E533973C5,Washington Wizards,Anthony Davis;A. Davis;A.Davis;Dav
 Devin Booker,E43AC7A304CD,Phoenix Suns,Devin Booker;D. Booker;D.Booker;Booker Devin,true,
 Bradley Beal,868280A04E45,Los Angeles Clippers,Bradley Beal;B. Beal;B.Beal;Beal Bradley,true,
 Kevin Durant,223ECA567955,Houston Rockets,Kevin Durant;K. Durant;K.Durant;Durant Kevin,true,
-Jusuf Nurkic,4001629E2FBA,Utah Jazz,Jusuf Nurkic;J. Nurkic;J.Nurkic;Nurkic Jusuf,true,
+Jusuf Nurkic,4001629E2FBA,Utah Jazz,Jusuf Nurkic;J. Nurkic;J.Nurkic;Nurkic Jusuf,false, out for season
 DeAaron Fox,CDE39E7AD66F,San Antonio Spurs,DeAaron Fox;DeAaron;D.Fox;Fox DeAaron,true,
 Kevin Huerter,6238D8537CBE,Detroit Pistons,Kevin Huerter;K. Huerter;K.Huerter;Huerter Kevin,true,
-Domantas Sabonis,33D8BA719BE9,Sacramento Kings,Domantas Sabonis;D. Sabonis;D.Sabonis;Sabonis Domantas,true,
+Domantas Sabonis,33D8BA719BE9,Sacramento Kings,Domantas Sabonis;D. Sabonis;D.Sabonis;Sabonis Domantas,false, out for season
 Trae Young,2A95E890DFCB,Washington Wizards,Trae Young;T. Young;T.Young;Young Trae,true,
 Dejounte Murray,AFDA3EB48D8F,New Orleans Pelicans,Dejounte Murray;D. Murray;D.Murray;Murray Dejounte,true,
 DeAndre Hunter,A648F8E7D8B1,Sacramento Kings,DeAndre Hunter;D. Hunter;D.Hunter;Hunter DeAndre,true,
@@ -94,13 +94,13 @@ Jordan Poole,88CBA982B68D,Washington Wizards,Jordan Poole;J. Poole;J.Poole;Poole
 Deni Avdija,A516E172A7D9,Portland Trail Blazers,Deni Avdija;D. Avdija;D.Avdija;Avdija Deni,true,
 Kyle Kuzma,2F80F21FE649,Milwaukee Bucks,Kyle Kuzma;K. Kuzma;K.Kuzma;Kuzma Kyle,true,
 Luka Doncic,3E8718868C56,Los Angeles Lakers,Luka Doncic;L. Doncic;L.Doncic;Doncic Luka,true,
-Kyrie Irving,CA84EBF5F3D5,Dallas Mavericks,Kyrie Irving;K. Irving;K.Irving;Irving Kyrie,true,
+Kyrie Irving,CA84EBF5F3D5,Dallas Mavericks,Kyrie Irving;K. Irving;K.Irving;Irving Kyrie,false, out for season
 Tim Hardaway Jr.,426821300D3A,Denver Nuggets,Tim Hardaway Jr.;T. Hardaway Jr.;T.Hardaway Jr.;Hardaway Jr. Tim,false,irrelevant
 Grant Williams,F6201C6517BA,Charlotte Hornets,Grant Williams;G. Williams;G.Williams;Williams Grant,true,
 Ja Morant,8345BD10177C,Memphis Grizzlies,Ja Morant;J. Morant;J.Morant;Morant Ja,true,
 Marcus Smart,4FDE51CBB96C,Los Angeles Lakers,Marcus Smart;M. Smart;M.Smart;Smart Marcus,true,
 Desmond Bane,40B73A0755A8,Orlando Magic,Desmond Bane;D. Bane;D.Bane;Bane Desmond,true,
-Jaren Jackson Jr.,3806ED3C1BC0,Utah Jazz,Jaren Jackson Jr.;J. Jackson Jr.;J.Jackson Jr.;Jackson Jr. Jaren,true,
+Jaren Jackson Jr.,3806ED3C1BC0,Utah Jazz,Jaren Jackson Jr.;J. Jackson Jr.;J.Jackson Jr.;Jackson Jr. Jaren,false, out for season
 Fred VanVleet,E2C232BD8D0C,Houston Rockets,Fred VanVleet;F. VanVleet;F.VanVleet;VanVleet Fred,true,
 Jalen Green,E048E98EDFB9,Phoenix Suns,Jalen Green;J. Green;J.Green;Green Jalen,true,
 Alperen Sengun,C4ABEA8F1F92,Houston Rockets,Alperen Sengun;A. Sengun;A.Sengun;Sengun Alperen,true,
@@ -113,7 +113,7 @@ Keldon Johnson,F34EFECEA2DA,San Antonio Spurs,Keldon Johnson;K. Johnson;K.Johnso
 Victor Wembanyama,ECE70FF020E8,San Antonio Spurs,Victor Wembanyama;V. Wembanyama;V.Wembanyama;Wembanyama Victor,true,
 Zaccharie Risacher,049B69022842,Atlanta Hawks,Zaccharie Risacher;Z. Risacher;Z.Risacher;Risacher Zaccharie,true,
 Alex Sarr,88E87BF2A103,Washington Wizards,Alex Sarr;A. Sarr;A.Sarr;Sarr Alex,true,
-Zach Edey,1F1924E8CD2E,Memphis Grizzlies,Zach Edey;Z. Edey;Z.Edey;Edey Zach,true,
+Zach Edey,1F1924E8CD2E,Memphis Grizzlies,Zach Edey;Z. Edey;Z.Edey;Edey Zach,false, out for season
 Reed Sheppard,11A10E43F913,Houston Rockets,Reed Sheppard;R. Sheppard;R.Sheppard;Sheppard Reed,true,
 Cooper Flagg,88DE1427AED167C6,Dallas Mavericks,Cooper Flagg;C. Flagg;C.Flagg;Flagg Cooper,true,
 Stephon Castle,69245BA7CCBE,San Antonio Spurs,Stephon Castle;S. Castle;S.Castle;Castle Stephon,true,
